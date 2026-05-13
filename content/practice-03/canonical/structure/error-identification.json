@@ -1,0 +1,1298 @@
+{
+  "practice_id": "P03",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P03-ST-16",
+      "source_number": 16,
+      "prompt": "Carl Anderson discovered(A) two atomic particles(B) that he identified(C) while studied(D) cosmic rays.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Carl Anderson ",
+          "underlined": false
+        },
+        {
+          "text": "discovered",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " two atomic ",
+          "underlined": false
+        },
+        {
+          "text": "particles",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " that he ",
+          "underlined": false
+        },
+        {
+          "text": "identified",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " while ",
+          "underlined": false
+        },
+        {
+          "text": "studied",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " cosmic rays.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-17",
+      "source_number": 17,
+      "prompt": "No one knows(A) exactly how many species(B) of animals(C) lives(D) on earth.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "No one ",
+          "underlined": false
+        },
+        {
+          "text": "knows",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " exactly how many ",
+          "underlined": false
+        },
+        {
+          "text": "species",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "animals",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "lives",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " on earth.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-18",
+      "source_number": 18,
+      "prompt": "Assessment instruments in nursery schools they feature(A) items and other materials(B) different from those(C) on elementary school tests(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Assessment instruments in nursery schools ",
+          "underlined": false
+        },
+        {
+          "text": "they feature",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " items and ",
+          "underlined": false
+        },
+        {
+          "text": "other materials",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " different ",
+          "underlined": false
+        },
+        {
+          "text": "from those",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " on elementary ",
+          "underlined": false
+        },
+        {
+          "text": "school tests",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-19",
+      "source_number": 19,
+      "prompt": "Michigan's rivers, inlets, and lakes(A) attract tourists who derive(B) pleasure from canoeing(C) and water-ski(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Michigan's rivers, inlets,",
+          "underlined": false
+        },
+        {
+          "text": " and lakes",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " attract tourists ",
+          "underlined": false
+        },
+        {
+          "text": "who derive",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " pleasure ",
+          "underlined": false
+        },
+        {
+          "text": "from canoeing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "water-ski",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-20",
+      "source_number": 20,
+      "prompt": "Analysts have translated(A) clay tables that(B) demonstrate that the(C) Babylonians were high skilled(D) in arithmetic.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Analysts ",
+          "underlined": false
+        },
+        {
+          "text": "have translated",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " clay ",
+          "underlined": false
+        },
+        {
+          "text": "tables that",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " demonstrate ",
+          "underlined": false
+        },
+        {
+          "text": "that the",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " Babylonians were ",
+          "underlined": false
+        },
+        {
+          "text": "high skilled",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in arithmetic.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-21",
+      "source_number": 21,
+      "prompt": "The visual nerves of(A) the brain interprets(B) wavelengths(C) of light as(D) perceptions of color.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The visual ",
+          "underlined": false
+        },
+        {
+          "text": "nerves of",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " the brain ",
+          "underlined": false
+        },
+        {
+          "text": "interprets",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "wavelengths",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "light as",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " perceptions of color.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-22",
+      "source_number": 22,
+      "prompt": "It is(A) possible to have wealth but little()B income and having(C) income but no wealth(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "It is",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " possible to have wealth but ",
+          "underlined": false
+        },
+        {
+          "text": "little()B",
+          "underlined": true,
+          "marker": ""
+        },
+        {
+          "text": " income and ",
+          "underlined": false
+        },
+        {
+          "text": "having",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " income but ",
+          "underlined": false
+        },
+        {
+          "text": "no wealth",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-23",
+      "source_number": 23,
+      "prompt": "When a criminal case goes to trial(A), the defendant may election(B) to have it heard either(C) by a jury or by a judge(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "When a criminal case goes to ",
+          "underlined": false
+        },
+        {
+          "text": "trial",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", the defendant may ",
+          "underlined": false
+        },
+        {
+          "text": "election",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " to have it heard ",
+          "underlined": false
+        },
+        {
+          "text": "either",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " by a jury or by ",
+          "underlined": false
+        },
+        {
+          "text": "a judge",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-24",
+      "source_number": 24,
+      "prompt": "John Keynes used(A) his knowledges(B) of economics to help(C) his college and himself(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "John Keynes ",
+          "underlined": false
+        },
+        {
+          "text": "used",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " his ",
+          "underlined": false
+        },
+        {
+          "text": "knowledges",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " of economics to ",
+          "underlined": false
+        },
+        {
+          "text": "help",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " his college and ",
+          "underlined": false
+        },
+        {
+          "text": "himself",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-25",
+      "source_number": 25,
+      "prompt": "Government offices store(A) and maintain such documents(B) as certificates of birth, married(C), and death(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Government ",
+          "underlined": false
+        },
+        {
+          "text": "offices store",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " and maintain ",
+          "underlined": false
+        },
+        {
+          "text": "such documents",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " as certificates of birth, ",
+          "underlined": false
+        },
+        {
+          "text": "married",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "text": "death",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-26",
+      "source_number": 26,
+      "prompt": "After the(A) Constitution was signed(B), Delaware became the first(C) state to ratifying(D) it.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "After the",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " Constitution was ",
+          "underlined": false
+        },
+        {
+          "text": "signed",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", Delaware became ",
+          "underlined": false
+        },
+        {
+          "text": "the first",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " state to ",
+          "underlined": false
+        },
+        {
+          "text": "ratifying",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " it.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-27",
+      "source_number": 27,
+      "prompt": "Migrant workers live(A) in substandard(B) unsanitary(C), and dilapidated housing and often are lacking(D) medical care.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Migrant ",
+          "underlined": false
+        },
+        {
+          "text": "workers live",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "text": "substandard",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "unsanitary",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and dilapidated housing and often ",
+          "underlined": false
+        },
+        {
+          "text": "are lacking",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " medical care.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-28",
+      "source_number": 28,
+      "prompt": "The mining(A) of minerals often bring about(B) the destruction(C) of landscapes and wildlife(D) habitats.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The ",
+          "underlined": false
+        },
+        {
+          "text": "mining",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of minerals often ",
+          "underlined": false
+        },
+        {
+          "text": "bring about",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "the destruction",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of landscapes and ",
+          "underlined": false
+        },
+        {
+          "text": "wildlife",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " habitats.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-29",
+      "source_number": 29,
+      "prompt": "Christopher Marlowe established(A) his theatrical(B) reputation with Tamburlaine the Great, written(C) in high verse and reflected(D) his unconventional thought.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Christopher Marlowe ",
+          "underlined": false
+        },
+        {
+          "text": "established",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " his ",
+          "underlined": false
+        },
+        {
+          "text": "theatrical",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " reputation with Tamburlaine the Great, ",
+          "underlined": false
+        },
+        {
+          "text": "written",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " in high verse and ",
+          "underlined": false
+        },
+        {
+          "text": "reflected",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " his unconventional thought.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-30",
+      "source_number": 30,
+      "prompt": "William H. Bonney, better known(A) as Billy the Kid, shoot a man(B) to death in a quarrel(C) and had to flee(D) to New Mexico.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "William H . Bonney, ",
+          "underlined": false
+        },
+        {
+          "text": "better known",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " as Billy the Kid, ",
+          "underlined": false
+        },
+        {
+          "text": "shoot a man",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "death in a quarrel",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "had to flee",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " to New Mexico.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-31",
+      "source_number": 31,
+      "prompt": "Foxes stay in closely knit(A) family groups while the(B) young ones(C) are grow up(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Foxes stay in ",
+          "underlined": false
+        },
+        {
+          "text": "closely knit",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " family groups ",
+          "underlined": false
+        },
+        {
+          "text": "while the",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "young ones",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " are ",
+          "underlined": false
+        },
+        {
+          "text": "grow up",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-32",
+      "source_number": 32,
+      "prompt": "By 1938, the sale(A) of records album(B) had reached(C) $26 million(D) a year.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "By 1938, the ",
+          "underlined": false
+        },
+        {
+          "text": "sale",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "records album",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "had reached",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " $26 ",
+          "underlined": false
+        },
+        {
+          "text": "million",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " a year.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-33",
+      "source_number": 33,
+      "prompt": "Egyptian artisans made(A) glass that was colored(B) by the present(C) of impurities(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Egyptian artisans ",
+          "underlined": false
+        },
+        {
+          "text": "made",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " glass that was ",
+          "underlined": false
+        },
+        {
+          "text": "colored",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " by the ",
+          "underlined": false
+        },
+        {
+          "text": "present",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "impurities",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-34",
+      "source_number": 34,
+      "prompt": "A theory called(A) plate tectonics explain(B) the formation(C) of the surface features(D) of the earth.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "A theory ",
+          "underlined": false
+        },
+        {
+          "text": "called",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " plate tectonics ",
+          "underlined": false
+        },
+        {
+          "text": "explain",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "formation",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of the surface ",
+          "underlined": false
+        },
+        {
+          "text": "features",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " of the earth.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-35",
+      "source_number": 35,
+      "prompt": "Members of high school(A) clubs learn to participation(B) in teams through their involvement(C) in community projects(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Members of ",
+          "underlined": false
+        },
+        {
+          "text": "high school",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " clubs learn to ",
+          "underlined": false
+        },
+        {
+          "text": "participation",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in teams through their ",
+          "underlined": false
+        },
+        {
+          "text": "involvement",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "text": "community projects",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-36",
+      "source_number": 36,
+      "prompt": "When too many(A) firms enter competitive(B) markets, their share of profits(C) will fell(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "When ",
+          "underlined": false
+        },
+        {
+          "text": "too many",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " firms enter ",
+          "underlined": false
+        },
+        {
+          "text": "competitive",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " markets, their share ",
+          "underlined": false
+        },
+        {
+          "text": "of profits",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "will fell",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-37",
+      "source_number": 37,
+      "prompt": "The term \"middle class\" describes(A) people between(B) the upper and the low(C) social(D) classes.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The term \"middle class\" ",
+          "underlined": false
+        },
+        {
+          "text": "describes",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " people ",
+          "underlined": false
+        },
+        {
+          "text": "between",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the upper and ",
+          "underlined": false
+        },
+        {
+          "text": "the low",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "social",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " classes.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-38",
+      "source_number": 38,
+      "prompt": "Copper comes from seven types(A) of ores(B) that also contain(C) the other(D) materials.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Copper comes from seven ",
+          "underlined": false
+        },
+        {
+          "text": "types",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "ores",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " that ",
+          "underlined": false
+        },
+        {
+          "text": "also contain",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "the other",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " materials.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-39",
+      "source_number": 39,
+      "prompt": "Matthew Henson received(A) many honor(B) for his part(C) in the expedition(D) to the North Pole.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Matthew Henson ",
+          "underlined": false
+        },
+        {
+          "text": "received",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " many ",
+          "underlined": false
+        },
+        {
+          "text": "honor",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " for ",
+          "underlined": false
+        },
+        {
+          "text": "his part",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "text": "the expedition",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " to the North Pole.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P03-ST-40",
+      "source_number": 40,
+      "prompt": "Silicon chips contain thousands(A) of circuits(B) in an area as smaller(C) than a fingernail(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Silicon chips contain ",
+          "underlined": false
+        },
+        {
+          "text": "thousands",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "circuits",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in an area ",
+          "underlined": false
+        },
+        {
+          "text": "as smaller",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " than ",
+          "underlined": false
+        },
+        {
+          "text": "a fingernail",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

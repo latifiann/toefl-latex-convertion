@@ -1,0 +1,225 @@
+{
+  "practice_id": "P01",
+  "section": "reading",
+  "passage_id": "P01-RC-04",
+  "source_question_range": [
+    33,
+    42
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "When parchment, which was extraordinarily costly, was replaced by papyrus, it became"
+    },
+    {
+      "line": 2,
+      "text": "feasible to establish libraries. At the onset, they began as archives for record keeping and"
+    },
+    {
+      "line": 3,
+      "text": "document storage. According to second-hand reports, the most renowned papyrus library"
+    },
+    {
+      "line": 4,
+      "text": "Line was the Alexandrian, founded by Alexander the Great around 330 B.C. in Alexandria, Egypt."
+    },
+    {
+      "line": 5,
+      "text": "His successors as rulers of Egypt, Ptolemy I and Ptolemy II, expanded the library into the"
+    },
+    {
+      "line": 6,
+      "text": "greatest collection of scrolls in the ancient world. To acquire this collection, the rulers bor-"
+    },
+    {
+      "line": 7,
+      "text": "rowed scrolls and manuscripts from libraries in Athens, Rome, and other localities and or-"
+    },
+    {
+      "line": 8,
+      "text": "dered them duplicated. At times, the library employed more than 100 scribes and illustra-"
+    },
+    {
+      "line": 9,
+      "text": "tors. Some historians claim that the Alexandrian library purchased entire lesser libraries to"
+    },
+    {
+      "line": 10,
+      "text": "contribute to and enhance the quality of its possessions."
+    },
+    {
+      "line": 11,
+      "text": "The library owned a copy of every contemporary scroll known to the library's administra-"
+    },
+    {
+      "line": 12,
+      "text": "tors and contained more than 400,000 items, all of which were classified and organized. The"
+    },
+    {
+      "line": 13,
+      "text": "contents of the papyrus rolls were edited, and a bibliography of Greek literature was com-"
+    },
+    {
+      "line": 14,
+      "text": "piled and cross-referenced, reflecting the emergence and dissemination of a highly devel-"
+    },
+    {
+      "line": 15,
+      "text": "oped Greek culture. Over time, a succession of leading scholars directed this library, which"
+    },
+    {
+      "line": 16,
+      "text": "was acclaimed for the scholarly undertakings it supported as well as for the size of its collec-"
+    },
+    {
+      "line": 17,
+      "text": "tion. At one time, 72 scholars were engaged to translate religious testaments, historical an-"
+    },
+    {
+      "line": 18,
+      "text": "nals, and mercantile accounts. Although the library flourished, it was accessible to only a"
+    },
+    {
+      "line": 19,
+      "text": "minority of the population because in ancient times the vast majority of urban dwellers were."
+    },
+    {
+      "line": 20,
+      "text": "illiterate. Because papyrus was extremely perishable, not a trace of the Alexandrian library"
+    },
+    {
+      "line": 21,
+      "text": "remains today, and archaeologists have several hypotheses as to what became of it."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 10
+    },
+    {
+      "start": 11,
+      "end": 21
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-RC-04-Q01",
+      "source_number": 33,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "The use of papyrus in ancient scroll collections",
+        "B": "The origin an d history of a library",
+        "C": "The cultural initiatives of Alexander the Great",
+        "D": "The expansion of libraries in ancient times"
+      }
+    },
+    {
+      "id": "P01-RC-04-Q02",
+      "source_number": 34,
+      "prompt": "In line 2, the word \"feasible\" is closest in meaning to",
+      "choices": {
+        "A": "practicable",
+        "B": "easy",
+        "C": "prestigious",
+        "D": "ebullient"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P01-RC-04-Q03",
+      "source_number": 35,
+      "prompt": "It can be inferred from the passage that reports of the Alexandrian library",
+      "choices": {
+        "A": "were highly exaggerated",
+        "B": "could not be verified",
+        "C": "were secondary in importance",
+        "D": "could not be made known"
+      }
+    },
+    {
+      "id": "P01-RC-04-Q04",
+      "source_number": 36,
+      "prompt": "The author of the passage implies that the rulers of Egypt",
+      "choices": {
+        "A": "oversaw the expansion of the library directly",
+        "B": "devoted funds and other resources to the library collections",
+        "C": "sought to make the library self-contained",
+        "D": "marshaled worldwide support for the library collections"
+      }
+    },
+    {
+      "id": "P01-RC-04-Q05",
+      "source_number": 37,
+      "prompt": "According to the passage, the main goal of the library in Alexandria was",
+      "choices": {
+        "A": "collecting scrolls loaned by other libraries",
+        "B": "gradually replacing papyrus with parchment",
+        "C": "translating scrolls in ancient Egypt and Greece",
+        "D": "accumulating translations and originals of texts"
+      }
+    },
+    {
+      "id": "P01-RC-04-Q06",
+      "source_number": 38,
+      "prompt": "In the second paragraph, the author. implies that",
+      "choices": {
+        "A": "parchment was more durable than books",
+        "B": "libraries were necessary to conduct research",
+        "C": "the library collection cannot be examined",
+        "D": "the library was historically relevant"
+      }
+    },
+    {
+      "id": "P01-RC-04-Q07",
+      "source_number": 39,
+      "prompt": "With which of the following statements about Greek literature is the author of the passage most likely to agree?",
+      "choices": {
+        "A": "It was nurtured in libraries in Athens and Rome.",
+        "B": "It was integral to Greek culture.",
+        "C": "It was compiled and cross-referenced in the library.",
+        "D": "It was beginning to emerge when the library was expanded."
+      }
+    },
+    {
+      "id": "P01-RC-04-Q08",
+      "source_number": 40,
+      "prompt": "In line 15, the word \"succession\" is closest in meaning to",
+      "choices": {
+        "A": "series",
+        "B": "success",
+        "C": "sundry",
+        "D": "substitution"
+      },
+      "referenced_lines": {
+        "start": 15,
+        "end": 15
+      }
+    },
+    {
+      "id": "P01-RC-04-Q09",
+      "source_number": 41,
+      "prompt": "It can be inferred from the passage that in ancient times",
+      "choices": {
+        "A": "books and scrolls were updated regularly",
+        "B": "libraries benefited upper social classes",
+        "C": "maintaining collections was fruitless",
+        "D": "the population should have been educated"
+      }
+    },
+    {
+      "id": "P01-RC-04-Q10",
+      "source_number": 42,
+      "prompt": "In the last sentence, the phrase \"not a trace\" most probably means",
+      "choices": {
+        "A": "absolutely no one",
+        "B": "absolutely nothing",
+        "C": "not a penny",
+        "D": "not a soul"
+      }
+    }
+  ]
+}

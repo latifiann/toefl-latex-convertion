@@ -1,0 +1,9 @@
+# Passage 04
+
+
+
+Source question range: 33-42
+
+
+
+When parchment, which was extraordinarily costly, was replaced by papyrus, it became feasible to establish libraries. At the onset, they began as archives for record keeping and document storage. According to second-hand reports, the most renowned papyrus library Line was the Alexandrian, founded by Alexander the Great around 330 B.C. in Alexandria, Egypt. His successors as rulers of Egypt, Ptolemy I and Ptolemy II, expanded the library into the greatest collection of scrolls in the ancient world. To acquire this collection, the rulers borrowed scrolls and manuscripts from libraries in Athens, Rome, and other localities and ordered them duplicated. At times, the library employed more than 100 scribes and illustrators. Some historians claim that the Alexandrian library purchased entire lesser libraries to contribute to and enhance the quality of its possessions. The library owned a copy of every contemporary scroll known to the library's administrators and contained more than 400,000 items, all of which were classified and organized. The, contents of the papyrus rolls were edited, and a bibliography of Greek literature was compiled and cross-referenced, reflecting the emergence and dissemination of a highly developed Greek culture. Over time, a succession of leading scholars directed this library, which was acclaimed for the scholarly undertakings it supported as well as for the size of its collection. At one time, 72 scholars were engaged to translate religious testaments, historical annals, and mercantile accounts. Although the library flourished, it was accessible to only a minority of the population because in ancient times the vast majority of urban dwellers were. illiterate. Because papyrus was extremely perishable, not a trace of the Alexandrian library remains today, and archaeologists have several hypotheses as to what became of it.

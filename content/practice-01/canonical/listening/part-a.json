@@ -1,0 +1,324 @@
+{
+  "practice_id": "P01",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P01-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "Mike shouldn't skip classes and borrow notes.",
+        "B": "Mike always borrows notes from his classmates.",
+        "C": "Mike is least likely to skip classes.",
+        "D": "Mike needs to get the material taught in class."
+      }
+    },
+    {
+      "id": "P01-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "The office is closed for the day.",
+        "B": "The officer will return in the morning.",
+        "C": "There is an opening at 9 tomorrow morning.",
+        "D": "The office is open until 9 o'clock."
+      }
+    },
+    {
+      "id": "P01-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "She is sorry that she ordered that salad.",
+        "B": "She didn't get the salad she ordered.",
+        "C": "She is sorry, but this salad is not hers.",
+        "D": "This salad does not taste very good."
+      }
+    },
+    {
+      "id": "P01-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "Did Mr. Calvert say something about his back?",
+        "B": "Did Mr. Calvert say when he is planning to return?",
+        "C": "Mr. Calvert forgot it's time for him to come back.",
+        "D": "Mr. Calvert said he isn't going to come back."
+      }
+    },
+    {
+      "id": "P01-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "The library sells books and postcards.",
+        "B": "Postcards are available to library users.",
+        "C": "You need to have a card to have your books sent.",
+        "D": "The library will let you know when the book arrives."
+      }
+    },
+    {
+      "id": "P01-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "He does not know how to cook.",
+        "B": "He had dinner at a restaurant.",
+        "C": "He doesn't like to stand while cooking.",
+        "D": "He went shopping and then had dinner."
+      }
+    },
+    {
+      "id": "P01-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "Students are permitted to use bikes.",
+        "B": "Students with bikes are counted regularly.",
+        "C": "Permits for bikes are available.",
+        "D": "Bikes can be purchased next door."
+      }
+    },
+    {
+      "id": "P01-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "They haven't told him when to turn in the paper.",
+        "B": "They told him when the assignment is due, but he forgot.",
+        "C": "He wishes they would tell him where to pay the dues.",
+        "D": "He wanted to tell them when to turn in the assignment."
+      }
+    },
+    {
+      "id": "P01-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "The garbage can be stored in the garage.",
+        "B": "The driver is parking in the garage.",
+        "C": "The driver crashed into the garage.",
+        "D": "The garbage can was near the garage."
+      }
+    },
+    {
+      "id": "P01-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "Joan didn't hear the first half of the speech.",
+        "B": "Joan heard nothing from half of the speakers.",
+        "C": "Half of the people in the room did not hear the speaker.",
+        "D": "The speaker did not speak loudly enough."
+      }
+    },
+    {
+      "id": "P01-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "On campus, your phone can be hooked up only once.",
+        "B": "Campus calls can't be made from your phone.",
+        "C": "You cannot call off campus until your phone is connected.",
+        "D": "You can't call collect unless you live on campus."
+      }
+    },
+    {
+      "id": "P01-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "The drug store sells toothpaste.",
+        "B": "Drugstores used to sell toothpaste.",
+        "C": "The drugstore does not have toothpaste.",
+        "D": "Toothpaste and drugs are sold everywhere."
+      }
+    },
+    {
+      "id": "P01-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "The truck on your right has no ticket.",
+        "B": "If you buy a ticket, you can pass the driving test.",
+        "C": "Passing on the right is against the law.",
+        "D": "Trucks get tickets for passing, but cars don't."
+      }
+    },
+    {
+      "id": "P01-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "He didn't travel to college.",
+        "B": "He didn't attend college.",
+        "C": "He didn't go to school.",
+        "D": "He didn't want to go far."
+      }
+    },
+    {
+      "id": "P01-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "Students don't read their instructor's forms.",
+        "B": "If students can't read, they can't fill out forms.",
+        "C": "Most students ignore the directions on paperwork.",
+        "D": "Most forms for students don't have instructions."
+      }
+    },
+    {
+      "id": "P01-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "The movie theater is around the corner.",
+        "B": "The movie theater is to your left.",
+        "C": "The movie theater is a mile away.",
+        "D": "The next turn is by the movie theater."
+      }
+    },
+    {
+      "id": "P01-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "Julie's courses are full and closed.",
+        "B": "Julie is carrying a bag full of books.",
+        "C": "Julie can't carry all these courses.",
+        "D": "Julie is enrolled as a full-time student."
+      }
+    },
+    {
+      "id": "P01-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "Everyone who went on the trip fell.",
+        "B": "The trip was not well attended.",
+        "C": "The trip was hard to make in one day.",
+        "D": "Many students tripped and fell."
+      }
+    },
+    {
+      "id": "P01-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "Neither team won.",
+        "B": "Men swim better than women.",
+        "C": "Did the men's team win?",
+        "D": "Is Tim the head of the team?"
+      }
+    },
+    {
+      "id": "P01-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "She had a good chance to see the report.",
+        "B": "Chances are she was looking at a reporter.",
+        "C": "Has this report been changed yet?",
+        "D": "Has she had time to read the report?"
+      }
+    },
+    {
+      "id": "P01-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "The weather is unpredictable.",
+        "B": "Rain is predicted for today.",
+        "C": "She heard the weather report.",
+        "D": "This year, it's been raining often."
+      }
+    },
+    {
+      "id": "P01-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "At a police station",
+        "B": "At a doctor's office",
+        "C": "In a car repair shop",
+        "D": "In an insurance agency"
+      }
+    },
+    {
+      "id": "P01-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "A house-cleaning business",
+        "B": "A plumbing company",
+        "C": "A lawn service",
+        "D": "An electrical supply store"
+      }
+    },
+    {
+      "id": "P01-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "Finish her classes",
+        "B": "Look for a job",
+        "C": "Write a paper",
+        "D": "Take a break"
+      }
+    },
+    {
+      "id": "P01-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "Over to the next street",
+        "B": "For dinner at a shop",
+        "C": "To a cafe",
+        "D": "For a walk"
+      }
+    },
+    {
+      "id": "P01-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "The move in hot weather was costly.",
+        "B": "The woman must have moved too soon.",
+        "C": "A new heater must have been expensive.",
+        "D": "The water heater never worked well."
+      }
+    },
+    {
+      "id": "P01-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "They don't need new computers at this time.",
+        "B": "They don't have much time to work with new computers.",
+        "C": "The computers should have been replaced much earlier.",
+        "D": "The timing for replacing computers is about right."
+      }
+    },
+    {
+      "id": "P01-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "She can come on another day, but not tomorrow.",
+        "B": "She can see the man in three days.",
+        "C": "She is thirsty and needs some water.",
+        "D": "She doesn't know how to help the man."
+      }
+    },
+    {
+      "id": "P01-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "The man needs change for a vending machine.",
+        "B": "The man will break expensive equipment.",
+        "C": "The man shouldn't spend his money at the bar.",
+        "D": "The man shouldn't give her candy."
+      }
+    },
+    {
+      "id": "P01-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "On the street",
+        "B": "In the car",
+        "C": "In a warehouse",
+        "D": "At a grocery store."
+      }
+    }
+  ]
+}

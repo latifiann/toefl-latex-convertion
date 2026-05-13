@@ -1,0 +1,1066 @@
+{
+  "practice_id": "P01",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P01-RC-01-Q01",
+      "passage_id": "P01-RC-01",
+      "source_number": 1,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        },
+        {
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "Charles Lindbergh was born in Detroit, Michigan, in 1902... Embarking on the greatest adventure of his time, Lindbergh left Roosevelt Field...",
+      "rationale_id": "Isi passage berbentuk ringkasan hidup dan pencapaian Lindbergh; judul terbaik menekankan biografinya.",
+      "rationale_en": "The passage summarizes Lindbergh's life and achievements, so a biographical title fits best.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q02",
+      "passage_id": "P01-RC-01",
+      "source_number": 2,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "the young man was seeking more challenging endeavors, and two years later he became a stunt pilot",
+      "rationale_id": "Ia meninggalkan studi karena memilih jadi stunt pilot (exhibition pilot).",
+      "rationale_en": "He left his studies to become a stunt (exhibition) pilot.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q03",
+      "passage_id": "P01-RC-01",
+      "source_number": 3,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "public assemblies",
+      "rationale_id": "Assemblies di konteks ini berarti kumpulan orang: gatherings.",
+      "rationale_en": "Here assemblies refers to gatherings.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q04",
+      "passage_id": "P01-RC-01",
+      "source_number": 4,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "became a stunt pilot who performed feats... This unusual and dangerous undertaking",
+      "rationale_id": "Undertaking merujuk pada aksi stunt pilot yang melakukan feats.",
+      "rationale_en": "Undertaking refers to his performing feats as a stunt pilot.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q05",
+      "passage_id": "P01-RC-01",
+      "source_number": 5,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "paid off handsomely",
+      "rationale_id": "Handsomely di sini bermakna with good results: well.",
+      "rationale_en": "Here handsomely means well (with good results).",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q06",
+      "passage_id": "P01-RC-01",
+      "source_number": 6,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "completed his program... at the top of his class",
+      "rationale_id": "Top of his class menunjukkan ia yang terbaik di antara cadet lain.",
+      "rationale_en": "Being at the top of his class implies he was the best among students.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q07",
+      "passage_id": "P01-RC-01",
+      "source_number": 7,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "employment as a mail pilot to run the routes between St. Louis and Chicago",
+      "rationale_id": "Menjalankan rute antarkota berarti penerbangan reguler antar kota.",
+      "rationale_en": "Running routes between cities implies regular intercity flights.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q08",
+      "passage_id": "P01-RC-01",
+      "source_number": 8,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "irreversibly change his life",
+      "rationale_id": "Irreversibly berarti forever.",
+      "rationale_en": "Irreversibly means forever.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q09",
+      "passage_id": "P01-RC-01",
+      "source_number": 9,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 1
+        },
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "born in Detroit, Michigan, in 1902... on May 20, 1927",
+      "rationale_id": "Dari 1902 ke 1927 = 25 tahun, jadi umur sekitar 25.",
+      "rationale_en": "From 1902 to 1927 is 25 years, so he was about 25.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q10",
+      "passage_id": "P01-RC-01",
+      "source_number": 10,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 23
+        }
+      ],
+      "evidence_quote": "he would be unknown when he arrived... overwhelmed by tremendous welcoming crowds",
+      "rationale_id": "Ia mengira akan tidak dikenal; jadi ia tidak mengantisipasi jadi selebritas.",
+      "rationale_en": "He expected to be unknown, so he did not anticipate celebrity.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q11",
+      "passage_id": "P01-RC-01",
+      "source_number": 11,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "This unusual and dangerous undertaking",
+      "rationale_id": "Stunt pilot dianggap tidak biasa, jadi exhibition tours bukan hal umum.",
+      "rationale_en": "The stunt-pilot work is described as unusual, so exhibition tours were not common.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-01-Q12",
+      "passage_id": "P01-RC-01",
+      "source_number": 12,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "overwhelmed by tremendous welcoming crowds... decorated in France, Great Britain, and Belgium",
+      "rationale_id": "Paragraf berikutnya kemungkinan membahas dampak celebrity instan pada Lindbergh.",
+      "rationale_en": "The next paragraph would likely address the effects of his instant celebrity.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q01",
+      "passage_id": "P01-RC-02",
+      "source_number": 13,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "Lithography is a planographic process... the artist draws... the surface is covered with thick, oily ink and pressed onto paper",
+      "rationale_id": "Passage menjelaskan langkah-langkah teknik lithography, jadi fokusnya proses pembuatan impresi.",
+      "rationale_en": "The passage outlines the steps of lithography, so it focuses on the technique for making impressions.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q02",
+      "passage_id": "P01-RC-02",
+      "source_number": 14,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "water does not combine with grease-based substances",
+      "rationale_id": "Prinsip utama lithography: minyak/grease tidak bercampur dengan air.",
+      "rationale_en": "Lithography relies on the fact that grease and water do not mix.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q03",
+      "passage_id": "P01-RC-02",
+      "source_number": 15,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "contour",
+      "rationale_id": "Contour berarti outline.",
+      "rationale_en": "Contour means outline.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q04",
+      "passage_id": "P01-RC-02",
+      "source_number": 16,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "leveled, grainy plate",
+      "rationale_id": "Leveled berarti diratakan/flattened.",
+      "rationale_en": "Leveled means flattened.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q05",
+      "passage_id": "P01-RC-02",
+      "source_number": 17,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "The gum arabic envelops the greased surfaces",
+      "rationale_id": "Envelops berarti coats.",
+      "rationale_en": "Envelops means coats.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q06",
+      "passage_id": "P01-RC-02",
+      "source_number": 18,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "pressed onto paper. The sheet picks up the ink from the design",
+      "rationale_id": "Kertas mengambil ink dari desain pada plate, jadi absorbs/picks up.",
+      "rationale_en": "The paper picks up ink from the design on the plate.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q07",
+      "passage_id": "P01-RC-02",
+      "source_number": 19,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "contour does not need to be engraved... or raised above the surface",
+      "rationale_id": "Keunggulan dibanding gravure/letterpress disebut di baris 3-5.",
+      "rationale_en": "The advantage over other printing methods is noted in lines 3-5.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q08",
+      "passage_id": "P01-RC-02",
+      "source_number": 20,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "offset lithography... rotary presses automatically moisten, ink, and print",
+      "rationale_id": "Setelah offset lithography dibahas, paragraf berikutnya kemungkinan perkembangan teknologi offset.",
+      "rationale_en": "After introducing offset lithography, a follow-up would likely discuss technological advancements.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-02-Q09",
+      "passage_id": "P01-RC-02",
+      "source_number": 21,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "print hundreds of impressions per hour",
+      "rationale_id": "Impressions di sini berarti hasil cetak/reproductions.",
+      "rationale_en": "Impressions here refers to reproductions.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q01",
+      "passage_id": "P01-RC-03",
+      "source_number": 22,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "evidence_quote": "the simplest are unicellular organisms",
+      "rationale_id": "Unicellular berarti satu sel.",
+      "rationale_en": "Unicellular means one cell.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q02",
+      "passage_id": "P01-RC-03",
+      "source_number": 23,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "serves as the outer tissue",
+      "rationale_id": "Outer tissue paling dekat artinya shell.",
+      "rationale_en": "Outer tissue is closest to shell.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q03",
+      "passage_id": "P01-RC-03",
+      "source_number": 24,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "the cell membrane... has to penetrate it to reach the cytoplasm",
+      "rationale_id": "It merujuk ke membrane yang harus ditembus untuk mencapai cytoplasm.",
+      "rationale_en": "It refers to the membrane that must be penetrated to reach the cytoplasm.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q04",
+      "passage_id": "P01-RC-03",
+      "source_number": 25,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "each with its own nucleus, genetic code, and RNA",
+      "rationale_id": "Pilihan C adalah jawaban terbaik dari opsi yang tersedia karena passage menyebut bahwa setiap sel memiliki nucleus, genetic code, dan RNA. Namun, penjelasan ini harus dibatasi pada konteks passage dan tidak menyatakan secara absolut bahwa sel selalu merupakan unit genetik terkecil dalam biologi.",
+      "rationale_en": "Option C fits best because each cell has its own nucleus and genetic code.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q05",
+      "passage_id": "P01-RC-03",
+      "source_number": 26,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "loosely assembled groups",
+      "rationale_id": "Loosely berarti freely/longgar.",
+      "rationale_en": "Loosely means freely/loosely.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q06",
+      "passage_id": "P01-RC-03",
+      "source_number": 27,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "symbiotic relationship",
+      "rationale_id": "Symbiotic berarti mutually dependent.",
+      "rationale_en": "Symbiotic means mutually dependent.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q07",
+      "passage_id": "P01-RC-03",
+      "source_number": 28,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "overall size... contingent on the total number of cells",
+      "rationale_id": "Ukuran tubuh tergantung jumlah sel, jadi organisme besar punya lebih banyak sel.",
+      "rationale_en": "Body size depends on total number of cells, so large organisms have more cells.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q08",
+      "passage_id": "P01-RC-03",
+      "source_number": 29,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "each with its own nucleus",
+      "rationale_id": "Each merujuk ke cells yang specialized.",
+      "rationale_en": "Each refers to the specialized cells.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q09",
+      "passage_id": "P01-RC-03",
+      "source_number": 30,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The simplest multicellular animals are hydras, sponges, and jellyfish",
+      "rationale_id": "Sponges dan jellyfish disebut sebagai multicellular paling sederhana.",
+      "rationale_en": "They are named as the simplest multicellular animals.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q10",
+      "passage_id": "P01-RC-03",
+      "source_number": 31,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "mentions cell membrane, cytoplasm, colonial organisms, specialized cells",
+      "rationale_id": "Tidak ada pembahasan mekanisme reproduksi.",
+      "rationale_en": "The passage does not mention reproductive mechanisms.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-03-Q11",
+      "passage_id": "P01-RC-03",
+      "source_number": 32,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "protozoans, cells, membranes, multicellular organisms",
+      "rationale_id": "Topiknya biologi umum.",
+      "rationale_en": "The topic is general biology.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q01",
+      "passage_id": "P01-RC-04",
+      "source_number": 33,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "the Alexandrian... founded by Alexander the Great... expanded the library",
+      "rationale_id": "Pembahasan utama adalah asal-usul dan sejarah perpustakaan Alexandria.",
+      "rationale_en": "The passage centers on the origin and history of the Alexandrian library.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q02",
+      "passage_id": "P01-RC-04",
+      "source_number": 34,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "it became feasible to establish libraries",
+      "rationale_id": "Feasible berarti practicable.",
+      "rationale_en": "Feasible means practicable.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q03",
+      "passage_id": "P01-RC-04",
+      "source_number": 35,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "According to second-hand reports",
+      "rationale_id": "Karena laporan tersebut bersifat second-hand, informasi tentang library tidak berasal dari bukti langsung sehingga sulit diverifikasi sepenuhnya.",
+      "rationale_en": "Second-hand reports imply they could not be verified firsthand.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q04",
+      "passage_id": "P01-RC-04",
+      "source_number": 36,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "borrowed scrolls... ordered them duplicated... employed more than 100 scribes",
+      "rationale_id": "Langkah-langkah pengadaan menunjukkan mereka mengalokasikan sumber daya.",
+      "rationale_en": "The acquisition efforts imply they devoted resources to the library.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q05",
+      "passage_id": "P01-RC-04",
+      "source_number": 37,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "purchased entire lesser libraries... owned a copy of every contemporary scroll",
+      "rationale_id": "Tujuan utama: mengumpulkan semua scroll dan memperkaya koleksi.",
+      "rationale_en": "The goal was to accumulate originals and copies of texts.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q06",
+      "passage_id": "P01-RC-04",
+      "source_number": 38,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "not a trace of the Alexandrian library remains today",
+      "rationale_id": "Implikasinya, koleksi tidak dapat diperiksa lagi.",
+      "rationale_en": "It implies the collection cannot be examined today.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q07",
+      "passage_id": "P01-RC-04",
+      "source_number": 39,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "a bibliography of Greek literature was compiled and cross-referenced",
+      "rationale_id": "Pernyataan ini eksplisit di passage, jadi pilihan C paling tepat.",
+      "rationale_en": "This is stated explicitly in the passage, so C is the best choice.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q08",
+      "passage_id": "P01-RC-04",
+      "source_number": 40,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "a succession of leading scholars",
+      "rationale_id": "Succession berarti series.",
+      "rationale_en": "Succession means a series.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q09",
+      "passage_id": "P01-RC-04",
+      "source_number": 41,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "accessible to only a minority of the population",
+      "rationale_id": "Akses terbatas menunjukkan manfaat terutama untuk kelas atas/elite.",
+      "rationale_en": "Limited access implies libraries benefited upper classes.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-04-Q10",
+      "passage_id": "P01-RC-04",
+      "source_number": 42,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "not a trace of the Alexandrian library remains",
+      "rationale_id": "Not a trace berarti absolutely nothing tersisa.",
+      "rationale_en": "Not a trace means absolutely nothing remains.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q01",
+      "passage_id": "P01-RC-05",
+      "source_number": 43,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "oldest rocks... earth's age... radioactive dating... rejected this figure",
+      "rationale_id": "Seluruh passage fokus pada penentuan usia bumi.",
+      "rationale_en": "The passage centers on establishing the earth's age.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q02",
+      "passage_id": "P01-RC-05",
+      "source_number": 44,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "oldest rocks found on earth... radioactive dating",
+      "rationale_id": "Radioactive dating dipakai untuk menentukan umur bumi.",
+      "rationale_en": "Radioactive dating is used to determine the earth's age.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q03",
+      "passage_id": "P01-RC-05",
+      "source_number": 45,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "eventual burning out of stars",
+      "rationale_id": "Eventual paling dekat dengan ultimate.",
+      "rationale_en": "Eventual is closest to ultimate.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q04",
+      "passage_id": "P01-RC-05",
+      "source_number": 46,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "Similar ages... the sun is about 5 billion years old... formed at almost the same time",
+      "rationale_id": "Moon rocks seumuran dan bumi-matahari terbentuk hampir bersamaan.",
+      "rationale_en": "Moon rocks are similar in age and earth/sun formed at about the same time.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q05",
+      "passage_id": "P01-RC-05",
+      "source_number": 47,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "earth and the sun were formed at almost the same time from a cloud of dust and gas",
+      "rationale_id": "Implikasi: asal-usul bumi dan matahari serupa.",
+      "rationale_en": "It implies the earth and sun share a similar origin.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q06",
+      "passage_id": "P01-RC-05",
+      "source_number": 48,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "present rate of expansion of the galaxies",
+      "rationale_id": "Pilihan C adalah jawaban yang paling mendekati karena passage menyebut 'the present rate of expansion of the galaxies', yang menunjukkan bahwa proses kosmik seperti ekspansi galaksi masih berlangsung. Namun, redaksi 'formation of galaxies' kurang presisi dibandingkan 'expansion of galaxies'.",
+      "rationale_en": "The passage mentions the ongoing expansion of galaxies.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q07",
+      "passage_id": "P01-RC-05",
+      "source_number": 49,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "can be considered plausible",
+      "rationale_id": "Plausible berarti reasonable.",
+      "rationale_en": "Plausible means reasonable.",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P01-RC-05-Q08",
+      "passage_id": "P01-RC-05",
+      "source_number": 50,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "radioactive dating... has rejected this figure... as unreliable",
+      "rationale_id": "Penulis menilai radioactive dating lebih akurat dibanding metode lama.",
+      "rationale_en": "The passage supports radioactive dating over older methods.",
+      "needs_manual_review": false
+    }
+  ]
+}

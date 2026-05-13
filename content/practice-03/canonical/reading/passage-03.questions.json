@@ -1,0 +1,195 @@
+{
+  "practice_id": "P03",
+  "section": "reading",
+  "passage_id": "P03-RC-03",
+  "source_question_range": [
+    25,
+    32
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "There are many reasons why food fads have continued to flourish. Garlic has long been"
+    },
+    {
+      "line": 2,
+      "text": "touted as an essential ingredient of physical prowess and as a flu remedy, squash has been"
+    },
+    {
+      "line": 3,
+      "text": "thought by some to cure digestive disorders, and red pepper has been alleged to promote en-"
+    },
+    {
+      "line": 4,
+      "text": "durance. The natural human desire for a simple solution to a difficult problem sets the stage"
+    },
+    {
+      "line": 5,
+      "text": "for promoting miraculous potions, pills, and combinations of chemicals. The gullible indi-"
+    },
+    {
+      "line": 6,
+      "text": "viduals who eagerly embrace any second-hand information with scientific overtones pro-"
+    },
+    {
+      "line": 7,
+      "text": "vide the foundation for healthy business enterprises."
+    },
+    {
+      "line": 8,
+      "text": "A person who has never crossed the threshold of a health food store may be astounded, be-"
+    },
+    {
+      "line": 9,
+      "text": "wildered, or overjoyed. Countless elixirs, herbs, powders, sweeteners, and other fascinating"
+    },
+    {
+      "line": 10,
+      "text": "extracts are only a fraction of the high-profit selection. The available literature includes"
+    },
+    {
+      "line": 11,
+      "text": "pamphlets extolling the amazing return of youth one can anticipate while drinking a potion"
+    },
+    {
+      "line": 12,
+      "text": "steeped with tropical weeds, as well as volumes assuring the reader of an almost eternal lon-"
+    },
+    {
+      "line": 13,
+      "text": "gevity."
+    },
+    {
+      "line": 14,
+      "text": "The store is directly keyed to arouse visitors' concern over their health and to capitalize on"
+    },
+    {
+      "line": 15,
+      "text": "real and imagined problems by offering solutions that, incidentally, cost more than the cus-"
+    },
+    {
+      "line": 16,
+      "text": "tomer may be able to afford. Health food store patrons are often cajoled into buying tonics"
+    },
+    {
+      "line": 17,
+      "text": "that promise to make the functioning of healthy organs even better, regardless of whether"
+    },
+    {
+      "line": 18,
+      "text": "an improvement is called for. Promotion of expensive products that consumers do not actu-"
+    },
+    {
+      "line": 19,
+      "text": "ally need takes considerable initiative and insight. On occasion, there may even be some"
+    },
+    {
+      "line": 20,
+      "text": "slight disregard for truth in an entrepreneur's zeal to cure customers of ills for a price."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 20
+    }
+  ],
+  "questions": [
+    {
+      "id": "P03-RC-03-Q01",
+      "source_number": 25,
+      "prompt": "Which of the following is the main topic of the passage?",
+      "choices": {
+        "A": "Invigorating claims regarding health food",
+        "B": "Praising the health food store inventory",
+        "C": "Proving the wonders of health food products",
+        "D": "Marketing bogus miracles in health food stores"
+      }
+    },
+    {
+      "id": "P03-RC-03-Q02",
+      "source_number": 26,
+      "prompt": "Which of the following best describes the author's tone?",
+      "choices": {
+        "A": "Approving",
+        "B": "Factual",
+        "C": "Sarcastic",
+        "D": "Hesitant"
+      }
+    },
+    {
+      "id": "P03-RC-03-Q03",
+      "source_number": 27,
+      "prompt": "In line 2, the word \"touted\" is closest in meaning to",
+      "choices": {
+        "A": "talked about",
+        "B": "figured out",
+        "C": "identified",
+        "D": "known"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P03-RC-03-Q04",
+      "source_number": 28,
+      "prompt": "Why does the author mention garlic and squash?",
+      "choices": {
+        "A": "To explain their prevalence in diets of some ethnic groups",
+        "B": "To promote their sales as healing agents for various ills",
+        "C": "To compare them to modern and beneficial health products",
+        "D": "To exemplify the persistence of misconceptions regarding food"
+      }
+    },
+    {
+      "id": "P03-RC-03-Q05",
+      "source_number": 29,
+      "prompt": "Where in the passage does the author give reasons for the commercial success of the health food industry?",
+      "choices": {
+        "A": "Lines 1-2",
+        "B": "Lines 8-9",
+        "C": "Lines 10-13",
+        "D": "Lines 14-15"
+      }
+    },
+    {
+      "id": "P03-RC-03-Q06",
+      "source_number": 30,
+      "prompt": "In line 16, the word \"cajoled\" is closest in meaning to",
+      "choices": {
+        "A": "trained",
+        "B": "frightened",
+        "C": "drilled",
+        "D": "coaxed"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P03-RC-03-Q07",
+      "source_number": 31,
+      "prompt": "It can be inferred from the passage that health food store operators are primarily concerned with",
+      "choices": {
+        "A": "persuading their customers of the high quality of their wares",
+        "B": "arriving at long-term solutions for health maintenance",
+        "C": "maximizing profits by taking advantage of consumer naïveté",
+        "D": "exposing the grave consequences of neglecting one's health"
+      }
+    },
+    {
+      "id": "P03-RC-03-Q08",
+      "source_number": 32,
+      "prompt": "The author would most probably agree with which of the following statements?",
+      "choices": {
+        "A": "Health food articles are positively exotic and exorbitant.",
+        "B": "Promoting and selling health foods verges on cheating.",
+        "C": "Health food enterprises are dedicated to absolute honesty.",
+        "D": "Inducing patrons to buy health products is criminal at best."
+      }
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "practice_id": "P03",
+  "section": "listening",
+  "part": "A",
+  "ai_generated": true,
+  "kind": "reconstruction",
+  "note": "The DOCX source only includes answer choices, so these fields are placeholders for plausible reconstructions rather than official transcripts.",
+  "questions": [
+    {
+      "id": "P03-LA-01",
+      "source_number": 1,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: How did Susan do on her driving test?",
+        "Woman: She failed it, and she was really surprised. She had been sure she would pass.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-02",
+      "source_number": 2,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Are we late for the movie?",
+        "Man: Not because of the drive. The real problem was finding a place to park; we drove around the lot for ages.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-03",
+      "source_number": 3,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: How are Tom's investments doing?",
+        "Man: Not very well. He says his current broker has made too many bad decisions, so he needs a new broker.",
+        "Narrator: What does the man say about Tom?"
+      ]
+    },
+    {
+      "id": "P03-LA-04",
+      "source_number": 4,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: I'm here for Professor Harris. Is it all right if I go in?",
+        "Man: Sure. The door is open, and she is expecting you. You can go right in.",
+        "Narrator: What does the man tell the woman?"
+      ]
+    },
+    {
+      "id": "P03-LA-05",
+      "source_number": 5,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Which ice cream flavor is the most popular these days?",
+        "Woman: Even with all the new flavors, vanilla is still the favorite.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-06",
+      "source_number": 6,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Could you give me a ride home? My car won't start again.",
+        "Man: Again? You really are having trouble with that car.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-07",
+      "source_number": 7,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Did Mark get to see Joanna before she left?",
+        "Woman: No, he arrived just after she had gone. He missed her by only a few minutes.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-08",
+      "source_number": 8,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: I heard the company changed its pay policy.",
+        "Man: Unfortunately, yes. Everyone's salary was reduced this month.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-09",
+      "source_number": 9,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: How much did Mrs. Bailey pay for the flowers?",
+        "Woman: They cost fifty dollars, including the delivery charge.",
+        "Narrator: What does the woman say?"
+      ]
+    },
+    {
+      "id": "P03-LA-10",
+      "source_number": 10,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Do you think the new proposal will be approved?",
+        "Man: It seems stronger than the one they rejected last month. I think this proposal has a better chance.",
+        "Narrator: What does the man imply?"
+      ]
+    },
+    {
+      "id": "P03-LA-11",
+      "source_number": 11,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Why is the bell ringing in the library?",
+        "Woman: It means the library is closing. Everyone using the library should leave now.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-12",
+      "source_number": 12,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Should we meet in front of the music hall, or should we go together?",
+        "Man: We don't need to go together. We can go to the music hall separately and meet inside.",
+        "Narrator: What does the man suggest?"
+      ]
+    },
+    {
+      "id": "P03-LA-13",
+      "source_number": 13,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Was Clara ready for her presentation?",
+        "Woman: Definitely. She spent hours preparing the slides and checking every detail.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-14",
+      "source_number": 14,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: How many friends did you invite for the break?",
+        "Man: I invited eight friends, but I'm not sure all of them can come.",
+        "Narrator: What does the man say?"
+      ]
+    },
+    {
+      "id": "P03-LA-15",
+      "source_number": 15,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What is Margaret planning to do now that her children are older?",
+        "Woman: She is thinking about going back to school and taking some college classes.",
+        "Narrator: What does the woman say about Margaret?"
+      ]
+    },
+    {
+      "id": "P03-LA-16",
+      "source_number": 16,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Ralph looked worried when the boys left. What do you think he was thinking?",
+        "Man: It's hard to tell with Ralph. He never says much about what is on his mind.",
+        "Narrator: What does the man imply?"
+      ]
+    },
+    {
+      "id": "P03-LA-17",
+      "source_number": 17,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Good morning. I'm calling about my car. Is it ready yet?",
+        "Woman: Let me check with the mechanic. May I have your name and the repair order number?",
+        "Narrator: Who is the woman most likely to be?"
+      ]
+    },
+    {
+      "id": "P03-LA-18",
+      "source_number": 18,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Is the grocery store still open this late?",
+        "Man: Yes. It stays open until midnight, so we can still go shopping now.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-19",
+      "source_number": 19,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Why did Paul stop at the service station?",
+        "Man: He had almost no gas left. In fact, he was afraid he might not make it there.",
+        "Narrator: What does the man imply about Paul?"
+      ]
+    },
+    {
+      "id": "P03-LA-20",
+      "source_number": 20,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I'm confused about stress in English words. Can a word have two main stresses?",
+        "Woman: Usually not. Most words have only one primary stress.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-21",
+      "source_number": 21,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Where should I put these dishes?",
+        "Man: Put them in the cupboard above the sink, next to the plates.",
+        "Narrator: Where are the speakers?"
+      ]
+    },
+    {
+      "id": "P03-LA-22",
+      "source_number": 22,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Where will Helen stay while her apartment is being painted?",
+        "Woman: She said she would stay at her sister's place for a few days.",
+        "Narrator: Where will Helen stay?"
+      ]
+    },
+    {
+      "id": "P03-LA-23",
+      "source_number": 23,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: I need something for this cough.",
+        "Man: The pharmacist can help you choose a suitable medicine. The counter is over there.",
+        "Narrator: Where are the speakers?"
+      ]
+    },
+    {
+      "id": "P03-LA-24",
+      "source_number": 24,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: The mechanic said your car should be ready by three-thirty.",
+        "Woman: Three-thirty? I doubt it. They told me earlier that the work would take until at least five.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-25",
+      "source_number": 25,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Why does John look so uncomfortable?",
+        "Man: He had two large bowls of soup and then ate a full dinner. I think he ate too much.",
+        "Narrator: What does the man imply about John?"
+      ]
+    },
+    {
+      "id": "P03-LA-26",
+      "source_number": 26,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Did Carol mind that the Nixons came with us?",
+        "Woman: No, not at all. She said it was fine.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P03-LA-27",
+      "source_number": 27,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Did you enjoy your evening with Nick?",
+        "Woman: Not really. All he talked about was tennis, and after a while I got bored.",
+        "Narrator: What does the woman imply?"
+      ]
+    },
+    {
+      "id": "P03-LA-28",
+      "source_number": 28,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Is the introductory economics class very large?",
+        "Man: Yes, it is. Two hundred students are enrolled in it this semester.",
+        "Narrator: What does the man say about the class?"
+      ]
+    },
+    {
+      "id": "P03-LA-29",
+      "source_number": 29,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Can you shorten these pants by Friday?",
+        "Woman: Yes. I'll measure the length now and have the alterations finished by then.",
+        "Narrator: Where does this conversation most likely take place?"
+      ]
+    },
+    {
+      "id": "P03-LA-30",
+      "source_number": 30,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Please fasten your seat belt and return your tray table to its upright position. We'll be landing shortly.",
+        "Man: Of course. Thank you.",
+        "Narrator: Who is the woman most likely to be?"
+      ]
+    }
+  ]
+}

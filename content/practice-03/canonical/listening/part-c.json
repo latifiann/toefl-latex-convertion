@@ -1,0 +1,142 @@
+{
+  "practice_id": "P03",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P03-LC-39",
+      "source_number": 39,
+      "choices": {
+        "A": "It's the northern.",
+        "B": "It's the southern.",
+        "C": "It's the deepest.",
+        "D": "It's the smallest."
+      }
+    },
+    {
+      "id": "P03-LC-40",
+      "source_number": 40,
+      "choices": {
+        "A": "It's heavily traveled all year round",
+        "B": "It's not navigable for large boats.",
+        "C": "It has less traffic than the other Great Lakes.",
+        "D": "Its shores are inaccessible for landing."
+      }
+    },
+    {
+      "id": "P03-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "53 miles",
+        "B": "193 miles",
+        "C": "480 miles",
+        "D": "7,500 miles"
+      }
+    },
+    {
+      "id": "P03-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "Its water is used for irrigation of trees.",
+        "B": "It moderates the weather patterns in the region.",
+        "C": "It cools the air in the surrounding areas.",
+        "D": "It has a considerable capacity to store water."
+      }
+    },
+    {
+      "id": "P03-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "England",
+        "B": "Scotland",
+        "C": "Richmond",
+        "D": "Boston"
+      }
+    },
+    {
+      "id": "P03-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "They were well-to-do.",
+        "B": "They didn't love young Poe.",
+        "C": "They were English.",
+        "D": "They abandoned him."
+      }
+    },
+    {
+      "id": "P03-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "9",
+        "B": "11",
+        "C": "15",
+        "D": "18"
+      }
+    },
+    {
+      "id": "P03-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "He was a competent student.",
+        "B": "He preferred studying in the academy.",
+        "C": "He did not do well in his academics.",
+        "D": "He decided to travel to Scotland instead."
+      }
+    },
+    {
+      "id": "P03-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "John Allan could not afford Poe's education.",
+        "B": "Poe became involved in gambling.",
+        "C": "John Allan had to leave for England.",
+        "D": "Poe decided to become a writer."
+      }
+    },
+    {
+      "id": "P03-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "It is nonpersonal.",
+        "B": "It consists of presentations.",
+        "C": "It cannot be bought.",
+        "D": "It includes hamburgers and soft drinks."
+      }
+    },
+    {
+      "id": "P03-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "Product sponsors",
+        "B": "Many people",
+        "C": "TV viewers",
+        "D": "Buyers of media time"
+      }
+    },
+    {
+      "id": "P03-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "Advertising is paid for.",
+        "B": "Advertising can be subject to skepticism.",
+        "C": "Publicity reaches a greater audience.",
+        "D": "Publicity usually benefits political leaders."
+      }
+    }
+  ]
+}

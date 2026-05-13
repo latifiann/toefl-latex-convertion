@@ -1,0 +1,175 @@
+{
+  "practice_id": "P01",
+  "section": "reading",
+  "passage_id": "P01-RC-05",
+  "source_question_range": [
+    43,
+    50
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "According to data obtained from radioactive dating, the oldest rocks found on earth are"
+    },
+    {
+      "line": 2,
+      "text": "approximately 500 million to 4 billion years old. Similar ages have been determined for me-"
+    },
+    {
+      "line": 3,
+      "text": "teorites and the rocks gathered from the moon's surface. Different methods of arriving at the"
+    },
+    {
+      "line": 4,
+      "text": "Line earth's age generate very similar results. Modern theories about the formation, develop-"
+    },
+    {
+      "line": 5,
+      "text": "ement, and eventual burning out of stars suggest that the sun is about 5 billion years old. Ex-"
+    },
+    {
+      "line": 6,
+      "text": "perts contend that the earth and the sun were formed at almost the same time from a cloud of"
+    },
+    {
+      "line": 7,
+      "text": "dust and gas resulting from a cosmic explosion. The present rate of expansion of the galaxies"
+    },
+    {
+      "line": 8,
+      "text": "can be extrapolated to suggest that, if the universe began with a \"big bang\" about 15 billion"
+    },
+    {
+      "line": 9,
+      "text": "years ago, an age of 5 billion years for both the earth and the sun can be considered plausible."
+    },
+    {
+      "line": 10,
+      "text": "Long before radioactive dating was implemented, mythology and oral narratives alluded"
+    },
+    {
+      "line": 11,
+      "text": "to a conjecture that the earth was nearly 6,000 years old. The methods of computation based"
+    },
+    {
+      "line": 12,
+      "text": "on the analysis of genealogical trees in scant archaeological findings provide evidence that"
+    },
+    {
+      "line": 13,
+      "text": "can be difficult to date accurately. Today, radioactive dating of particles and whole objects"
+    },
+    {
+      "line": 14,
+      "text": "has rejected this figure of the earth's age as unreliable."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 9
+    },
+    {
+      "start": 10,
+      "end": 14
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-RC-05-Q01",
+      "source_number": 43,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Dating techniques in research",
+        "B": "Modern theories and radioactive dating",
+        "C": "Research and narratives about the earth's formation",
+        "D": "Establishing the earth's age"
+      }
+    },
+    {
+      "id": "P01-RC-05-Q02",
+      "source_number": 44,
+      "prompt": "It can be inferred from the passage that radioactive dating is important for estimating the age of",
+      "choices": {
+        "A": "all known meteors",
+        "B": "all existing planets",
+        "C": "the earth",
+        "D": "the trees"
+      }
+    },
+    {
+      "id": "P01-RC-05-Q03",
+      "source_number": 45,
+      "prompt": "In line 5, the word \"eyentual\" is closest in meaning to",
+      "choices": {
+        "A": "ultimate",
+        "B": "eventful",
+        "C": "utter",
+        "D": "enduring"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P01-RC-05-Q04",
+      "source_number": 46,
+      "prompt": "According to the passage, the moon is",
+      "choices": {
+        "A": "older than the earth and the sun",
+        "B": "newer than the earth and the sun",
+        "C": "approximately the same age as the earth and the sun",
+        "D": "approximately the same density as the earth and sun"
+      }
+    },
+    {
+      "id": "P01-RC-05-Q05",
+      "source_number": 47,
+      "prompt": "The author of the passage implies that",
+      "choices": {
+        "A": "the earth and the sun are of similar origin",
+        "B": "the earth and the sun can be explosive",
+        "C": "meteorites and the moon have been analyzed",
+        "D": "the galaxies are expanding at a substantial rate"
+      }
+    },
+    {
+      "id": "P01-RC-05-Q06",
+      "source_number": 48,
+      "prompt": "With which of the following statements would the author be most likely to agree?",
+      "choices": {
+        "A": "The moon and the sun are 15 billion years old.",
+        "B": "The moon can be viewed as a meteorite.",
+        "C": "The formation of galaxies is an on going process.",
+        "D": "The earth can be dated a s far back as 6,000 years."
+      }
+    },
+    {
+      "id": "P01-RC-05-Q07",
+      "source_number": 49,
+      "prompt": "In line 9, the word \"plausible\" is closest in meaning to",
+      "choices": {
+        "A": "reasonable",
+        "B": "rational",
+        "C": "relative",
+        "D": "relational"
+      },
+      "referenced_lines": {
+        "start": 9,
+        "end": 9
+      }
+    },
+    {
+      "id": "P01-RC-05-Q08",
+      "source_number": 50,
+      "prompt": "What conclusion does the author of the passage make?",
+      "choices": {
+        "A": "Radioactive dating is refuted by researchers.",
+        "B": "Radioactive dating is more accurate than other methods.",
+        "C": "The earth is a part of a galaxy that includes many moons.",
+        "D": "The sun's radioactivity is scant and can be negligible."
+      }
+    }
+  ]
+}

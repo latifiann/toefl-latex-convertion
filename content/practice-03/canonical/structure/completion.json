@@ -1,0 +1,207 @@
+{
+  "practice_id": "P03",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P03-ST-01",
+      "source_number": 1,
+      "prompt": "The smoke from burning fuels causes pollution if......into the atmosphere.",
+      "choices": {
+        "A": "it releases",
+        "B": "it is released",
+        "C": "it will be released",
+        "D": "it released"
+      }
+    },
+    {
+      "id": "P03-ST-02",
+      "source_number": 2,
+      "prompt": "While preparing an issue, newspaper editors decide what......in the editorials.",
+      "choices": {
+        "A": "viewpoint to take",
+        "B": "viewpoint takes",
+        "C": "take a viewpoint",
+        "D": "takes to a viewpoint"
+      }
+    },
+    {
+      "id": "P03-ST-03",
+      "source_number": 3,
+      "prompt": "Medical researchers claim that each reflex......some stimulus that causes a response.",
+      "choices": {
+        "A": "involving",
+        "B": "involvement",
+        "C": "involves",
+        "D": "involve"
+      }
+    },
+    {
+      "id": "P03-ST-04",
+      "source_number": 4,
+      "prompt": "A law of physics stipulates that energy in any system cannot be created or......",
+      "choices": {
+        "A": "destroy",
+        "B": "to destroy",
+        "C": "destroyed",
+        "D": "destruction"
+      }
+    },
+    {
+      "id": "P03-ST-05",
+      "source_number": 5,
+      "prompt": "Until the late 1800s, shopkeepers advertised.......on pictorial signs because their customers were illiterate.",
+      "choices": {
+        "A": "they produced",
+        "B": "their products",
+        "C": "produced their",
+        "D": "they are produced"
+      }
+    },
+    {
+      "id": "P03-ST-06",
+      "source_number": 6,
+      "prompt": "Amnesia is the......or total loss of memory concerning past experiences.",
+      "choices": {
+        "A": "part",
+        "B": "partially",
+        "C": "partly",
+        "D": "partial"
+      }
+    },
+    {
+      "id": "P03-ST-07",
+      "source_number": 7,
+      "prompt": "A sharp sense of smell enables hunting dogs......wild animals.",
+      "choices": {
+        "A": "to tracking",
+        "B": "to track",
+        "C": "to be tracking",
+        "D": "track them to"
+      }
+    },
+    {
+      "id": "P03-ST-08",
+      "source_number": 8,
+      "prompt": "The popularity of early melodrama promoted the creation of realistic settings and......effects.",
+      "choices": {
+        "A": "elaborate special",
+        "B": "elaborated specially",
+        "C": "specially elaborating",
+        "D": "specially to elaborate"
+      }
+    },
+    {
+      "id": "P03-ST-09",
+      "source_number": 9,
+      "prompt": "The roots anchor a tree in the ground and absorb water......the soil.",
+      "choices": {
+        "A": "to",
+        "B": "from",
+        "C": "into",
+        "D": "due to"
+      }
+    },
+    {
+      "id": "P03-ST-10",
+      "source_number": 10,
+      "prompt": "Viruses are so tiny that......only by means of an electron microscope.",
+      "choices": {
+        "A": "they can see",
+        "B": "they can be seen",
+        "C": "can be seen",
+        "D": "can see them"
+      }
+    },
+    {
+      "id": "P03-ST-11",
+      "source_number": 11,
+      "prompt": "When Arturo Toscanini began his career music was regarded as one......expressing emotions.",
+      "choices": {
+        "A": "means by",
+        "B": "meant by it",
+        "C": "means of",
+        "D": "the meaning of"
+      }
+    },
+    {
+      "id": "P03-ST-12",
+      "source_number": 12,
+      "prompt": "In diving competitions, women perform......men do.",
+      "choices": {
+        "A": "dive the same as",
+        "B": "the same dives as",
+        "C": "dive the same way as",
+        "D": "the diving is the same"
+      }
+    },
+    {
+      "id": "P03-ST-13",
+      "source_number": 13,
+      "prompt": "Syllables are the......of a word according to pronunciation.",
+      "choices": {
+        "A": "naturally divided",
+        "B": "divided by nature",
+        "C": "natural divisions",
+        "D": "dividing them naturally"
+      }
+    },
+    {
+      "id": "P03-ST-14",
+      "source_number": 14,
+      "prompt": "Mesopotamian civilizations did not......history until meaning-symbol correspondences had been devised.",
+      "choices": {
+        "A": "beginning to record",
+        "B": "record the beginning",
+        "C": "began recording",
+        "D": "begin to record"
+      }
+    },
+    {
+      "id": "P03-ST-15",
+      "source_number": 15,
+      "prompt": "Before the 1700s, when children worked together with adults, childhood......did not exist.",
+      "choices": {
+        "A": "as we have known",
+        "B": "as we know it",
+        "C": "it is known",
+        "D": "is known as"
+      }
+    }
+  ]
+}

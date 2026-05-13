@@ -1,0 +1,27 @@
+{
+  "latex-workshop.latex.outDir": "%DIR%/../pdf",
+  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk_xelatex_build_pdf",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=%DIR%/../pdf",
+        "%DOC%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (xelatex -> build/pdf)",
+      "tools": [
+        "latexmk_xelatex_build_pdf"
+      ]
+    }
+  ]
+}

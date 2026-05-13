@@ -1,0 +1,551 @@
+{
+  "practice_id": "P01",
+  "section": "listening",
+  "part": "A",
+  "ai_generated": true,
+  "kind": "reconstruction",
+  "note": "The DOCX source only includes answer choices, so these fields are placeholders for plausible reconstructions rather than official transcripts.",
+  "questions": [
+    {
+      "id": "P01-LA-01",
+      "source_number": 1,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Mike missed class again and wants to borrow someone's notes.",
+        "Woman: Borrowing notes may help, but he really needs to get the material that was taught in class.",
+        "Narrator: What does the woman imply about Mike?"
+      ]
+    },
+    {
+      "id": "P01-LA-02",
+      "source_number": 2,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Do you think I can still stop by the office today?",
+        "Man: I doubt it. They closed at five, and everyone has gone home for the day.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-03",
+      "source_number": 3,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Is something wrong with your lunch?",
+        "Woman: Yes, I ordered the chicken salad, but this is a green salad with no chicken at all.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-04",
+      "source_number": 4,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Did Mr. Calvert say when he is planning to return?",
+        "Man: He mentioned sometime next week, but he did not give an exact day.",
+        "Narrator: What did the woman ask?"
+      ]
+    },
+    {
+      "id": "P01-LA-05",
+      "source_number": 5,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: The book I need is checked out. What should I do?",
+        "Woman: Leave your name at the desk. The library will notify you when the book arrives.",
+        "Narrator: What does the woman say?"
+      ]
+    },
+    {
+      "id": "P01-LA-06",
+      "source_number": 6,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Did you cook dinner last night?",
+        "Man: No, I was too tired, so I just went out to eat.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-07",
+      "source_number": 7,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I want to bring my bike to campus. Do I need anything?",
+        "Woman: Yes, bicycle permits are available at the student services office next door.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-08",
+      "source_number": 8,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: When is the paper due?",
+        "Man: I have no idea. They still have not told us when to turn it in.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-09",
+      "source_number": 9,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What happened in the driveway?",
+        "Woman: The driver backed up too far and hit the garbage can by the garage.",
+        "Narrator: What does the woman say?"
+      ]
+    },
+    {
+      "id": "P01-LA-10",
+      "source_number": 10,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Joan was sitting in the back of the room during the speech.",
+        "Man: Then I am not surprised she missed so much of it. The speaker was not loud enough.",
+        "Narrator: What does the man imply?"
+      ]
+    },
+    {
+      "id": "P01-LA-11",
+      "source_number": 11,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Can I make calls outside campus from my room phone now?",
+        "Woman: Not yet. You cannot make off-campus calls until the phone service is connected.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-12",
+      "source_number": 12,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: I stopped by the drugstore to buy toothpaste.",
+        "Man: Were you able to get some?",
+        "Woman: No, they were completely out.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-13",
+      "source_number": 13,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: That truck just passed another car on the right.",
+        "Woman: That driver could get a ticket. Passing on the right is against the law here.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-14",
+      "source_number": 14,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Why did he choose the local college?",
+        "Man: He did not want to go far from home.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-15",
+      "source_number": 15,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Why are so many forms filled out incorrectly?",
+        "Woman: Most students simply ignore the directions on the paperwork.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-16",
+      "source_number": 16,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: How much farther is the movie theater?",
+        "Man: It is just around the corner. Turn left at the next street.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-17",
+      "source_number": 17,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I heard Julie is taking five courses this term.",
+        "Woman: Yes, she is carrying a full course load.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-18",
+      "source_number": 18,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: How was the field trip?",
+        "Man: It was interesting, but not many students went.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-19",
+      "source_number": 19,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Did either swim team win the meet?",
+        "Man: No, the men's and women's teams both ended in a tie.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-20",
+      "source_number": 20,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Has she had time to read the report yet?",
+        "Woman: I do not think so. She has been in meetings all morning.",
+        "Narrator: What did the man want to know?"
+      ]
+    },
+    {
+      "id": "P01-LA-21",
+      "source_number": 21,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: It was sunny this morning, but now it looks like rain.",
+        "Man: That is typical here. The weather is impossible to predict.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-22",
+      "source_number": 22,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: How long will it take to fix my brakes?",
+        "Woman: The mechanic can check them this afternoon, but the repair may take until tomorrow.",
+        "Narrator: Where does this conversation probably take place?"
+      ]
+    },
+    {
+      "id": "P01-LA-23",
+      "source_number": 23,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Can your company mow the front yard and trim the hedges this week?",
+        "Man: Yes, our lawn crew can come by on Friday.",
+        "Narrator: What kind of business is being discussed?"
+      ]
+    },
+    {
+      "id": "P01-LA-24",
+      "source_number": 24,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What are you going to do after your last exam?",
+        "Woman: I think I will take a break before starting anything else.",
+        "Narrator: What does the woman plan to do?"
+      ]
+    },
+    {
+      "id": "P01-LA-25",
+      "source_number": 25,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: I am hungry, but I do not want a big dinner.",
+        "Man: There is a small cafe across the street. Let's go there.",
+        "Narrator: Where are they probably going?"
+      ]
+    },
+    {
+      "id": "P01-LA-26",
+      "source_number": 26,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: The water heater in my new apartment had to be replaced.",
+        "Man: A new heater must have been expensive.",
+        "Narrator: What does the man imply?"
+      ]
+    },
+    {
+      "id": "P01-LA-27",
+      "source_number": 27,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: The department is replacing all the old computers this month.",
+        "Woman: It is about time. They have needed new ones for a while.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-28",
+      "source_number": 28,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Could you come by tomorrow to help me with the application?",
+        "Woman: Tomorrow will not work, but I can come another day this week.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P01-LA-29",
+      "source_number": 29,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Do you have change for a dollar? The vending machine will not take my bill.",
+        "Woman: I think I have some coins in my bag.",
+        "Narrator: What does the man need?"
+      ]
+    },
+    {
+      "id": "P01-LA-30",
+      "source_number": 30,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Could you push the cart while I get the apples?",
+        "Man: Sure. I will wait here by the dairy section.",
+        "Narrator: Where are the speakers?"
+      ]
+    }
+  ]
+}

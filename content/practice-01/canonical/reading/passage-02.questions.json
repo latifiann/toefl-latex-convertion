@@ -1,0 +1,218 @@
+{
+  "practice_id": "P01",
+  "section": "reading",
+  "passage_id": "P01-RC-02",
+  "source_question_range": [
+    13,
+    21
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Lithography is a planographic process that performs a significant function in illustration"
+    },
+    {
+      "line": 2,
+      "text": "and offset printing. It is based o n the principle that water does not combine with grease-"
+    },
+    {
+      "line": 3,
+      "text": "based substances, preventing them from smearing an outline on an unpolished surface. The"
+    },
+    {
+      "line": 4,
+      "text": "Line contour does not need to be engraved into the plate, as in the case of gravure printing, or"
+    },
+    {
+      "line": 5,
+      "text": "raised above the surface, as in the letterpress process. These laborious operations ensure that"
+    },
+    {
+      "line": 6,
+      "text": "only the design to be printed catches and retains the ink transferred to the paper."
+    },
+    {
+      "line": 7,
+      "text": "In lithography, the artist draws on a leveled, grainy plate made of limestone, zinc, alumi-"
+    },
+    {
+      "line": 8,
+      "text": "num, or specially treated paper with a grease pencil, a crayon, or tusche, a greasy liquid. Af"
+    },
+    {
+      "line": 9,
+      "text": "ter Sketching the contour on the plate, the artist coats both the drawn and the undrawn por-"
+    },
+    {
+      "line": 10,
+      "text": "tions of the plate with an inking roller dipped in a solution of nitric acid and gum arabic."
+    },
+    {
+      "line": 11,
+      "text": "The gum arabic envelops the greased surfaces and prevents ink from penetrating into the"
+    },
+    {
+      "line": 12,
+      "text": "greaseless areas. The artist dampens the surface with water, which is repelled by the greased"
+    },
+    {
+      "line": 13,
+      "text": "areas. Then the surface is covered with thick, oily ink and pressed onto paper. The sheet"
+    },
+    {
+      "line": 14,
+      "text": "picks up the ink from the design while the damp stone around the patter keeps the ink"
+    },
+    {
+      "line": 15,
+      "text": "from spreading."
+    },
+    {
+      "line": 16,
+      "text": "In offset lithography, shiny sheets of zinc and aluminum are used instead of the heavy,"
+    },
+    {
+      "line": 17,
+      "text": "hard-to-handle stone plates. The metal plates are scoured by emery dust and marble chips to"
+    },
+    {
+      "line": 18,
+      "text": "give them a grained finish. The subjects to be printed are laid down photographically, and"
+    },
+    {
+      "line": 19,
+      "text": "rotary presses automatically moisten, ink, and print hundreds of impressions per hour."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 7,
+      "end": 15
+    },
+    {
+      "start": 16,
+      "end": 19
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-RC-02-Q01",
+      "source_number": 13,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Commercial printing of mass-produced lithographs",
+        "B": "Steps in a technique for making impressions",
+        "C": "The equipment necessary for offset lithographs",
+        "D": "The evolution of lithograph printing to rotary presses"
+      }
+    },
+    {
+      "id": "P01-RC-02-Q02",
+      "source_number": 14,
+      "prompt": "According to the passage, lithographic printing makes use of the fact that",
+      "choices": {
+        "A": "artists can draw on flat, greaseless surfaces",
+        "B": "oily substances do not mix with water",
+        "C": "gravure etching is work- and time-consuming",
+        "D": "limestone, zinc, and aluminum can be used as planes"
+      }
+    },
+    {
+      "id": "P01-RC-02-Q03",
+      "source_number": 15,
+      "prompt": "In line 4, the word \"contour\" is closest in meaning to",
+      "choices": {
+        "A": "contrast",
+        "B": "content",
+        "C": "outline",
+        "D": "edge"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P01-RC-02-Q04",
+      "source_number": 16,
+      "prompt": "In line 7, the word \"leveled\" is closest in meaning to",
+      "choices": {
+        "A": "elevated",
+        "B": "low",
+        "C": "flawed",
+        "D": "flattened"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P01-RC-02-Q05",
+      "source_number": 17,
+      "prompt": "In line 11, the word \"envelops\" i s closest in meaning to",
+      "choices": {
+        "A": "sends",
+        "B": "soils",
+        "C": "coats",
+        "D": "coils"
+      },
+      "referenced_lines": {
+        "start": 11,
+        "end": 11
+      }
+    },
+    {
+      "id": "P01-RC-02-Q06",
+      "source_number": 18,
+      "prompt": "It can be inferred from the passage that in making lithographic prints, the paper",
+      "choices": {
+        "A": "absorbs the ink from the printing plate",
+        "B": "spreads the ink on the greased areas",
+        "C": "shrinks away from the printing stone",
+        "D": "keeps the oil from sliding off"
+      }
+    },
+    {
+      "id": "P01-RC-02-Q07",
+      "source_number": 19,
+      "prompt": "Where in the passage does the author point out the advantages of lithography over other types of printing?",
+      "choices": {
+        "A": "Lines 1-2",
+        "B": "Lines 3-5",
+        "C": "Lines 7-8",
+        "D": "Lines 16-18"
+      }
+    },
+    {
+      "id": "P01-RC-02-Q08",
+      "source_number": 20,
+      "prompt": "A paragraph following the passage would most probably discuss",
+      "choices": {
+        "A": "photosynthesis in commercial lithographs",
+        "B": "the offset printing of billboard advertisements",
+        "C": "technological advancements in offset printing",
+        "D": "types of unique lithographs. printed in rare books"
+      }
+    },
+    {
+      "id": "P01-RC-02-Q09",
+      "source_number": 21,
+      "prompt": "In line 19, the word \"impressions\" is closest in meaning to",
+      "choices": {
+        "A": "originals",
+        "B": "reproductions",
+        "C": "photographs",
+        "D": "plates"
+      },
+      "referenced_lines": {
+        "start": 19,
+        "end": 19
+      }
+    }
+  ]
+}

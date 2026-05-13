@@ -1,0 +1,234 @@
+{
+  "practice_id": "P03",
+  "section": "reading",
+  "passage_id": "P03-RC-05",
+  "source_question_range": [
+    42,
+    50
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Collecting maps can be an enjoyable hobby for antiquarian booksellers, a captivating in-"
+    },
+    {
+      "line": 2,
+      "text": "terest for cartographers, a lucrative vocation for astute dealers, and an inspirational part of"
+    },
+    {
+      "line": 3,
+      "text": "the occupational functioning of map catalogers, archivists, and historians. Among recog-"
+    },
+    {
+      "line": 4,
+      "text": "nized collectibles, maps are relatively rarer than stamps, but they have had their avid enthu-"
+    },
+    {
+      "line": 5,
+      "text": "siasts and admirers ever since copies were made by hand only for the affluent, the command-"
+    },
+    {
+      "line": 6,
+      "text": "ing officer, and the ship captain."
+    },
+    {
+      "line": 7,
+      "text": "Whether the interest is business-related or amateur, the economic means abundant or"
+    },
+    {
+      "line": 8,
+      "text": "slim, a collection needs a theme, be it associated with contemporary changes in cartographic"
+    },
+    {
+      "line": 9,
+      "text": "representation or geographic knowledge, or a more accessible goal centered on a particular"
+    },
+    {
+      "line": 10,
+      "text": "mapmaker, technique, or type of subject matter. Collectors should not overlook topical"
+    },
+    {
+      "line": 11,
+      "text": "maps issued predominantly or exclusively after World War II, such as navigational charts,"
+    },
+    {
+      "line": 12,
+      "text": "industrial compound road layouts, or aerial projections. Potential collectors ought not to"
+    },
+    {
+      "line": 13,
+      "text": "disregard two superficially prosaic, yet important themes: maps of travel routes for family"
+    },
+    {
+      "line": 14,
+      "text": "trips, and maps that, for aesthetic reasons, they personally find intriguing or simply attrac-"
+    },
+    {
+      "line": 15,
+      "text": "tive. In the first case, like the box with old family photos, the collection will give the travel-"
+    },
+    {
+      "line": 16,
+      "text": "ers the opportunity to reminisce and relive the journey."
+    },
+    {
+      "line": 17,
+      "text": "In most cases, photocopies are worthy alternatives to originals. For example, historical"
+    },
+    {
+      "line": 18,
+      "text": "society collections customarily include the high quality facsimiles needed to make a collec-"
+    },
+    {
+      "line": 19,
+      "text": "tion as comprehensive and practical as possible, supplementing the contributions made by"
+    },
+    {
+      "line": 20,
+      "text": "well-to-do donors and benefactors. If not predisposed to wait patiently, and possibly inef-"
+    },
+    {
+      "line": 21,
+      "text": "fectually, for a lucky find, collectors may choose to sift through dealer stock, peruse through"
+    },
+    {
+      "line": 22,
+      "text": "advertisements in local, regional, or national periodicals, and solicit the assistance of the"
+    },
+    {
+      "line": 23,
+      "text": "U.S. Library of Congress and private agencies. Government and public agencies, compa-"
+    },
+    {
+      "line": 24,
+      "text": "nies, and trade associations can advise the collector about maps currently in circulation and"
+    },
+    {
+      "line": 25,
+      "text": "pending sales of dated reproductions, editions, and prints."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 25
+    }
+  ],
+  "questions": [
+    {
+      "id": "P03-RC-05-Q01",
+      "source_number": 42,
+      "prompt": "What is the main idea of the passage?",
+      "choices": {
+        "A": "Why hobbyists always flaunt their map collections",
+        "B": "How maps can be collected by professionals and enthusiasts",
+        "C": "How to assure an uninterrupted flow of collectibles",
+        "D": "What cartographers advocate as a worthy undertaking"
+      }
+    },
+    {
+      "id": "P03-RC-05-Q02",
+      "source_number": 43,
+      "prompt": "In line 2, the word \"lucrative\" is closest in meaning to",
+      "choices": {
+        "A": "instructive",
+        "B": "insensitive",
+        "C": "profitable",
+        "D": "profuse"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P03-RC-05-Q03",
+      "source_number": 44,
+      "prompt": "According to the passage, map collecting as a hobby is",
+      "choices": {
+        "A": "not deserving of the time and resources",
+        "B": "not as conventional as collecting stamps",
+        "C": "as eccentric as collecting dolls",
+        "D": "conformist in the best sense of the word"
+      }
+    },
+    {
+      "id": "P03-RC-05-Q04",
+      "source_number": 45,
+      "prompt": "It can be inferred from the passage that, at a time when maps were accessible to the upper socioeconomic classes, they appealed also to a fair number of",
+      "choices": {
+        "A": "professional copiers",
+        "B": "ardent devotees",
+        "C": "buried-treasure hunters",
+        "D": "obscure amateur dealers"
+      }
+    },
+    {
+      "id": "P03-RC-05-Q05",
+      "source_number": 46,
+      "prompt": "In line 7, the phrase \"economic means\" is closest in meaning to",
+      "choices": {
+        "A": "economic maps",
+        "B": "fiscal responsibility",
+        "C": "available funds",
+        "D": "capital investment"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P03-RC-05-Q06",
+      "source_number": 47,
+      "prompt": "The author of the passage mentions all of the following as sources of procuring maps EXCEPT:",
+      "choices": {
+        "A": "fellow collectors",
+        "B": "map vendors",
+        "C": "personal archives",
+        "D": "publishers"
+      }
+    },
+    {
+      "id": "P03-RC-05-Q07",
+      "source_number": 48,
+      "prompt": "In line 13, the author uses the phrase \"superficially prosaic\" to mean",
+      "choices": {
+        "A": "described in informal prose",
+        "B": "seemingly boring and unimaginative",
+        "C": "useful for travelers who enjoy a change",
+        "D": "potentially uncovered in a box of photos"
+      },
+      "referenced_lines": {
+        "start": 13,
+        "end": 13
+      }
+    },
+    {
+      "id": "P03-RC-05-Q08",
+      "source_number": 49,
+      "prompt": "In line 20, the word \"predisposed\" is closest in meaning to",
+      "choices": {
+        "A": "pressured",
+        "B": "provoked",
+        "C": "condemned",
+        "D": "inclined"
+      },
+      "referenced_lines": {
+        "start": 20,
+        "end": 20
+      }
+    },
+    {
+      "id": "P03-RC-05-Q09",
+      "source_number": 50,
+      "prompt": "A paragraph following the passage would most likely discuss",
+      "choices": {
+        "A": "specific organizations to contact about map acquisition",
+        "B": "specific mapping techniques used to enlarge the scale",
+        "C": "trimming and framing valuable acquisitions",
+        "D": "volunteering time and work to maintain obsolete maps"
+      }
+    }
+  ]
+}

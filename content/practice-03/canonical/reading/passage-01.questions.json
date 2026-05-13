@@ -1,0 +1,279 @@
+{
+  "practice_id": "P03",
+  "section": "reading",
+  "passage_id": "P03-RC-01",
+  "source_question_range": [
+    1,
+    12
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Even with his diverse experience as an elected official at the state level, Andrew Johnson"
+    },
+    {
+      "line": 2,
+      "text": "was the first president of the United States ever to be impeached, primarily because of his"
+    },
+    {
+      "line": 3,
+      "text": "violent temper and unyielding stubbornness. His career started in 1828 with his election to"
+    },
+    {
+      "line": 4,
+      "text": "the city council of Greenville, Tennessee, and after two years as an alderman, he took office"
+    },
+    {
+      "line": 5,
+      "text": "as mayor. His advancements followed in rapid succession when he was elected to the Ten-"
+    },
+    {
+      "line": 6,
+      "text": "nessee state senate, then as the state governor, and later to the U.S. House of Representatives"
+    },
+    {
+      "line": 7,
+      "text": "for five consecutive terms."
+    },
+    {
+      "line": 8,
+      "text": "In 1864, Johnson ran for the office of vice-president on the Lincoln-Johnson ticket and"
+    },
+    {
+      "line": 9,
+      "text": "was inaugurated in 1865. After Lincoln's assassination six weeks into his term, Johnson"
+    },
+    {
+      "line": 10,
+      "text": "found himself president at a time when southern leaders were concerned about their forced"
+    },
+    {
+      "line": 11,
+      "text": "alliance with the northern states and feared retaliation for their support of the secession. In-"
+    },
+    {
+      "line": 12,
+      "text": "stead, however, with the diplomatic skill he had learned from Lincoln, Johnson offered full"
+    },
+    {
+      "line": 13,
+      "text": "pardon to almost all Confederates on the condition that they take an oath of allegiance. He"
+    },
+    {
+      "line": 14,
+      "text": "further reorganized the former Confederate states and set up legislative elections."
+    },
+    {
+      "line": 15,
+      "text": "Congressional opposition to his peace-making policies resulted in gridlock between the"
+    },
+    {
+      "line": 16,
+      "text": "House and Johnson, and the stalemate grew into an open conflict on the issue of the emanci-"
+    },
+    {
+      "line": 17,
+      "text": "pation of slaves. While Johnson held the view that newly freed slaves lacked understanding"
+    },
+    {
+      "line": 18,
+      "text": "and knowledge of civil liberties to vote intelligently, Congress overrode Johnson's veto of"
+    },
+    {
+      "line": 19,
+      "text": "the Civil Rights Bill, which awarded them citizenship and ratified the Fourteenth Amend-"
+    },
+    {
+      "line": 20,
+      "text": "ment. In the years that followed, Congress passed bills depriving the president of the power"
+    },
+    {
+      "line": 21,
+      "text": "to pardon political criminals, stripping away his status of commander-in-chief, and taking"
+    },
+    {
+      "line": 22,
+      "text": "away Johnson's right to dismiss civil and executive officers from their duties. Johnson ve-"
+    },
+    {
+      "line": 23,
+      "text": "toed each bill, and each veto was overridden. When Johnson dismissed the secretary of war,"
+    },
+    {
+      "line": 24,
+      "text": "Edwin Stanton, Stanton refused to step down and was supported by the House of Repre-"
+    },
+    {
+      "line": 25,
+      "text": "sentatives, which voted to impeach Johnson. At the trial, the Senate came one vote short of"
+    },
+    {
+      "line": 26,
+      "text": "the two-thirds majority necessary to remove him from office. After Johnson's term expired,"
+    },
+    {
+      "line": 27,
+      "text": "he returned to his home state, but in 1875 he was elected senator and went back to Wash-"
+    },
+    {
+      "line": 28,
+      "text": "ington to take his seat."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 28
+    }
+  ],
+  "questions": [
+    {
+      "id": "P03-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Andrew Johnson's personal characteristics",
+        "B": "Andrew Johnson's career as a politician",
+        "C": "Congressional decisions in the late 1800s",
+        "D": "Congressional decisions and procedures in the late 1800s"
+      }
+    },
+    {
+      "id": "P03-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "In line 4, the phrase \"took office\" is closest in meaning to",
+      "choices": {
+        "A": "moved into an office",
+        "B": "became an official",
+        "C": "began a government job",
+        "D": "rearranged the office"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P03-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "What can be inferred from the first paragraph about Andrew Johnson's work in Tennessee?",
+      "choices": {
+        "A": "His personality precluded him from important positions.",
+        "B": "His work became known to the governor.",
+        "C": "He was elected to several important posts.",
+        "D": "He was represented to the posts five times."
+      }
+    },
+    {
+      "id": "P03-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "In line 11, the word \"alliance\" is closest in meaning to",
+      "choices": {
+        "A": "union",
+        "B": "counsel",
+        "C": "allowance",
+        "D": "allotment"
+      },
+      "referenced_lines": {
+        "start": 11,
+        "end": 11
+      }
+    },
+    {
+      "id": "P03-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "According to the passage, what led to Johnson's downfall?",
+      "choices": {
+        "A": "The state of the nation's economy",
+        "B": "His liberal position on slavery",
+        "C": "His personal characteristics",
+        "D": "His waffling and hesitation"
+      }
+    },
+    {
+      "id": "P03-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "The author of the passage implies that when Johnson became president he",
+      "choices": {
+        "A": "was a dedicated supporter of civil rights",
+        "B": "was a soft-spoken and careful diplomat",
+        "C": "had an extensive background in politics",
+        "D": "had already experienced political turmoil"
+      }
+    },
+    {
+      "id": "P03-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "According to the passage, at the beginning of Johnson's term as president southerners were",
+      "choices": {
+        "A": "expected to secede from the union",
+        "B": "apprehensive about their future",
+        "C": "singled out as scapegoats",
+        "D": "afraid of his violent temper"
+      }
+    },
+    {
+      "id": "P03-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "According to the passage, Congress's disapproval of Andrew Johnson's policies was",
+      "choices": {
+        "A": "short-lived and groundless",
+        "B": "detrimental to his presidency",
+        "C": "directed at his civic duties",
+        "D": "stopped as soon as it emerged"
+      }
+    },
+    {
+      "id": "P03-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "In line 21, the word \"pardon\" is closest in meaning to",
+      "choices": {
+        "A": "parade",
+        "B": "patronize",
+        "C": "exonerate",
+        "D": "extricate"
+      },
+      "referenced_lines": {
+        "start": 21,
+        "end": 21
+      }
+    },
+    {
+      "id": "P03-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "The author of the passage implies that the Stanton affair proved the president's",
+      "choices": {
+        "A": "lack of stamina",
+        "B": "lack of electoral vote",
+        "C": "loss of willpower",
+        "D": "loss of authority"
+      }
+    },
+    {
+      "id": "P03-RC-01-Q11",
+      "source_number": 11,
+      "prompt": "In line 23, the word \"dismissed\" is closest in meaning to",
+      "choices": {
+        "A": "distanced",
+        "B": "fired",
+        "C": "disdained",
+        "D": "flounced"
+      },
+      "referenced_lines": {
+        "start": 23,
+        "end": 23
+      }
+    },
+    {
+      "id": "P03-RC-01-Q12",
+      "source_number": 12,
+      "prompt": "According to the passage, the attempt to impeach Andrew Johnson",
+      "choices": {
+        "A": "succeeded as expected by the House",
+        "B": "failed by a minimal margin",
+        "C": "put an end to his political career",
+        "D": "overwhelmed his supporters in Tennessee"
+      }
+    }
+  ]
+}

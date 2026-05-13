@@ -1,0 +1,104 @@
+{
+  "practice_id": "P01",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    38
+  ],
+  "questions": [
+    {
+      "id": "P01-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "Children's shoes",
+        "B": "Business trips",
+        "C": "Different types of glue",
+        "D": "Various types of goods"
+      }
+    },
+    {
+      "id": "P01-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "She had to leave early in the morning.",
+        "B": "She needed to call her friend.",
+        "C": "Her purse had ripped.",
+        "D": "Her office didn't supply the hardware."
+      }
+    },
+    {
+      "id": "P01-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "Come to her house",
+        "B": "Glue her purse",
+        "C": "Suggest an adhesive",
+        "D": "Go to a store to buy glue"
+      }
+    },
+    {
+      "id": "P01-LB-34",
+      "source_number": 34,
+      "choices": {
+        "A": "To show that he is a good father",
+        "B": "To display his knowledge",
+        "C": "As an indication of problems with cement",
+        "D": "As an example of using epoxy"
+      }
+    },
+    {
+      "id": "P01-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "He doesn't like to be bothered.",
+        "B": "He wants to help the woman.",
+        "C": "He wants the woman to like him.",
+        "D": "He isn't interested in women's purses."
+      }
+    },
+    {
+      "id": "P01-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": "New York",
+        "B": "Seattle",
+        "C": "Vancouver",
+        "D": "Portland"
+      }
+    },
+    {
+      "id": "P01-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "She gets the New York Times.",
+        "B": "She reads about it in the Seattle Post.",
+        "C": "She listens to the news on the radio.",
+        "D": "She watches TV and goes to the movies."
+      }
+    },
+    {
+      "id": "P01-LB-38",
+      "source_number": 38,
+      "choices": {
+        "A": "He reads the newspaper and listens to the radio.",
+        "B": "He travels to Portland to attend conventions.",
+        "C": "Usually, he pays attention to regional news.",
+        "D": "He talks to tourists who come to visit the city."
+      }
+    }
+  ]
+}

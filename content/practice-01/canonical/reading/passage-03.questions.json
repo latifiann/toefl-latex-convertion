@@ -1,0 +1,232 @@
+{
+  "practice_id": "P01",
+  "section": "reading",
+  "passage_id": "P01-RC-03",
+  "source_question_range": [
+    22,
+    32
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Although a few protozoans are multicellular, the simplest are unicellular organisms,"
+    },
+    {
+      "line": 2,
+      "text": "Such as amoebas, bacteria, sarcodina, ciliates, flagellates, and sporozoans, which can be"
+    },
+    {
+      "line": 3,
+      "text": "amorphous in shape and smaller than.001 inch. Cytoplasm fills the cell membrane that en-"
+    },
+    {
+      "line": 4,
+      "text": "Line closes it and functions as a barrier between cells. The membrane serves as the outer tissue,"
+    },
+    {
+      "line": 5,
+      "text": "and any compound that may destroy the cell has to penetrate it to reach the cytoplasm."
+    },
+    {
+      "line": 6,
+      "text": "Some types of organisms are termed colonial because they represent loosely assembled"
+    },
+    {
+      "line": 7,
+      "text": "groups of structurally similar and unifunctional cells. Colonial organisms maintain a"
+    },
+    {
+      "line": 8,
+      "text": "symbiotic relationship within their particular environments."
+    },
+    {
+      "line": 9,
+      "text": "Unlike colonial organisms, almost all species of animals and plants are multicellular and"
+    },
+    {
+      "line": 10,
+      "text": "include various types of specialized or somatic cells, each with its own nucleus, genetic code,"
+    },
+    {
+      "line": 11,
+      "text": "and RNA. The overall size of a multicellular body is contingent on the total number of cells"
+    },
+    {
+      "line": 12,
+      "text": "that comprise it, not the size of individual cells. The simplest multicellular animals are hy-"
+    },
+    {
+      "line": 13,
+      "text": "dras, sponges, and jellyfish, which have well-defined tissues, a cellular nucleus, and an ele-"
+    },
+    {
+      "line": 14,
+      "text": "ment of cell functions. Sponges have a few specialized cells but largely resemble colonial or"
+    },
+    {
+      "line": 15,
+      "text": "ganisms that can readily form a new individual group. If the cells of a sponge are separated,"
+    },
+    {
+      "line": 16,
+      "text": "they rejoin and continue as a newly formed colonial organism."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 9,
+      "end": 16
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-RC-03-Q01",
+      "source_number": 22,
+      "prompt": "How many cells do the simplest organisms contain?",
+      "choices": {
+        "A": "One",
+        "B": "One hundred",
+        "C": "Many",
+        "D": "An unknown number"
+      }
+    },
+    {
+      "id": "P01-RC-03-Q02",
+      "source_number": 23,
+      "prompt": "In line 4, the phrase \"outer tissue\" is closest in meaning to",
+      "choices": {
+        "A": "outside force",
+        "B": "outlying area",
+        "C": "shell",
+        "D": "cell"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P01-RC-03-Q03",
+      "source_number": 24,
+      "prompt": "In line 5, the word \"it\" refers to",
+      "choices": {
+        "A": "the cell",
+        "B": "any compound",
+        "C": "the membrane",
+        "D": "the cytoplasm"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P01-RC-03-Q04",
+      "source_number": 25,
+      "prompt": "It can be inferred from the passage that a cell serves as",
+      "choices": {
+        "A": "a partition of organism functions",
+        "B": "the smallest colonial group",
+        "C": "thẹ smallest genetic unit",
+        "D": "a flagellate reproductive organ"
+      }
+    },
+    {
+      "id": "P01-RC-03-Q05",
+      "source_number": 26,
+      "prompt": "In line 6, the word \"loosely\" is closest in meaning to",
+      "choices": {
+        "A": "lively",
+        "B": "naturally",
+        "C": "freely",
+        "D": "feebly"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P01-RC-03-Q06",
+      "source_number": 27,
+      "prompt": "In line 8, the word \"symbiotic\" is closest in meaning to",
+      "choices": {
+        "A": "mutually dependent",
+        "B": "mutually exclusive",
+        "C": "mutually hostile",
+        "D": "mutually resistant"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P01-RC-03-Q07",
+      "source_number": 28,
+      "prompt": "The author of the passage implies that large animals and plants have",
+      "choices": {
+        "A": "larger cell sizes than amoebas and protozoans",
+        "B": "larger quantities of protoplasm than smaller lifeforms",
+        "C": "stronger cellular membranes than flagellates",
+        "D": "a greater number of cells than smaller lifeforms"
+      }
+    },
+    {
+      "id": "P01-RC-03-Q08",
+      "source_number": 29,
+      "prompt": "In line 10, the word \"each\" refers to",
+      "choices": {
+        "A": "animals",
+        "B": "species",
+        "C": "cells",
+        "D": "plants"
+      },
+      "referenced_lines": {
+        "start": 10,
+        "end": 10
+      }
+    },
+    {
+      "id": "P01-RC-03-Q09",
+      "source_number": 30,
+      "prompt": "According to the passage, sponges and jellytish are",
+      "choices": {
+        "A": "the simplest one-cell organisms",
+        "B": "the simplest multicellular animals",
+        "C": "tissues and cellular nuclei",
+        "D": "cellular and colonial organisms"
+      }
+    },
+    {
+      "id": "P01-RC-03-Q10",
+      "source_number": 31,
+      "prompt": "The author mentions all of the following EXCEPT:",
+      "choices": {
+        "A": "procreative mechanisms",
+        "B": "colonial organisms",
+        "C": "cell contents",
+        "D": "specialized cells"
+      }
+    },
+    {
+      "id": "P01-RC-03-Q11",
+      "source_number": 32,
+      "prompt": "This passage would most likely be found in a textbook on which of the following subjects?",
+      "choices": {
+        "A": "Genetics",
+        "B": "Anatomy",
+        "C": "Biology",
+        "D": "Biochemistry"
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "practice_id": "P03",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P03-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "She didn't expect to fail.",
+        "B": "She went sailing.",
+        "C": "She had her hearing examined.",
+        "D": "She passed her driving test."
+      }
+    },
+    {
+      "id": "P03-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "We have 40 minutes to spare.",
+        "B": "We have to be there in 14 minutes.",
+        "C": "We had a hard time parking the car.",
+        "D": "The parking lot is around the corner."
+      }
+    },
+    {
+      "id": "P03-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "I'm wearing his shoes.",
+        "B": "He needs a new broker.",
+        "C": "I broke my shoe strap.",
+        "D": "The manager made investments."
+      }
+    },
+    {
+      "id": "P03-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "She can go right in.",
+        "B": "She can arrive by herself.",
+        "C": "He can't let her in m y house.",
+        "D": "He doesn't have a key for her."
+      }
+    },
+    {
+      "id": "P03-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "Seventy flavors are sold regularly.",
+        "B": "Vanilla is the favorite flavor.",
+        "C": "Ice cream was created in the past decade.",
+        "D": "Vanilla accounts are 70 percent accurate."
+      }
+    },
+    {
+      "id": "P03-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "She should buy a new desk light.",
+        "B": "She had to think of a new headline.",
+        "C": "She is having trouble with her car.",
+        "D": "She should talk to the new hires."
+      }
+    },
+    {
+      "id": "P03-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "Mark missed Joanna.",
+        "B": "Joe and Ann love canoeing.",
+        "C": "Joanna left after 10 o'clock.",
+        "D": "Mark called his brother."
+      }
+    },
+    {
+      "id": "P03-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "Their revenue has increased.",
+        "B": "Their salaries were reduced.",
+        "C": "The income has been cut off.",
+        "D": "The bay has been divided."
+      }
+    },
+    {
+      "id": "P03-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "Mrs. Bailey was cheated out of $38.",
+        "B": "Mrs. Bailey charged the flowers on her credit card.",
+        "C": "Mrs. Bailey charges a lot for her flower delivery.",
+        "D": "Mrs. Bailey paid $50 for the flowers."
+      }
+    },
+    {
+      "id": "P03-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "The new hospital works better than the old one.",
+        "B": "The hospital was built six years ago but still looks good.",
+        "C": "They built a hospital here six years ago.",
+        "D": "This proposal has a better chance than the previous one."
+      }
+    },
+    {
+      "id": "P03-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "The bell sounds like it's coming from the library.",
+        "B": "The library has a sound strategy for patrons.",
+        "C": "The library users should leave when the bell rings.",
+        "D": "Parents shouldn't leave children in the library."
+      }
+    },
+    {
+      "id": "P03-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "We can go to the music hall separately.",
+        "B": "We don't have to stand during the concert.",
+        "C": "Let's have a meat dish after the concert.",
+        "D": "We can have the meeting in the hall."
+      }
+    },
+    {
+      "id": "P03-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "She prepared the slides carefully.",
+        "B": "She was sure she did well at the presentation.",
+        "C": "She presented the slides to the sales personnel.",
+        "D": "She checked the slides out of the sales office."
+      }
+    },
+    {
+      "id": "P03-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "Four people are coming.",
+        "B": "Will you come for the break?",
+        "C": "Would you like to visit us?",
+        "D": "Eight friends are invited."
+      }
+    },
+    {
+      "id": "P03-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "Margaret already has a college degree.",
+        "B": "Margaret is considering taking classes.",
+        "C": "Margaret's children are away at college.",
+        "D": "Margaret's children are outside."
+      }
+    },
+    {
+      "id": "P03-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "It's difficult to say what Ralph is thinking.",
+        "B": "The boys are doing well, and Ralph is not worried",
+        "C": "Ralph only seems worried, but he is really not",
+        "D": "Ralph is always thinking about the boys."
+      }
+    },
+    {
+      "id": "P03-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "A receptionist in a car repair shop.",
+        "B": "An operator at a telephone company.",
+        "C": "A veterinarian at an animal clinic.",
+        "D": "A secretary in an insurance company."
+      }
+    },
+    {
+      "id": "P03-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "The grocery store has an odd schedule.",
+        "B": "Arthur stores things at his place.",
+        "C": "It's possible to go shopping at that hour.",
+        "D": "Only strange people go to the store so late."
+      }
+    },
+    {
+      "id": "P03-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "He ran out of the station.",
+        "B": "He didn't have enough gas.",
+        "C": "He has been thinking a lot.",
+        "D": "He pulled over to buy gas."
+      }
+    },
+    {
+      "id": "P03-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "Two-syllable words are common.",
+        "B": "Stress can affect pronunciation.",
+        "C": "Two-part words are very rare.",
+        "D": "Most words have only one stress."
+      }
+    },
+    {
+      "id": "P03-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "In a kitchen",
+        "B": "In a living room",
+        "C": "In a bathroom",
+        "D": "In a hallway"
+      }
+    },
+    {
+      "id": "P03-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "At her father's",
+        "B": "At her sister's",
+        "C": "At her own home",
+        "D": "At her children's"
+      }
+    },
+    {
+      "id": "P03-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "At a post office",
+        "B": "At a bank",
+        "C": "At a pharmacy",
+        "D": "At a deli"
+      }
+    },
+    {
+      "id": "P03-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "She thinks her car will be ready before 5:00.",
+        "B": "She is surprised that her car is not finished.",
+        "C": "She doesn't believe her car will be ready at 3:30.",
+        "D": "She wants the man to give her a ride to the shop."
+      }
+    },
+    {
+      "id": "P03-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "He is tired.",
+        "B": "He ate too much.",
+        "C": "He is out of breath.",
+        "D": "He made soup."
+      }
+    },
+    {
+      "id": "P03-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "She couldn't be bothered.",
+        "B": "She invited the Nixons.",
+        "C": "She didn't mind.",
+        "D": "She has a brother."
+      }
+    },
+    {
+      "id": "P03-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "Nick plays tennis all the time.",
+        "B": "The woman went out with Nick.",
+        "C": "The town has many nightclubs.",
+        "D": "The woman finds Nick boring."
+      }
+    },
+    {
+      "id": "P03-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "Four hundred students will take it.",
+        "B": "Two hundred students are in it.",
+        "C": "It's restricted to the waiting list.",
+        "D": "Its instructor has strict rules."
+      }
+    },
+    {
+      "id": "P03-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "At a laundromat",
+        "B": "At a printmaker's",
+        "C": "In an appliance store",
+        "D": "In a tailor's shop"
+      }
+    },
+    {
+      "id": "P03-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "A doctor",
+        "B": "A flight attendant",
+        "C": "A hospital nurse",
+        "D": "A pilot"
+      }
+    }
+  ]
+}

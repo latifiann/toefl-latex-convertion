@@ -1,0 +1,104 @@
+{
+  "practice_id": "P03",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    38
+  ],
+  "questions": [
+    {
+      "id": "P03-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "The life of sociable creatures",
+        "B": "Special features of dolphins",
+        "C": "The differences between fish and dolphins",
+        "D": "Communication between groups of dolphins"
+      }
+    },
+    {
+      "id": "P03-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "In a museum",
+        "B": "On a seashore",
+        "C": "In a laboratory",
+        "D": "At a zoo"
+      }
+    },
+    {
+      "id": "P03-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "For about 2 months",
+        "B": "For almost 12 months",
+        "C": "Approximately 2 years",
+        "D": "Approximately 20 years"
+      }
+    },
+    {
+      "id": "P03-LB-34",
+      "source_number": 34,
+      "choices": {
+        "A": "By visual contact",
+        "B": "By sounds",
+        "C": "Through warning one another",
+        "D": "With the help of scientists"
+      }
+    },
+    {
+      "id": "P03-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "The contents and structure of dictionaries",
+        "B": "The benefits and pitfalls of dictionary use",
+        "C": "The acquisition of words in dictionaries",
+        "D": "The various applications of dictionary entries"
+      }
+    },
+    {
+      "id": "P03-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": "Formal and technical",
+        "B": "General and specialized",
+        "C": "Small and unabridged",
+        "D": "American and English"
+      }
+    },
+    {
+      "id": "P03-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "Took a writing class",
+        "B": "Used a technical dictionary",
+        "C": "Studied many new words",
+        "D": "Taught a reading class"
+      }
+    },
+    {
+      "id": "P03-LB-38",
+      "source_number": 38,
+      "choices": {
+        "A": "Learners need to abandon dictionaries when their vocabulary increases.",
+        "B": "Teachers think that students shouldn't always depend on dictionaries.",
+        "C": "One can't use a dictionary effectively without knowing word usage.",
+        "D": "Although dictionaries contain many entries, some word definitions can be irrelevant."
+      }
+    }
+  ]
+}

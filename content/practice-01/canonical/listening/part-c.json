@@ -1,0 +1,142 @@
+{
+  "practice_id": "P01",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P01-LC-39",
+      "source_number": 39,
+      "choices": {
+        "A": "How mail is processed in airports",
+        "B": "How quickly goods can be delivered",
+        "C": "How big and small airports work",
+        "D": "How cargo is handled for shipment"
+      }
+    },
+    {
+      "id": "P01-LC-40",
+      "source_number": 40,
+      "choices": {
+        "A": "Mail and baggage",
+        "B": "Mail and freight",
+        "C": "Passengers and luggage",
+        "D": "Baggage and freight"
+      }
+    },
+    {
+      "id": "P01-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "It is routed to separate cargo terminals.",
+        "B": "It is separated from mail by machine.",
+        "C": "It is loaded when passengers board the planes.",
+        "D": "It is shipped to smaller airports."
+      }
+    },
+    {
+      "id": "P01-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "Together with passengers",
+        "B": "Together with baggage",
+        "C": "According to special schedules",
+        "D": "Exclusively to its destination"
+      }
+    },
+    {
+      "id": "P01-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "In postal offices",
+        "B": "In airports",
+        "C": "On aircraft",
+        "D": "In commercial outlets"
+      }
+    },
+    {
+      "id": "P01-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "Manufactured goods",
+        "B": "Passengers and baggage",
+        "C": "Livestock and crops",
+        "D": "Cars and automobile mechanics"
+      }
+    },
+    {
+      "id": "P01-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "Thousands",
+        "B": "A few",
+        "C": "Thirty",
+        "D": "Sixty"
+      }
+    },
+    {
+      "id": "P01-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "Green, yellow, and red",
+        "B": "Green, white, or cream.",
+        "C": "Yellow, white, or red",
+        "D": "White, cream, and yellow."
+      }
+    },
+    {
+      "id": "P01-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "As soft or firm",
+        "B": "As sweet or sour",
+        "C": "As fresh or sour",
+        "D": "As large or small"
+      }
+    },
+    {
+      "id": "P01-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "They are eaten.",
+        "B": "They are pressed for juice.",
+        "C": "They are made into sauce.",
+        "D": "They are processed as jam."
+      }
+    },
+    {
+      "id": "P01-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "Cold weather",
+        "B": "Prolonged watering",
+        "C": "Systematic consumption",
+        "D": "Extensive roots"
+      }
+    },
+    {
+      "id": "P01-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "Africa",
+        "B": "South America",
+        "C": "Australia",
+        "D": "Eurasia"
+      }
+    }
+  ]
+}

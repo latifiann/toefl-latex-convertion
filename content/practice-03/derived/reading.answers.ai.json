@@ -1,0 +1,1003 @@
+{
+  "practice_id": "P03",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P03-RC-01-Q01",
+      "passage_id": "P03-RC-01",
+      "source_number": 1,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Passage ini membahas perjalanan politik Andrew Johnson, masa kepresidenannya, dan konflik impeachment yang ia hadapi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q02",
+      "passage_id": "P03-RC-01",
+      "source_number": 2,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "took office",
+      "rationale_id": "Di sini, took office berarti mulai menjabat dalam posisi pemerintahan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q03",
+      "passage_id": "P03-RC-01",
+      "source_number": 3,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Paragraf pertama menunjukkan bahwa Johnson terpilih ke beberapa jabatan penting di Tennessee.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q04",
+      "passage_id": "P03-RC-01",
+      "source_number": 4,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "alliance with the northern states",
+      "rationale_id": "Alliance di sini berarti persatuan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q05",
+      "passage_id": "P03-RC-01",
+      "source_number": 5,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "violent temper and unyielding stubbornness",
+      "rationale_id": "Passage ini mengaitkan kejatuhannya langsung dengan karakter pribadinya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q06",
+      "passage_id": "P03-RC-01",
+      "source_number": 6,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "city council ... state senate ... state governor ... U.S. House",
+      "rationale_id": "Ia sudah memiliki pengalaman politik yang luas sebelum menjadi presiden.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q07",
+      "passage_id": "P03-RC-01",
+      "source_number": 7,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "concerned ... feared retaliation",
+      "rationale_id": "Detail ini menunjukkan bahwa warga Selatan cemas terhadap masa depan mereka.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q08",
+      "passage_id": "P03-RC-01",
+      "source_number": 8,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "gridlock ... veto was overridden ... voted to impeach Johnson",
+      "rationale_id": "Oposisi di Kongres merusak dan melemahkan masa kepresidenannya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q09",
+      "passage_id": "P03-RC-01",
+      "source_number": 9,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "pardon political criminals",
+      "rationale_id": "Pardon paling dekat maknanya dengan exonerate dalam konteks ini.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q10",
+      "passage_id": "P03-RC-01",
+      "source_number": 10,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "Stanton refused to step down",
+      "rationale_id": "Peristiwa Stanton menunjukkan bahwa Johnson kehilangan otoritas eksekutif.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q11",
+      "passage_id": "P03-RC-01",
+      "source_number": 11,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 23,
+          "end": 23
+        }
+      ],
+      "evidence_quote": "Johnson dismissed the secretary of war",
+      "rationale_id": "Dismissed berarti diberhentikan atau dicopot dari jabatan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-01-Q12",
+      "passage_id": "P03-RC-01",
+      "source_number": 12,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 25,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "the Senate came one vote short",
+      "rationale_id": "Upaya impeachment gagal dengan selisih yang sangat tipis.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q01",
+      "passage_id": "P03-RC-02",
+      "source_number": 13,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Passage ini membahas betapa luasnya stereotip sex-trait serta bagaimana stereotip itu dipelajari dan disebarkan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q02",
+      "passage_id": "P03-RC-02",
+      "source_number": 14,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "ambitious",
+      "rationale_id": "Ambitious paling dekat maknanya dengan enterprising.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q03",
+      "passage_id": "P03-RC-02",
+      "source_number": 15,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "high-strung",
+      "rationale_id": "High-strung berarti nervous atau tense.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q04",
+      "passage_id": "P03-RC-02",
+      "source_number": 16,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "remain common among young adults today",
+      "rationale_id": "Passage ini menyatakan bahwa keyakinan kaum muda hampir tidak berubah.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q05",
+      "passage_id": "P03-RC-02",
+      "source_number": 17,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "perpetuate",
+      "rationale_id": "Perpetuate berarti mempertahankan atau melanjutkan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q06",
+      "passage_id": "P03-RC-02",
+      "source_number": 18,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Pilihan B sesuai dengan pernyataan bahwa keyakinan sosial memicu rasionalisasi stereotyping.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q07",
+      "passage_id": "P03-RC-02",
+      "source_number": 19,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "children's literature and television programs provide powerful models",
+      "rationale_id": "Paragraf kedua mendukung gagasan bahwa pembelajaran terjadi melalui paparan berbagai media.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q08",
+      "passage_id": "P03-RC-02",
+      "source_number": 20,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "the reasons for this learning are not fully understood",
+      "rationale_id": "Batasan penelitian disebut pada baris 13-15.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q09",
+      "passage_id": "P03-RC-02",
+      "source_number": 21,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "cross-nationally show a high degree of correspondence",
+      "rationale_id": "Passage ini mengatakan bahwa karakterisasi tersebut ditemukan di beberapa negara.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q10",
+      "passage_id": "P03-RC-02",
+      "source_number": 22,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "correspondence",
+      "rationale_id": "Correspondence paling dekat maknanya dengan agreement.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q11",
+      "passage_id": "P03-RC-02",
+      "source_number": 23,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Karena stereotip tetap umum meski ada gerakan reformasi, penulis memandang perubahan radikal tidak mungkin terjadi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-02-Q12",
+      "passage_id": "P03-RC-02",
+      "source_number": 24,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Topiknya adalah stereotyping, peran sosial, dan sikap sosial, sehingga cocok dengan bidang sociology.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q01",
+      "passage_id": "P03-RC-03",
+      "source_number": 25,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Passage ini berfokus pada pemasaran menyesatkan terkait klaim mirip mukjizat di toko makanan sehat.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q02",
+      "passage_id": "P03-RC-03",
+      "source_number": 26,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Penulis memakai bahasa yang skeptis dan tajam, jadi tonenya sarcastic.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q03",
+      "passage_id": "P03-RC-03",
+      "source_number": 27,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "touted",
+      "rationale_id": "Touted paling dekat maknanya dengan talked about atau promoted.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q04",
+      "passage_id": "P03-RC-03",
+      "source_number": 28,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Garlic dan squash adalah contoh miskonsepsi yang bertahan tentang kekuatan penyembuhan makanan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q05",
+      "passage_id": "P03-RC-03",
+      "source_number": 29,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "capitalize on real and imagined problems",
+      "rationale_id": "Kesuksesan komersial dijelaskan saat passage menerangkan bagaimana toko mengeksploitasi kekhawatiran pelanggan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q06",
+      "passage_id": "P03-RC-03",
+      "source_number": 30,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "cajoled",
+      "rationale_id": "Cajoled berarti coaxed atau persuaded.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q07",
+      "passage_id": "P03-RC-03",
+      "source_number": 31,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "cost more ... do not actually need",
+      "rationale_id": "Passage ini menyiratkan bahwa pemilik toko memaksimalkan keuntungan dengan mengeksploitasi gullibility konsumen.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-03-Q08",
+      "passage_id": "P03-RC-03",
+      "source_number": 32,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "slight disregard for truth",
+      "rationale_id": "Penulis menyiratkan bisnis ini bisa mendekati cheating.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q01",
+      "passage_id": "P03-RC-04",
+      "source_number": 33,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "electricity would take over virtually all fuel-generating functions",
+      "rationale_id": "Rencananya adalah mengalihkan industri dan ekonomi secara besar-besaran ke nuclear power.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q02",
+      "passage_id": "P03-RC-04",
+      "source_number": 34,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "the public accepted the notion",
+      "rationale_id": "Kata accepted menunjukkan bahwa publik bersikap receptive.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q03",
+      "passage_id": "P03-RC-04",
+      "source_number": 35,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "nominal costs",
+      "rationale_id": "Nominal costs berarti biaya minimal.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q04",
+      "passage_id": "P03-RC-04",
+      "source_number": 36,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "notion",
+      "rationale_id": "Notion di sini berarti idea.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q05",
+      "passage_id": "P03-RC-04",
+      "source_number": 37,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "this outlook",
+      "rationale_id": "This outlook merujuk pada ekspektasi peningkatan jumlah nuclear plants.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q06",
+      "passage_id": "P03-RC-04",
+      "source_number": 38,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "no possibility of evacuating residents",
+      "rationale_id": "Contoh Shoreham menunjukkan bahwa pejabat meremehkan konsekuensi kecelakaan serius.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q07",
+      "passage_id": "P03-RC-04",
+      "source_number": 39,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "another 3 are still under construction",
+      "rationale_id": "Passage ini menunjukkan bahwa konstruksi masih berlanjut, tetapi dalam skala yang jauh lebih kecil.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q08",
+      "passage_id": "P03-RC-04",
+      "source_number": 40,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Passage ini disusun melalui hubungan cause-and-effect antara kebijakan dan hasilnya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-04-Q09",
+      "passage_id": "P03-RC-04",
+      "source_number": 41,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "the issue ... has not yet been satisfactorily resolved",
+      "rationale_id": "Masalah bahan bakar dan energi di masa depan masih belum terselesaikan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q01",
+      "passage_id": "P03-RC-05",
+      "source_number": 42,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [],
+      "evidence_quote": "",
+      "rationale_id": "Passage ini menjelaskan bahwa peta dapat dikoleksi oleh profesional maupun enthusiast.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q02",
+      "passage_id": "P03-RC-05",
+      "source_number": 43,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "lucrative",
+      "rationale_id": "Lucrative berarti profitable.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q03",
+      "passage_id": "P03-RC-05",
+      "source_number": 44,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "maps are relatively rarer than stamps",
+      "rationale_id": "Hobi ini digambarkan kurang konvensional dibanding koleksi perangko.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q04",
+      "passage_id": "P03-RC-05",
+      "source_number": 45,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "avid enthusiasts and admirers",
+      "rationale_id": "Passage ini menyiratkan bahwa peta juga menarik bagi ardent devotees.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q05",
+      "passage_id": "P03-RC-05",
+      "source_number": 46,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "economic means",
+      "rationale_id": "Economic means merujuk pada available funds.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q06",
+      "passage_id": "P03-RC-05",
+      "source_number": 47,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "dealer stock ... advertisements ... Library of Congress and private agencies",
+      "rationale_id": "Passage ini menyebut beberapa sumber, tetapi tidak menyebut fellow collectors.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q07",
+      "passage_id": "P03-RC-05",
+      "source_number": 48,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "superficially prosaic",
+      "rationale_id": "Frasa ini berarti tampak membosankan dan tidak imajinatif.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q08",
+      "passage_id": "P03-RC-05",
+      "source_number": 49,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "predisposed",
+      "rationale_id": "Predisposed paling dekat maknanya dengan inclined.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P03-RC-05-Q09",
+      "passage_id": "P03-RC-05",
+      "source_number": 50,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "Library of Congress and private agencies",
+      "rationale_id": "Paragraf berikutnya kemungkinan melanjutkan dengan organisasi spesifik untuk perolehan peta.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    }
+  ]
+}

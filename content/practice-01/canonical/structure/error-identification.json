@@ -1,0 +1,1258 @@
+{
+  "practice_id": "P01",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-ST-16",
+      "source_number": 16,
+      "prompt": "In summer(A), warm southern air carries(B) moist(C) north to the eastern and central(D) United States.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In summer",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", warm southern ",
+          "underlined": false
+        },
+        {
+          "text": "air carries",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "moist",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " north to the eastern and ",
+          "underlined": false
+        },
+        {
+          "text": "central",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " United States.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-17",
+      "source_number": 17,
+      "prompt": "Billie Holiday became recognized(A) as the most innovative(B) jazz singer of her day(C) and was admiration(D) for her vocal range.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Billie Holiday became ",
+          "underlined": false
+        },
+        {
+          "text": "recognized",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " as the most ",
+          "underlined": false
+        },
+        {
+          "text": "innovative",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " jazz singer of her ",
+          "underlined": false
+        },
+        {
+          "text": "day",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and was ",
+          "underlined": false
+        },
+        {
+          "text": "admiration",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " for her vocal range.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-18",
+      "source_number": 18,
+      "prompt": "To raise livestock successfully(A), farmers must selecting(B) cattle for breeding(C) and apply(D) a dietary regimen.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "To raise livestock ",
+          "underlined": false
+        },
+        {
+          "text": "successfully",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", farmers must ",
+          "underlined": false
+        },
+        {
+          "text": "selecting",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " cattle for ",
+          "underlined": false
+        },
+        {
+          "text": "breeding",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "apply",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " a dietary regimen.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-19",
+      "source_number": 19,
+      "prompt": "In the 1960s, urban renewal(A) projects cleared land(B) for commerce(C) and offices building.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In the 1960s, ",
+          "underlined": false
+        },
+        {
+          "text": "urban renewal",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " projects ",
+          "underlined": false
+        },
+        {
+          "text": "cleared land",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " for ",
+          "underlined": false
+        },
+        {
+          "text": "commerce",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "offices building.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-20",
+      "source_number": 20,
+      "prompt": "In 1868, Sioux leaders signed a treaty(A) preventing(B) whites from traveling(C) through the Sioux territorial.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In 1868, Sioux leaders signed a ",
+          "underlined": false
+        },
+        {
+          "text": "treaty",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "preventing",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " whites from ",
+          "underlined": false
+        },
+        {
+          "text": "traveling",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " through the Sioux ",
+          "underlined": false
+        },
+        {
+          "text": "territorial.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-21",
+      "source_number": 21,
+      "prompt": "A number(A) multiplied by zero(B) is zero, and a number multiplied(C) by one is the same as number(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "A number",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " multiplied ",
+          "underlined": false
+        },
+        {
+          "text": "by zero",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " is zero, and a number ",
+          "underlined": false
+        },
+        {
+          "text": "multiplied",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " by one is the same ",
+          "underlined": false
+        },
+        {
+          "text": "as number",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-22",
+      "source_number": 22,
+      "prompt": "Muscles aids(A) in attaching(B) portions of the skeleton to one another(C) and ultimately shape(D) the torso.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Muscles ",
+          "underlined": false
+        },
+        {
+          "text": "aids",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "text": "attaching",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " portions of the skeleton to one ",
+          "underlined": false
+        },
+        {
+          "text": "another",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ultimately ",
+          "underlined": false
+        },
+        {
+          "text": "shape",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " the torso.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-23",
+      "source_number": 23,
+      "prompt": "Thomas More, who fell into(A) disfavor with the king, was a(B) great English author, statesman(C), and scholars.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Thomas More, who ",
+          "underlined": false
+        },
+        {
+          "text": "fell into",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " disfavor with the king, ",
+          "underlined": false
+        },
+        {
+          "text": "was a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " great English author, ",
+          "underlined": false
+        },
+        {
+          "text": "statesman",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "text": "scholars.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-24",
+      "source_number": 24,
+      "prompt": "The first(A) microprocessors were fabricated(B) in 1971 for installation(C) in handhold(D) calculators.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The first",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " microprocessors ",
+          "underlined": false
+        },
+        {
+          "text": "were fabricated",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in 1971 ",
+          "underlined": false
+        },
+        {
+          "text": "for installation",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "in handhold",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " calculators.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-25",
+      "source_number": 25,
+      "prompt": "If autistic children(A) form an attachment(B), it predominantly was(C) to inanimate objects(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "If autistic ",
+          "underlined": false
+        },
+        {
+          "text": "children",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " form an ",
+          "underlined": false
+        },
+        {
+          "text": "attachment",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", it ",
+          "underlined": false
+        },
+        {
+          "text": "predominantly was",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "inanimate objects",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-26",
+      "source_number": 26,
+      "prompt": "Technology is define(A) as the tools(B), skills, and methods that are(C) necessary to produce(D) goods.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Technology ",
+          "underlined": false
+        },
+        {
+          "text": "is define",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " as ",
+          "underlined": false
+        },
+        {
+          "text": "the tools",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", skills, and methods ",
+          "underlined": false
+        },
+        {
+          "text": "that are",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " necessary ",
+          "underlined": false
+        },
+        {
+          "text": "to produce",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " goods.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-27",
+      "source_number": 27,
+      "prompt": "Fruit flies do not have(A) to leap to(B) take off because of(C) they become airborne solely by wing movement(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Fruit flies do ",
+          "underlined": false
+        },
+        {
+          "text": "not have",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "leap to",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " take off ",
+          "underlined": false
+        },
+        {
+          "text": "because of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " they become airborne solely by ",
+          "underlined": false
+        },
+        {
+          "text": "wing movement",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-28",
+      "source_number": 28,
+      "prompt": "Historians postulate that(A) Eskimos migrated(B) from Alaska to Greenland in two(C) greater(D) movements.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Historians postulate ",
+          "underlined": false
+        },
+        {
+          "text": "that",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " Eskimos ",
+          "underlined": false
+        },
+        {
+          "text": "migrated",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " from Alaska to Greenland ",
+          "underlined": false
+        },
+        {
+          "text": "in two",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "greater",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " movements.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-29",
+      "source_number": 29,
+      "prompt": "Electric(A) wires carry current(B) for lighting(C) and outlets designing(D) for household appliances.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Electric",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " wires ",
+          "underlined": false
+        },
+        {
+          "text": "carry current",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " for ",
+          "underlined": false
+        },
+        {
+          "text": "lighting",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and outlets ",
+          "underlined": false
+        },
+        {
+          "text": "designing",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " for household appliances.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-30",
+      "source_number": 30,
+      "prompt": "Troops housing(A) in Fort Bliss, Texas, train(B) to operate(C) aircraft equipment(D) and artillery.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Troops ",
+          "underlined": false
+        },
+        {
+          "text": "housing",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " in Fort Bliss, Texas, ",
+          "underlined": false
+        },
+        {
+          "text": "train",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "operate",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " aircraft ",
+          "underlined": false
+        },
+        {
+          "text": "equipment",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " and artillery.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-31",
+      "source_number": 31,
+      "prompt": "Charles Kettering patented(A) the first success(B) spark-based(C) starter for automotive(D) vehicles in 1911.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Charles Kettering ",
+          "underlined": false
+        },
+        {
+          "text": "patented",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " the first ",
+          "underlined": false
+        },
+        {
+          "text": "success",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " spark-",
+          "underlined": false
+        },
+        {
+          "text": "based",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " starter for ",
+          "underlined": false
+        },
+        {
+          "text": "automotive",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " vehicles in 1911.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-32",
+      "source_number": 32,
+      "prompt": "During the 1700s, public concerts proliferated(A) when composers wrote(B) music for their(C) audiences enjoying.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "During the 1700s, public concerts ",
+          "underlined": false
+        },
+        {
+          "text": "proliferated",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " when composers ",
+          "underlined": false
+        },
+        {
+          "text": "wrote",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " music for ",
+          "underlined": false
+        },
+        {
+          "text": "their",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "audiences ",
+          "underlined": false
+        },
+        {
+          "text": "enjoying.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-33",
+      "source_number": 33,
+      "prompt": "The philosophers(A) and artists of ancient Greece and Rome emphasized the(B) study of human as(C) fundamental(D) to their doctrine.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The ",
+          "underlined": false
+        },
+        {
+          "text": "philosophers",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " and artists of ancient Greece and Rome ",
+          "underlined": false
+        },
+        {
+          "text": "emphasized the",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " study of ",
+          "underlined": false
+        },
+        {
+          "text": "human as",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "fundamental",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " to their doctrine.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-34",
+      "source_number": 34,
+      "prompt": "Computer graphics(A) software has infinite(B) applications(C) in a widely(D) array of fields.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Computer ",
+          "underlined": false
+        },
+        {
+          "text": "graphics",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " software ",
+          "underlined": false
+        },
+        {
+          "text": "has infinite",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "applications",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " in a ",
+          "underlined": false
+        },
+        {
+          "text": "widely",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " array of fields.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-35",
+      "source_number": 35,
+      "prompt": "The planet Mercury rotates(A) slow(B) than any other(C) planet except(D) Venus.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The planet Mercury ",
+          "underlined": false
+        },
+        {
+          "text": "rotates",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "slow",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " than any ",
+          "underlined": false
+        },
+        {
+          "text": "other",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " planet ",
+          "underlined": false
+        },
+        {
+          "text": "except",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " Venus.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-36",
+      "source_number": 36,
+      "prompt": "Van Cliburn he studied(A) piano from(B) 1951 to 1954 and won(C) multiple awards between(D) 1958 and 1960.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Van Cliburn ",
+          "underlined": false
+        },
+        {
+          "text": "he studied",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "piano from",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " 1951 to 1954 and ",
+          "underlined": false
+        },
+        {
+          "text": "won",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " multiple ",
+          "underlined": false
+        },
+        {
+          "text": "awards between",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " 1958 and 1960.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-37",
+      "source_number": 37,
+      "prompt": "Not only comics(A) show a part of(B) a story but they also convey(C) the complete(D) story.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Not ",
+          "underlined": false
+        },
+        {
+          "text": "only comics",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " show a ",
+          "underlined": false
+        },
+        {
+          "text": "part of",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " a story but they ",
+          "underlined": false
+        },
+        {
+          "text": "also convey",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "the complete",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " story.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-38",
+      "source_number": 38,
+      "prompt": "How much information(A) can be retained(B) in short-term memory depends almost exclusively(C) on how it arranged.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "How ",
+          "underlined": false
+        },
+        {
+          "text": "much information",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " can ",
+          "underlined": false
+        },
+        {
+          "text": "be retained",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in short-term memory depends ",
+          "underlined": false
+        },
+        {
+          "text": "almost exclusively",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " on how ",
+          "underlined": false
+        },
+        {
+          "text": "it arranged.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-39",
+      "source_number": 39,
+      "prompt": "When readers contribute(A) funds to private(B) libraries, these readers are used(C) the library without charge.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "When readers ",
+          "underlined": false
+        },
+        {
+          "text": "contribute",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " funds ",
+          "underlined": false
+        },
+        {
+          "text": "to private",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " libraries, these readers ",
+          "underlined": false
+        },
+        {
+          "text": "are used",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " the library ",
+          "underlined": false
+        },
+        {
+          "text": "without charge.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    },
+    {
+      "id": "P01-ST-40",
+      "source_number": 40,
+      "prompt": "Diagrams(A) display informations(B) in a conspicuous way and vividly(C) show differences and similarities.(D)",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Diagrams",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " display ",
+          "underlined": false
+        },
+        {
+          "text": "informations",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in a conspicuous way and ",
+          "underlined": false
+        },
+        {
+          "text": "vividly",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " show differences and ",
+          "underlined": false
+        },
+        {
+          "text": "similarities.",
+          "underlined": true,
+          "marker": "D"
+        }
+      ]
+    }
+  ]
+}

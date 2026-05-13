@@ -1,0 +1,207 @@
+{
+  "practice_id": "P01",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-ST-01",
+      "source_number": 1,
+      "prompt": "Fort Niagara was built by the French in 1726 on land.......the Seneca Indians.",
+      "choices": {
+        "A": "they buy from",
+        "B": "bought from",
+        "C": "buying from",
+        "D": "was bought from"
+      }
+    },
+    {
+      "id": "P01-ST-02",
+      "source_number": 2,
+      "prompt": "Soil texture depends on the proportions of clay and sand particles,......soil porosity.",
+      "choices": {
+        "A": "both alter",
+        "B": "which alter",
+        "C": "where altered",
+        "D": "although altered"
+      }
+    },
+    {
+      "id": "P01-ST-03",
+      "source_number": 3,
+      "prompt": "The writers of the realist movement embraced the notion that art should depict life......",
+      "choices": {
+        "A": "accurately and objectively",
+        "B": "accuracy and objectivity",
+        "C": "accurate and objective",
+        "D": "accurate objectivity"
+      }
+    },
+    {
+      "id": "P01-ST-04",
+      "source_number": 4,
+      "prompt": "A ratio is a comparison of......whole or a part to another part.",
+      "choices": {
+        "A": "part to the",
+        "B": "a part to",
+        "C": "a part to the",
+        "D": "the part to the"
+      }
+    },
+    {
+      "id": "P01-ST-05",
+      "source_number": 5,
+      "prompt": "The bones of the elderly are more prone to fractures and splintering......of young people.",
+      "choices": {
+        "A": "than that",
+        "B": "than those",
+        "C": "those than",
+        "D": "that than"
+      }
+    },
+    {
+      "id": "P01-ST-06",
+      "source_number": 6,
+      "prompt": "English and Scottish settlers......Belfast as a trading post in 1613.",
+      "choices": {
+        "A": "they established",
+        "B": "established themselves",
+        "C": "established",
+        "D": "establishing"
+      }
+    },
+    {
+      "id": "P01-ST-07",
+      "source_number": 7,
+      "prompt": "The formulation of economic policies necessitates meticulous consideration......large segments of the population.",
+      "choices": {
+        "A": "because they affect",
+        "B": "they are affected because",
+        "C": "affect them because",
+        "D": "because affecting them"
+      }
+    },
+    {
+      "id": "P01-ST-08",
+      "source_number": 8,
+      "prompt": "Only......feathered creatures inhabit the Arctic region year round.",
+      "choices": {
+        "A": "fewer",
+        "B": "fewer than",
+        "C": "as few as",
+        "D": "a few"
+      }
+    },
+    {
+      "id": "P01-ST-09",
+      "source_number": 9,
+      "prompt": "Before Richard Bennett accepted the appointment as the prime minister of Canada in 1930, he......as a lawyer.",
+      "choices": {
+        "A": "had achieved a successful",
+        "B": "had been achieved successfully",
+        "C": "has achieved success",
+        "D": "had achieved success"
+      }
+    },
+    {
+      "id": "P01-ST-10",
+      "source_number": 10,
+      "prompt": "Gardeners transplant bushes and flowers by moving them from one place to......",
+      "choices": {
+        "A": "other",
+        "B": "others",
+        "C": "another",
+        "D": "each other"
+      }
+    },
+    {
+      "id": "P01-ST-11",
+      "source_number": 11,
+      "prompt": "Museums of natural history are ordinarily.......by special interest groups created for that purpose.",
+      "choices": {
+        "A": "owned and operated",
+        "B": "they own and operate",
+        "C": "owning and operating",
+        "D": "the owner operates"
+      }
+    },
+    {
+      "id": "P01-ST-12",
+      "source_number": 12,
+      "prompt": "A surge in the level of stress......the recurrence of nightmares.",
+      "choices": {
+        "A": "apparent increase",
+        "B": "apparently increase",
+        "C": "apparently increases",
+        "D": "apparent increases"
+      }
+    },
+    {
+      "id": "P01-ST-13",
+      "source_number": 13,
+      "prompt": "Each bowler......in each frame, unless a strike is bowled.",
+      "choices": {
+        "A": "rolling the ball twice",
+        "B": "the ball is rolled twice",
+        "C": "rolls the ball twice",
+        "D": "the ball rolls twice"
+      }
+    },
+    {
+      "id": "P01-ST-14",
+      "source_number": 14,
+      "prompt": "William Hearst had five sons,......eventually became executives in the Hearst newspaper conglomerate.",
+      "choices": {
+        "A": "all of them",
+        "B": "of them all",
+        "C": "all of whom",
+        "D": "who of all"
+      }
+    },
+    {
+      "id": "P01-ST-15",
+      "source_number": 15,
+      "prompt": "An axiomatic assumption in physics holds that all matter has kinetic energy......motion and mass.",
+      "choices": {
+        "A": "because its",
+        "B": "because of its",
+        "C": "because it is",
+        "D": "because of it"
+      }
+    }
+  ]
+}

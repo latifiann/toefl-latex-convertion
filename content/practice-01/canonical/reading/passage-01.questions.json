@@ -1,0 +1,283 @@
+{
+  "practice_id": "P01",
+  "section": "reading",
+  "passage_id": "P01-RC-01",
+  "source_question_range": [
+    1,
+    12
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Charles Lindbergh was born in Detroit, Michigan, in 1902 but was raised on a farm in"
+    },
+    {
+      "line": 2,
+      "text": "Minnesota, where his father was elected to the U.S. Congress in 1907. From then on, he"
+    },
+    {
+      "line": 3,
+      "text": "spent his boyhood alternately in Washington, D.C., Detroit, and Little Falls, Minnesota."
+    },
+    {
+      "line": 4,
+      "text": "Line Because Lindbergh exhibited exceptional mechanical taïent, in 1921 he was admitted to"
+    },
+    {
+      "line": 5,
+      "text": "the University of Wisconsin to study engineering. However, the young man was seeking"
+    },
+    {
+      "line": 6,
+      "text": "more challenging endeavors, and two years later he became a stunt pilot who performed"
+    },
+    {
+      "line": 7,
+      "text": "feats at county fairs and public assemblies. This unusual and dangerous undertaking paid"
+    },
+    {
+      "line": 8,
+      "text": "off handsomely in the sense that it allowed him to gain a diverse and well-rounded experi-"
+    },
+    {
+      "line": 9,
+      "text": "ence in aeronautics. He particularly delighted in what he called \"wing-walking\" and para-"
+    },
+    {
+      "line": 10,
+      "text": "chute jumping."
+    },
+    {
+      "line": 11,
+      "text": "After a year of training as a military cadet, Lindbergh completed his program at the"
+    },
+    {
+      "line": 12,
+      "text": "Brooks and Kelly airfields at the top of his class and earned the rank of captain. Robertson"
+    },
+    {
+      "line": 13,
+      "text": "Aircraft Corporation of St. Louis, Missouri, offered him employment as a mail pilot to run"
+    },
+    {
+      "line": 14,
+      "text": "the routes between St. Louis and Chicago, and Lindbergh retained his position with the"
+    },
+    {
+      "line": 15,
+      "text": "company until 1927. During this period, he set out to win the Raymond B. Orteig prize of"
+    },
+    {
+      "line": 16,
+      "text": "$25,000 to be awarded to the first pilot to fly nonstop from New York to Paris. This ambi-"
+    },
+    {
+      "line": 17,
+      "text": "tion would irreversibly change his life and accord him a prominent place in the history of"
+    },
+    {
+      "line": 18,
+      "text": "Aviation."
+    },
+    {
+      "line": 19,
+      "text": "Embarking on the greatest adventure of his time, Lindbergh left Roosevelt Field at 7:52"
+    },
+    {
+      "line": 20,
+      "text": "A.M. on May 20, 1927, and landed at Le Bourget Field at 5:24 P.M. the next day. Fearing that"
+    },
+    {
+      "line": 21,
+      "text": "he would be unknown when he arrived, Lindbergh carried letters of introduction to digni-"
+    },
+    {
+      "line": 22,
+      "text": "taries in Paris, but when his plane came to a stop, he was overwhelmed by tremendous wel-"
+    },
+    {
+      "line": 23,
+      "text": "coming crowds. He was decorated in France, Great Britain, and Belgium, and President"
+    },
+    {
+      "line": 24,
+      "text": "Coolidge sent a specially designated cruiser, the Memphis, to bring him back. His accom-"
+    },
+    {
+      "line": 25,
+      "text": "plishments in aeronautics brought him more medals and awards than had ever been re-"
+    },
+    {
+      "line": 26,
+      "text": "ceived by any other person in private life."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 4,
+      "end": 10
+    },
+    {
+      "start": 11,
+      "end": 18
+    },
+    {
+      "start": 19,
+      "end": 26
+    }
+  ],
+  "questions": [
+    {
+      "id": "P01-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "Which of the following is the best title for the passage?",
+      "choices": {
+        "A": "A Benchmark Adventure in Aeronautics",
+        "B": "The Early Life of Charles Lindbergh",
+        "C": "Groundbreaking Events in Aviation",
+        "D": "Charles Lindbergh's Explorations"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "According to the passage, Lindbergh did not complete his degree because he",
+      "choices": {
+        "A": "opted for the life of an exhibition pilot",
+        "B": "pursued training in the military",
+        "C": "was seeking a sedentary life-style",
+        "D": "set out to win recognition"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "In line 7, the word \"assemblies\" is closest in meaning to",
+      "choices": {
+        "A": "hearings",
+        "B": "houses",
+        "C": "gatherings",
+        "D": "shows"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P01-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "In line 7 the word \"undertaking\" refers to",
+      "choices": {
+        "A": "studying at the university",
+        "B": "exhibiting mechanical talent",
+        "C": "seeking challenging endeavors",
+        "D": "performing feats"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P01-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "In line 8, the word \"handsomely\" is closest in meaning to",
+      "choices": {
+        "A": "honorably",
+        "B": "handily",
+        "C": "well",
+        "D": "in time"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P01-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "It can be inferred from the passage that. as a military cadet, Lindbergh",
+      "choices": {
+        "A": "was in top form",
+        "B": "earned a good salary",
+        "C": "was the best among students",
+        "D": "trained with the best students"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "The author of the passage implies that Lindbergh's job with Robertson Aircraft Corporation",
+      "choices": {
+        "A": "required regular intercity flights",
+        "B": "was not intended as longterm employment",
+        "C": "required him to perform dangerous flights",
+        "D": "necessitated his running long distances"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "In line 17, the word \"irreversibly\" is closest in meaning to",
+      "choices": {
+        "A": "forever",
+        "B": "formerly",
+        "C": "irresistibly",
+        "D": "only"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    },
+    {
+      "id": "P01-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "According to the passage, how old was Lindbergh when he carried out his challenging flight?",
+      "choices": {
+        "A": "Twenty-one",
+        "B": "Twenty-three",
+        "C": "Twenty-four",
+        "D": "Twenty-five"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "The author of the passage implies that Lindbergh did not anticipate becoming a",
+      "choices": {
+        "A": "pilot",
+        "B": "celebrity",
+        "C": "mail carrier",
+        "D": "army captain"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q11",
+      "source_number": 11,
+      "prompt": "It can be inferred from the passage that in the early 1920s it was NOT common for young people to",
+      "choices": {
+        "A": "study engineering",
+        "B": "train as officers",
+        "C": "go on exhibition tours",
+        "D": "be elected to an office"
+      }
+    },
+    {
+      "id": "P01-RC-01-Q12",
+      "source_number": 12,
+      "prompt": "A paragraph following the passage would most probably discuss",
+      "choices": {
+        "A": "the development of commercial and military aviation",
+        "B": "the reaction of the government to Lindbergh's flight",
+        "C": "the effect of instant celebrity on Lindbergh",
+        "D": "Lindbergh's aircraft and engine modifications"
+      }
+    }
+  ]
+}
