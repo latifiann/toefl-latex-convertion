@@ -1,0 +1,550 @@
+{
+  "practice_id": "P04",
+  "section": "listening",
+  "part": "A",
+  "ai_generated": true,
+  "kind": "reconstruction",
+  "note": "The DOCX source only includes answer choices, so these fields are placeholders for plausible reconstructions rather than official transcripts.",
+  "questions": [
+    {
+      "id": "P04-LA-01",
+      "source_number": 1,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I heard Professor White's advanced seminar is one of the most demanding courses in the department.",
+        "Woman: It is, but his students always speak of him with real admiration.",
+        "Narrator: What does the woman imply?"
+      ]
+    },
+    {
+      "id": "P04-LA-02",
+      "source_number": 2,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: That was an excellent dinner.",
+        "Woman: I'm glad you enjoyed it. Would you care for some dessert?",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-03",
+      "source_number": 3,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Could you lend me a little money for the vending machine?",
+        "Man: Sorry, I left my wallet at home.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-04",
+      "source_number": 4,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Should I leave the copying machine on after I finish these copies?",
+        "Woman: No, please turn it off when you're done.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-05",
+      "source_number": 5,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Did you hear that Tom passed his Latin course?",
+        "Woman: Really? I thought everyone expected him to fail it.",
+        "Narrator: What does the woman imply?"
+      ]
+    },
+    {
+      "id": "P04-LA-06",
+      "source_number": 6,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Did she spend one hundred fifteen dollars on that dress?",
+        "Woman: The dress was one hundred fifteen, and the matching jacket was ninety-five.",
+        "Narrator: How much did she spend?"
+      ]
+    },
+    {
+      "id": "P04-LA-07",
+      "source_number": 7,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What do you think of the new engineering building?",
+        "Woman: To tell the truth, it isn't at all what I expected.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-08",
+      "source_number": 8,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Have you finally made that appointment with the dentist?",
+        "Man: Not yet. I keep putting it off.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-09",
+      "source_number": 9,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Do you think this hall will work for the wedding reception?",
+        "Woman: Not for two hundred guests. It won't hold nearly that many people.",
+        "Narrator: What does the woman imply?"
+      ]
+    },
+    {
+      "id": "P04-LA-10",
+      "source_number": 10,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Could you cash this traveler's check for one thousand dollars?",
+        "Woman: I'm sorry. For checks that large, only the manager is authorized to cash them.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-11",
+      "source_number": 11,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: How did the housecleaning go yesterday?",
+        "Woman: Great. The crew washed all the windows and cleaned the rugs.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-12",
+      "source_number": 12,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What was Linda's reaction when she won the award?",
+        "Woman: She was completely at a loss for words.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-13",
+      "source_number": 13,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Mark looks exhausted this morning.",
+        "Man: He really should stop keeping such late hours.",
+        "Narrator: What does the man mean about Mark?"
+      ]
+    },
+    {
+      "id": "P04-LA-14",
+      "source_number": 14,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Is Ronald planning to travel this summer?",
+        "Woman: Yes, he says he wants to go abroad, but he hasn't decided which country yet.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-15",
+      "source_number": 15,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: The store said they couldn't deliver my dress today.",
+        "Man: Did you give them your address? They can't deliver it if they don't know where you live.",
+        "Narrator: What does the man imply?"
+      ]
+    },
+    {
+      "id": "P04-LA-16",
+      "source_number": 16,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: We still have forty miles to go, and the meeting starts in half an hour.",
+        "Woman: Then there is no way we'll get there on time.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-17",
+      "source_number": 17,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: The business school expected nine hundred new students this year.",
+        "Woman: But only about three hundred actually enrolled.",
+        "Narrator: What does the woman imply?"
+      ]
+    },
+    {
+      "id": "P04-LA-18",
+      "source_number": 18,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Did you hear that Mr. Benson has started taking singing lessons?",
+        "Woman: At his age? That's certainly an unusual time to begin.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-19",
+      "source_number": 19,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I explained the assignment three times, but the students still asked the same questions afterward.",
+        "Woman: It sounds as if they aren't paying attention to what you say.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-20",
+      "source_number": 20,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What did you and your sister do after dinner?",
+        "Woman: We took a walk along the river and watched the sunset.",
+        "Narrator: What did the woman and her sister do?"
+      ]
+    },
+    {
+      "id": "P04-LA-21",
+      "source_number": 21,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Should we go down to the office for tickets to the game?",
+        "Woman: Let's call first and see whether any are still available.",
+        "Narrator: What will they probably do first?"
+      ]
+    },
+    {
+      "id": "P04-LA-22",
+      "source_number": 22,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Since the phone is always busy, maybe we should get another line.",
+        "Woman: I don't think we can afford another monthly bill right now.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-23",
+      "source_number": 23,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Since I already took math at another school, can I skip the placement test?",
+        "Man: No. All new students have to take the math placement test, even with transfer credit.",
+        "Narrator: What does the man mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-24",
+      "source_number": 24,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: The roses need pruning, and the lawn has to be reseeded.",
+        "Woman: Then we should hire someone who really knows how to care for plants.",
+        "Narrator: Whom do they need?"
+      ]
+    },
+    {
+      "id": "P04-LA-25",
+      "source_number": 25,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: What are you doing in the garage?",
+        "Woman: I'm just listening to the final round of the contest on the radio.",
+        "Narrator: What is the woman doing?"
+      ]
+    },
+    {
+      "id": "P04-LA-26",
+      "source_number": 26,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I'd like to rent a compact car for the weekend.",
+        "Woman: Certainly. May I see your driver's license and credit card?",
+        "Narrator: Where does this conversation probably take place?"
+      ]
+    },
+    {
+      "id": "P04-LA-27",
+      "source_number": 27,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: I feel sick, but my exam is today. Do you think I should stay home or go take it?",
+        "Woman: I wish I could tell you, but I really don't know what you should do.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-28",
+      "source_number": 28,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: This course is impossible. I blame the class for my poor grade.",
+        "Woman: I don't think the course is at fault. It's difficult, but it is fair.",
+        "Narrator: What does the woman mean?"
+      ]
+    },
+    {
+      "id": "P04-LA-29",
+      "source_number": 29,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Man: Do you have the new edition of the biology textbook?",
+        "Woman: It's on the shelf with the other required course books. The used copies are in the next aisle.",
+        "Narrator: Where does this conversation probably take place?"
+      ]
+    },
+    {
+      "id": "P04-LA-30",
+      "source_number": 30,
+      "missing_from_source": false,
+      "speaker_1": "",
+      "speaker_2": "",
+      "narrator_question": "",
+      "proposed_answer": null,
+      "confidence_label": null,
+      "alternate_reconstruction": "",
+      "notes_id": "",
+      "notes_en": "",
+      "transcript_lines": [
+        "Woman: Congratulations! I heard you came in first yesterday.",
+        "Man: Thanks. I still can't believe I won the cross-country ski race.",
+        "Narrator: What did the man do?"
+      ]
+    }
+  ]
+}

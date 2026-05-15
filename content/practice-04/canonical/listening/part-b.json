@@ -1,0 +1,94 @@
+{
+  "practice_id": "P04",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    37
+  ],
+  "questions": [
+    {
+      "id": "P04-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "In a movie theater",
+        "B": "In a baseball stadium",
+        "C": "At the man and woman's house",
+        "D": "At a concession stand"
+      }
+    },
+    {
+      "id": "P04-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "Corn on the cob",
+        "B": "Four types of oil",
+        "C": "A cooking pot",
+        "D": "A small heater"
+      }
+    },
+    {
+      "id": "P04-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "They are not good for you.",
+        "B": "They are cheap.",
+        "C": "They were invented by settlers.",
+        "D": "They need moisture."
+      }
+    },
+    {
+      "id": "P04-LB-34",
+      "source_number": 34,
+      "choices": {
+        "A": "It's necessary.",
+        "B": "It adds calories.",
+        "C": "It's good for you.",
+        "D": "It tastes terrible."
+      }
+    },
+    {
+      "id": "P04-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "The liquid coats the corn.",
+        "B": "Oil puffs up the corn.",
+        "C": "It makes the kernel explode.",
+        "D": "Moisture expands at the seams."
+      }
+    },
+    {
+      "id": "P04-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": "You could eat the corn all day long.",
+        "B": "The corn kernels would burn.",
+        "C": "The kernels will expand from heating.",
+        "D": "The corn would have more kernels."
+      }
+    },
+    {
+      "id": "P04-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "It's many times larger.",
+        "B": "It's comparatively small.",
+        "C": "It's hard to measure.",
+        "D": "It grows steadily."
+      }
+    }
+  ]
+}

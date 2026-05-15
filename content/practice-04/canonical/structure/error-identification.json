@@ -1,0 +1,1286 @@
+{
+  "practice_id": "P04",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-ST-16",
+      "source_number": 16,
+      "prompt": "James Maxwell based(A) his work on(B) the discoveries(C) of the English physical(D) Michael Faraday.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "James Maxwell ",
+          "underlined": false
+        },
+        {
+          "text": "based",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " his ",
+          "underlined": false
+        },
+        {
+          "text": "work on",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "discoveries",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of the English ",
+          "underlined": false
+        },
+        {
+          "text": "physical",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " Michael Faraday.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-17",
+      "source_number": 17,
+      "prompt": "The behavior of animals appears to(A) depend on patterns of(B) reactions which(C) they are(D) born.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The behavior of animals ",
+          "underlined": false
+        },
+        {
+          "text": "appears to",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " depend on ",
+          "underlined": false
+        },
+        {
+          "text": "patterns of",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "reactions which",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "they are",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " born.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-18",
+      "source_number": 18,
+      "prompt": "For centuries(A), people have wondered(B) why have they(C) particular dreams while they sleep(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "For centuries",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", people ",
+          "underlined": false
+        },
+        {
+          "text": "have wondered",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " why ",
+          "underlined": false
+        },
+        {
+          "text": "have they",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " particular dreams while ",
+          "underlined": false
+        },
+        {
+          "text": "they sleep",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-19",
+      "source_number": 19,
+      "prompt": "After the(A) Roman Empire has collapsed(B), Europe had no regular(C) postal(D) service.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "After the",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " Roman Empire ",
+          "underlined": false
+        },
+        {
+          "text": "has collapsed",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", Europe had ",
+          "underlined": false
+        },
+        {
+          "text": "no regular",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "postal",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " service.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-20",
+      "source_number": 20,
+      "prompt": "Most frequently, asphalt is used(A) to pave(B) streets, avenues(C), highways, and airport(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Most frequently, asphalt ",
+          "underlined": false
+        },
+        {
+          "text": "is used",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "to pave",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " streets, ",
+          "underlined": false
+        },
+        {
+          "text": "avenues",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", highways, and ",
+          "underlined": false
+        },
+        {
+          "text": "airport",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-21",
+      "source_number": 21,
+      "prompt": "Samuel Coleridge was poet(A) and philosopher of the English(B) romantic(C) movement in the early(D) 1800s.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Samuel Coleridge was ",
+          "underlined": false
+        },
+        {
+          "text": "poet",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " and philosopher of ",
+          "underlined": false
+        },
+        {
+          "text": "the English",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "romantic",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " movement in ",
+          "underlined": false
+        },
+        {
+          "text": "the early",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " 1800s.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-22",
+      "source_number": 22,
+      "prompt": "When one person intentional(A) takes the property of another(B) without legal justification(C), the crime is called(D) theft.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "When one person ",
+          "underlined": false
+        },
+        {
+          "text": "intentional",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " takes the property of ",
+          "underlined": false
+        },
+        {
+          "text": "another",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " without legal ",
+          "underlined": false
+        },
+        {
+          "text": "justification",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", the crime is ",
+          "underlined": false
+        },
+        {
+          "text": "called",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " theft.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-23",
+      "source_number": 23,
+      "prompt": "Computers(A) programs, catalogues(B), directories, and collections(C) of data are protected(D) by copyright laws.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Computers",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " programs, ",
+          "underlined": false
+        },
+        {
+          "text": "catalogues",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", directories, and ",
+          "underlined": false
+        },
+        {
+          "text": "collections",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of data are ",
+          "underlined": false
+        },
+        {
+          "text": "protected",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " by copyright laws.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-24",
+      "source_number": 24,
+      "prompt": "The water temperature in a spring(A) depends on that(B) of the soil through where(C) the water flows(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The water temperature in ",
+          "underlined": false
+        },
+        {
+          "text": "a spring",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " depends ",
+          "underlined": false
+        },
+        {
+          "text": "on that",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " of the soil through ",
+          "underlined": false
+        },
+        {
+          "text": "where",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " the water ",
+          "underlined": false
+        },
+        {
+          "text": "flows",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-25",
+      "source_number": 25,
+      "prompt": "Tree squirrels are active, noisy(A), and lively(B) animals that(C) make its home(D) in tree trunks.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Tree squirrels are active, ",
+          "underlined": false
+        },
+        {
+          "text": "noisy",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "text": "lively",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "animals that",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " make ",
+          "underlined": false
+        },
+        {
+          "text": "its home",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in tree trunks.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-26",
+      "source_number": 26,
+      "prompt": "Botanists have determined(A) that there is(B) more than 60 species(C) of sunflowers(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Botanists ",
+          "underlined": false
+        },
+        {
+          "text": "have determined",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " that ",
+          "underlined": false
+        },
+        {
+          "text": "there is",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " more than 60 ",
+          "underlined": false
+        },
+        {
+          "text": "species",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "sunflowers",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-27",
+      "source_number": 27,
+      "prompt": "Pure sodium immediately(A) combines(B) with oxygen when is exposed(C) to air(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Pure sodium ",
+          "underlined": false
+        },
+        {
+          "text": "immediately",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "combines",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " with oxygen when ",
+          "underlined": false
+        },
+        {
+          "text": "is exposed",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "to air",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-28",
+      "source_number": 28,
+      "prompt": "Special education is intended help(A) both(B) handicapped and gifted children to reach(C) their learning(D) potentials.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Special education is intended ",
+          "underlined": false
+        },
+        {
+          "text": "help",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "both",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " handicapped and gifted children to ",
+          "underlined": false
+        },
+        {
+          "text": "reach",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " their ",
+          "underlined": false
+        },
+        {
+          "text": "learning",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " potentials.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-29",
+      "source_number": 29,
+      "prompt": "Trading(A) fairs held(B) in Antwerp during the 1300s brought(C) famous(D) to the city.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Trading",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " fairs ",
+          "underlined": false
+        },
+        {
+          "text": "held",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in Antwerp during the 1300s ",
+          "underlined": false
+        },
+        {
+          "text": "brought",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "famous",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " to the city.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-30",
+      "source_number": 30,
+      "prompt": "By 1850, California had a sufficiently(A) large population(B) to recognized(C) as a state(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "By 1850, California had ",
+          "underlined": false
+        },
+        {
+          "text": "a sufficiently",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "large population",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "to recognized",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "as a state",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-31",
+      "source_number": 31,
+      "prompt": "Gingham is a fabric(A) used to make dresses(B), curtains(C), and furnitures(D) covers.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Gingham is ",
+          "underlined": false
+        },
+        {
+          "text": "a fabric",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " used to make ",
+          "underlined": false
+        },
+        {
+          "text": "dresses",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "text": "curtains",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "text": "furnitures",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " covers.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-32",
+      "source_number": 32,
+      "prompt": "Plato's most last(A) contribution to mathematics was his insistence(B) on using(C) reasoning(D) in geometry.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Plato's most ",
+          "underlined": false
+        },
+        {
+          "text": "last",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " contribution to mathematics was his ",
+          "underlined": false
+        },
+        {
+          "text": "insistence",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " on ",
+          "underlined": false
+        },
+        {
+          "text": "using",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "reasoning",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in geometry.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-33",
+      "source_number": 33,
+      "prompt": "Sedatives are a group(A) of drugs that legally(B) prescribed and should be taken(C) as directed(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Sedatives are ",
+          "underlined": false
+        },
+        {
+          "text": "a group",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of drugs ",
+          "underlined": false
+        },
+        {
+          "text": "that legally",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " prescribed and should ",
+          "underlined": false
+        },
+        {
+          "text": "be taken",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "as directed",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-34",
+      "source_number": 34,
+      "prompt": "Maps that show(A) detail(B) landforms are commonly(C) used(D) in physical geography and geology.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Maps ",
+          "underlined": false
+        },
+        {
+          "text": "that show",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "detail",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " landforms ",
+          "underlined": false
+        },
+        {
+          "text": "are commonly",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "used",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in physical geography and geology.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-35",
+      "source_number": 35,
+      "prompt": "When the minerals needed(A) for corn to grow(B) are lack(C), the husks may be stunted(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "When the minerals ",
+          "underlined": false
+        },
+        {
+          "text": "needed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " for corn ",
+          "underlined": false
+        },
+        {
+          "text": "to grow",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "are lack",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", the husks may ",
+          "underlined": false
+        },
+        {
+          "text": "be stunted",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-36",
+      "source_number": 36,
+      "prompt": "Rembrandt was forced(A) to declare(B) bankruptcy in 1656, and his possessions(C) were sale(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Rembrandt was ",
+          "underlined": false
+        },
+        {
+          "text": "forced",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "declare",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " bankruptcy in 1656, and his ",
+          "underlined": false
+        },
+        {
+          "text": "possessions",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " were ",
+          "underlined": false
+        },
+        {
+          "text": "sale",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-37",
+      "source_number": 37,
+      "prompt": "Pearls and similar(A) substances may be(B) classified(C) by how are(D) cultivated.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Pearls and ",
+          "underlined": false
+        },
+        {
+          "text": "similar",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " substances ",
+          "underlined": false
+        },
+        {
+          "text": "may be",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "classified",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " by ",
+          "underlined": false
+        },
+        {
+          "text": "how are",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " cultivated.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-38",
+      "source_number": 38,
+      "prompt": "During winter(A), grizzly bears live in(B) dens, caves or the other(C) natural shelters(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "During ",
+          "underlined": false
+        },
+        {
+          "text": "winter",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", grizzly bears ",
+          "underlined": false
+        },
+        {
+          "text": "live in",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " dens, caves or ",
+          "underlined": false
+        },
+        {
+          "text": "the other",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " natural ",
+          "underlined": false
+        },
+        {
+          "text": "shelters",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-39",
+      "source_number": 39,
+      "prompt": "The neck of a classical(A) guitar is wider(B) than those(C) of a steel-string(D) guitar.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The neck of a ",
+          "underlined": false
+        },
+        {
+          "text": "classical",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " guitar is ",
+          "underlined": false
+        },
+        {
+          "text": "wider",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " than ",
+          "underlined": false
+        },
+        {
+          "text": "those",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of a steel-",
+          "underlined": false
+        },
+        {
+          "text": "string",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " guitar.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P04-ST-40",
+      "source_number": 40,
+      "prompt": "Insufficient(A) oxygen causes lactic acid to built up(B) in the muscles(C) of long-distance(D) runners.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Insufficient",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " oxygen causes lactic acid to ",
+          "underlined": false
+        },
+        {
+          "text": "built up",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in the ",
+          "underlined": false
+        },
+        {
+          "text": "muscles",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of long-",
+          "underlined": false
+        },
+        {
+          "text": "distance",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " runners.",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

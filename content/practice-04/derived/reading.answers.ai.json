@@ -1,0 +1,1090 @@
+{
+  "practice_id": "P04",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P04-RC-01-Q01",
+      "passage_id": "P04-RC-01",
+      "source_number": 1,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        },
+        {
+          "start": 7,
+          "end": 10
+        },
+        {
+          "start": 14,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "During the Middle Ages, societies were based on military relationships... ; the ruling classes began to hire mercenaries... ; the first full-size army of professional soldiers emerged... Gunpowder accelerated the emergence of military tactics...",
+      "rationale_id": "Jawaban (D) karena passage menelusuri perkembangan organisasi militer dari pasukan feodal, lalu mercenary, hingga tentara profesional dan perubahan taktik perang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-01-Q02",
+      "passage_id": "P04-RC-01",
+      "source_number": 2,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "that proved costly in the ratio of losses to wins",
+      "rationale_id": "Jawaban (C) karena `ratio of losses to wins` berarti perbandingan atau proportion antara kerugian dan kemenangan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-01-Q03",
+      "passage_id": "P04-RC-01",
+      "source_number": 3,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        },
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "landowners formed their own foot armies into which they drafted their tenants and hired hands ... this sporadic and untrained organization was ineffective",
+      "rationale_id": "Jawaban (A) karena pasukan awal direkrut dari tenants dan hired hands, lalu organisasi itu disebut `sporadic and untrained`, sehingga dapat diinferensikan bahwa tentara sementara dari rakyat biasa tidak terlatih baik.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-01-Q04",
+      "passage_id": "P04-RC-01",
+      "source_number": 4,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Because this sporadic and untrained organization was ineffective",
+      "rationale_id": "Jawaban (D) karena `sporadic` dalam konteks ini berarti tidak tetap atau irregular.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-01-Q05",
+      "passage_id": "P04-RC-01",
+      "source_number": 5,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The Swiss pikemen became the best-known mercenaries ... they practically invented a crude body armor ... Their tower shields proved indispensable ... their helmets progressed ...",
+      "rationale_id": "Jawaban (A) karena passage mendukung bahwa perlengkapan tempur Swiss pikemen maju dan penting pada masanya; opsi lain tidak didukung, meski kata `skills` tidak disebut secara langsung.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-01-Q06",
+      "passage_id": "P04-RC-01",
+      "source_number": 6,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "Because this sporadic and untrained organization was ineffective, the ruling classes began to hire mercenaries ...",
+      "rationale_id": "Jawaban (B) karena alasan munculnya tentara profesional dijelaskan saat penulis menyebut organisasi lama tidak efektif lalu penguasa mulai mempekerjakan mercenaries; secara letak paling dekat dengan lines 8-10.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-01-Q07",
+      "passage_id": "P04-RC-01",
+      "source_number": 7,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "the troops sometimes deserted their employers if they could bank on a higher remuneration from the opposition",
+      "rationale_id": "Jawaban (A) karena passage menyatakan mereka bisa meninggalkan majikan demi bayaran lebih tinggi, jadi implikasinya mereka tidak loyal.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-01-Q08",
+      "passage_id": "P04-RC-01",
+      "source_number": 8,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "the first full-size army of professional soldiers emerged in the Ottoman Empire. What set these troops apart ...",
+      "rationale_id": "Jawaban (D) karena `these troops` merujuk pada tentara profesional yang baru saja disebut muncul di Ottoman Empire, yaitu Ottoman soldiers.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-01-Q09",
+      "passage_id": "P04-RC-01",
+      "source_number": 9,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "the first full-size army of professional soldiers emerged ... these soldiers remained on duty in peacetime",
+      "rationale_id": "Jawaban (D) karena mereka disebut tetap bertugas saat masa damai, sehingga jelas tidak hanya dimobilisasi saat perang saja.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-01-Q10",
+      "passage_id": "P04-RC-01",
+      "source_number": 10,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 24,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "Cannons further widened the gap between the attacking and the defending lineups, and undermined the exclusivity of contact battles.",
+      "rationale_id": "Jawaban (B) karena `undermined` di sini berarti mengurangi atau reduced the exclusivity of contact battles.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-02-Q01",
+      "passage_id": "P04-RC-02",
+      "source_number": 11,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 6
+        },
+        {
+          "start": 11,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "The passage explains how painters analyzed light and color through physics, then describes impressionist and postimpressionist methods and styles.",
+      "rationale_id": "Jawaban (D) karena isi passage membahas teknik baru dalam seni lukis abad 1800-an, terutama cara impresionis dan postimpresionis mengolah cahaya, warna, dan komposisi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-02-Q02",
+      "passage_id": "P04-RC-02",
+      "source_number": 12,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "the goal of impressionist painters was to copy the visual qualities of sunlight at different angles ... reproduce light as it appears to the spectator when reflected from the surfaces of structures",
+      "rationale_id": "Jawaban (B) karena penulis menyatakan tujuan impresionis adalah mereproduksi cahaya sebagaimana terlihat oleh pengamat saat dipantulkan dari permukaan, jadi fokusnya pada tampilan cahaya di berbagai permukaan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-02-Q03",
+      "passage_id": "P04-RC-02",
+      "source_number": 13,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "The so-called divided color method appeared to grasp a shimmering reflection of shadows",
+      "rationale_id": "Jawaban (A) karena `shimmering` dalam konteks pantulan cahaya bayangan paling dekat maknanya dengan `gleaming` atau berkilau.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-02-Q04",
+      "passage_id": "P04-RC-02",
+      "source_number": 14,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "paints were applied directly to the canvas, instead of being blended on the palette",
+      "rationale_id": "Jawaban (D) karena `blended on the palette` berarti cat dicampur di palet terlebih dahulu; jadi `blended` paling dekat dengan `mixed`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-02-Q05",
+      "passage_id": "P04-RC-02",
+      "source_number": 15,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "minimal portions of primary-color paints were applied directly to the canvas, instead of being blended on the palette",
+      "rationale_id": "Jawaban (A) karena teknik yang dijelaskan adalah memakai porsi cat yang kecil secara langsung di kanvas. Pilihan ini paling dekat dengan evidence, meskipun wording soal dan opsi tidak sepenuhnya paralel dengan kalimat sumber.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-02-Q06",
+      "passage_id": "P04-RC-02",
+      "source_number": 16,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        },
+        {
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "copy the visual qualities of sunlight at different angles ... centered his compositions around the visual reality of ordinary objects",
+      "rationale_id": "Jawaban (D) karena passage menggabungkan dua ide: pelukis mengamati efek cahaya dari berbagai sudut dan Manet memusatkan lukisan pada realitas visual benda-benda biasa. Jadi inferensinya adalah objek biasa digambarkan dalam variasi intensitas cahaya.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-02-Q07",
+      "passage_id": "P04-RC-02",
+      "source_number": 17,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "Postimpressionism built on the techniques developed by impressionists and supplemented it",
+      "rationale_id": "Jawaban (B) karena kalimat itu langsung menyebut postimpresionisme dibangun di atas teknik yang dikembangkan oleh impresionis, sehingga jelas datang setelah dan melanjutkan perkembangan teknik tersebut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-02-Q08",
+      "passage_id": "P04-RC-02",
+      "source_number": 18,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "In his view, paintings were intended to brighten and improve reality, not copy it.",
+      "rationale_id": "Jawaban (B) karena menurut passage Matisse memandang lukisan sebagai sarana untuk mencerahkan dan memperbaiki realitas, bukan sekadar menyalinnya secara realistis.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q01",
+      "passage_id": "P04-RC-03",
+      "source_number": 19,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 7
+        },
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The most common cause of hay fever is the pollen of ragweed, which blossoms during the summer and autumn ... thus be relieved of the seasonal allergy",
+      "rationale_id": "Jawaban (B) karena passage menunjukkan hay fever berkaitan dengan musim tertentu dan bahkan disebut sebagai `seasonal allergy`, jadi maknanya adalah gangguan musiman.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q02",
+      "passage_id": "P04-RC-03",
+      "source_number": 20,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "The symptoms of hay fever include watery and itchy eyes and a runny, congested nose. People suffering from hay fever may experience occasional wheezing and repeated bouts of sneezing ... About 30 percent of those who suffer from hay fever may develop the symptoms associated with periodic asthma or a sinus infection.",
+      "rationale_id": "Jawaban (C) karena gejala yang dominan adalah hidung tersumbat, wheezing, sneezing, asthma, dan sinus infection, yang terutama berkaitan dengan sistem pernapasan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q03",
+      "passage_id": "P04-RC-03",
+      "source_number": 21,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "The allergen-antibody theory does not fully explain allergic reactions ... the independent nervous system itself is part of the emotional-response center and may cause the feelings of anger, fear, resentment, and lack of self-confidence in reaction to allergy-causing substances.",
+      "rationale_id": "Jawaban (B) karena paragraf pertama menyatakan teori allergen-antibody `does not fully explain allergic reactions`, sehingga dapat disimpulkan penyebab atau mekanisme reaksi alergi belum sepenuhnya ditentukan.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-03-Q04",
+      "passage_id": "P04-RC-03",
+      "source_number": 22,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "But the independent nervous system itself is part of the emotional-response center and may cause the feelings of anger, fear, resentment, and lack of self-confidence in reaction to allergy-causing substances.",
+      "rationale_id": "Jawaban (B) karena passage menyebut efek emosional seperti anger, fear, resentment, dan lack of self-confidence, yang paling sesuai dengan mood swings.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q05",
+      "passage_id": "P04-RC-03",
+      "source_number": 23,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "cause the feelings of anger, fear, resentment, and lack of self-confidence in reaction to allergy-causing substances.",
+      "rationale_id": "Jawaban (C) karena `resentment` paling dekat dengan rasa pahit atau kebencian, yaitu `acrimony`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q06",
+      "passage_id": "P04-RC-03",
+      "source_number": 24,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "The most common cause of hay fever is the pollen of ragweed ... When airborne pollen particles, as well as mold, come into contact with the victim's membranes, they can cause allergic reactions",
+      "rationale_id": "Jawaban (A) karena sumber iritan yang disebut adalah pollen dan mold, keduanya merupakan bahan organik, sehingga `organic matter` adalah inferensi yang paling tepat.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-03-Q07",
+      "passage_id": "P04-RC-03",
+      "source_number": 25,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "When airborne pollen particles ... come into contact with the victim's membranes ... airborne pollen can travel considerable distances.",
+      "rationale_id": "Jawaban (A) karena iritan disebut `airborne`, artinya dibawa melalui udara atau angin.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q08",
+      "passage_id": "P04-RC-03",
+      "source_number": 26,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "release histamine and result in a virtual blockage of air passages.",
+      "rationale_id": "Jawaban (A) karena `blockage` dalam konteks saluran udara berarti sumbatan atau `obstruction`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q09",
+      "passage_id": "P04-RC-03",
+      "source_number": 27,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "To prevent hay fever or to decrease the severity of its symptoms, contact with the ragweed pollen should be reduced.",
+      "rationale_id": "Jawaban (B) karena passage secara langsung mengatakan kontak dengan ragweed pollen harus dikurangi untuk mencegah hay fever.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q10",
+      "passage_id": "P04-RC-03",
+      "source_number": 28,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 9
+        },
+        {
+          "start": 12,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The most common cause of hay fever is the pollen of ragweed ... as well as mold ... patients are prescribed a series of injections ... in order to increase immunity",
+      "rationale_id": "Jawaban (D) karena pollen dan mold disebut sebagai penyebab alergi, sedangkan injections disebut sebagai pengobatan, bukan penyebab.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-03-Q11",
+      "passage_id": "P04-RC-03",
+      "source_number": 29,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "To prevent hay fever or to decrease the severity of its symptoms ... Antihistamine can help with short but severe attacks ... patients are prescribed a series of injections ... to increase immunity and thus be relieved of the seasonal allergy",
+      "rationale_id": "Jawaban (B) karena passage hanya membahas pencegahan, pengurangan gejala, dan peredaan alergi musiman, bukan penyembuhan total; jadi inferensi terbaiknya adalah hay fever tidak memiliki cure yang diketahui dari passage ini.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-03-Q12",
+      "passage_id": "P04-RC-03",
+      "source_number": 30,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        },
+        {
+          "start": 8,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The allergen-antibody theory does not fully explain allergic reactions ... release histamine ... patients are prescribed a series of injections ... to increase immunity",
+      "rationale_id": "Jawaban (B) karena passage sudah mengarah ke mekanisme alergi dan immunity, sehingga paragraf lanjutan paling mungkin membahas bagaimana sistem imun bereaksi terhadap allergens.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-04-Q01",
+      "passage_id": "P04-RC-04",
+      "source_number": 31,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "Although fossil remains of dawn horses have been excavated in several sites in Wyoming and New Mexico",
+      "rationale_id": "Jawaban (D) karena `excavated` pada konteks fosil berarti digali dari dalam tanah, yaitu `dug up`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q02",
+      "passage_id": "P04-RC-04",
+      "source_number": 32,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "Prehistoric horses were far removed from the horses that Christopher Columbus brought ... these animals, which were biologically different from contemporary horses, had become extinct",
+      "rationale_id": "Jawaban (B) karena passage menyebut dua kelompok yang berbeda secara biologis: `dawn horses` prasejarah dan kuda kontemporer. Jadi, dari passage dapat diinferensikan ada dua species/jenis biologis yang diketahui.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-04-Q03",
+      "passage_id": "P04-RC-04",
+      "source_number": 33,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Indians were not familiar with horses until the Spanish brought them ... Those that escaped from the conquerors or were left behind became the ancestors of the wild horses",
+      "rationale_id": "Jawaban (C) karena kata `Those` merujuk pada `horses` yang dibawa oleh orang Spanyol lalu ada yang lepas atau tertinggal.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q04",
+      "passage_id": "P04-RC-04",
+      "source_number": 34,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "Indians were not familiar with horses until the Spanish brought them to Mexico, New Mexico, Florida, and the West Indies in 1519",
+      "rationale_id": "Jawaban (C) karena teks menyatakan Indian baru mengenal kuda ketika bangsa Spanyol membawanya pada 1519, yaitu abad ke-16.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q05",
+      "passage_id": "P04-RC-04",
+      "source_number": 35,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "Although moviegoers visualize an Indian as a horse rider, Indians were not familiar with horses until the Spanish brought them",
+      "rationale_id": "Jawaban (D) karena penulis secara jelas mengoreksi gambaran populer bahwa Indian selalu menunggang kuda; secara historis itu tidak akurat sebelum kedatangan orang Eropa.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q06",
+      "passage_id": "P04-RC-04",
+      "source_number": 36,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "mounted on horses, the hunting teams could cover ground within a substantial distance from their camps and transport their game back",
+      "rationale_id": "Jawaban (D) karena setelah ada kuda, tim pemburu bisa menempuh jarak lebih jauh dan membawa hasil buruan kembali, sehingga teknik berburu mereka menjadi lebih efektif.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q07",
+      "passage_id": "P04-RC-04",
+      "source_number": 37,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "The hunters responsible for tribe provisions stayed on the move almost continuously",
+      "rationale_id": "Jawaban (A) karena `provisions` dalam konteks hasil buruan untuk memberi makan suku berarti persediaan atau `supplies`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q08",
+      "passage_id": "P04-RC-04",
+      "source_number": 38,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "Horses carried not only their riders but also their possessions ... horses also enabled them to become more mobile ... the Cheyenne abolished the custom of discarding belongings",
+      "rationale_id": "Jawaban (D) karena bagian ini menekankan bahwa dengan kuda mereka dapat membawa dan tidak lagi membuang barang-barang milik mereka. Pilihan ini paling sesuai meskipun redaksi soal kurang langsung terhadap teks.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-04-Q09",
+      "passage_id": "P04-RC-04",
+      "source_number": 39,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "Because Indians did not have the wheel",
+      "rationale_id": "Jawaban (D) karena jika mereka tidak memiliki roda, maka dapat disimpulkan mereka tidak menggunakan kendaraan beroda seperti covered wagons.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-04-Q10",
+      "passage_id": "P04-RC-04",
+      "source_number": 40,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "The arrival of the horse produced a ripple effect throughout the Great Plains ... The horse also drastically altered Indian warfare ... horses also enabled them to become more mobile",
+      "rationale_id": "Jawaban (C) karena teks berulang kali menunjukkan bahwa kedatangan kuda mengubah perburuan, pola hidup, peperangan, dan mobilitas suku Indian; jadi arah kehidupan mereka berubah secara besar. Ini merupakan inferensi menyeluruh dari passage.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P04-RC-05-Q01",
+      "passage_id": "P04-RC-05",
+      "source_number": 41,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "Passage membahas lighthouses and lightships, lalu floating buoys, radio beacons, dan bagaimana lighthouses emit characteristic lights untuk membantu navigasi.",
+      "rationale_id": "Jawaban (C) karena isi passage berfokus pada mercusuar sekaligus perangkat pensinyalan maritim lain seperti lightships, buoys, beacons, dan signal lights; itu paling sesuai dengan judul umum passage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q02",
+      "passage_id": "P04-RC-05",
+      "source_number": 42,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "lighthouses emit characteristic lights ... so that mariners can zero in on their bearings and leading lights guide navigators into bays and harbors.",
+      "rationale_id": "Jawaban (B) karena passage menyebut mercusuar membantu mariners menentukan bearing dan memandu navigators masuk ke teluk serta pelabuhan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q03",
+      "passage_id": "P04-RC-05",
+      "source_number": 43,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "floating buoys that have battery-powered lights, bells, or horns",
+      "rationale_id": "Jawaban (C) karena passage secara eksplisit menyebut buoys sebagai `floating buoys`, jadi buoys adalah perangkat yang mengapung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q04",
+      "passage_id": "P04-RC-05",
+      "source_number": 44,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "Amateur boaters are required to acquaint themselves with the signals that can make them aware of oncoming storms and small craft advisories.",
+      "rationale_id": "Jawaban (C) karena recreational mariners perlu memahami sistem sinyal agar tahu adanya badai yang mendekat dan small craft advisories.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q05",
+      "passage_id": "P04-RC-05",
+      "source_number": 45,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "Boaters who can recognize an approaching storm when no warnings are posted have the advantage of time when heading for shelter.",
+      "rationale_id": "Jawaban (A) karena `the advantage of time` di konteks ini berarti mendapat peringatan lebih awal, sehingga ada waktu untuk menuju tempat berlindung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q06",
+      "passage_id": "P04-RC-05",
+      "source_number": 46,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "lighthouses emit characteristic lights, published in light lists, so that mariners can zero in on their bearings by observing the beam pattern",
+      "rationale_id": "Jawaban (D) karena pola cahaya yang khas dipakai mariners untuk mengenali bearing dan lokasi mercusuar tersebut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q07",
+      "passage_id": "P04-RC-05",
+      "source_number": 47,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "mariners can zero in on their bearings by observing the beam pattern",
+      "rationale_id": "Jawaban (C) karena passage menjelaskan bahwa mercusuar membantu mariners menentukan bearing mereka, yaitu menemukan posisi mereka saat bernavigasi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q08",
+      "passage_id": "P04-RC-05",
+      "source_number": 48,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "mariners can zero in on their bearings by observing the beam pattern",
+      "rationale_id": "Jawaban (C) karena `zero in on` di konteks ini berarti menentukan secara tepat atau pinpoint posisi atau bearing mereka.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q09",
+      "passage_id": "P04-RC-05",
+      "source_number": 49,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "guide navigators into bays and harbors along navigable waterways",
+      "rationale_id": "Jawaban (B) karena `navigable waterways` berarti jalur air yang dapat dilalui kapal, jadi maknanya paling dekat adalah passable.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P04-RC-05-Q10",
+      "passage_id": "P04-RC-05",
+      "source_number": 50,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "Fresnel lenses ... project light at irregular, alternating intervals ... lamps can be operated either manually or automatically and shut off at daybreak.",
+      "rationale_id": "Jawaban (B) karena paragraf terakhir menjelaskan bahwa berkas cahaya diproyeksikan pada interval yang tidak tetap atau alternating, sehingga dapat diinferensikan bahwa sinar mercusuar tampak berkedip/intermittent pada malam hari.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    }
+  ]
+}

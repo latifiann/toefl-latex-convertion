@@ -1,0 +1,152 @@
+{
+  "practice_id": "P04",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P04-LC-38",
+      "source_number": 38,
+      "choices": {
+        "A": "Course assignments",
+        "B": "Course policies",
+        "C": "Class participation",
+        "D": "Writing projects"
+      }
+    },
+    {
+      "id": "P04-LC-39",
+      "source_number": 39,
+      "choices": {
+        "A": "By the time the paper is due",
+        "B": "Over a three-day period",
+        "C": "Before the end of the term",
+        "D": "During the week assigned"
+      }
+    },
+    {
+      "id": "P04-LC-40",
+      "source_number": 40,
+      "choices": {
+        "A": "Assign more homework",
+        "B": "Take class attendance",
+        "C": "Give a makeup test",
+        "D": "Send in a notice"
+      }
+    },
+    {
+      "id": "P04-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "By informing the speaker of the circumstances",
+        "B": "By talking to their advisers about the class",
+        "C": "By handing in assignments",
+        "D": "By taking makeup tests they have missed"
+      }
+    },
+    {
+      "id": "P04-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "Special circumstances may arise at any time.",
+        "B": "No reasonable excuse will ever be accepted.",
+        "C": "Assignment grades will be lowered otherwise.",
+        "D": "Urgent matters must be taken care of in any event."
+      }
+    },
+    {
+      "id": "P04-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "The spread of disease",
+        "B": "The flu epidemic",
+        "C": "Flu symptoms",
+        "D": "Disease variations"
+      }
+    },
+    {
+      "id": "P04-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "The multiplying of viruses",
+        "B": "Viruses transported by air",
+        "C": "Drops of contaminated water",
+        "D": "The regular breathing of air"
+      }
+    },
+    {
+      "id": "P04-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "By adhering to droplets in the air",
+        "B": "Only by tactile contact",
+        "C": "Similarly to viral infections",
+        "D": "Frequently through complications"
+      }
+    },
+    {
+      "id": "P04-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "People who have overt flu symptoms",
+        "B": "Humans who seek contact",
+        "C": "Persons who are not self-aware",
+        "D": "All those infected with a virus"
+      }
+    },
+    {
+      "id": "P04-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "Product manufacturers",
+        "B": "Opinion researchers",
+        "C": "Restaurant owners",
+        "D": "Commodity traders"
+      }
+    },
+    {
+      "id": "P04-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "Time",
+        "B": "Money",
+        "C": "Fast-food restaurants",
+        "D": "Household services"
+      }
+    },
+    {
+      "id": "P04-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "Lawns",
+        "B": "Fast-drying paints",
+        "C": "Looks",
+        "D": "Disposable goods"
+      }
+    },
+    {
+      "id": "P04-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "To stay healthy",
+        "B": "To improve their appearance",
+        "C": "To become energetic",
+        "D": "To satisfy personal creativity"
+      }
+    }
+  ]
+}

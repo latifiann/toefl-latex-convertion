@@ -105,10 +105,11 @@ def main() -> None:
 
     if len(part_a["questions"]) != 30:
         failures.append(f"Listening Part A expected 30 questions, found {len(part_a['questions'])}.")
-    if len(part_b["questions"]) != 8:
-        failures.append(f"Listening Part B expected 8 entries including placeholder, found {len(part_b['questions'])}.")
-    if len(part_c["questions"]) != 12:
-        failures.append(f"Listening Part C expected 12 questions, found {len(part_c['questions'])}.")
+    if [question.get("source_number") for question in part_a["questions"]] != list(range(1, 31)):
+        failures.append("Listening Part A source numbering is not 1-30.")
+    listening_tail_numbers = [question.get("source_number") for question in part_b["questions"] + part_c["questions"]]
+    if listening_tail_numbers != list(range(31, 51)):
+        failures.append("Listening Part B/C source numbering is not contiguous from 31-50.")
     if len(completion["questions"]) != 15:
         failures.append(f"Structure completion expected 15 questions, found {len(completion['questions'])}.")
     if len(error_identification["questions"]) != 25:

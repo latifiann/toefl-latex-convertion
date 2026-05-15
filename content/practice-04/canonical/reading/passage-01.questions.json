@@ -1,0 +1,246 @@
+{
+  "practice_id": "P04",
+  "section": "reading",
+  "passage_id": "P04-RC-01",
+  "source_question_range": [1, 10],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "During the Middle Ages, societies were based on military relationships, as landowners"
+    },
+    {
+      "line": 2,
+      "text": "formed their own foot armies into which they drafted their tenants and hired hands. The in-"
+    },
+    {
+      "line": 3,
+      "text": "fantry that fought its way forward against the opposition engaged in heavy ground battles"
+    },
+    {
+      "line": 4,
+      "text": "that proved costly in the ratio of losses to wins. These soldiers carried darts, javelins, and"
+    },
+    {
+      "line": 5,
+      "text": "slings to be used before closing ranks with the enemy, although their swords and halberds"
+    },
+    {
+      "line": 6,
+      "text": " delivered crushing blows on contact. Such armed forces were active for limited periods of"
+    },
+    {
+      "line": 7,
+      "text": "time and had a predominantly defensive function, displayed in hand-to-hand combat."
+    },
+    {
+      "line": 8,
+      "text": "Because this sporadic and untrained organization was ineffective, the ruling classes be-"
+    },
+    {
+      "line": 9,
+      "text": "gan to hire mercenaries who were generously compensated for their tasks and subject to con-"
+    },
+    {
+      "line": 10,
+      "text": "tractual terms of agreement. The greatest idiosyncrasy of a hired military force was that the"
+    },
+    {
+      "line": 11,
+      "text": "troops sometimes deserted their employers if they could bank on a higher remuneration"
+    },
+    {
+      "line": 12,
+      "text": "from the opposition. The Swiss pikemen became the best-known mercenaries of the late"
+    },
+    {
+      "line": 13,
+      "text": "Middle Ages. In the 1300s, they practically invented a crude body armor of leather and"
+    },
+    {
+      "line": 14,
+      "text": "quilted layered head gear with nose and skull plates, ornamented with crests. Their tower"
+    },
+    {
+      "line": 15,
+      "text": "shields proved indispensable against a shower of arrows, and their helmets progressed from"
+    },
+    {
+      "line": 16,
+      "text": "cone cups to visors hinged at the temples. As their notoriety increased, so did their wages,"
+    },
+    {
+      "line": 17,
+      "text": "and eventually they were rounded into military companies that later grew into the basic"
+    },
+    {
+      "line": 18,
+      "text": "units in almost all armies. During the same period, the first full-size army of professional"
+    },
+    {
+      "line": 19,
+      "text": "soldiers emerged in the Ottoman Empire. What set these troops apart from other contempo-"
+    },
+    {
+      "line": 20,
+      "text": "rary armies was that these soldiers remained on duty in peacetime."
+    },
+    {
+      "line": 21,
+      "text": "Companies of mercenaries were employed on a permanent basis in 1445, when King"
+    },
+    {
+      "line": 22,
+      "text": "Charles VII created a regular military organization, complete with a designated hierarchy."
+    },
+    {
+      "line": 23,
+      "text": "Gunpowder accelerated the emergence of military tactics and strategy that ultimately af-"
+    },
+    {
+      "line": 24,
+      "text": "fected the conceptualization of war on a broad scale. Cannons further widened the gap be-"
+    },
+    {
+      "line": 25,
+      "text": "tween the attacking and the defending lineups, and undermined the exclusivity of contact"
+    },
+    {
+      "line": 26,
+      "text": "battles."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 26
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "What is the main purpose of the passage?",
+      "choices": {
+        "A": "To distinguish between laborers and mercenaries",
+        "B": "To change the existing view of the military",
+        "C": "To cite examples of armor in the Middle Ages",
+        "D": "To trace the origins of military organization"
+      }
+    },
+    {
+      "id": "P04-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "In line 4, the word \"ratio\" is closest in meaning to",
+      "choices": {
+        "A": "quota",
+        "B": "reason",
+        "C": "proportion",
+        "D": "pace"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P04-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "Which of the following statements can be inferred from the first paragraph?",
+      "choices": {
+        "A": "Temporary armies of farmers were not well trained.",
+        "B": "Drafting farmers into armies was costly.",
+        "C": "Heavy ground battles were won during combat.",
+        "D": "Infantry was directed to the opposition for support."
+      }
+    },
+    {
+      "id": "P04-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "In line 8, the word \"sporadic\" is closest in meaning to",
+      "choices": {
+        "A": "spirited",
+        "B": "splendid",
+        "C": "irreverent",
+        "D": "irregular"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P04-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "Which of the following statements about the Swiss pikemen is supported by the passage?",
+      "choices": {
+        "A": "Their weapons and skills were ahead of their time.",
+        "B": "Their gear ensured their fame as well-dressed soldiers.",
+        "C": "The demand for their cavalry made them the best-paid army.",
+        "D": "Their weapons were issued to nonprofessionals as well."
+      }
+    },
+    {
+      "id": "P04-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "Where in the passage does the author state the reasons for the emergence of professional armies?",
+      "choices": {
+        "A": "Lines 1-4",
+        "B": "Lines 8-10",
+        "C": "Lines 12-14",
+        "D": "Lines 15-18"
+      }
+    },
+    {
+      "id": "P04-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "The author of the passage implies that the soldiers in mercenary armies were",
+      "choices": {
+        "A": "not loyal",
+        "B": "not effective",
+        "C": "well guarded",
+        "D": "well rounded"
+      }
+    },
+    {
+      "id": "P04-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "In line 19, the phrase \"these troops\" refers to",
+      "choices": {
+        "A": "the Swiss pikemen",
+        "B": "military companies",
+        "C": "almost all armies",
+        "D": "Ottoman soldiers"
+      },
+      "referenced_lines": {
+        "start": 19,
+        "end": 19
+      }
+    },
+    {
+      "id": "P04-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "According to the passage, the first army of professionals was mobilized",
+      "choices": {
+        "A": "only in peacetime",
+        "B": "only in wartime",
+        "C": "in times of anticipated war",
+        "D": "both during war and during peace"
+      }
+    },
+    {
+      "id": "P04-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "In line 25, the word \"undermined\" is closest in meaning to",
+      "choices": {
+        "A": "underestimated",
+        "B": "reduced",
+        "C": "undersized",
+        "D": "shred"
+      },
+      "referenced_lines": {
+        "start": 25,
+        "end": 25
+      }
+    }
+  ]
+}

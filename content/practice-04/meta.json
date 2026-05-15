@@ -1,0 +1,13 @@
+{
+  "practice_id": "P04",
+  "practice_slug": "practice-04",
+  "title": "TOEFL Practice 04",
+  "source_of_truth": "docx",
+  "source_docx": "source/original/practice-04.docx",
+  "extracted_text": "build/extracted/practice-04.txt",
+  "extracted_html": "build/extracted/practice-04.html",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "listening_reconstruction_policy": "reconstruction-only",
+  "official_answer_key_available": false,
+  "derived_answer_layout": "split-by-section"
+}

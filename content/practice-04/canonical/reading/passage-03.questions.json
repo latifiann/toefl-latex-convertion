@@ -1,0 +1,236 @@
+{
+  "practice_id": "P04",
+  "section": "reading",
+  "passage_id": "P04-RC-03",
+  "source_question_range": [19, 30],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The symptoms of hay fever include watery and itchy eyes and a runny, congested nose."
+    },
+    {
+      "line": 2,
+      "text": "People suffering from hay fever may experience occasional wheezing and repeated bouts of"
+    },
+    {
+      "line": 3,
+      "text": "sneezing and may even lose their sense of smell. Some victims of hay fever may also have"
+    },
+    {
+      "line": 4,
+      "text": "stopped-up ears. About 30 percent of those who suffer from hay fever may develop the symp-"
+    },
+    {
+      "line": 5,
+      "text": "toms associated with periodic asthma or a sinus infection. The allergen-antibody theory"
+    },
+    {
+      "line": 6,
+      "text": "does not fully explain allergic reactions because the membranes and glands in eyes and ears"
+    },
+    {
+      "line": 7,
+      "text": "are controlled by the independent nervous system, which keeps these organs in balance. But"
+    },
+    {
+      "line": 8,
+      "text": "the independent nervous system itself is part of the emotional-response center and may"
+    },
+    {
+      "line": 9,
+      "text": "cause the feelings of anger, fear, resentment, and lack of self-confidence in reaction to al-"
+    },
+    {
+      "line": 10,
+      "text": "lergy-causing substances."
+    },
+    {
+      "line": 11,
+      "text": "The most common cause of hay fever is the pollen of ragweed, which blossoms during the"
+    },
+    {
+      "line": 12,
+      "text": "summer and autumn. When airborne pollen particles, as well as mold, come into contact"
+    },
+    {
+      "line": 13,
+      "text": "with the victim's membranes, they can cause allergic reactions that release histamine and re-"
+    },
+    {
+      "line": 14,
+      "text": "sult in a virtual blockage of air passages. To prevent hay fever or to decrease the severity of its"
+    },
+    {
+      "line": 15,
+      "text": "symptoms, contact with the ragweed pollen should be reduced. Although some communi-"
+    },
+    {
+      "line": 16,
+      "text": "ties have attempted to eliminate the plants that cause the reactions, elimination programs"
+    },
+    {
+      "line": 17,
+      "text": "have not been successful because airborne pollen can travel considerable distances. Antihis-"
+    },
+    {
+      "line": 18,
+      "text": "tamine can help with short but severe attacks. Over extended periods of time, however, pa-"
+    },
+    {
+      "line": 19,
+      "text": "tients are prescribed a series of injections of the substance to which they are sensitive in order"
+    },
+    {
+      "line": 20,
+      "text": "to increase immunity and thus be relieved of the seasonal allergy"
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 20
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-RC-03-Q01",
+      "source_number": 19,
+      "prompt": "It can be inferred from the passage that the phrase \"hay fever\" refers to",
+      "choices": {
+        "A": "fodder for cattle",
+        "B": "a seasonal discomfort",
+        "C": "viral bacteria",
+        "D": "a lung disease"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q02",
+      "source_number": 20,
+      "prompt": "According to the passage, the symptoms of the allergy are predominantly",
+      "choices": {
+        "A": "abdominal",
+        "B": "intestinal",
+        "C": "respiratory",
+        "D": "chronic"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q03",
+      "source_number": 21,
+      "prompt": "What can be inferred from the first paragraph?",
+      "choices": {
+        "A": "Hay fever may cause severe allergic reactions and even death.",
+        "B": "The cause of allergic reactions has not been determined.",
+        "C": "The nervous system balances allergic reactions.",
+        "D": "People should not have an emotional response to allergic reactions."
+      }
+    },
+    {
+      "id": "P04-RC-03-Q04",
+      "source_number": 22,
+      "prompt": "According to the passage, patients suffering from hay fever may also experience",
+      "choices": {
+        "A": "hunger pains",
+        "B": "mood swings",
+        "C": "nervous blockages",
+        "D": "sensory perceptions"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q05",
+      "source_number": 23,
+      "prompt": "In line 9, the word \"resentment\" is closest in meaning to",
+      "choices": {
+        "A": "reprieve",
+        "B": "reprisal",
+        "C": "acrimony",
+        "D": "grief"
+      },
+      "referenced_lines": {
+        "start": 9,
+        "end": 9
+      }
+    },
+    {
+      "id": "P04-RC-03-Q06",
+      "source_number": 24,
+      "prompt": "It can be inferred from the passage that a frequent source of allergy-causing irritants can be",
+      "choices": {
+        "A": "organic matter",
+        "B": "larynx infections",
+        "C": "human contact",
+        "D": "ear membranes"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q07",
+      "source_number": 25,
+      "prompt": "According to the passage, the irritants are transported by",
+      "choices": {
+        "A": "wind",
+        "B": "food",
+        "C": "travelers",
+        "D": "air passages"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q08",
+      "source_number": 26,
+      "prompt": "In line 14, the word \"blockage\" is closest in meaning to",
+      "choices": {
+        "A": "obstruction",
+        "B": "bleeding",
+        "C": "enlargement",
+        "D": "dryness"
+      },
+      "referenced_lines": {
+        "start": 14,
+        "end": 14
+      }
+    },
+    {
+      "id": "P04-RC-03-Q09",
+      "source_number": 27,
+      "prompt": "According to the passage, to avoid incidents of hay fever, patients need to",
+      "choices": {
+        "A": "avoid interactions with other patients",
+        "B": "avoid exposure to pollen",
+        "C": "increase their self-confidence",
+        "D": "take doses of prescribed medicine"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q10",
+      "source_number": 28,
+      "prompt": "Which of the following is not mentioned in the passage as a cause of allergies?",
+      "choices": {
+        "A": "pollen",
+        "B": "mold",
+        "C": "flowers",
+        "D": "injections"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q11",
+      "source_number": 29,
+      "prompt": "It can be inferred from the passage that hay fever",
+      "choices": {
+        "A": "has no effective antibodies",
+        "B": "has no known cure",
+        "C": "is rooted in the human psyche",
+        "D": "can be likened to a breakdown"
+      }
+    },
+    {
+      "id": "P04-RC-03-Q12",
+      "source_number": 30,
+      "prompt": "A paragraph following this passage would most probably discuss",
+      "choices": {
+        "A": "how the nervous system alerts patients",
+        "B": "how the immune system reacts to allergens",
+        "C": "what other diseases can be relieved by vaccines",
+        "D": "what flowers are harmless to hay fever patients"
+      }
+    }
+  ]
+}

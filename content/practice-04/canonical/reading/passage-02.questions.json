@@ -1,0 +1,188 @@
+{
+  "practice_id": "P04",
+  "section": "reading",
+  "passage_id": "P04-RC-02",
+  "source_question_range": [11, 18],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Observations of nature gained a foothold in art in the 1860s and 1870s when painters in-"
+    },
+    {
+      "line": 2,
+      "text": "terested in science attempted to analyze the effects of light on color by means of physics. If"
+    },
+    {
+      "line": 3,
+      "text": "the goal of impressionist painters was to copy the visual qualities of sunlight at different an-"
+    },
+    {
+      "line": 4,
+      "text": "gles, they needed to reproduce light as it appears to the spectator when reflected from the"
+    },
+    {
+      "line": 5,
+      "text": "surfaces of structures. In painting, the effects of shade were conveyed by using small strokes"
+    },
+    {
+      "line": 6,
+      "text": "to minimize breaks between hues. The so-called divided color method appeared to grasp a"
+    },
+    {
+      "line": 7,
+      "text": "shimmering reflection of shadows when minimal portions of primary-color paints were ap-"
+    },
+    {
+      "line": 8,
+      "text": "plied directly to the canvas, instead of being blended on the palette."
+    },
+    {
+      "line": 9,
+      "text": "Edouard Manet departed from the fairy-tale style of painting with its tacit symbolism"
+    },
+    {
+      "line": 10,
+      "text": "and centered his compositions around the visual reality of ordinary objects. Mary Cassatt fol-"
+    },
+    {
+      "line": 11,
+      "text": "lowed with her spontaneous and subtle portraits of children, and Edgar Degas depicted bal-"
+    },
+    {
+      "line": 12,
+      "text": "let dancers in their artful poses and the color schemes of their costumes in soft colors."
+    },
+    {
+      "line": 13,
+      "text": "Postimpressionism built on the techniques developed by impressionists and supple-"
+    },
+    {
+      "line": 14,
+      "text": "mented it with keen insight into other dimensions of objects and scenes. Paul Gaugin chose"
+    },
+    {
+      "line": 15,
+      "text": "to disregard the classical conventions of composition, the application of color, and the shap-"
+    },
+    {
+      "line": 16,
+      "text": "ing of form and imitated primitivist art that upheld the beauty of native drawings in Tahiti."
+    },
+    {
+      "line": 17,
+      "text": "Henri Matisse, created a unique style of poster graphics, deceptively simplistic in its rhythm"
+    },
+    {
+      "line": 18,
+      "text": "and texture. In his view, paintings were intended to brighten and improve reality, not copy"
+    },
+    {
+      "line": 19,
+      "text": "it. He noted that photography can accomplish this latter goal just as well, or even better."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 19
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-RC-02-Q01",
+      "source_number": 11,
+      "prompt": "This passage probably comes from a longer work on",
+      "choices": {
+        "A": "science and the fine arts",
+        "B": "great masters of impressionist painting",
+        "C": "light in the paintings of the 1800s",
+        "D": "new techniques in the art of the 1800s"
+      }
+    },
+    {
+      "id": "P04-RC-02-Q02",
+      "source_number": 12,
+      "prompt": "The author of the passage implies that the goal of the impressionists was to",
+      "choices": {
+        "A": "reproduce light and shadow exactly as they appeared",
+        "B": "depict light as it appeared on different surfaces",
+        "C": "copy the pattern of sun rays at different angles",
+        "D": "reflect light and shadow from surfaces of structures"
+      }
+    },
+    {
+      "id": "P04-RC-02-Q03",
+      "source_number": 13,
+      "prompt": "In line 7, the word \"shimmering\" is closest in meaning to",
+      "choices": {
+        "A": "gleaming",
+        "B": "strong",
+        "C": "trembling",
+        "D": "spotless"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P04-RC-02-Q04",
+      "source_number": 14,
+      "prompt": "In line 8, the word \"blended\" is closest in meaning to",
+      "choices": {
+        "A": "replenished",
+        "B": "placed",
+        "C": "rendered",
+        "D": "mixed"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P04-RC-02-Q05",
+      "source_number": 15,
+      "prompt": "What technique did painters employ to represent light as it appeared to the artist?",
+      "choices": {
+        "A": "They used as little paint as was necessary.",
+        "B": "They graded the shades of color in hues.",
+        "C": "Their paint colors were dark and muted.",
+        "D": "Their brush strokes were slow and cautious."
+      }
+    },
+    {
+      "id": "P04-RC-02-Q06",
+      "source_number": 16,
+      "prompt": "It is implied in the passage that in the late 1800s artists painted",
+      "choices": {
+        "A": "fantastic images and swirling action",
+        "B": "luxurious ornaments and shapely figures",
+        "C": "unusual textures and luscious colors",
+        "D": "ordinary objects in varied intensities of light"
+      }
+    },
+    {
+      "id": "P04-RC-02-Q07",
+      "source_number": 17,
+      "prompt": "It can be inferred from the passage that postimpressionism",
+      "choices": {
+        "A": "developed into a trend parallel to impressionism",
+        "B": "followed impressionism in the development of technique",
+        "C": "flourished independently of impressionism",
+        "D": "negated impressionist insight into objects and scenes"
+      }
+    },
+    {
+      "id": "P04-RC-02-Q08",
+      "source_number": 18,
+      "prompt": "According to the passage, Matisse saw the purpose of his art as",
+      "choices": {
+        "A": "depicting life realistically",
+        "B": "enhancing life and reality",
+        "C": "showing life through photography",
+        "D": "imparting rhythm to drawings"
+      }
+    }
+  ]
+}

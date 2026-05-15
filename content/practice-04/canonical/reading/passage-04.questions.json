@@ -1,0 +1,254 @@
+{
+  "practice_id": "P04",
+  "section": "reading",
+  "passage_id": "P04-RC-04",
+  "source_question_range": [31, 40],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Prehistoric horses were far removed from the horses that Christopher Columbus brought"
+    },
+    {
+      "line": 2,
+      "text": "on his ships during his second voyage to the New World. Although fossil remains of \"dawn"
+    },
+    {
+      "line": 3,
+      "text": "horses\" have been excavated in several sites in Wyoming and New Mexico, these animals,"
+    },
+    {
+      "line": 4,
+      "text": "which were biologically different from contemporary horses, had become extinct millennia"
+    },
+    {
+      "line": 5,
+      "text": "before the onset of the Indian era. Although moviegoers visualize an Indian as a horse rider,"
+    },
+    {
+      "line": 6,
+      "text": "Indians were not familiar with horses until the Spanish brought them to Mexico, New Mex-"
+    },
+    {
+      "line": 7,
+      "text": "ico, Florida, and the West Indies in 1519. Those that escaped from the conquerors or were"
+    },
+    {
+      "line": 8,
+      "text": "left behind became the ancestors of the wild horses that still roam the southwestern regions"
+    },
+    {
+      "line": 9,
+      "text": "of the country. The Indian tribes scattered in the western plains began to breed horses about"
+    },
+    {
+      "line": 10,
+      "text": "1600."
+    },
+    {
+      "line": 11,
+      "text": "The arrival of the horse produced a ripple effect throughout the Great Plains as the Indi-"
+    },
+    {
+      "line": 12,
+      "text": "ans living there were not nomadic and were engaged in rudimentary farming and graze-"
+    },
+    {
+      "line": 13,
+      "text": "land hunting. Tracking stampeding herds of buffalo and elk on foot was not the best way to"
+    },
+    {
+      "line": 14,
+      "text": "stock quantities of meat to adequately feed the entire tribe during the winter. However,"
+    },
+    {
+      "line": 15,
+      "text": "mounted on horses, the hunting teams could cover ground within a substantial distance"
+    },
+    {
+      "line": 16,
+      "text": "from their camps and transport their game back to be roasted, dried into jerky, or smoked"
+    },
+    {
+      "line": 17,
+      "text": "for preservation. The hunters responsible for tribe provisions stayed on the move almost con-"
+    },
+    {
+      "line": 18,
+      "text": "tinuously, replacing their earth-and-sod lodges with tepees. Horses carried not only their"
+    },
+    {
+      "line": 19,
+      "text": "riders but also their possessions and booty. The Blackfoot Indians of the Canadian plains"
+    },
+    {
+      "line": 20,
+      "text": "turned almost exclusively hunters, and the Crow split off from the mainstream Indian farm-"
+    },
+    {
+      "line": 21,
+      "text": "ing in favor of hunting. In fact, some of the Apache splinter groups abandoned agricultural"
+    },
+    {
+      "line": 22,
+      "text": "cultivation altogether."
+    },
+    {
+      "line": 23,
+      "text": "The horse also drastically altered Indian warfare by allowing rapid maneuvering before,"
+    },
+    {
+      "line": 24,
+      "text": "during, and after skirmishes. With the advent of the horse, the Apache, Arapahoe, and"
+    },
+    {
+      "line": 25,
+      "text": "Cheyenne established themselves as a territorial monopoly in the Plains. Because Indians"
+    },
+    {
+      "line": 26,
+      "text": "did not have the wheel and had dragged their belongings from one settlement to another,"
+    },
+    {
+      "line": 27,
+      "text": "horses also enabled them to become more mobile and expedient during tribal migrations. In"
+    },
+    {
+      "line": 28,
+      "text": "fact, the Cheyenne abolished the custom of discarding belongings and tepee skins simply"
+    },
+    {
+      "line": 29,
+      "text": "because there were no means to transport them"
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 29
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-RC-04-Q01",
+      "source_number": 31,
+      "prompt": "In line 3, the word \"excavated\" is closest in meaning to",
+      "choices": {
+        "A": "exasperated",
+        "B": "extinguished",
+        "C": "hunted down",
+        "D": "dug up"
+      },
+      "referenced_lines": {
+        "start": 3,
+        "end": 3
+      }
+    },
+    {
+      "id": "P04-RC-04-Q02",
+      "source_number": 32,
+      "prompt": "According to the passage, how many genetic species of horses are known today?",
+      "choices": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      }
+    },
+    {
+      "id": "P04-RC-04-Q03",
+      "source_number": 33,
+      "prompt": "In line 7, the word \"those\" refers to",
+      "choices": {
+        "A": "West Indies",
+        "B": "The Spanish",
+        "C": "horses,",
+        "D": "Indians"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P04-RC-04-Q04",
+      "source_number": 34,
+      "prompt": "According to the passage, American Indians",
+      "choices": {
+        "A": "tamed horses in the early 1500s",
+        "B": "farmed with horses in the 1500s",
+        "C": "were exposed to horses in the 1500s",
+        "D": "have ridden horses since prehistoric times"
+      }
+    },
+    {
+      "id": "P04-RC-04-Q05",
+      "source_number": 35,
+      "prompt": "The author of the passage probably believes that the popular image of American Indians before the arrival of Europeans",
+      "choices": {
+        "A": "is not theoretically viable",
+        "B": "cannot be realistically described",
+        "C": "cannot be discussed briefly",
+        "D": "is not historically accurate"
+      }
+    },
+    {
+      "id": "P04-RC-04-Q06",
+      "source_number": 36,
+      "prompt": "According to the passage, after the arrival of Europeans, the Indian tribes inhabiting the Great Plains",
+      "choices": {
+        "A": "herded undomesticated buffalo",
+        "B": "played complicated hunting games",
+        "C": "had sedentary and tranquil life-styles",
+        "D": "improved their hunting techniques"
+      }
+    },
+    {
+      "id": "P04-RC-04-Q07",
+      "source_number": 37,
+      "prompt": "In line 17, the word \"provisions\" is closest in meaning to",
+      "choices": {
+        "A": "supplies",
+        "B": "health",
+        "C": "weapons",
+        "D": "attire"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    },
+    {
+      "id": "P04-RC-04-Q08",
+      "source_number": 38,
+      "prompt": "According to the passage, American Indians invented various methods for",
+      "choices": {
+        "A": "dislocating their traps",
+        "B": "communicating over great distances",
+        "C": "conducting their hostile excursions",
+        "D": "keeping their possessions"
+      }
+    },
+    {
+      "id": "P04-RC-04-Q09",
+      "source_number": 39,
+      "prompt": "It can be inferred from the passage that Indians did NOT",
+      "choices": {
+        "A": "accrue tribal wealth",
+        "B": "assign sustenance tasks",
+        "C": "pursue stampedes",
+        "D": "use covered wagons"
+      }
+    },
+    {
+      "id": "P04-RC-04-Q10",
+      "source_number": 40,
+      "prompt": "It can be inferred from the passage that the arrival of horses in the Americas",
+      "choices": {
+        "A": "led to the dispersal of Indian tribes throughout the continent",
+        "B": "made Indian tribes relinquish their territorial monopolies",
+        "C": "altered the future course of the Indian way of life",
+        "D": "shattered the advancement of the Indian culture"
+      }
+    }
+  ]
+}

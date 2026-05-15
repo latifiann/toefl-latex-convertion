@@ -1,0 +1,230 @@
+{
+  "practice_id": "P04",
+  "section": "reading",
+  "passage_id": "P04-RC-05",
+  "source_question_range": [41, 50],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Lighthouses and lightships employ signal lights and foghorns to warn boaters of shoals"
+    },
+    {
+      "line": 2,
+      "text": "and of oncoming foul weather. In recreational marinas, Coast Guard stations and yacht"
+    },
+    {
+      "line": 3,
+      "text": "clubs inform boaters of weather and water conditions with storm flag signals displayed dur-"
+    },
+    {
+      "line": 4,
+      "text": "ing the daytime. Amateur boaters are required to acquaint themselves with the signals that"
+    },
+    {
+      "line": 5,
+      "text": "can make them aware of oncoming storms and small craft advisories. Boaters who can recog-"
+    },
+    {
+      "line": 6,
+      "text": "nize an approaching storm when no warnings are posted have the advantage of time when"
+    },
+    {
+      "line": 7,
+      "text": "heading for shelter. Compasses and marine charts identify the locations of anchored whistles"
+    },
+    {
+      "line": 8,
+      "text": "and floating buoys that have battery-powered lights, bells, or horns to sound or show warn-"
+    },
+    {
+      "line": 9,
+      "text": "ings with the onset of high winds. On the marine charts, radio beacons and flashing buoys"
+    },
+    {
+      "line": 10,
+      "text": "are assigned numbers that help navigators to identify their locations and to mark the edges"
+    },
+    {
+      "line": 11,
+      "text": "of channels, underwater obstructions, reefs, and wrecks."
+    },
+    {
+      "line": 12,
+      "text": "In each section of the coastline, lighthouses emit characteristic lights, published in light"
+    },
+    {
+      "line": 13,
+      "text": "lists, so that mariners can zero in on their bearings by observing the beam pattern and con-"
+    },
+    {
+      "line": 14,
+      "text": "sulting the list. \"Making lights\" signal approaching vessels to make land, and \"leading"
+    },
+    {
+      "line": 15,
+      "text": "lights\" guide navigators into bays and harbors along navigable waterways."
+    },
+    {
+      "line": 16,
+      "text": "The lighthouse tower, constructed on solid rock and pneumatic caissons, contains light-"
+    },
+    {
+      "line": 17,
+      "text": "ing mechanisms, engines, and spare parts, as well as the keeper's quarters. Saucerlike Fres-"
+    },
+    {
+      "line": 18,
+      "text": "nel lenses with pentagonal prisms project light at irregular, alternating intervals, while"
+    },
+    {
+      "line": 19,
+      "text": "sealed-beam lenses rotate at varying speeds, similarly to the traditional long-range search"
+    },
+    {
+      "line": 20,
+      "text": "light. The older, barrel-shaped lenses and kerosene-burning lamps, made up of prisms and"
+    },
+    {
+      "line": 21,
+      "text": "glass panels attached to a metal frame, have been replaced by acetylene gas burners and in-"
+    },
+    {
+      "line": 22,
+      "text": "candescent lamps that can be operated either manually or automatically and that shut off at"
+    },
+    {
+      "line": 23,
+      "text": "daybreak"
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 23
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-RC-05-Q01",
+      "source_number": 41,
+      "prompt": "What is the best title for the passage?",
+      "choices": {
+        "A": "The Function of Naval Signals and Buoys",
+        "B": "Marine Installations for Boaters' Safety",
+        "C": "Lighthouses and Maritime Signaling Devices",
+        "D": "Lighthouses and Occulting Instrumentation"
+      }
+    },
+    {
+      "id": "P04-RC-05-Q02",
+      "source_number": 42,
+      "prompt": "According to the passage, what is the purpose of lighthouses?",
+      "choices": {
+        "A": "To measure weather and water conditions",
+        "B": "To lead navigators to their destination",
+        "C": "To flag down oncoming vessels",
+        "D": "To display light-coded messages"
+      }
+    },
+    {
+      "id": "P04-RC-05-Q03",
+      "source_number": 43,
+      "prompt": "According to the passage, buoys can be best described as",
+      "choices": {
+        "A": "hanging constructions",
+        "B": "electrical horns",
+        "C": "floating devices",
+        "D": "underwater anchors"
+      }
+    },
+    {
+      "id": "P04-RC-05-Q04",
+      "source_number": 44,
+      "prompt": "Why do recreational mariners need to be familiar with the Coast Guard signaling system?",
+      "choices": {
+        "A": "To learn navigation and rowing",
+        "B": "To chart the course of storms",
+        "C": "To learn about oncoming storms",
+        "D": "To overtake rivals in boating races"
+      }
+    },
+    {
+      "id": "P04-RC-05-Q05",
+      "source_number": 45,
+      "prompt": "In line 6, the phrase \"the advantage of time\" means most nearly",
+      "choices": {
+        "A": "an early warning",
+        "B": "a stable bearing",
+        "C": "a timed landing",
+        "D": "a timely arrival"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P04-RC-05-Q06",
+      "source_number": 46,
+      "prompt": "The author of the passage implies that flashing lights from lighthouses function as",
+      "choices": {
+        "A": "a characteristic marine elevation",
+        "B": "beams with a constant rotating speed",
+        "C": "an indication of the lens thickness",
+        "D": "an identification of its location"
+      }
+    },
+    {
+      "id": "P04-RC-05-Q07",
+      "source_number": 47,
+      "prompt": "According to the passage, lighthouses can assist navigators in",
+      "choices": {
+        "A": "identifying underwater obstructions",
+        "B": "preparing their boats for advisories.",
+        "C": "finding their positions in the open sea",
+        "D": "ignoring their charts of inland channels"
+      }
+    },
+    {
+      "id": "P04-RC-05-Q08",
+      "source_number": 48,
+      "prompt": "In line 13, the phrase \"zero in on\" is closest in meaning to",
+      "choices": {
+        "A": "cast about for",
+        "B": "disguise",
+        "C": "pinpoint",
+        "D": "point out"
+      },
+      "referenced_lines": {
+        "start": 13,
+        "end": 13
+      }
+    },
+    {
+      "id": "P04-RC-05-Q09",
+      "source_number": 49,
+      "prompt": "In line 15, the word \"navigable\" is closest in meaning to",
+      "choices": {
+        "A": "nauseating",
+        "B": "passable",
+        "C": "pernicious",
+        "D": "calamitous"
+      },
+      "referenced_lines": {
+        "start": 15,
+        "end": 15
+      }
+    },
+    {
+      "id": "P04-RC-05-Q10",
+      "source_number": 50,
+      "prompt": "What can be inferred from the last paragraph?",
+      "choices": {
+        "A": "Lighthouses do not contain a living space for maintenance personnel.",
+        "B": "Lighthouse beams are projected intermittently during nighttime.",
+        "C": "Technological expertise is expected of the lighthouse maintenance personnel.",
+        "D": "Lighthouse technology is outdated and should have been replaced."
+      }
+    }
+  ]
+}

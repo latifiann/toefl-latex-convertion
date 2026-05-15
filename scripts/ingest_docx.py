@@ -472,7 +472,7 @@ def build_listening(practice_id: str, lines: list[str], html_paragraphs: list[di
 
     part_a_question_index = first_index(lines, r"^1\s*\.\s*(?:\(A\)|A\))", part_a_index)
     part_b_question_index = first_index(lines, r"^31\s*\.\s*(?:\(A\)|A\))", part_b_index)
-    part_c_question_index = first_index(lines, r"^39\s*\.\s*(?:\(A\)|A\))", part_c_index)
+    part_c_question_index = first_index(lines, r"^\d+\s*\.\s*(?:\(A\)|A\))", part_c_index)
 
     html_part_a_index = find_html_paragraph_index(html_paragraphs, r"^Part A$", 0)
     html_part_b_index = find_html_paragraph_index(html_paragraphs, r"^Part B$", html_part_a_index)
@@ -485,7 +485,7 @@ def build_listening(practice_id: str, lines: list[str], html_paragraphs: list[di
 
     html_part_a_question_index = find_html_paragraph_index(html_paragraphs, r"^1\.\s", html_part_a_index)
     html_part_b_question_index = find_html_paragraph_index(html_paragraphs, r"^31\.\s", html_part_b_index)
-    html_part_c_question_index = find_html_paragraph_index(html_paragraphs, r"^39\.\s", html_part_c_index)
+    html_part_c_question_index = find_html_paragraph_index(html_paragraphs, r"^\d+\.\s", html_part_c_example_index)
 
     part_a_meta = {
         "practice_id": practice_id,
@@ -500,7 +500,6 @@ def build_listening(practice_id: str, lines: list[str], html_paragraphs: list[di
         "part": "B",
         "directions": collect_html_text_lines(html_paragraphs, html_part_b_index + 1, html_part_b_example_index),
         "example_lines": collect_html_text_lines(html_paragraphs, html_part_b_example_index, html_part_b_question_index),
-        "expected_source_range": [31, 38],
     }
     part_c_meta = {
         "practice_id": practice_id,
@@ -523,39 +522,45 @@ def build_listening(practice_id: str, lines: list[str], html_paragraphs: list[di
         lambda source_number, _: f"{practice_id}-LC-{source_number:02d}",
     )
 
+    part_c_first_number = part_c_questions[0]["source_number"] if part_c_questions else 39
+    expected_part_b_numbers = list(range(31, part_c_first_number))
     part_b_numbers = [question["source_number"] for question in part_b_questions]
-    if part_b_numbers == [31, 32, 34, 35, 36, 37, 38]:
-        missing_33 = {
-            33: {
-                "id": f"{practice_id}-LB-33",
-                "source_number": 33,
+    missing_part_b_numbers = [number for number in expected_part_b_numbers if number not in part_b_numbers]
+    part_b_meta["expected_source_range"] = [31, expected_part_b_numbers[-1]] if expected_part_b_numbers else [31, 30]
+    if missing_part_b_numbers:
+        missing_questions = {
+            number: {
+                "id": f"{practice_id}-LB-{number:02d}",
+                "source_number": number,
                 "missing_from_source": True,
-                "prompt": "[Question 33 is missing from the DOCX source.]",
+                "prompt": f"[Question {number} is missing from the DOCX source.]",
                 "choices": {},
-                "notes": "Placeholder added to preserve the documented Part B source range 31-38.",
+                "notes": f"Placeholder added to preserve the documented Part B source range 31-{expected_part_b_numbers[-1]}.",
             }
+            for number in missing_part_b_numbers
         }
         part_b_questions = parse_question_blocks(
             lines[part_b_question_index:part_c_index],
             lambda source_number, _: f"{practice_id}-LB-{source_number:02d}",
-            include_missing=missing_33,
+            include_missing=missing_questions,
         )
-        anomalies.append(
-            {
-                "id": "listening-part-b-missing-33",
-                "severity": "high",
-                "section": "listening",
-                "detail": "Question 33 is absent from the DOCX source. A placeholder item was created in canonical content instead of guessing its text.",
-                "canonical_placeholder_id": f"{practice_id}-LB-33",
-            }
-        )
-    elif part_b_numbers != [31, 32, 33, 34, 35, 36, 37, 38]:
+        for missing_number in missing_part_b_numbers:
+            anomalies.append(
+                {
+                    "id": f"listening-part-b-missing-{missing_number}",
+                    "severity": "high",
+                    "section": "listening",
+                    "detail": f"Question {missing_number} is absent from the DOCX source. A placeholder item was created in canonical content instead of guessing its text.",
+                    "canonical_placeholder_id": f"{practice_id}-LB-{missing_number:02d}",
+                }
+            )
+    elif part_b_numbers != expected_part_b_numbers:
         anomalies.append(
             {
                 "id": "listening-part-b-unexpected-numbering",
                 "severity": "high",
                 "section": "listening",
-                "detail": "Part B numbering did not match the expected extracted sequence 31-38.",
+                "detail": f"Part B numbering did not match the expected extracted sequence 31-{expected_part_b_numbers[-1]}.",
                 "observed_source_numbers": part_b_numbers,
             }
         )

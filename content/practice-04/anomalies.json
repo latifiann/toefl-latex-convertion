@@ -1,0 +1,35 @@
+{
+  "anomalies": [
+    {
+      "id": "normalization-whitespace-and-formfeed",
+      "severity": "low",
+      "section": "global",
+      "detail": "Whitespace, form-feed characters, zero-width characters, and obvious mixed-script confusables were normalized during ingestion."
+    },
+    {
+      "id": "structure-q22-stray-a",
+      "severity": "medium",
+      "section": "structure",
+      "detail": "Question 22 included stray source text `the A crime`; canonical content was normalized to `the crime` without changing the underlined markers."
+    },
+    {
+      "id": "structure-q23-stray-a",
+      "severity": "medium",
+      "section": "structure",
+      "detail": "Question 23 included stray source text `by A copyright laws`; canonical content was normalized to `by copyright laws`."
+    },
+    {
+      "id": "structure-q40-marker-mislabel",
+      "severity": "high",
+      "section": "structure",
+      "detail": "Question 40 mislabeled `built up` as marker D in the source extraction and duplicated marker D on `distance`; canonical content was corrected so `built up` is marker B."
+    },
+    {
+      "id": "reading-referenced-lines-adjusted",
+      "severity": "low",
+      "section": "reading",
+      "detail": "Out-of-range referenced_lines were corrected for P04-RC-01-Q10 and P04-RC-03-Q08 to match the canonical line maps."
+    }
+  ],
+  "note": "Anomalies record source problems or deliberate normalization decisions. Canonical files should stay close to the DOCX while avoiding silent guessing."
+}

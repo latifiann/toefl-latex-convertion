@@ -1,0 +1,207 @@
+{
+  "practice_id": "P04",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P04-ST-01",
+      "source_number": 1,
+      "prompt": "Tennessee has about 140 newspapers,......25 are issued daily.",
+      "choices": {
+        "A": "about which",
+        "B": "of which about",
+        "C": "which are about",
+        "D": "which is about"
+      }
+    },
+    {
+      "id": "P04-ST-02",
+      "source_number": 2,
+      "prompt": "When consumers cannot have everything they want, they have to choose......most.",
+      "choices": {
+        "A": "they want what",
+        "B": "what they want",
+        "C": "they want it",
+        "D": "that they want"
+      }
+    },
+    {
+      "id": "P04-ST-03",
+      "source_number": 3,
+      "prompt": "The temperature of an object rises when......into it.",
+      "choices": {
+        "A": "heat flow",
+        "B": "flows hot",
+        "C": "heat flows",
+        "D": "hot flow"
+      }
+    },
+    {
+      "id": "P04-ST-04",
+      "source_number": 4,
+      "prompt": "From ancient times, people......their land, air and water.",
+      "choices": {
+        "A": "always have polluting",
+        "B": "always have pollution",
+        "C": "have always polluted",
+        "D": "pollution always has"
+      }
+    },
+    {
+      "id": "P04-ST-05",
+      "source_number": 5,
+      "prompt": "Jean Fragonard, was a French artist......portraits of children.",
+      "choices": {
+        "A": "whose paintings",
+        "B": "who has painted",
+        "C": "who painted",
+        "D": "whose painted"
+      }
+    },
+    {
+      "id": "P04-ST-06",
+      "source_number": 6,
+      "prompt": "Overharvesting brought North American alligators, to......in their natural",
+      "choices": {
+        "A": "nearly extinct",
+        "B": "near extinction",
+        "C": "extinct near",
+        "D": "extinction nearly"
+      }
+    },
+    {
+      "id": "P04-ST-07",
+      "source_number": 7,
+      "prompt": "The Ford Foundation was established in 1936 to advance human well-being by......funds for education.",
+      "choices": {
+        "A": "contribute",
+        "B": "contribution",
+        "C": "to contribute",
+        "D": "contributing"
+      }
+    },
+    {
+      "id": "P04-ST-08",
+      "source_number": 8,
+      "prompt": "Fireweed received its name because it......after a forest fire.",
+      "choices": {
+        "A": "quick growth",
+        "B": "grows quickly",
+        "C": "quickly grown",
+        "D": "growing quickly"
+      }
+    },
+    {
+      "id": "P04-ST-09",
+      "source_number": 9,
+      "prompt": "Florida's long coastline and warm weather......swimmers to its sandy shores.",
+      "choices": {
+        "A": "attracts",
+        "B": "attract",
+        "C": "they attract",
+        "D": "is attracted by"
+      }
+    },
+    {
+      "id": "P04-ST-10",
+      "source_number": 10,
+      "prompt": "Amazon pygmies consider their songs......part of their culture.",
+      "choices": {
+        "A": "an important and extremely",
+        "B": "as extreme and important",
+        "C": "an extremely important",
+        "D": "as extreme importance"
+      }
+    },
+    {
+      "id": "P04-ST-11",
+      "source_number": 11,
+      "prompt": "Psychologists define anxiety as a feeling of dread, apprehension, or......",
+      "choices": {
+        "A": "afraid",
+        "B": "be afraid",
+        "C": "having fear",
+        "D": "fear"
+      }
+    },
+    {
+      "id": "P04-ST-12",
+      "source_number": 12,
+      "prompt": "Ancient nations have used......on their emblems and flags for thousands of years.",
+      "choices": {
+        "A": "the same symbols as",
+        "B": "the same symbols",
+        "C": "symbols the same as",
+        "D": "symbols as the same"
+      }
+    },
+    {
+      "id": "P04-ST-13",
+      "source_number": 13,
+      "prompt": "For years experts......the effect of coaching and preparatory courses on test scores.",
+      "choices": {
+        "A": "are examining",
+        "B": "had been examined",
+        "C": "have been examining.",
+        "D": "having been examined"
+      }
+    },
+    {
+      "id": "P04-ST-14",
+      "source_number": 14,
+      "prompt": "The nitrogen cycle......of nitrogen through the atmosphere, hydrosphere, and lithosphere.",
+      "choices": {
+        "A": "the circulation is",
+        "B": "is the circulation",
+        "C": "it is the circulation",
+        "D": "is it the circulation"
+      }
+    },
+    {
+      "id": "P04-ST-15",
+      "source_number": 15,
+      "prompt": "While working as a clerk, Edison spent much of his time......the stock ticker.",
+      "choices": {
+        "A": "he studied",
+        "B": "to study",
+        "C": "on study",
+        "D": "studying"
+      }
+    }
+  ]
+}

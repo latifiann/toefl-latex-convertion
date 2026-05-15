@@ -1,0 +1,324 @@
+{
+  "practice_id": "P04",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P04-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "Professor White holds advanced classes.",
+        "B": "Professor White's students have graduated.",
+        "C": "Students have great respect for Professor White.",
+        "D": "Students are taking Professor White's seminar."
+      }
+    },
+    {
+      "id": "P04-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "You have to be careful in the desert.",
+        "B": "You shouldn't eat so many sweets.",
+        "C": "May I offer you some dessert?",
+        "D": "Can you help me with the sweets?"
+      }
+    },
+    {
+      "id": "P04-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "He never has any money.",
+        "B": "He has no money on him.",
+        "C": "He is out getting cash.",
+        "D": "He has been out of work."
+      }
+    },
+    {
+      "id": "P04-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "The machine shouldn't be left running.",
+        "B": "Turn on the copying machine when you leave.",
+        "C": "The machine has to be turned around.",
+        "D": "You made enough copies already."
+      }
+    },
+    {
+      "id": "P04-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "Tom passed up a Latin course.",
+        "B": "Tom was expected to fail Latin.",
+        "C": "He's surprised Tom is late.",
+        "D": "Tom's Latin class is last."
+      }
+    },
+    {
+      "id": "P04-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "She buys exotic clothes.",
+        "B": "She bought a $115 dress.",
+        "C": "She spent $210.",
+        "D": "She has a new house."
+      }
+    },
+    {
+      "id": "P04-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "The new engineering building is far from here.",
+        "B": "The building is not what I thought it would be.",
+        "C": "I don't know what I expected the engineer to do.",
+        "D": "They are building a new house for the engineer."
+      }
+    },
+    {
+      "id": "P04-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "The man has put off going to a dentist.",
+        "B": "The man likes getting his teeth cleaned.",
+        "C": "She is not happy that the man went to a dentist.",
+        "D": "Everyone should have their teeth cleaned regularly."
+      }
+    },
+    {
+      "id": "P04-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "The rent for the hall is high.",
+        "B": "The wedding hall is for rent.",
+        "C": "The hall is too small.",
+        "D": "There are not enough guests."
+      }
+    },
+    {
+      "id": "P04-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "She can cash the check.",
+        "B": "Only the manager can cash the check.",
+        "C": "Traveller's checks cannot be cashed there.",
+        "D": "A thousand dollars is a large sum of money."
+      }
+    },
+    {
+      "id": "P04-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "They worked together as a team.",
+        "B": "The windows and carpets are beautiful.",
+        "C": "They now have clean windows and rugs.",
+        "D": "They are always cleaning their house."
+      }
+    },
+    {
+      "id": "P04-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "She got lost one more time.",
+        "B": "She didn't know what to say.",
+        "C": "She is learning many new words.",
+        "D": "She had less than the price of the book."
+      }
+    },
+    {
+      "id": "P04-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "He is staying in this hotel.",
+        "B": "He keeps going to bed late.",
+        "C": "He lives by himself in this house.",
+        "D": "He started early and finished late."
+      }
+    },
+    {
+      "id": "P04-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "Ronald won't travel this summer.",
+        "B": "She doesn't know to what country Ronald is going.",
+        "C": "She wants to travel with Ronald.",
+        "D": "Ronald wants to travel out of the country."
+      }
+    },
+    {
+      "id": "P04-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "They can't deliver her dress.",
+        "B": "They don't know where she lives.",
+        "C": "They didn't touch her dress.",
+        "D": "They aren't familiar with the city."
+      }
+    },
+    {
+      "id": "P04-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "We'll be there on time.",
+        "B": "We'll be late.",
+        "C": "We'll take the next turn.",
+        "D": "The turn is forty miles away."
+      }
+    },
+    {
+      "id": "P04-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "Only a third of the students are enrolled in the business school.",
+        "B": "The third enrollment prediction for the business school was accurate.",
+        "C": "The enrollment is three times higher than what was predicted.",
+        "D": "The enrollment figures are about 66 percent lower than expected."
+      }
+    },
+    {
+      "id": "P04-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "He likes to sing old songs.",
+        "B": "The rumors about him are unbelievable.",
+        "C": "To start singing at his age is unusual.",
+        "D": "You shouldn't talk about him this way."
+      }
+    },
+    {
+      "id": "P04-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "He doesn't feel good, and he won't go to class.",
+        "B": "He couldn't hear the lecture because students were talking.",
+        "C": "Students don't pay attention to what he says.",
+        "D": "In this class, the same thing happens every day."
+      }
+    },
+    {
+      "id": "P04-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "They passed the river.",
+        "B": "They went for a walk.",
+        "C": "They visited her sister.",
+        "D": "They were looking at the sunset."
+      }
+    },
+    {
+      "id": "P04-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "Stand in line",
+        "B": "Try to order tickets",
+        "C": "Go to the game",
+        "D": "Call their office"
+      }
+    },
+    {
+      "id": "P04-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "She doesn't need another phone.",
+        "B": "She is not as busy as it seems.",
+        "C": "They can’t afford another line.",
+        "D": "They have to use the phone less."
+      }
+    },
+    {
+      "id": "P04-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "The man administers math placement tests.",
+        "B": "The woman should take a math course.",
+        "C": "The woman has to take the placement test.",
+        "D": "The woman can transfer her math credit."
+      }
+    },
+    {
+      "id": "P04-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "A florist",
+        "B": "A gardener",
+        "C": "A barber",
+        "D": "A custodian"
+      }
+    },
+    {
+      "id": "P04-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "Listening to the radio",
+        "B": "Watching a contest",
+        "C": "Repairing a car battery",
+        "D": "Attending a conference"
+      }
+    },
+    {
+      "id": "P04-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "An insurance company",
+        "B": "A car rental agency",
+        "C": "A real estate agency",
+        "D": "An apartment complex"
+      }
+    },
+    {
+      "id": "P04-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "The man shouldn't attend the exam.",
+        "B": "The instructor isn't proctoring the exam.",
+        "C": "In this situation, the man should stay home.",
+        "D": "She doesn't know what the man should do."
+      }
+    },
+    {
+      "id": "P04-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "She is a demanding person.",
+        "B": "She is sympathetic to the man.",
+        "C": "She doesn't fault the course.",
+        "D": "She got out of the course."
+      }
+    },
+    {
+      "id": "P04-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "A bookstore",
+        "B": "A publishing house",
+        "C": "A craft show",
+        "D": "An art exhibition"
+      }
+    },
+    {
+      "id": "P04-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "He walked ten miles.",
+        "B": "He came here first.",
+        "C": "He won a ski competition.",
+        "D": "He lives across the country."
+      }
+    }
+  ]
+}
