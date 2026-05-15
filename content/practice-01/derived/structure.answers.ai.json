@@ -18,7 +18,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Gunakan past participle untuk frasa reduced relative clause: land bought from the Seneca Indians.",
-      "rationale_en": "Use past participle in a reduced relative clause: land bought from the Seneca Indians.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -35,7 +35,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Perlu klausa relatif yang menjelaskan proporsi: which alter soil porosity.",
-      "rationale_en": "Use a relative clause to modify the proportions: which alter soil porosity.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -52,7 +52,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Setelah verb depict, gunakan adverb: accurately and objectively.",
-      "rationale_en": "After the verb depict, use adverbs: accurately and objectively.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -69,7 +69,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Ungkapan baku: a part to the whole or a part to another part.",
-      "rationale_en": "Standard ratio phrasing: a part to the whole or a part to another part.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -86,7 +86,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Bandingkan bones (plural) dengan those of young people.",
-      "rationale_en": "Use plural demonstrative: those of young people.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -103,7 +103,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Subjek sudah ada; gunakan simple past: settlers established Belfast.",
-      "rationale_en": "Subject already present; use simple past: settlers established Belfast.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -120,7 +120,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Perlu klausa lengkap: because they affect large segments of the population.",
-      "rationale_en": "Needs a full clause: because they affect large segments of the population.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -137,7 +137,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Makna yang tepat: only a few feathered creatures.",
-      "rationale_en": "Correct quantifier: only a few feathered creatures.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -154,7 +154,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Sebelum 1930, gunakan past perfect: had achieved success as a lawyer.",
-      "rationale_en": "Before 1930, use past perfect: had achieved success as a lawyer.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -171,7 +171,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Frasa baku: from one place to another.",
-      "rationale_en": "Fixed pair: from one place to another.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -188,7 +188,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Setelah are ordinarily gunakan past participles: owned and operated.",
-      "rationale_en": "After are ordinarily, use past participles: owned and operated.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -205,7 +205,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Subjek singular butuh increases; adverb: apparently increases.",
-      "rationale_en": "Singular subject needs increases; adverb: apparently increases.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -222,7 +222,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Each bowler (singular) -> rolls the ball twice.",
-      "rationale_en": "Each bowler (singular) -> rolls the ball twice.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -239,7 +239,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Gunakan all of whom untuk klausa tambahan.",
-      "rationale_en": "Use all of whom for a nonrestrictive relative clause.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -256,7 +256,7 @@
       "incorrect_marker": "",
       "correct_form": "",
       "rationale_id": "Bentuk tepat: because of its motion and mass.",
-      "rationale_en": "Correct form: because of its motion and mass.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -272,8 +272,8 @@
       "grammar_rule": "Adjective vs noun object.",
       "incorrect_marker": "C",
       "correct_form": "moisture",
-      "rationale_id": "Setelah verb carries perlu noun; moist harus menjadi moisture.",
-      "rationale_en": "The verb carries needs a noun object; moist should be moisture.",
+      "rationale_id": "Bagian (C) salah karena setelah verb carries perlu noun; moist harus menjadi moisture. Bentuk yang benar adalah `moisture`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -289,8 +289,8 @@
       "grammar_rule": "Passive verb form.",
       "incorrect_marker": "D",
       "correct_form": "admired",
-      "rationale_id": "Butuh verb pasif: was admired, bukan noun admiration.",
-      "rationale_en": "Needs a passive verb: was admired, not the noun admiration.",
+      "rationale_id": "Bagian (D) salah karena butuh verb pasif: was admired, bukan noun admiration. Bentuk yang benar adalah `admired`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -306,8 +306,8 @@
       "grammar_rule": "Modal + base verb.",
       "incorrect_marker": "B",
       "correct_form": "select",
-      "rationale_id": "Setelah must gunakan base verb: must select.",
-      "rationale_en": "After must, use base verb: must select.",
+      "rationale_id": "Bagian (B) salah karena setelah must gunakan base verb: must select. Bentuk yang benar adalah `select`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -323,8 +323,8 @@
       "grammar_rule": "Noun phrase formation.",
       "incorrect_marker": "D",
       "correct_form": "office buildings",
-      "rationale_id": "Frasa noun yang benar: office buildings.",
-      "rationale_en": "Correct noun phrase: office buildings.",
+      "rationale_id": "Bagian (D) salah karena frasa noun yang benar: office buildings. Bentuk yang benar adalah `office buildings`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -340,8 +340,8 @@
       "grammar_rule": "Adjective vs noun form.",
       "incorrect_marker": "D",
       "correct_form": "territory",
-      "rationale_id": "Butuh noun: Sioux territory, bukan territorial.",
-      "rationale_en": "Needs a noun: Sioux territory, not territorial.",
+      "rationale_id": "Bagian (D) salah karena butuh noun: Sioux territory, bukan territorial. Bentuk yang benar adalah `territory`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -357,8 +357,8 @@
       "grammar_rule": "Article usage in comparison.",
       "incorrect_marker": "D",
       "correct_form": "a number",
-      "rationale_id": "Butuh artikel: the same as a number.",
-      "rationale_en": "Requires an article: the same as a number.",
+      "rationale_id": "Bagian (D) salah karena butuh artikel: the same as a number. Bentuk yang benar adalah `a number`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -374,8 +374,8 @@
       "grammar_rule": "Subject-verb agreement.",
       "incorrect_marker": "A",
       "correct_form": "aid",
-      "rationale_id": "Muscles plural, verb harus aid.",
-      "rationale_en": "Muscles is plural, so the verb should be aid.",
+      "rationale_id": "Bagian (A) salah karena muscles plural, verb harus aid. Bentuk yang benar adalah `aid`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -391,8 +391,8 @@
       "grammar_rule": "Parallel noun number.",
       "incorrect_marker": "D",
       "correct_form": "scholar",
-      "rationale_id": "Sesuai artikel a, gunakan singular scholar.",
-      "rationale_en": "With the article a, use singular scholar.",
+      "rationale_id": "Bagian (D) salah karena sesuai artikel a, gunakan singular scholar. Bentuk yang benar adalah `scholar`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -408,8 +408,8 @@
       "grammar_rule": "Word form.",
       "incorrect_marker": "D",
       "correct_form": "handheld",
-      "rationale_id": "Kata yang benar: handheld calculators.",
-      "rationale_en": "Correct form: handheld calculators.",
+      "rationale_id": "Bagian (D) salah karena kata yang benar: handheld calculators. Bentuk yang benar adalah `handheld`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -425,8 +425,8 @@
       "grammar_rule": "Tense for general statement.",
       "incorrect_marker": "C",
       "correct_form": "is",
-      "rationale_id": "Pernyataan umum gunakan present: it is.",
-      "rationale_en": "General statement takes present: it is.",
+      "rationale_id": "Bagian (C) salah karena pernyataan umum gunakan present: it is. Bentuk yang benar adalah `is`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -442,8 +442,8 @@
       "grammar_rule": "Passive participle.",
       "incorrect_marker": "A",
       "correct_form": "defined",
-      "rationale_id": "Passive: is defined as.",
-      "rationale_en": "Passive form: is defined as.",
+      "rationale_id": "Bagian (A) salah karena passive: is defined as. Bentuk yang benar adalah `defined`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -459,8 +459,8 @@
       "grammar_rule": "Conjunction vs preposition.",
       "incorrect_marker": "C",
       "correct_form": "because",
-      "rationale_id": "Gunakan because + clause, bukan because of + clause.",
-      "rationale_en": "Use because + clause, not because of + clause.",
+      "rationale_id": "Bagian (C) salah karena gunakan because + clause, bukan because of + clause. Bentuk yang benar adalah `because`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -476,8 +476,8 @@
       "grammar_rule": "Adjective degree.",
       "incorrect_marker": "D",
       "correct_form": "great",
-      "rationale_id": "Untuk jumlah, gunakan great, bukan comparative greater.",
-      "rationale_en": "Use great for quantity here, not the comparative greater.",
+      "rationale_id": "Bagian (D) salah karena untuk jumlah, gunakan great, bukan comparative greater. Bentuk yang benar adalah `great`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -493,8 +493,8 @@
       "grammar_rule": "Past participle modifier.",
       "incorrect_marker": "D",
       "correct_form": "designed",
-      "rationale_id": "Gunakan past participle untuk modifier: outlets designed.",
-      "rationale_en": "Use past participle modifier: outlets designed.",
+      "rationale_id": "Bagian (D) salah karena gunakan past participle untuk modifier: outlets designed. Bentuk yang benar adalah `designed`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -510,8 +510,8 @@
       "grammar_rule": "Reduced passive clause.",
       "incorrect_marker": "A",
       "correct_form": "housed",
-      "rationale_id": "Troops housed in Fort Bliss...",
-      "rationale_en": "Use a past participle: troops housed in Fort Bliss.",
+      "rationale_id": "Bagian (A) salah karena frasa reduced passive clause membutuhkan past participle untuk menerangkan `troops`. Bentuk yang benar adalah `housed`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -527,8 +527,8 @@
       "grammar_rule": "Adjective vs noun.",
       "incorrect_marker": "B",
       "correct_form": "successful",
-      "rationale_id": "Butuh adjective: the first successful starter.",
-      "rationale_en": "Needs an adjective: the first successful starter.",
+      "rationale_id": "Bagian (B) salah karena butuh adjective: the first successful starter. Bentuk yang benar adalah `successful`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -544,9 +544,9 @@
       "grammar_rule": "Infinitive phrase of purpose.",
       "incorrect_marker": "D",
       "correct_form": "for their audiences to enjoy",
-      "rationale_id": "Frasa yang lebih tepat adalah 'for their audiences to enjoy'. Bentuk infinitive phrase tersebut menyatakan tujuan, yaitu bahwa pertunjukan disajikan agar dapat dinikmati oleh penonton.",
-      "rationale_en": "For purpose, use a noun: for their audiences' enjoyment.",
-      "needs_manual_review": false
+      "rationale_id": "Bagian (D) salah karena frasa yang lebih tepat adalah 'for their audiences to enjoy'. Bentuk infinitive phrase tersebut menyatakan tujuan, yaitu bahwa pertunjukan disajikan agar dapat dinikmati oleh penonton. Bentuk yang benar adalah `for their audiences to enjoy`.",
+      "rationale_en": "",
+      "needs_manual_review": true
     },
     {
       "id": "P01-ST-33",
@@ -561,9 +561,9 @@
       "grammar_rule": "Noun number in object.",
       "incorrect_marker": "C",
       "correct_form": "humans",
-      "rationale_id": "Objek study harus plural: study of humans.",
-      "rationale_en": "The object should be plural: study of humans.",
-      "needs_manual_review": false
+      "rationale_id": "Bagian (C) salah karena objek study harus plural: study of humans. Bentuk yang benar adalah `humans`.",
+      "rationale_en": "",
+      "needs_manual_review": true
     },
     {
       "id": "P01-ST-34",
@@ -578,8 +578,8 @@
       "grammar_rule": "Adjective form before noun.",
       "incorrect_marker": "D",
       "correct_form": "wide",
-      "rationale_id": "Gunakan adjective wide sebelum noun array; widely adalah adverb.",
-      "rationale_en": "Use adjective wide before the noun array; widely is an adverb.",
+      "rationale_id": "Bagian (D) salah karena gunakan adjective wide sebelum noun array; widely adalah adverb. Bentuk yang benar adalah `wide`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -595,8 +595,8 @@
       "grammar_rule": "Comparative adverb.",
       "incorrect_marker": "B",
       "correct_form": "more slowly",
-      "rationale_id": "Setelah rotates gunakan adverb: more slowly.",
-      "rationale_en": "After rotates, use an adverb: more slowly.",
+      "rationale_id": "Bagian (B) salah karena setelah rotates gunakan adverb: more slowly. Bentuk yang benar adalah `more slowly`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -612,8 +612,8 @@
       "grammar_rule": "Redundant subject.",
       "incorrect_marker": "A",
       "correct_form": "studied",
-      "rationale_id": "Hapus pronoun: Van Cliburn studied piano.",
-      "rationale_en": "Remove redundant pronoun: Van Cliburn studied piano.",
+      "rationale_id": "Bagian (A) salah karena hapus pronoun: Van Cliburn studied piano. Bentuk yang benar adalah `studied`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -629,8 +629,8 @@
       "grammar_rule": "Inversion after negative adverbial.",
       "incorrect_marker": "A",
       "correct_form": "do comics",
-      "rationale_id": "Not only + auxiliary inversion: Not only do comics show...",
-      "rationale_en": "Not only requires auxiliary inversion: Not only do comics show...",
+      "rationale_id": "Bagian (A) salah karena not only + auxiliary inversion: Not only do comics show. Bentuk yang benar adalah `do comics`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -646,8 +646,8 @@
       "grammar_rule": "Passive verb form.",
       "incorrect_marker": "D",
       "correct_form": "it is arranged",
-      "rationale_id": "Kalimat pasif: how it is arranged.",
-      "rationale_en": "Passive construction: how it is arranged.",
+      "rationale_id": "Bagian (D) salah karena kalimat pasif: how it is arranged. Bentuk yang benar adalah `it is arranged`.",
+      "rationale_en": "",
       "needs_manual_review": false
     },
     {
@@ -663,9 +663,9 @@
       "grammar_rule": "Active/modal construction for permission.",
       "incorrect_marker": "C",
       "correct_form": "are allowed to use",
-      "rationale_id": "Frasa 'are used' tidak tepat karena subjek 'readers' adalah pihak yang melakukan aksi menggunakan library. Bentuk yang lebih tepat adalah konstruksi aktif/modal seperti 'these readers are allowed to use the library' atau 'these readers may use the library'.",
-      "rationale_en": "Use an allowance verb: are allowed to use the library.",
-      "needs_manual_review": false
+      "rationale_id": "Bagian (C) salah karena frasa 'are used' tidak tepat karena subjek 'readers' adalah pihak yang melakukan aksi menggunakan library. Bentuk yang lebih tepat adalah konstruksi aktif/modal seperti 'these readers are allowed to use the library' atau 'these readers may use the library'. Bentuk yang benar adalah `are allowed to use`.",
+      "rationale_en": "",
+      "needs_manual_review": true
     },
     {
       "id": "P01-ST-40",
@@ -680,8 +680,8 @@
       "grammar_rule": "Count vs noncount noun.",
       "incorrect_marker": "B",
       "correct_form": "information",
-      "rationale_id": "Information adalah uncountable: information.",
-      "rationale_en": "Information is uncountable: information.",
+      "rationale_id": "Bagian (B) salah karena `information` adalah noun uncountable dan tidak memakai bentuk jamak. Bentuk yang benar adalah `information`.",
+      "rationale_en": "",
       "needs_manual_review": false
     }
   ]

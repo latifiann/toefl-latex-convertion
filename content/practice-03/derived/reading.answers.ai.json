@@ -14,9 +14,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Passage ini membahas perjalanan politik Andrew Johnson, masa kepresidenannya, dan konflik impeachment yang ia hadapi.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 28
+        }
+      ],
+      "evidence_quote": "His career started in 1828 ... later to the U.S. House of Representatives",
+      "rationale_id": "Jawaban (B) karena passage merangkum karier politik Johnson dari awal hingga konflik impeachment, sehingga fokus utamanya adalah perjalanan politiknya.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -37,7 +42,7 @@
         }
       ],
       "evidence_quote": "took office",
-      "rationale_id": "Di sini, took office berarti mulai menjabat dalam posisi pemerintahan.",
+      "rationale_id": "Jawaban (C) karena di sini, took office berarti mulai menjabat dalam posisi pemerintahan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -51,9 +56,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Paragraf pertama menunjukkan bahwa Johnson terpilih ke beberapa jabatan penting di Tennessee.",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "His career started in 1828 ... elected to the city council ... state senate ... state governor ... U.S. House of Representatives",
+      "rationale_id": "Jawaban (C) karena paragraf awal menyebut ia terpilih ke city council, mayor, state senate, governor, hingga U.S. House.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -74,7 +84,7 @@
         }
       ],
       "evidence_quote": "alliance with the northern states",
-      "rationale_id": "Alliance di sini berarti persatuan.",
+      "rationale_id": "Jawaban (A) karena alliance di sini berarti persatuan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -95,7 +105,7 @@
         }
       ],
       "evidence_quote": "violent temper and unyielding stubbornness",
-      "rationale_id": "Passage ini mengaitkan kejatuhannya langsung dengan karakter pribadinya.",
+      "rationale_id": "Jawaban (C) karena passage ini mengaitkan kejatuhannya langsung dengan karakter pribadinya.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -116,7 +126,7 @@
         }
       ],
       "evidence_quote": "city council ... state senate ... state governor ... U.S. House",
-      "rationale_id": "Ia sudah memiliki pengalaman politik yang luas sebelum menjadi presiden.",
+      "rationale_id": "Jawaban (C) karena ia sudah memiliki pengalaman politik yang luas sebelum menjadi presiden.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -137,7 +147,7 @@
         }
       ],
       "evidence_quote": "concerned ... feared retaliation",
-      "rationale_id": "Detail ini menunjukkan bahwa warga Selatan cemas terhadap masa depan mereka.",
+      "rationale_id": "Jawaban (B) karena detail ini menunjukkan bahwa warga Selatan cemas terhadap masa depan mereka.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -158,7 +168,7 @@
         }
       ],
       "evidence_quote": "gridlock ... veto was overridden ... voted to impeach Johnson",
-      "rationale_id": "Oposisi di Kongres merusak dan melemahkan masa kepresidenannya.",
+      "rationale_id": "Jawaban (B) karena oposisi di Kongres merusak dan melemahkan masa kepresidenannya.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -179,7 +189,7 @@
         }
       ],
       "evidence_quote": "pardon political criminals",
-      "rationale_id": "Pardon paling dekat maknanya dengan exonerate dalam konteks ini.",
+      "rationale_id": "Jawaban (C) karena pardon paling dekat maknanya dengan exonerate dalam konteks ini.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -200,7 +210,7 @@
         }
       ],
       "evidence_quote": "Stanton refused to step down",
-      "rationale_id": "Peristiwa Stanton menunjukkan bahwa Johnson kehilangan otoritas eksekutif.",
+      "rationale_id": "Jawaban (D) karena peristiwa Stanton menunjukkan bahwa Johnson kehilangan otoritas eksekutif.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -221,7 +231,7 @@
         }
       ],
       "evidence_quote": "Johnson dismissed the secretary of war",
-      "rationale_id": "Dismissed berarti diberhentikan atau dicopot dari jabatan.",
+      "rationale_id": "Jawaban (B) karena dismissed berarti diberhentikan atau dicopot dari jabatan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -242,7 +252,7 @@
         }
       ],
       "evidence_quote": "the Senate came one vote short",
-      "rationale_id": "Upaya impeachment gagal dengan selisih yang sangat tipis.",
+      "rationale_id": "Jawaban (B) karena upaya impeachment gagal dengan selisih yang sangat tipis.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -256,9 +266,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Passage ini membahas betapa luasnya stereotip sex-trait serta bagaimana stereotip itu dipelajari dan disebarkan.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "sex-trait stereotypes remain common among young adults today ... cross-nationally show a high degree of correspondence",
+      "rationale_id": "Jawaban (B) karena passage menekankan keluasan stereotip sex-trait dan keberlangsungannya lintas negara.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -279,7 +294,7 @@
         }
       ],
       "evidence_quote": "ambitious",
-      "rationale_id": "Ambitious paling dekat maknanya dengan enterprising.",
+      "rationale_id": "Jawaban (A) karena ambitious paling dekat maknanya dengan enterprising.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -300,7 +315,7 @@
         }
       ],
       "evidence_quote": "high-strung",
-      "rationale_id": "High-strung berarti nervous atau tense.",
+      "rationale_id": "Jawaban (C) karena high-strung berarti nervous atau tense.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -321,7 +336,7 @@
         }
       ],
       "evidence_quote": "remain common among young adults today",
-      "rationale_id": "Passage ini menyatakan bahwa keyakinan kaum muda hampir tidak berubah.",
+      "rationale_id": "Jawaban (B) karena passage ini menyatakan bahwa keyakinan kaum muda hampir tidak berubah.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -342,7 +357,7 @@
         }
       ],
       "evidence_quote": "perpetuate",
-      "rationale_id": "Perpetuate berarti mempertahankan atau melanjutkan.",
+      "rationale_id": "Jawaban (C) karena perpetuate berarti mempertahankan atau melanjutkan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -356,9 +371,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Pilihan B sesuai dengan pernyataan bahwa keyakinan sosial memicu rasionalisasi stereotyping.",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "stereotyping has proved to be the psychological justification for social beliefs",
+      "rationale_id": "Jawaban (B) karena passage menyebut stereotyping sebagai justifikasi psikologis bagi keyakinan sosial tentang peran laki-laki dan perempuan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -379,7 +399,7 @@
         }
       ],
       "evidence_quote": "children's literature and television programs provide powerful models",
-      "rationale_id": "Paragraf kedua mendukung gagasan bahwa pembelajaran terjadi melalui paparan berbagai media.",
+      "rationale_id": "Jawaban (B) karena paragraf kedua mendukung gagasan bahwa pembelajaran terjadi melalui paparan berbagai media.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -400,7 +420,7 @@
         }
       ],
       "evidence_quote": "the reasons for this learning are not fully understood",
-      "rationale_id": "Batasan penelitian disebut pada baris 13-15.",
+      "rationale_id": "Jawaban (C) karena batasan penelitian disebut pada baris 13-15.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -421,7 +441,7 @@
         }
       ],
       "evidence_quote": "cross-nationally show a high degree of correspondence",
-      "rationale_id": "Passage ini mengatakan bahwa karakterisasi tersebut ditemukan di beberapa negara.",
+      "rationale_id": "Jawaban (B) karena passage ini mengatakan bahwa karakterisasi tersebut ditemukan di beberapa negara.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -442,7 +462,7 @@
         }
       ],
       "evidence_quote": "correspondence",
-      "rationale_id": "Correspondence paling dekat maknanya dengan agreement.",
+      "rationale_id": "Jawaban (C) karena correspondence paling dekat maknanya dengan agreement.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -456,11 +476,16 @@
       "validation_source": "",
       "confidence_label": "medium",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Karena stereotip tetap umum meski ada gerakan reformasi, penulis memandang perubahan radikal tidak mungkin terjadi.",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "In spite of the egalitarian movement, recent studies have demonstrated that sex-trait stereotypes remain common",
+      "rationale_id": "Jawaban (D) karena meski ada gerakan egalitarian, stereotip tetap umum; ini menyiratkan sikap sosial tidak mungkin berubah drastis.",
       "rationale_en": "",
-      "needs_manual_review": false
+      "needs_manual_review": true
     },
     {
       "id": "P03-RC-02-Q12",
@@ -472,9 +497,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Topiknya adalah stereotyping, peran sosial, dan sikap sosial, sehingga cocok dengan bidang sociology.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "social beliefs concerning the appropriateness of various activities for men and women",
+      "rationale_id": "Jawaban (B) karena passage membahas stereotip dan peran sosial, yang merupakan kajian sosiologi.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -488,9 +518,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Passage ini berfokus pada pemasaran menyesatkan terkait klaim mirip mukjizat di toko makanan sehat.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "promoting miraculous potions ... capitalize on real and imagined problems",
+      "rationale_id": "Jawaban (D) karena passage menyorot pemasaran klaim mukjizat yang menyesatkan di toko makanan sehat.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -504,9 +539,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Penulis memakai bahasa yang skeptis dan tajam, jadi tonenya sarcastic.",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "astounded, bewildered ... slight disregard for truth",
+      "rationale_id": "Jawaban (C) karena diksi dan contoh yang dipakai menyiratkan nada menyindir/ketus terhadap industri tersebut.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -527,9 +567,9 @@
         }
       ],
       "evidence_quote": "touted",
-      "rationale_id": "Touted paling dekat maknanya dengan talked about atau promoted.",
+      "rationale_id": "Jawaban (A) karena touted paling dekat maknanya dengan talked about atau promoted.",
       "rationale_en": "",
-      "needs_manual_review": false
+      "needs_manual_review": true
     },
     {
       "id": "P03-RC-03-Q04",
@@ -541,9 +581,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Garlic dan squash adalah contoh miskonsepsi yang bertahan tentang kekuatan penyembuhan makanan.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "Garlic has long been touted ... squash has been thought by some to cure digestive disorders",
+      "rationale_id": "Jawaban (D) karena penulis memberi contoh garlic dan squash untuk menunjukkan miskonsepsi yang bertahan tentang makanan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -564,9 +609,9 @@
         }
       ],
       "evidence_quote": "capitalize on real and imagined problems",
-      "rationale_id": "Kesuksesan komersial dijelaskan saat passage menerangkan bagaimana toko mengeksploitasi kekhawatiran pelanggan.",
+      "rationale_id": "Jawaban (D) karena kesuksesan komersial dijelaskan saat passage menerangkan bagaimana toko mengeksploitasi kekhawatiran pelanggan.",
       "rationale_en": "",
-      "needs_manual_review": false
+      "needs_manual_review": true
     },
     {
       "id": "P03-RC-03-Q06",
@@ -585,7 +630,7 @@
         }
       ],
       "evidence_quote": "cajoled",
-      "rationale_id": "Cajoled berarti coaxed atau persuaded.",
+      "rationale_id": "Jawaban (D) karena cajoled berarti coaxed atau persuaded.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -606,7 +651,7 @@
         }
       ],
       "evidence_quote": "cost more ... do not actually need",
-      "rationale_id": "Passage ini menyiratkan bahwa pemilik toko memaksimalkan keuntungan dengan mengeksploitasi gullibility konsumen.",
+      "rationale_id": "Jawaban (C) karena passage ini menyiratkan bahwa pemilik toko memaksimalkan keuntungan dengan mengeksploitasi gullibility konsumen.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -627,7 +672,7 @@
         }
       ],
       "evidence_quote": "slight disregard for truth",
-      "rationale_id": "Penulis menyiratkan bisnis ini bisa mendekati cheating.",
+      "rationale_id": "Jawaban (B) karena penulis menyiratkan bisnis ini bisa mendekati cheating.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -648,7 +693,7 @@
         }
       ],
       "evidence_quote": "electricity would take over virtually all fuel-generating functions",
-      "rationale_id": "Rencananya adalah mengalihkan industri dan ekonomi secara besar-besaran ke nuclear power.",
+      "rationale_id": "Jawaban (C) karena rencananya adalah mengalihkan industri dan ekonomi secara besar-besaran ke nuclear power.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -669,7 +714,7 @@
         }
       ],
       "evidence_quote": "the public accepted the notion",
-      "rationale_id": "Kata accepted menunjukkan bahwa publik bersikap receptive.",
+      "rationale_id": "Jawaban (C) karena kata accepted menunjukkan bahwa publik bersikap receptive.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -690,7 +735,7 @@
         }
       ],
       "evidence_quote": "nominal costs",
-      "rationale_id": "Nominal costs berarti biaya minimal.",
+      "rationale_id": "Jawaban (B) karena nominal costs berarti biaya minimal.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -711,7 +756,7 @@
         }
       ],
       "evidence_quote": "notion",
-      "rationale_id": "Notion di sini berarti idea.",
+      "rationale_id": "Jawaban (C) karena notion di sini berarti idea.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -732,7 +777,7 @@
         }
       ],
       "evidence_quote": "this outlook",
-      "rationale_id": "This outlook merujuk pada ekspektasi peningkatan jumlah nuclear plants.",
+      "rationale_id": "Jawaban (B) karena this outlook merujuk pada ekspektasi peningkatan jumlah nuclear plants.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -753,9 +798,9 @@
         }
       ],
       "evidence_quote": "no possibility of evacuating residents",
-      "rationale_id": "Contoh Shoreham menunjukkan bahwa pejabat meremehkan konsekuensi kecelakaan serius.",
+      "rationale_id": "Jawaban (C) karena contoh Shoreham menunjukkan bahwa pejabat meremehkan konsekuensi kecelakaan serius.",
       "rationale_en": "",
-      "needs_manual_review": false
+      "needs_manual_review": true
     },
     {
       "id": "P03-RC-04-Q07",
@@ -774,7 +819,7 @@
         }
       ],
       "evidence_quote": "another 3 are still under construction",
-      "rationale_id": "Passage ini menunjukkan bahwa konstruksi masih berlanjut, tetapi dalam skala yang jauh lebih kecil.",
+      "rationale_id": "Jawaban (A) karena passage ini menunjukkan bahwa konstruksi masih berlanjut, tetapi dalam skala yang jauh lebih kecil.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -788,9 +833,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Passage ini disusun melalui hubungan cause-and-effect antara kebijakan dan hasilnya.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "Because geologists have long indicated ... Since 1975, this outlook and this estimation have changed drastically",
+      "rationale_id": "Jawaban (C) karena passage menghubungkan sebab dan akibat perubahan kebijakan nuklir dari awal hingga pembatalan proyek.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -811,7 +861,7 @@
         }
       ],
       "evidence_quote": "the issue ... has not yet been satisfactorily resolved",
-      "rationale_id": "Masalah bahan bakar dan energi di masa depan masih belum terselesaikan.",
+      "rationale_id": "Jawaban (D) karena masalah bahan bakar dan energi di masa depan masih belum terselesaikan.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -825,9 +875,14 @@
       "validation_source": "",
       "confidence_label": "high",
       "status": "not-reviewed",
-      "evidence_refs": [],
-      "evidence_quote": "",
-      "rationale_id": "Passage ini menjelaskan bahwa peta dapat dikoleksi oleh profesional maupun enthusiast.",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "Collecting maps can be an enjoyable hobby ... a lucrative vocation ... interest for cartographers",
+      "rationale_id": "Jawaban (B) karena kalimat awal menegaskan peta dikoleksi oleh profesional sekaligus penggemar.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -848,7 +903,7 @@
         }
       ],
       "evidence_quote": "lucrative",
-      "rationale_id": "Lucrative berarti profitable.",
+      "rationale_id": "Jawaban (C) karena lucrative berarti profitable.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -869,7 +924,7 @@
         }
       ],
       "evidence_quote": "maps are relatively rarer than stamps",
-      "rationale_id": "Hobi ini digambarkan kurang konvensional dibanding koleksi perangko.",
+      "rationale_id": "Jawaban (B) karena hobi ini digambarkan kurang konvensional dibanding koleksi perangko.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -890,9 +945,9 @@
         }
       ],
       "evidence_quote": "avid enthusiasts and admirers",
-      "rationale_id": "Passage ini menyiratkan bahwa peta juga menarik bagi ardent devotees.",
+      "rationale_id": "Jawaban (B) karena passage ini menyiratkan bahwa peta juga menarik bagi ardent devotees.",
       "rationale_en": "",
-      "needs_manual_review": false
+      "needs_manual_review": true
     },
     {
       "id": "P03-RC-05-Q05",
@@ -911,7 +966,7 @@
         }
       ],
       "evidence_quote": "economic means",
-      "rationale_id": "Economic means merujuk pada available funds.",
+      "rationale_id": "Jawaban (C) karena economic means merujuk pada available funds.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -932,9 +987,9 @@
         }
       ],
       "evidence_quote": "dealer stock ... advertisements ... Library of Congress and private agencies",
-      "rationale_id": "Passage ini menyebut beberapa sumber, tetapi tidak menyebut fellow collectors.",
+      "rationale_id": "Jawaban (A) karena passage ini menyebut beberapa sumber, tetapi tidak menyebut fellow collectors.",
       "rationale_en": "",
-      "needs_manual_review": false
+      "needs_manual_review": true
     },
     {
       "id": "P03-RC-05-Q07",
@@ -953,7 +1008,7 @@
         }
       ],
       "evidence_quote": "superficially prosaic",
-      "rationale_id": "Frasa ini berarti tampak membosankan dan tidak imajinatif.",
+      "rationale_id": "Jawaban (B) karena frasa ini berarti tampak membosankan dan tidak imajinatif.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -974,7 +1029,7 @@
         }
       ],
       "evidence_quote": "predisposed",
-      "rationale_id": "Predisposed paling dekat maknanya dengan inclined.",
+      "rationale_id": "Jawaban (D) karena predisposed paling dekat maknanya dengan inclined.",
       "rationale_en": "",
       "needs_manual_review": false
     },
@@ -995,7 +1050,7 @@
         }
       ],
       "evidence_quote": "Library of Congress and private agencies",
-      "rationale_id": "Paragraf berikutnya kemungkinan melanjutkan dengan organisasi spesifik untuk perolehan peta.",
+      "rationale_id": "Jawaban (A) karena paragraf berikutnya kemungkinan melanjutkan dengan organisasi spesifik untuk perolehan peta.",
       "rationale_en": "",
       "needs_manual_review": false
     }

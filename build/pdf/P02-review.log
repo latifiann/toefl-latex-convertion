@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.23)  15 MAY 2026 02:48
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.23)  15 MAY 2026 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**build/generated-tex/P03-review.tex
-(./build/generated-tex/P03-review.tex
+**build/generated-tex/P02-review.tex
+(./build/generated-tex/P02-review.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -309,8 +309,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 \exampleblockgap=\skip58
 \passageparagraphgap=\skip59
 )
-(build/pdf/../../tex/preamble/style.tex) (build/pdf/P03-review.aux)
-\openout1 = `P03-review.aux'.
+(build/pdf/../../tex/preamble/style.tex) (build/pdf/P02-review.aux)
+\openout1 = `P02-review.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -433,9 +433,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 5.
 Package hyperref Info: Link coloring OFF on input line 5.
-(build/pdf/P03-review.out) (build/pdf/P03-review.out)
+(build/pdf/P02-review.out) (build/pdf/P02-review.out)
 \@outlinefile=\write3
-\openout3 = `P03-review.out'.
+\openout3 = `P02-review.out'.
 
 LaTeX Info: Redefining \microtypecontext on input line 5.
 Package microtype Info: Applying patch `item' on input line 5.
@@ -456,20 +456,20 @@ Package microtype Info: Loading generic protrusion settings for font family
  [1
 
 ] [2] [3] [4] [5]
-[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-[22] [23] [24] [25] [26] [27] [28]
-Underfull \hbox (badness 1077) in paragraph at lines 1839--1840
-\TU/TimesNewRoman(0)/b/n/12 40. \TU/TimesNewRoman(0)/m/n/12 Silicon chips conta
-in |   [](A) of |   [](B) in an area |   []   |   [](C) than |   []
+[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+Underfull \hbox (badness 1019) in paragraph at lines 1241--1241
+[]\TU/TimesNewRoman(0)/m/n/12 Setelah ‘No one knows‘, dibutuhkan embedded claus
+e yang menyatakan ketidakpastian;
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
-[44] [45] [46] [47] [48] [49] [50] [51] [52] (build/pdf/P03-review.aux)
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+[35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
+[50] [51] [52] (build/pdf/P02-review.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-Package rerunfilecheck Info: File `P03-review.out' has not changed.
+Package rerunfilecheck Info: File `P02-review.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
@@ -481,4 +481,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  78i,6n,96p,1027b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/pdf/P03-review.pdf (52 pages).
+Output written on build/pdf/P02-review.pdf (52 pages).

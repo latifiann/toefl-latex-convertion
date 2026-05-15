@@ -1,0 +1,104 @@
+{
+  "practice_id": "P02",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    38
+  ],
+  "questions": [
+    {
+      "id": "P02-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "In a film studio",
+        "B": "In a record company",
+        "C": "At an art gallery",
+        "D": "At a movie theater"
+      }
+    },
+    {
+      "id": "P02-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "He thinks his children should watch educational programs.",
+        "B": "His daughters are too old to watch cartoons.",
+        "C": "He isn't a child any longer.",
+        "D": "He doesn't want to watch cartoons."
+      }
+    },
+    {
+      "id": "P02-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "The drawings are made.",
+        "B": "The story is created.",
+        "C": "The shots are framed.",
+        "D": "The artists are organized."
+      }
+    },
+    {
+      "id": "P02-LB-34",
+      "source_number": 34,
+      "choices": {
+        "A": "To make cartoons a form of graphic art",
+        "B": "To enhance the visual and auditory elements",
+        "C": "To add action to animation",
+        "D": "To speed up the feature plot"
+      }
+    },
+    {
+      "id": "P02-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "At a county fair",
+        "B": "In the woods",
+        "C": "On a sidewalk.",
+        "D": "On a playground"
+      }
+    },
+    {
+      "id": "P02-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": "In the evening",
+        "B": "In the morning",
+        "C": "In the fall",
+        "D": "In the spring"
+      }
+    },
+    {
+      "id": "P02-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "They shed their leaves in the fall.",
+        "B": "There are fewer daylight hours.",
+        "C": "Young trees require a blanket.",
+        "D": "Red and yellow are prettier than green."
+      }
+    },
+    {
+      "id": "P02-LB-38",
+      "source_number": 38,
+      "choices": {
+        "A": "She doesn't care about his explanation.",
+        "B": "She doesn't understand scientific facts.",
+        "C": "She doesn't believe the man.",
+        "D": "She doesn't like autumn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "practice_id": "P02",
+  "section": "reading",
+  "passage_id": "P02-RC-02",
+  "source_question_range": [11, 22],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Vitamins, taken in tiny doses, are a major group of organic compounds that regulate the"
+    },
+    {
+      "line": 2,
+      "text": "mechanisms by which the body converts food into energy. They should not be confused"
+    },
+    {
+      "line": 3,
+      "text": " with minerals, which are inorganic in their makeup. Although in general the naming of vi-"
+    },
+    {
+      "line": 4,
+      "text": "tamins followed the alphabetical order of their identification, the nomenclature of individ-"
+    },
+    {
+      "line": 5,
+      "text": "ual substances may appear to be somewhat random and disorganized. Among the 13 vita-"
+    },
+    {
+      "line": 6,
+      "text": "mins known today, five are produced in the body. Because the body produces sufficient"
+    },
+    {
+      "line": 7,
+      "text": "quantities of some but not all vitamins, they must be supplemented in the daily diet. Al-"
+    },
+    {
+      "line": 8,
+      "text": "though each vitamin has its specific designation and cannot be replaced by another com-"
+    },
+    {
+      "line": 9,
+      "text": "pound, a lack of one vitamin can interfere with the processing of another. When a lack of"
+    },
+    {
+      "line": 10,
+      "text": "even one vitamin in a diet is continual, a vitamin deficiency may result."
+    },
+    {
+      "line": 11,
+      "text": "The best way for an individual to ensure a necessary supply of vitamins is to maintain a"
+    },
+    {
+      "line": 12,
+      "text": "balanced diet that includes a variety of foods and provides adequate quantities of all the com-"
+    },
+    {
+      "line": 13,
+      "text": "pounds. Some people take vitamin supplements, predominantly in the form of tablets. The"
+    },
+    {
+      "line": 14,
+      "text": "vitamins in such supplements are equivalent to those in food, but an adult who maintains a"
+    },
+    {
+      "line": 15,
+      "text": "balanced diet does not need a daily supplement. The ingestion of supplements is recom-"
+    },
+    {
+      "line": 16,
+      "text": "mended only to correct an existing deficiency due to unbalanced diet, to provide vitamins"
+    },
+    {
+      "line": 17,
+      "text": "known to be lacking in a restricted diet, or to act as a therapeutic measure in medical treat-"
+    },
+    {
+      "line": 18,
+      "text": "ment. Specifically, caution must be exercised with fat-soluble substances, such as vitamins"
+    },
+    {
+      "line": 19,
+      "text": "A and D, because, taken in, gigantic doses, they may present a serious health hazard over a pe-"
+    },
+    {
+      "line": 20,
+      "text": "riod of time."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 20
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-RC-02-Q01",
+      "source_number": 11,
+      "prompt": "In line 1, the word \"regulate\" is closest in meaning to",
+      "choices": {
+        "A": "control",
+        "B": "refine",
+        "C": "refresh",
+        "D": "confine"
+      },
+      "referenced_lines": {
+        "start": 1,
+        "end": 1
+      }
+    },
+    {
+      "id": "P02-RC-02-Q02",
+      "source_number": 12,
+      "prompt": "According to the passage, vitamins are",
+      "choices": {
+        "A": "food particles",
+        "B": "essential nutrients",
+        "C": "miscellaneous substances",
+        "D": "major food groups"
+      }
+    },
+    {
+      "id": "P02-RC-02-Q03",
+      "source_number": 13,
+      "prompt": "In line 4, the word \"nomenclature\" is closest in meaning to",
+      "choices": {
+        "A": "conservation",
+        "B": "classification",
+        "C": "concentration",
+        "D": "clarification"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P02-RC-02-Q04",
+      "source_number": 14,
+      "prompt": "How many vitamins must be derived from nourishment?",
+      "choices": {
+        "A": "5",
+        "B": "7",
+        "C": "8",
+        "D": "13"
+      }
+    },
+    {
+      "id": "P02-RC-02-Q05",
+      "source_number": 15,
+      "prompt": "The author implies that foods",
+      "choices": {
+        "A": "supply some but not all necessary vitamins",
+        "B": "should be fortified with all vitamins",
+        "C": "are equivalent in vitamin content",
+        "D": "supplement some but not all necessary vitamins"
+      }
+    },
+    {
+      "id": "P02-RC-02-Q06",
+      "source_number": 16,
+      "prompt": "In line 7, the phrase \"daily diet\" is closest in meaning to",
+      "choices": {
+        "A": "weight loss or gain.",
+        "B": "sufficient quantities",
+        "C": "nourishment intake",
+        "D": "vitamin tablets"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P02-RC-02-Q07",
+      "source_number": 17,
+      "prompt": "A continual lack of one vitamin in a person's diet is",
+      "choices": {
+        "A": "contagious",
+        "B": "desirable",
+        "C": "preposterous",
+        "D": "dangerous"
+      }
+    },
+    {
+      "id": "P02-RC-02-Q08",
+      "source_number": 18,
+      "prompt": "With which of the following statements would the author be most likely to agree?",
+      "choices": {
+        "A": "A varied diet needs to be supplemented with vitamins.",
+        "B": "An inclusive diet can provide all necessary vitamins.",
+        "C": "Vitamins cannot be consistently obtained from food.",
+        "D": "Vitamins should come from capsules in purified form."
+      }
+    },
+    {
+      "id": "P02-RC-02-Q09",
+      "source_number": 19,
+      "prompt": "It can be inferred from the passage that vitamin supplements can be advisable",
+      "choices": {
+        "A": "in special medical cases",
+        "B": "in most restricted diets",
+        "C": "after correcting a dietary deficiency",
+        "D": "before beginning a therapeutic treatment"
+      }
+    },
+    {
+      "id": "P02-RC-02-Q10",
+      "source_number": 20,
+      "prompt": "In line 17, the phrase \"act as\" is closest in meaning to",
+      "choices": {
+        "A": "play the role of",
+        "B": "pretend to be",
+        "C": "fight for",
+        "D": "attest to the fact that"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P02-RC-02-Q11",
+      "source_number": 21,
+      "prompt": "The author of the passage implies that",
+      "choices": {
+        "A": "some vitamins are not fat-soluble",
+        "B": "vitamins can be taken in very small doses",
+        "C": "most vitamins are water-soluble",
+        "D": "all vitamins are found in measured doses"
+      }
+    },
+    {
+      "id": "P02-RC-02-Q12",
+      "source_number": 22,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Adopting vitamins to control weight",
+        "B": "The individual's diet for optimum health",
+        "C": "Vitamin categorization and medical application",
+        "D": "The place of vitamins in nutrition"
+      }
+    }
+  ]
+}

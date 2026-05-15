@@ -406,7 +406,7 @@ def parse_question_blocks(lines: list[str], id_builder, include_missing: dict[in
     i = 0
     while i < len(lines):
         line = lines[i]
-        match = re.match(r"^(\d+)\s*\.\s*(.*)$", line)
+        match = re.match(r"^(\d+)\s*(?:\.|\))?\s*(.*)$", line)
         if not match:
             i += 1
             continue
@@ -431,7 +431,7 @@ def parse_question_blocks(lines: list[str], id_builder, include_missing: dict[in
             else:
                 prompt_parts.append(tail)
         i += 1
-        while i < len(lines) and not re.match(r"^\d+\s*\.\s*", lines[i]):
+        while i < len(lines) and not re.match(r"^\d+\s*(?:\.|\))?\s*", lines[i]):
             next_line = lines[i]
             if not next_line:
                 i += 1
@@ -635,13 +635,18 @@ def build_reading(practice_id: str, lines: list[str], html_paragraphs: list[dict
     section_3_index = first_index(lines, r"^Section 3")
     markers = reading_passage_markers(lines)
     intro_end = markers[0][0]
+    first_start, first_end = markers[0][1], markers[0][2]
 
     html_section_3_index = find_html_paragraph_index(html_paragraphs, r"^Section 3", 0)
     html_time_index = find_html_paragraph_index(html_paragraphs, r"^Time 55 minutes$", html_section_3_index)
     html_directions_index = find_html_paragraph_index(html_paragraphs, r"^DIRECTIONS: In this section", html_time_index)
     html_read_passage_index = find_html_paragraph_index(html_paragraphs, r"^Read the following passage:$", html_directions_index)
     html_reading_example_index = find_html_paragraph_index(html_paragraphs, r"^EXAMPLE I$", html_read_passage_index)
-    html_first_marker_index = find_html_paragraph_index(html_paragraphs, r"^Questions 1-12$", html_reading_example_index)
+    html_first_marker_index = find_html_paragraph_index(
+        html_paragraphs,
+        rf"^Questions\s*{first_start}\s*-\s*{first_end}$",
+        html_reading_example_index,
+    )
 
     reading_section = {
         "practice_id": practice_id,
@@ -664,6 +669,7 @@ def build_reading(practice_id: str, lines: list[str], html_paragraphs: list[dict
             question_lines,
             lambda source_number, local_index, passage_number=passage_number: f"{practice_id}-RC-{passage_number:02d}-Q{local_index:02d}",
         )
+        questions = sorted(questions, key=lambda question: question["source_number"])
 
         if passage_number == 5:
             duplicate_candidates = [question for question in questions if question["source_number"] == 44]

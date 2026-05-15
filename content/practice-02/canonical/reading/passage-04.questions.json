@@ -1,0 +1,172 @@
+{
+  "practice_id": "P02",
+  "section": "reading",
+  "passage_id": "P02-RC-04",
+  "source_question_range": [34, 41],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The killdeer is a commonly found shore bird that inhabits the area between southern Can-"
+    },
+    {
+      "line": 2,
+      "text": "ada and South America. As with all plovers, its soft contour feathers with barbs and barbules"
+    },
+    {
+      "line": 3,
+      "text": "impart a sleek appearance to its body while its down feathers insulate it from the winter cold"
+    },
+    {
+      "line": 4,
+      "text": "and the summer heat. The male's loud shrill, which seems to say kill-deer, warns other males"
+    },
+    {
+      "line": 5,
+      "text": "away from his territory. Ornithologists do not consider the killdeer a true songbird because"
+    },
+    {
+      "line": 6,
+      "text": "its throat muscles are not structured to make melodious notes."
+    },
+    {
+      "line": 7,
+      "text": "Killdeers are distinguished by the two black bands that mark their chest and neck."
+    },
+    {
+      "line": 8,
+      "text": "Camouflaged by their protective grayish brown pigment, killdeers build nests that cradle"
+    },
+    {
+      "line": 9,
+      "text": "the eggs and the young in shallow depressions in fields and open meadows. Because their"
+    },
+    {
+      "line": 10,
+      "text": "nests lie directly on the ground, the young are able to run about as soon as they hatch. Kill-"
+    },
+    {
+      "line": 11,
+      "text": "deer are incubatory creatures and brood their own babies. When a predator approaches the"
+    },
+    {
+      "line": 12,
+      "text": "nest or the bird's young, the mother tries to distract the intruder by dragging one of her"
+    },
+    {
+      "line": 13,
+      "text": "wings as if it were injured. Farmers are particularly fond of killdeers because they feed on in-"
+    },
+    {
+      "line": 14,
+      "text": "sects that damage crops. Because whole flocks of killdeers in the wild have vanished due to"
+    },
+    {
+      "line": 15,
+      "text": " overhunting, game laws have been enacted to protect these plovers from poaching."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 15
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-RC-04-Q01",
+      "source_number": 34,
+      "prompt": "It can be inferred from the passage that killdeer usually live",
+      "choices": {
+        "A": "in the brush",
+        "B": "in mountains",
+        "C": "near oceans",
+        "D": "near cities"
+      }
+    },
+    {
+      "id": "P02-RC-04-Q02",
+      "source_number": 35,
+      "prompt": "In line 3, the word \"impart\" is closest in meaning to",
+      "choices": {
+        "A": "give",
+        "B": "import",
+        "C": "link",
+        "D": "imprint"
+      },
+      "referenced_lines": {
+        "start": 3,
+        "end": 3
+      }
+    },
+    {
+      "id": "P02-RC-04-Q03",
+      "source_number": 36,
+      "prompt": "What is the reason given for the bird's name?",
+      "choices": {
+        "A": "It has distinctive bands.",
+        "B": "It has a peculiar song.",
+        "C": "It kills young deer.",
+        "D": "It eats deer fodder."
+      }
+    },
+    {
+      "id": "P02-RC-04-Q04",
+      "source_number": 37,
+      "prompt": "In line 6, the word \"melodious\" is closest in meaning to",
+      "choices": {
+        "A": "memorable",
+        "B": "musical",
+        "C": "mellow",
+        "D": "marvelous"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P02-RC-04-Q05",
+      "source_number": 38,
+      "prompt": "It can be inferred from the passage that killdeers are",
+      "choices": {
+        "A": "inarticulate",
+        "B": "inconspicuous",
+        "C": "irreverent",
+        "D": "irresolute"
+      }
+    },
+    {
+      "id": "P02-RC-04-Q06",
+      "source_number": 39,
+      "prompt": "How does the mother bird mislead its enemies?",
+      "choices": {
+        "A": "By pretending to be vulnerable",
+        "B": "By blending in with the background",
+        "C": "By building low-lying nests",
+        "D": "By scaring them away with her cry"
+      }
+    },
+    {
+      "id": "P02-RC-04-Q07",
+      "source_number": 40,
+      "prompt": "According to the passage, farmers",
+      "choices": {
+        "A": "form foundations to protect killdeers",
+        "B": "appreciate the effects of killdeers",
+        "C": "camouflage killdeer nests and eggs",
+        "D": "provide killdeers with food and insects"
+      }
+    },
+    {
+      "id": "P02-RC-04-Q08",
+      "source_number": 41,
+      "prompt": "Which of the following best describes the author's attitude toward the killdeer?",
+      "choices": {
+        "A": "Menacing",
+        "B": "Warm",
+        "C": "Detached",
+        "D": "Humorous"
+      }
+    }
+  ]
+}

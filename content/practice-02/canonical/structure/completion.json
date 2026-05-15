@@ -1,0 +1,207 @@
+{
+  "practice_id": "P02",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-ST-01",
+      "source_number": 1,
+      "prompt": "The upper branches of the tallest trees produce more leaves......other branches.",
+      "choices": {
+        "A": "than do",
+        "B": "than does",
+        "C": "than they do",
+        "D": "than it does"
+      }
+    },
+    {
+      "id": "P02-ST-02",
+      "source_number": 2,
+      "prompt": "No one......projections of demographic shifts are reliable and will prove to be valid in the future.",
+      "choices": {
+        "A": "know how",
+        "B": "knows whether",
+        "C": "knows even",
+        "D": "know who"
+      }
+    },
+    {
+      "id": "P02-ST-03",
+      "source_number": 3,
+      "prompt": "Senior executives often receive bonuses when their profit targets are reached or......",
+      "choices": {
+        "A": "surpass",
+        "B": "surpasses",
+        "C": "surpassed",
+        "D": "surpassing"
+      }
+    },
+    {
+      "id": "P02-ST-04",
+      "source_number": 4,
+      "prompt": "Since the 1970s, riding bicycles......in the United States.",
+      "choices": {
+        "A": "becomes increasingly widespread",
+        "B": "become increasingly widely spread",
+        "C": "has become increasingly widespread",
+        "D": "has increased and becomes spread widely"
+      }
+    },
+    {
+      "id": "P02-ST-05",
+      "source_number": 5,
+      "prompt": "Horseradish has extended stems and a large root that is grated......a spicy food sauce.",
+      "choices": {
+        "A": "to making",
+        "B": "to make",
+        "C": "to be made",
+        "D": "to the making"
+      }
+    },
+    {
+      "id": "P02-ST-06",
+      "source_number": 6,
+      "prompt": "Vitamin A maintains the sharpness of human vision......and promotes healthy bones.",
+      "choices": {
+        "A": "at night",
+        "B": "of the night",
+        "C": "for the night",
+        "D": "nighttime"
+      }
+    },
+    {
+      "id": "P02-ST-07",
+      "source_number": 7,
+      "prompt": "......, often used in children's poetry and rhymes, are a result of words used in ambiguous contexts.",
+      "choices": {
+        "A": "Humorous and misunderstood",
+        "B": "Misunderstand humorously",
+        "C": "Humorous misunderstandings",
+        "D": "Misunderstanding its humor"
+      }
+    },
+    {
+      "id": "P02-ST-08",
+      "source_number": 8,
+      "prompt": "Modern scanning technology enables physicians to identify brain disorders earlier......than in the past.",
+      "choices": {
+        "A": "and more accurate",
+        "B": "and more accurately",
+        "C": "accurate and more",
+        "D": "accurately and more"
+      }
+    },
+    {
+      "id": "P02-ST-09",
+      "source_number": 9,
+      "prompt": "Educational toys and games give children an opportunity to enjoy themselves......",
+      "choices": {
+        "A": "while their learning",
+        "B": "while learning",
+        "C": "are they learning",
+        "D": "and they are learning"
+      }
+    },
+    {
+      "id": "P02-ST-10",
+      "source_number": 10,
+      "prompt": "William Hazlitt's essays, written in......style, appeared between 1821 and 1822.",
+      "choices": {
+        "A": "vigorously and informally",
+        "B": "vigorous and informally",
+        "C": "vigor and informality",
+        "D": "vigorous and informal"
+      }
+    },
+    {
+      "id": "P02-ST-11",
+      "source_number": 11,
+      "prompt": "Wild hogs inhabited Europe and other parts of the world......6 million years ago.",
+      "choices": {
+        "A": "as long",
+        "B": "as long as",
+        "C": "then it was",
+        "D": "than it was"
+      }
+    },
+    {
+      "id": "P02-ST-12",
+      "source_number": 12,
+      "prompt": "Electrically charged particles exert a magnetic force on one another even......not in physical contact.",
+      "choices": {
+        "A": "if there are",
+        "B": "they are",
+        "C": "if they are",
+        "D": "are they"
+      }
+    },
+    {
+      "id": "P02-ST-13",
+      "source_number": 13,
+      "prompt": "F. Scott Fitzgerald's early literary success led to extravagant living and......a large income.",
+      "choices": {
+        "A": "a need for",
+        "B": "to need for",
+        "C": "needed for",
+        "D": "for he needed"
+      }
+    },
+    {
+      "id": "P02-ST-14",
+      "source_number": 14,
+      "prompt": "Water fire extinguishers must never be used for fires that involve......",
+      "choices": {
+        "A": "electrically equipped",
+        "B": "equipment, electrically",
+        "C": "electricity equipped",
+        "D": "electrical equipment"
+      }
+    },
+    {
+      "id": "P02-ST-15",
+      "source_number": 15,
+      "prompt": "By the 1300s, the Spanish had learned that gunpowder could......propel an object with incredible force.",
+      "choices": {
+        "A": "use to",
+        "B": "be used to",
+        "C": "been used to",
+        "D": "using it to"
+      }
+    }
+  ]
+}

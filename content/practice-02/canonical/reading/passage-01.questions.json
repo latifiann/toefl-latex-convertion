@@ -1,0 +1,202 @@
+{
+  "practice_id": "P02",
+  "section": "reading",
+  "passage_id": "P02-RC-01",
+  "source_question_range": [1, 10],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The Globe Theater, where most of Shakespeare's plays were staged and performed, was lo-"
+    },
+    {
+      "line": 2,
+      "text": "cated in London. Cuthbert and Richard Burbage built the theater in 1599 with materials"
+    },
+    {
+      "line": 3,
+      "text": "left over from the construction of London's first playhouse, the Theater. They constructed"
+    },
+    {
+      "line": 4,
+      "text": "the Globe on the south side of the Thames River in the little town of Southwark and counted"
+    },
+    {
+      "line": 5,
+      "text": "on making the theater a draw for the locals. Little is known about the architectural design of"
+    },
+    {
+      "line": 6,
+      "text": "the theater except what can be deduced from maps and the layout of the plays presented"
+    },
+    {
+      "line": 7,
+      "text": "there. It appears that the Globe was either round or polygonal on the outside but most likely"
+    },
+    {
+      "line": 8,
+      "text": "round on the inside. In keeping with the contemporary imitations of Roman government"
+    },
+    {
+      "line": 9,
+      "text": "buildings, its roof was most probably shaped as a crude dome. It can be further deduced that"
+    },
+    {
+      "line": 10,
+      "text": "the structure was decorated with pediments, arches, columns, and ornate staircases with"
+    },
+    {
+      "line": 11,
+      "text": "carvings of shells, feathers, and cupids. The size of its audience is projected at as many as"
+    },
+    {
+      "line": 12,
+      "text": "3,000 spectators both in the amphitheater and in the balcony. The Globe burned down in"
+    },
+    {
+      "line": 13,
+      "text": "1613; it was rebuilt on the same foundation a year later, but its external walls were curved at"
+    },
+    {
+      "line": 14,
+      "text": "an angle different from that of the original. The theater was built hastily, and evidently"
+    },
+    {
+      "line": 15,
+      "text": "safety was not a top priority for either the engineer or the company. After several nearly fatal"
+    },
+    {
+      "line": 16,
+      "text": "accidents, the Globe was tom down for good in 1644."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 16
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "This passage most likely came from a longer work on",
+      "choices": {
+        "A": "English deductive trivia",
+        "B": "English monumental constructions",
+        "C": "the history of the English theater",
+        "D": "notable English disasters"
+      }
+    },
+    {
+      "id": "P02-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "According to the passage, the Globe Theater was built",
+      "choices": {
+        "A": "from available contemporary materials",
+        "B": "from materials remaining from another project",
+        "C": "on a foundation designed to meet a temporary need",
+        "D": "with ornaments intended to fool the spectators"
+      }
+    },
+    {
+      "id": "P02-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "In line 5, the phrase \"a draw\" is closest in meaning to",
+      "choices": {
+        "A": "an option",
+        "B": "an attraction",
+        "C": "a drawing",
+        "D": "a donation"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P02-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "It can be inferred from the passage that the Globe's exact architectural design",
+      "choices": {
+        "A": "should be reconstituted",
+        "B": "should be obliterated",
+        "C": "cannot be determined",
+        "D": "cannot be disregarded"
+      }
+    },
+    {
+      "id": "P02-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "In line 8, the word \"imitations\" is closest in meaning to",
+      "choices": {
+        "A": "enumeration",
+        "B": "elimination",
+        "C": "elaborations",
+        "D": "emulation"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P02-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "In line 11, the word \"projected\" is closest in meaning to",
+      "choices": {
+        "A": "calculated",
+        "B": "confirmed",
+        "C": "embellished",
+        "D": "entrenched"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P02-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "The passage suggests that, for its time, the Globe Theater was",
+      "choices": {
+        "A": "humble",
+        "B": "harsh",
+        "C": "austere",
+        "D": "large"
+      }
+    },
+    {
+      "id": "P02-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "According to the passage, in how many buildings was the Globe Theater housed during its operation?",
+      "choices": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      }
+    },
+    {
+      "id": "P02-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "The author implies that the last building housing the Globe was",
+      "choices": {
+        "A": "dignified",
+        "B": "unmistakable",
+        "C": "hazardous",
+        "D": "haunted"
+      }
+    },
+    {
+      "id": "P02-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "With which of the following statements is the author most likely to agree?",
+      "choices": {
+        "A": "The architectural design of the theater was exemplary in the 1600s.",
+        "B": "The builders did not invest a great deal of thought into the theater design.",
+        "C": "The theater audience enjoyed plays, as well as the building design.",
+        "D": "The theater location contributed to the opulence of its design and decorations."
+      }
+    }
+  ]
+}

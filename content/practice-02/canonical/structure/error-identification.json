@@ -1,0 +1,1290 @@
+{
+  "practice_id": "P02",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-ST-16",
+      "source_number": 16,
+      "prompt": "During a recession, manufacturers may be forced(A) to decrease(B) the number of their workers to reduction(C) their expenditures(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "During a recession, manufacturers may ",
+          "underlined": false
+        },
+        {
+          "text": "be forced",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "decrease",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the number of their workers ",
+          "underlined": false
+        },
+        {
+          "text": "to reduction",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " their ",
+          "underlined": false
+        },
+        {
+          "text": "expenditures",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-17",
+      "source_number": 17,
+      "prompt": "Tides(A) constitute a change in(B) the level of water in the oceans(C) and are caused by the gravitational interaction between heavenly body(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Tides",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " constitute a ",
+          "underlined": false
+        },
+        {
+          "text": "change in",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the level of water in ",
+          "underlined": false
+        },
+        {
+          "text": "the oceans",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and are caused by the gravitational interaction between heavenly ",
+          "underlined": false
+        },
+        {
+          "text": "body",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-18",
+      "source_number": 18,
+      "prompt": "Most people are surprising(A) to see how rapidly(B) bacteria can multiply(C) under favorable(D) conditions.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Most people ",
+          "underlined": false
+        },
+        {
+          "text": "are surprising",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to see ",
+          "underlined": false
+        },
+        {
+          "text": "how rapidly",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " bacteria ",
+          "underlined": false
+        },
+        {
+          "text": "can multiply",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "under favorable",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " conditions.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-19",
+      "source_number": 19,
+      "prompt": "Without water(A), food, shelter, and clothing(B), person(C) could not survive a prolonged exposure to the elements(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Without ",
+          "underlined": false
+        },
+        {
+          "text": "water",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", food, shelter, and ",
+          "underlined": false
+        },
+        {
+          "text": "clothing",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "text": "person",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " could not survive a prolonged exposure to the ",
+          "underlined": false
+        },
+        {
+          "text": "elements",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-20",
+      "source_number": 20,
+      "prompt": "Ancestor worship(A) reflects a family's(B) reverence for the advice(C) and guidance of its died(D) members.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Ancestor ",
+          "underlined": false
+        },
+        {
+          "text": "worship",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " reflects ",
+          "underlined": false
+        },
+        {
+          "text": "a family's",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " reverence for the ",
+          "underlined": false
+        },
+        {
+          "text": "advice",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and guidance of its ",
+          "underlined": false
+        },
+        {
+          "text": "died",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " members.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-21",
+      "source_number": 21,
+      "prompt": "A little(A) land animals live in the polar regions(B) which are covered(C) with snow year round(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "A little",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " land animals live in the polar ",
+          "underlined": false
+        },
+        {
+          "text": "regions",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " which ",
+          "underlined": false
+        },
+        {
+          "text": "are covered",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " with snow ",
+          "underlined": false
+        },
+        {
+          "text": "year round",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-22",
+      "source_number": 22,
+      "prompt": "A dolphin, often called(A) a \"porpoise,\" is considered(B) to be one of the bright(C) among animals(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "A dolphin, often ",
+          "underlined": false
+        },
+        {
+          "text": "called",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " a \"porpoise,\" is ",
+          "underlined": false
+        },
+        {
+          "text": "considered",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " to be one of the ",
+          "underlined": false
+        },
+        {
+          "text": "bright",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " among ",
+          "underlined": false
+        },
+        {
+          "text": "animals",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-23",
+      "source_number": 23,
+      "prompt": "In Arizona, regular(A) annually(B) events include horse(C) shows, art fairs, and folk dances(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In Arizona, ",
+          "underlined": false
+        },
+        {
+          "text": "regular",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "annually",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " events include ",
+          "underlined": false
+        },
+        {
+          "text": "horse",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " shows, art fairs, and folk ",
+          "underlined": false
+        },
+        {
+          "text": "dances",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-24",
+      "source_number": 24,
+      "prompt": "Artificial(A) intelligence is concerned with designing(B) computer systems that perform such tasks as reason(C) and learning(D) new skills.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Artificial",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " intelligence is concerned with ",
+          "underlined": false
+        },
+        {
+          "text": "designing",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " computer systems that perform such tasks as ",
+          "underlined": false
+        },
+        {
+          "text": "reason",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "learning",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " new skills.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-25",
+      "source_number": 25,
+      "prompt": "Saccharin, made(A) from toluene, is about(B) 350 times(C) as sweeter(D) as sugar.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Saccharin, ",
+          "underlined": false
+        },
+        {
+          "text": "made",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from toluene, is ",
+          "underlined": false
+        },
+        {
+          "text": "about",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " 350 ",
+          "underlined": false
+        },
+        {
+          "text": "times",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " as ",
+          "underlined": false
+        },
+        {
+          "text": "sweeter",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " as sugar.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-26",
+      "source_number": 26,
+      "prompt": "Work affect(A) intellectual development and personal characteristics(B), and personality(C) and life events affect(D) work.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Work ",
+          "underlined": false
+        },
+        {
+          "text": "affect",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " intellectual development and personal ",
+          "underlined": false
+        },
+        {
+          "text": "characteristics",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "text": "personality",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and life events ",
+          "underlined": false
+        },
+        {
+          "text": "affect",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " work.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-27",
+      "source_number": 27,
+      "prompt": "Because of(A) attitudes shape(B) behavior, psychologists(C) want to find out how opinions are formed(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Because of",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " attitudes ",
+          "underlined": false
+        },
+        {
+          "text": "shape",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " behavior, ",
+          "underlined": false
+        },
+        {
+          "text": "psychologists",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " want to find out how opinions ",
+          "underlined": false
+        },
+        {
+          "text": "are formed",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-28",
+      "source_number": 28,
+      "prompt": "Although Connecticut occupies a small(A) area, its(B) weather can vary(C) from one area to others(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Although Connecticut occupies a ",
+          "underlined": false
+        },
+        {
+          "text": "small",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " area, ",
+          "underlined": false
+        },
+        {
+          "text": "its",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " weather can ",
+          "underlined": false
+        },
+        {
+          "text": "vary",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " from one area to ",
+          "underlined": false
+        },
+        {
+          "text": "others",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-29",
+      "source_number": 29,
+      "prompt": "The Great Depression serves as(A) an example of drama(B) fluctuations in the balanced(C) wage rate(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The Great Depression ",
+          "underlined": false
+        },
+        {
+          "text": "serves as",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " an example ",
+          "underlined": false
+        },
+        {
+          "text": "of drama",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " fluctuations in ",
+          "underlined": false
+        },
+        {
+          "text": "the balanced",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "wage rate",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-30",
+      "source_number": 30,
+      "prompt": "In some states, it has(A) against the law(B) to ride(C) a motorcycle without a(D) helmet.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In some states, it ",
+          "underlined": false
+        },
+        {
+          "text": "has",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " against ",
+          "underlined": false
+        },
+        {
+          "text": "the law",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "to ride",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " a motorcycle ",
+          "underlined": false
+        },
+        {
+          "text": "without a",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " helmet.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-31",
+      "source_number": 31,
+      "prompt": "The government provides(A) financial support for people(B) who are unable(C) to support themself(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The government ",
+          "underlined": false
+        },
+        {
+          "text": "provides",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " financial support ",
+          "underlined": false
+        },
+        {
+          "text": "for people",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " who ",
+          "underlined": false
+        },
+        {
+          "text": "are unable",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " to support ",
+          "underlined": false
+        },
+        {
+          "text": "themself",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-32",
+      "source_number": 32,
+      "prompt": "Robert Merton studied(A) how does(B) society influences(C) the development(D) of science.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Robert Merton ",
+          "underlined": false
+        },
+        {
+          "text": "studied",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " how ",
+          "underlined": false
+        },
+        {
+          "text": "does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " society ",
+          "underlined": false
+        },
+        {
+          "text": "influences",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "development",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " of science.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-33",
+      "source_number": 33,
+      "prompt": "The available(A) of credit influences(B) the rate of economic growth and the increase(C) in prices(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The ",
+          "underlined": false
+        },
+        {
+          "text": "available",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of credit ",
+          "underlined": false
+        },
+        {
+          "text": "influences",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the rate of economic growth and the ",
+          "underlined": false
+        },
+        {
+          "text": "increase",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "in prices",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-34",
+      "source_number": 34,
+      "prompt": "Pasteurization is the process of heating(A) milk to destroy(B) disease-caused(C) organisms and bacteria(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Pasteurization is the process ",
+          "underlined": false
+        },
+        {
+          "text": "of heating",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " milk ",
+          "underlined": false
+        },
+        {
+          "text": "to destroy",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "disease-caused",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " organisms and ",
+          "underlined": false
+        },
+        {
+          "text": "bacteria",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-35",
+      "source_number": 35,
+      "prompt": "Paul Claudel, who written(A) books about his personal(B) feelings(C), was a leading(D) French author of the early 1900s.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Paul Claudel, who ",
+          "underlined": false
+        },
+        {
+          "text": "written",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " books about his ",
+          "underlined": false
+        },
+        {
+          "text": "personal",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "feelings",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", was a ",
+          "underlined": false
+        },
+        {
+          "text": "leading",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " French author of the early 1900s.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-36",
+      "source_number": 36,
+      "prompt": "Astronomers do not have sufficient information(A) to determine(B) what(C) the solar system was created(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Astronomers do not have sufficient ",
+          "underlined": false
+        },
+        {
+          "text": "information",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "to determine",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "what",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " the solar system ",
+          "underlined": false
+        },
+        {
+          "text": "was created",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-37",
+      "source_number": 37,
+      "prompt": "The soil and climate in the tropics are not suit(A) to produce(B) large quantities(C) of grain(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The soil and climate in the tropics are not ",
+          "underlined": false
+        },
+        {
+          "text": "suit",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "produce",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " large ",
+          "underlined": false
+        },
+        {
+          "text": "quantities",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "text": "grain",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-38",
+      "source_number": 38,
+      "prompt": "Some species of(A) bats are dormant(B) each days(C) and active every night(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Some ",
+          "underlined": false
+        },
+        {
+          "text": "species of",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " bats ",
+          "underlined": false
+        },
+        {
+          "text": "are dormant",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "each days",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and active ",
+          "underlined": false
+        },
+        {
+          "text": "every night",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-39",
+      "source_number": 39,
+      "prompt": "Paper was so expensive(A) during the Middle Ages that it has(B) to be used(C) sparingly(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Paper was ",
+          "underlined": false
+        },
+        {
+          "text": "so expensive",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " during the Middle Ages that ",
+          "underlined": false
+        },
+        {
+          "text": "it has",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "be used",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "sparingly",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P02-ST-40",
+      "source_number": 40,
+      "prompt": "Additives are chemicals(A) that are infused into(B) substances to preventing(C) them from spoiling(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Additives are ",
+          "underlined": false
+        },
+        {
+          "text": "chemicals",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " that are ",
+          "underlined": false
+        },
+        {
+          "text": "infused into",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " substances to ",
+          "underlined": false
+        },
+        {
+          "text": "preventing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " them from ",
+          "underlined": false
+        },
+        {
+          "text": "spoiling",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

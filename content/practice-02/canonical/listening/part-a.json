@@ -1,0 +1,324 @@
+{
+  "practice_id": "P02",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P02-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "Peter didn't pay Bill two times.",
+        "B": "Peter didn't pay the phone company.",
+        "C": "Peter is the second in line to pay.",
+        "D": "Peter forgot to call Bill."
+      }
+    },
+    {
+      "id": "P02-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "The course is closed for registration.",
+        "B": "The instructor decides who can enroll.",
+        "C": "Registration for this course is permitted.",
+        "D": "The instructor doesn't give students permission."
+      }
+    },
+    {
+      "id": "P02-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "We expected only fourteen people to come.",
+        "B": "Forty people came to work in the shop.",
+        "C": "More people came than had been expected.",
+        "D": "We expanded the shop to include forty people."
+      }
+    },
+    {
+      "id": "P02-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "It's better to change this job.",
+        "B": "Betty decided to take the job.",
+        "C": "In my opinion, Betty should change her job.",
+        "D": "I thought Betty was taking John with her."
+      }
+    },
+    {
+      "id": "P02-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "If she dropped Jack off.",
+        "B": "If she took his jacket to be cleaned.",
+        "C": "If she was leaving Jack.",
+        "D": "If she had cleaned his jacket yet."
+      }
+    },
+    {
+      "id": "P02-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "The teachers didn't go to the meeting.",
+        "B": "The meeting on Wednesday was crowded.",
+        "C": "The teachers knew about the meeting.",
+        "D": "Everyone forgot about the meeting."
+      }
+    },
+    {
+      "id": "P02-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "He was nice to give up his part.",
+        "B": "He gave a party for the man.",
+        "C": "He was kind to do his part.",
+        "D": "He was kind to come to the party."
+      }
+    },
+    {
+      "id": "P02-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "Pharmacists shouldn't carry boxes to the station.",
+        "B": "Paper goods are not usually sold in drug stores.",
+        "C": "Mobile pharmacies are not stationed here.",
+        "D": "The pharmacy needs to order paper goods."
+      }
+    },
+    {
+      "id": "P02-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "The exam seems to be easier than it first appeared.",
+        "B": "He thinks the exam appears to cover the material.",
+        "C": "He thinks they made the exam difficult on purpose.",
+        "D": "The exam is more difficult than he thought."
+      }
+    },
+    {
+      "id": "P02-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "The number of the unemployed has been increasing.",
+        "B": "Drama clubs have been helping the unemployed.",
+        "C": "Unemployed actors can find work in drama.",
+        "D": "Dramas about the unemployed are gaining popularity."
+      }
+    },
+    {
+      "id": "P02-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "Linda's grades don't leave much room for improvement.",
+        "B": "Linda deserves better grades in her courses.",
+        "C": "Linda's grades aren't as high as they should be.",
+        "D": "Linda's grades should be left alone."
+      }
+    },
+    {
+      "id": "P02-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "She had to add salt to her hamburger.",
+        "B": "She had a hamburger at 1:30.",
+        "C": "She needs something to drink.",
+        "D": "Her hamburger was excellent."
+      }
+    },
+    {
+      "id": "P02-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "They dropped her sandwich.",
+        "B": "She didn't have food on her mind.",
+        "C": "They will bring her a sandwich.",
+        "D": "She should be on her way home."
+      }
+    },
+    {
+      "id": "P02-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "Doug is too old to go on a boat.",
+        "B": "Ducks can't be transported by boat.",
+        "C": "Doug doesn't like to vote.",
+        "D": "Doug is too young to vote."
+      }
+    },
+    {
+      "id": "P02-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "Harry is working to buy new shoes.",
+        "B": "Harry's shoes are at school.",
+        "C": "Harry is a student.",
+        "D": "Harry walks to the seashore."
+      }
+    },
+    {
+      "id": "P02-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "There is no room on the third floor.",
+        "B": "Room 7 is ready for the third meeting.",
+        "C": "The room is on a different floor.",
+        "D": "The floor in this room is dirty."
+      }
+    },
+    {
+      "id": "P02-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "After he broke a glass, he had to use a cup.",
+        "B": "After the flat, he's been using a spare tire.",
+        "C": "When he broke the glass, he cut himself.",
+        "D": "He has been using different glasses."
+      }
+    },
+    {
+      "id": "P02-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "My brother had an idea for our father's gift.",
+        "B": "My brother wants to buy our father a pool.",
+        "C": "We wanted to bake a pie for my father.",
+        "D": "We celebrated our father's birthday."
+      }
+    },
+    {
+      "id": "P02-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "Ann will be 21 next month.",
+        "B": "No one now lives next to Ann.",
+        "C": "Ann moved here three weeks ago.",
+        "D": "Ann is going on a 21-day vacation."
+      }
+    },
+    {
+      "id": "P02-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "If he could sell her a product to remove grease.",
+        "B": "If he knew he had a stain.",
+        "C": "If he wanted to remove his shirt.",
+        "D": "If she had a crease in her shirt."
+      }
+    },
+    {
+      "id": "P02-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "She approves.",
+        "B": "He is good at tennis.",
+        "C": "He was nice to clean the house.",
+        "D": "She wants to come, too."
+      }
+    },
+    {
+      "id": "P02-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "He is going out of town.",
+        "B": "He is expecting guests.",
+        "C": "He is changing companies.",
+        "D": "He is moving to another town."
+      }
+    },
+    {
+      "id": "P02-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "At an amusement park.",
+        "B": "In a restaurant.",
+        "C": "On the sidewalk.",
+        "D": "Near a parking meter."
+      }
+    },
+    {
+      "id": "P02-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "Buying vegetables.",
+        "B": "Planting a garden.",
+        "C": "Cooking a meal.",
+        "D": "Loading a truck."
+      }
+    },
+    {
+      "id": "P02-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "Can you hear this noise?",
+        "B": "Do you know this sound?",
+        "C": "Where would you prefer?",
+        "D": "Where is this sound coming from?"
+      }
+    },
+    {
+      "id": "P02-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "At a craft show",
+        "B": "At a bookstore",
+        "C": "At a hardware store",
+        "D": "At a video rental shop"
+      }
+    },
+    {
+      "id": "P02-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "A gas station attendant",
+        "B": "A university course grader",
+        "C": "An income tax accountant",
+        "D": "A technical team leader"
+      }
+    },
+    {
+      "id": "P02-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "She is upset that she forgot to send the card.",
+        "B": "She thinks the man should share responsibility.",
+        "C": "She has been forgetting a lot of things lately.",
+        "D": "She is asking whether the man sent his own card."
+      }
+    },
+    {
+      "id": "P02-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "Go for dinner",
+        "B": "Order Italian food",
+        "C": "Mail her report",
+        "D": "Finish her report"
+      }
+    },
+    {
+      "id": "P02-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "She believes her services should be noticed.",
+        "B": "She is taking a two-week leave.",
+        "C": "She was promoted to the position of a manager.",
+        "D": "She is planning to take another job."
+      }
+    }
+  ]
+}

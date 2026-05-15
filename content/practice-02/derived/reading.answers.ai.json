@@ -1,0 +1,1058 @@
+{
+  "practice_id": "P02",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P02-RC-01-Q01",
+      "passage_id": "P02-RC-01",
+      "source_number": 1,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "The Globe Theater, where most of Shakespeare's plays were staged and performed...",
+      "rationale_id": "Jawaban (C) karena seluruh passage membahas asal-usul, desain, kapasitas, kebakaran, dan pembongkaran Globe Theater, jadi paling cocok sebagai bagian dari sejarah teater Inggris.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q02",
+      "passage_id": "P02-RC-01",
+      "source_number": 2,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "built the theater in 1599 with materials left over from the construction of London's first playhouse",
+      "rationale_id": "Jawaban (B) karena passage secara eksplisit menyebut teater itu dibangun dari sisa material proyek lain.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q03",
+      "passage_id": "P02-RC-01",
+      "source_number": 3,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "counted on making the theater a draw for the locals",
+      "rationale_id": "Jawaban (B) karena dalam konteks ini a draw berarti sesuatu yang menarik orang datang, yaitu an attraction.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q04",
+      "passage_id": "P02-RC-01",
+      "source_number": 4,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "Little is known about the architectural design... except what can be deduced",
+      "rationale_id": "Jawaban (C) karena penulis menekankan bahwa detail desain hanya bisa disimpulkan, bukan diketahui secara pasti.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q05",
+      "passage_id": "P02-RC-01",
+      "source_number": 5,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "In keeping with the contemporary imitations of Roman government buildings",
+      "rationale_id": "Jawaban (D) karena imitations di sini berarti peniruan atau emulation terhadap bangunan Romawi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q06",
+      "passage_id": "P02-RC-01",
+      "source_number": 6,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "The size of its audience is projected at as many as 3,000 spectators",
+      "rationale_id": "Jawaban (A) karena projected dalam konteks jumlah berarti diperkirakan atau calculated.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q07",
+      "passage_id": "P02-RC-01",
+      "source_number": 7,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "as many as 3,000 spectators both in the amphitheater and in the balcony",
+      "rationale_id": "Jawaban (D) karena kapasitas sampai 3.000 penonton menunjukkan Globe tergolong besar untuk zamannya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q08",
+      "passage_id": "P02-RC-01",
+      "source_number": 8,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "The Globe burned down in 1613; it was rebuilt... a year later",
+      "rationale_id": "Jawaban (B) karena ada bangunan asli lalu bangunan pengganti setelah kebakaran, jadi total dua bangunan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q09",
+      "passage_id": "P02-RC-01",
+      "source_number": 9,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "built hastily... safety was not a top priority... several nearly fatal accidents",
+      "rationale_id": "Jawaban (C) karena deskripsi soal pembangunan tergesa-gesa dan kecelakaan nyaris fatal menunjukkan bangunan terakhir itu berbahaya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-01-Q10",
+      "passage_id": "P02-RC-01",
+      "source_number": 10,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "The theater was built hastily, and evidently safety was not a top priority",
+      "rationale_id": "Jawaban (B) karena penulis memberi kesan bahwa para pembangun tidak merancangnya dengan pertimbangan matang, setidaknya dalam aspek keselamatan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q01",
+      "passage_id": "P02-RC-02",
+      "source_number": 11,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "organic compounds that regulate the mechanisms by which the body converts food into energy",
+      "rationale_id": "Jawaban (A) karena regulate di sini berarti mengatur atau control proses tubuh.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q02",
+      "passage_id": "P02-RC-02",
+      "source_number": 12,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "Vitamins, taken in tiny doses, are a major group of organic compounds",
+      "rationale_id": "Jawaban (B) karena passage menjelaskan vitamin sebagai senyawa penting yang membantu tubuh memproses energi, yaitu essential nutrients.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q03",
+      "passage_id": "P02-RC-02",
+      "source_number": 13,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "the naming of vitamins... the nomenclature of individual substances",
+      "rationale_id": "Jawaban (B) karena nomenclature merujuk pada sistem penamaan atau pengelompokan, paling dekat dengan classification.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q04",
+      "passage_id": "P02-RC-02",
+      "source_number": 14,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "Among the 13 vitamins known today, five are produced in the body",
+      "rationale_id": "Jawaban (C) karena jika total 13 dan 5 diproduksi tubuh, maka 8 harus diperoleh dari makanan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q05",
+      "passage_id": "P02-RC-02",
+      "source_number": 15,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "the body produces sufficient quantities of some but not all vitamins",
+      "rationale_id": "Jawaban (A) karena implikasinya makanan harus menyediakan vitamin yang tidak diproduksi tubuh, jadi makanan menyuplai sebagian, bukan semua, vitamin yang diperlukan tubuh secara keseluruhan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q06",
+      "passage_id": "P02-RC-02",
+      "source_number": 16,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "they must be supplemented in the daily diet",
+      "rationale_id": "Jawaban (C) karena daily diet dalam konteks ini berarti asupan makanan sehari-hari atau nourishment intake.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q07",
+      "passage_id": "P02-RC-02",
+      "source_number": 17,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "When a lack of even one vitamin in a diet is continual, a vitamin deficiency may result",
+      "rationale_id": "Jawaban (D) karena kekurangan vitamin terus-menerus dapat menyebabkan deficiency, jadi jelas berbahaya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q08",
+      "passage_id": "P02-RC-02",
+      "source_number": 18,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "maintain a balanced diet that includes a variety of foods and provides adequate quantities",
+      "rationale_id": "Jawaban (B) karena penulis menyatakan cara terbaik adalah diet seimbang yang bervariasi, yang berarti diet seperti itu dapat menyediakan semua vitamin yang diperlukan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q09",
+      "passage_id": "P02-RC-02",
+      "source_number": 19,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "recommended only... or to act as a therapeutic measure in medical treatment",
+      "rationale_id": "Jawaban (A) karena passage secara langsung menyebut penggunaan suplemen sebagai langkah terapeutik dalam kasus medis tertentu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q10",
+      "passage_id": "P02-RC-02",
+      "source_number": 20,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "to act as a therapeutic measure in medical treatment",
+      "rationale_id": "Jawaban (A) karena act as berarti berfungsi sebagai atau play the role of.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q11",
+      "passage_id": "P02-RC-02",
+      "source_number": 21,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "fat-soluble substances, such as vitamins A and D",
+      "rationale_id": "Jawaban (A) karena jika penulis menyebut beberapa vitamin sebagai fat-soluble, implikasinya ada vitamin lain yang tidak demikian.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-02-Q12",
+      "passage_id": "P02-RC-02",
+      "source_number": 22,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "Vitamins... regulate... best way... balanced diet... supplements",
+      "rationale_id": "Jawaban (D) karena passage membahas peran vitamin dalam tubuh, sumbernya dari diet, dan kapan suplemen diperlukan, jadi fokusnya adalah tempat vitamin dalam nutrisi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q01",
+      "passage_id": "P02-RC-03",
+      "source_number": 23,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "jazz began to lose its reputation... gain acclaim... musicians began to feature many instruments",
+      "rationale_id": "Jawaban (D) karena passage menyoroti naiknya prestise jazz sekaligus makin beragamnya bentuk, instrumen, dan gayanya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q02",
+      "passage_id": "P02-RC-03",
+      "source_number": 24,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "musicians began to feature many instruments previously considered inappropriate",
+      "rationale_id": "Jawaban (D) karena feature di sini berarti menonjolkan atau mempromosikan penggunaan instrumen tertentu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q03",
+      "passage_id": "P02-RC-03",
+      "source_number": 25,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "Whereas before the 1950s, jazz musicians played only eight basic instruments",
+      "rationale_id": "Jawaban (C) karena kalimat pembuka membandingkan periode sebelum 1950-an, jadi paragraf sebelumnya paling mungkin membahas jazz pada 1940-an.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q04",
+      "passage_id": "P02-RC-03",
+      "source_number": 26,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "in this decade they started to improvise on the flute, electric organ... and even bagpipes",
+      "rationale_id": "Jawaban (C) karena penulis menunjukkan adanya eksperimen baru dalam instrumen dan pengaturan ritme.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q05",
+      "passage_id": "P02-RC-03",
+      "source_number": 27,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "flute, electric organ, piccolo, accordion, cello, and even bagpipes... drums and a string bass",
+      "rationale_id": "Jawaban (D) karena harpsichord tidak pernah disebut, sedangkan bagpipes, drums/percussion, dan string bass disebut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q06",
+      "passage_id": "P02-RC-03",
+      "source_number": 28,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "most changes emerged from small combos",
+      "rationale_id": "Jawaban (C) karena passage mengaitkan perubahan-perubahan penting justru dengan small combos, jadi mereka bersifat inovatif.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q07",
+      "passage_id": "P02-RC-03",
+      "source_number": 29,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "Jazz continued to move in new directions... blended jazz and rock music into fusion jazz",
+      "rationale_id": "Jawaban (B) karena nada passage menunjukkan perkembangan ini penting dan berdampak pada bentuk jazz berikutnya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q08",
+      "passage_id": "P02-RC-03",
+      "source_number": 30,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "free jazz... experiments... included melodies from India... fusion jazz",
+      "rationale_id": "Jawaban (D) karena musisi yang dibahas terus mencari teknik dan isi baru, baik dalam bentuk maupun materi musikal.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q09",
+      "passage_id": "P02-RC-03",
+      "source_number": 31,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "musicians blended jazz and rock music into fusion jazz",
+      "rationale_id": "Jawaban (B) karena perubahan pada 1970-an dijelaskan berasal dari penggabungan jazz dengan rock, yaitu tren musik lain.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-03-Q10",
+      "passage_id": "P02-RC-03",
+      "source_number": 32,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "the younger musicians of the time felt compelled to include a steady, swinging rhythm",
+      "rationale_id": "Jawaban (A) karena compelled paling dekat dengan forced dalam konteks merasa terdorong kuat; namun nuansanya juga dekat dengan obligated.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P02-RC-03-Q11",
+      "passage_id": "P02-RC-03",
+      "source_number": 33,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "before the 1950s... in this decade... during the 1960s... In the 1970s",
+      "rationale_id": "Jawaban (A) karena passage disusun menurut urutan waktu untuk menunjukkan inovasi jazz dari 1950-an sampai 1970-an.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q01",
+      "passage_id": "P02-RC-04",
+      "source_number": 34,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 1
+        }
+      ],
+      "evidence_quote": "The killdeer is a commonly found shore bird",
+      "rationale_id": "Jawaban (C) karena shore bird menunjukkan habitat khas wilayah pesisir atau dekat perairan pantai.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q02",
+      "passage_id": "P02-RC-04",
+      "source_number": 35,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "barbs and barbules impart a sleek appearance to its body",
+      "rationale_id": "Jawaban (A) karena impart di sini berarti memberikan tampilan tertentu pada tubuh burung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q03",
+      "passage_id": "P02-RC-04",
+      "source_number": 36,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "The male's loud shrill, which seems to say kill-deer",
+      "rationale_id": "Jawaban (B) karena nama burung dijelaskan berasal dari bunyi suaranya yang khas.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q04",
+      "passage_id": "P02-RC-04",
+      "source_number": 37,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "not structured to make melodious notes",
+      "rationale_id": "Jawaban (B) karena melodious berarti bernada merdu atau musical.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q05",
+      "passage_id": "P02-RC-04",
+      "source_number": 38,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Camouflaged by their protective grayish brown pigment",
+      "rationale_id": "Jawaban (B) karena warna kamuflase membuat killdeer tidak mudah terlihat, yaitu inconspicuous.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q06",
+      "passage_id": "P02-RC-04",
+      "source_number": 39,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "the mother tries to distract the intruder by dragging one of her wings as if it were injured",
+      "rationale_id": "Jawaban (A) karena induk berpura-pura terluka, jadi seolah-olah rentan untuk mengalihkan perhatian predator.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q07",
+      "passage_id": "P02-RC-04",
+      "source_number": 40,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "Farmers are particularly fond of killdeers because they feed on insects that damage crops",
+      "rationale_id": "Jawaban (B) karena petani menyukai manfaat killdeer yang memakan serangga perusak tanaman.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-04-Q08",
+      "passage_id": "P02-RC-04",
+      "source_number": 41,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "The killdeer is a commonly found shore bird... game laws have been enacted to protect these plovers",
+      "rationale_id": "Jawaban (C) karena nada penulis informatif dan faktual; tidak terasa mengancam, lucu, atau sangat personal.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q01",
+      "passage_id": "P02-RC-05",
+      "source_number": 42,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "The kite's ability to fly depends on its construction and the way that its line is attached",
+      "rationale_id": "Jawaban (D) karena inti passage terutama menjelaskan mekanisme yang membuat layang-layang tetap terbang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q02",
+      "passage_id": "P02-RC-05",
+      "source_number": 43,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "Benjamin Franklin made his textbook experiment",
+      "rationale_id": "Jawaban (C) karena textbook di sini berarti classic atau sangat khas/terkenal sebagai contoh standar.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q03",
+      "passage_id": "P02-RC-05",
+      "source_number": 44,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "These two seemingly unrelated events",
+      "rationale_id": "Jawaban (A) karena seemingly berarti tampaknya atau ostensibly.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q04",
+      "passage_id": "P02-RC-05",
+      "source_number": 45,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "lift men and carry cameras aloft",
+      "rationale_id": "Jawaban (A) karena aloft dalam konteks ini berarti berada di udara, yaitu in flight.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q05",
+      "passage_id": "P02-RC-05",
+      "source_number": 46,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "The line attached to the nose of the kite pulls it into the wind",
+      "rationale_id": "Jawaban (B) karena passage menyebut hidung layang-layang harus ditarik menghadap angin.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q06",
+      "passage_id": "P02-RC-05",
+      "source_number": 47,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "greater pressure against its face and lower pressure against its back",
+      "rationale_id": "Jawaban (C) karena perbedaan tekanan itulah yang menciptakan lift agar layang-layang naik.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q07",
+      "passage_id": "P02-RC-05",
+      "source_number": 48,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "The towing point to which the line is attached is important because it sets the kite's angle relative to the air flow",
+      "rationale_id": "Jawaban (C) karena fungsi penting tali adalah menentukan sudut antara layang-layang dan aliran udara.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q08",
+      "passage_id": "P02-RC-05",
+      "source_number": 49,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "the kite must be headed up and into the wind",
+      "rationale_id": "Jawaban (C) karena headed up berarti diarahkan ke atas/ke arah tertentu, paling dekat dengan directed.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P02-RC-05-Q09",
+      "passage_id": "P02-RC-05",
+      "source_number": 50,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "The familiar diamond-shaped kite flies... maintain its position through a tail, a rudder, a keel, vents, or tassels",
+      "rationale_id": "Jawaban (C) paling mungkin karena paragraf ini sudah membahas cara kerja layang-layang diamond-shaped; lanjutan yang logis adalah tipe desain lain, misalnya bowed kites. Namun item ini tetap cukup inferensial.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    }
+  ]
+}

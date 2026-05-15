@@ -1,0 +1,142 @@
+{
+  "practice_id": "P02",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P02-LC-39",
+      "source_number": 39,
+      "choices": {
+        "A": "It changes climatic conditions.",
+        "B": "It controls the indoor environment.",
+        "C": "It circulates water particles in the air.",
+        "D": "It reduces overhead expenditures."
+      }
+    },
+    {
+      "id": "P02-LC-40",
+      "source_number": 40,
+      "choices": {
+        "A": "By cleaning off dirt and dust",
+        "B": "By modifying the temperature",
+        "C": "By removing and adding moisture",
+        "D": "By bringing in and taking out air"
+      }
+    },
+    {
+      "id": "P02-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "To replace it with fresh air",
+        "B": "To create a breeze",
+        "C": "To retard heat conduction",
+        "D": "To remove local moisture"
+      }
+    },
+    {
+      "id": "P02-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "Hardly ever in cold regions",
+        "B": "Exclusively in business settings",
+        "C": "Basically as it does in summer",
+        "D": "Mainly as needed for repairs"
+      }
+    },
+    {
+      "id": "P02-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "They can dress comfortably.",
+        "B": "They become tired.",
+        "C": "They feel alert.",
+        "D": "They stay healthy."
+      }
+    },
+    {
+      "id": "P02-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "Business and finance",
+        "B": "Law and science",
+        "C": "Sports",
+        "D": "Chief editors"
+      }
+    },
+    {
+      "id": "P02-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "Copy editing",
+        "B": "Approaching people",
+        "C": "Writing",
+        "D": "Typing"
+      }
+    },
+    {
+      "id": "P02-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "Many reports have been filed.",
+        "B": "Many reporters have been laid off.",
+        "C": "Many publications have closed.",
+        "D": "Many are hiring new specialists."
+      }
+    },
+    {
+      "id": "P02-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "They will stay sluggish.",
+        "B": "They may continue to decrease.",
+        "C": "They are likely to expand.",
+        "D": "They may be difficult to break into."
+      }
+    },
+    {
+      "id": "P02-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "It represents an essential supply of water.",
+        "B": "Its sources can be renewed indefinitely.",
+        "C": "It always provides a usable source of water.",
+        "D": "Its development is important in the United States."
+      }
+    },
+    {
+      "id": "P02-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "Increased rain and agricultural irrigation",
+        "B": "Increased use and contamination",
+        "C": "Airborne bacteria and atmospheric oxygen",
+        "D": "Surface runoff and turbulence"
+      }
+    },
+    {
+      "id": "P02-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "Several years",
+        "B": "Centuries",
+        "C": "Dozens of years",
+        "D": "Thousands of years"
+      }
+    }
+  ]
+}

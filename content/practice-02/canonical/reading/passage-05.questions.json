@@ -1,0 +1,203 @@
+{
+  "practice_id": "P02",
+  "section": "reading",
+  "passage_id": "P02-RC-05",
+  "source_question_range": [42, 50],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "In 1752, Benjamin Franklin made his textbook experiment with a brass key and a silk"
+    },
+    {
+      "line": 2,
+      "text": "kite that he flew in a thunderstorm to prove that lightning and electricity are the same"
+    },
+    {
+      "line": 3,
+      "text": "thing. In 1920, a kite-flying championship for families and individuals was held in London."
+    },
+    {
+      "line": 4,
+      "text": "These two seemingly unrelated events underscore the fact that kites can be flown for both"
+    },
+    {
+      "line": 5,
+      "text": "pleasure and scientific purposes. For example, in the 1800s weather bureaus flew kites to re-"
+    },
+    {
+      "line": 6,
+      "text": "cord temperature and humidity at certain altitudes. On one occasion, ten kites were strung"
+    },
+    {
+      "line": 7,
+      "text": "together and flown at a height of four miles to lift men and carry cameras aloft."
+    },
+    {
+      "line": 8,
+      "text": "The kite's ability to fly depends on its construction and the way that its line is attached."
+    },
+    {
+      "line": 9,
+      "text": "The familiar diamond-shaped kite flies when its covered face is aligned against the wind"
+    },
+    {
+      "line": 10,
+      "text": "flow. The line attached to the nose of the kite pulls it into the wind, thus creating the neces-"
+    },
+    {
+      "line": 11,
+      "text": "sary angle for the lift force. If the kite's construction and the angle of the air stream are cor-"
+    },
+    {
+      "line": 12,
+      "text": "rect, the kite will encounter greater pressure against its face and lower pressure against its"
+    },
+    {
+      "line": 13,
+      "text": "back. The difference in the pressure creates a lift that causes the kite to rise until it hangs"
+    },
+    {
+      "line": 14,
+      "text": "level from its bridle. Its angle against the wind should be sufficiently large or small to create"
+    },
+    {
+      "line": 15,
+      "text": "maximum lift to overcome both drag and gravity. The towing point to which the line is at-"
+    },
+    {
+      "line": 16,
+      "text": "tached is important because it sets the kite's angle relative to the air flow. Although the kite"
+    },
+    {
+      "line": 17,
+      "text": "must be headed up and into the wind with a velocity of 8 to 20 miles per hour, it can main-"
+    },
+    {
+      "line": 18,
+      "text": "tain its position through a tail, a rudder, a keel, vents, or tassels."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 18
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-RC-05-Q01",
+      "source_number": 42,
+      "prompt": "What is the main topic of the passage?",
+      "choices": {
+        "A": "How kites can be utilized",
+        "B": "Why kites were spurned",
+        "C": "What parts kites consist of",
+        "D": "What makes kites stay aloft"
+      }
+    },
+    {
+      "id": "P02-RC-05-Q02",
+      "source_number": 43,
+      "prompt": "In line 1, the word \"textbook\" is closest in meaning to",
+      "choices": {
+        "A": "textual",
+        "B": "tentative",
+        "C": "classic",
+        "D": "outrageous"
+      },
+      "referenced_lines": {
+        "start": 1,
+        "end": 1
+      }
+    },
+    {
+      "id": "P02-RC-05-Q03",
+      "source_number": 44,
+      "prompt": "In line 4, the word \"seemingly\" is closest in meaning to",
+      "choices": {
+        "A": "ostensibly",
+        "B": "oncoming",
+        "C": "optimistic",
+        "D": "opposite"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P02-RC-05-Q04",
+      "source_number": 45,
+      "prompt": "In line 7, the word \"aloft\" is closest in meaning to",
+      "choices": {
+        "A": "in flight",
+        "B": "in the flood",
+        "C": "for the analysis",
+        "D": "for amusement"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P02-RC-05-Q05",
+      "source_number": 46,
+      "prompt": "According to the passage, the kite flies when its nose is",
+      "choices": {
+        "A": "pointed away from the ground",
+        "B": "pointed into the wind flow",
+        "C": "balanced with the tail",
+        "D": "aligned parallel to the wind flow"
+      }
+    },
+    {
+      "id": "P02-RC-05-Q06",
+      "source_number": 47,
+      "prompt": "What is the necessary condition for the kite to fly?",
+      "choices": {
+        "A": "The kite must be sufficiently strong to withstand great pressure.",
+        "B": "The kite must be diamond-shaped, and the wind of a certain velocity.",
+        "C": "The pressure against its back must be lower than the pressure against its face.",
+        "D": "The pressure of the air flow must be lower than the weight of the kite."
+      }
+    },
+    {
+      "id": "P02-RC-05-Q07",
+      "source_number": 48,
+      "prompt": "According to the passage, the line of the kite is important because it",
+      "choices": {
+        "A": "lifts the kite's cover and frame into the air space",
+        "B": "contributes to the shape of the kite and extends it",
+        "C": "determines the angle between the kite and the air flow",
+        "D": "conveys the direction of the wind and the air flow"
+      }
+    },
+    {
+      "id": "P02-RC-05-Q08",
+      "source_number": 49,
+      "prompt": "In line 17, the phrase \"headed up\" is closest in meaning to",
+      "choices": {
+        "A": "diverted",
+        "B": "deviated",
+        "C": "directed",
+        "D": "drafted"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P02-RC-05-Q09",
+      "source_number": 50,
+      "prompt": "The paragraph following the passage most would likely discuss",
+      "choices": {
+        "A": "fiberglass kites flown in competitions",
+        "B": "the cords and wires needed for kite flying",
+        "C": "bowed kites curved on their faces",
+        "D": "elements of kite design and composition"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "practice_id": "P02",
+  "section": "reading",
+  "passage_id": "P02-RC-03",
+  "source_question_range": [23, 33],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "When jazz began to lose its reputation as \"low-down\" music and to gain well-deserved ac-"
+    },
+    {
+      "line": 2,
+      "text": "claim among intellectuals, musicians began to feature many instruments previously consid-"
+    },
+    {
+      "line": 3,
+      "text": "ered inappropriate for jazz. Whereas before the 1950s, jazz musicians played only eight ba-"
+    },
+    {
+      "line": 4,
+      "text": "sic instruments in strict tempo, in this decade they started to improvise on the flute, electric"
+    },
+    {
+      "line": 5,
+      "text": "organ, piccolo, accordion, cello, and even bagpipes, with the rhythm section composed for"
+    },
+    {
+      "line": 6,
+      "text": "strings or piano. Big bands no longer dominated jazz, and most changes emerged from small"
+    },
+    {
+      "line": 7,
+      "text": "combos, such as the Dave Brubeck Quartet and the Gerry Mulligan Quartet. The Gerry"
+    },
+    {
+      "line": 8,
+      "text": "Mulligan Quartet proved that a small, modern band could sound complete without a piano;"
+    },
+    {
+      "line": 9,
+      "text": "the rhythm section consisted only of a set of drums and a string bass."
+    },
+    {
+      "line": 10,
+      "text": "Jazz continued to move in new directions during the 1960s. Saxophonist and composer"
+    },
+    {
+      "line": 11,
+      "text": "Ornette Coleman led a quartet playing \"free\" jazz that was atonal. Pianist Cecil Taylor also"
+    },
+    {
+      "line": 12,
+      "text": "conducted similar experiments with music, and John Coltrane included melodies from In-"
+    },
+    {
+      "line": 13,
+      "text": "dia in his compositions. In the 1970s musicians blended jazz and rock music into fusion jazz"
+    },
+    {
+      "line": 14,
+      "text": "which combined the melodies and the improvisations of jazz with the rhythmic qualities of"
+    },
+    {
+      "line": 15,
+      "text": "rock 'n' roll, with three or five beats to the bar and in other meters. The form of jazz music"
+    },
+    {
+      "line": 16,
+      "text": "was greatly affected by electric instruments and electronic implements to intensify, distort,"
+    },
+    {
+      "line": 17,
+      "text": "or amplify their sounds. However, the younger musicians of the time felt compelled to in-"
+    },
+    {
+      "line": 18,
+      "text": "clude a steady, swinging rhythm which they saw as a permanent and essential element in"
+    },
+    {
+      "line": 19,
+      "text": "great jazz"
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 19
+    }
+  ],
+  "questions": [
+    {
+      "id": "P02-RC-03-Q01",
+      "source_number": 23,
+      "prompt": "Which of the following would be the best title for the passage?",
+      "choices": {
+        "A": "Popular Beats in Classical and Modern Jazz",
+        "B": "Quintessential Moments in Jazz Music",
+        "C": "The Achievements of Famous Jazz Musicians",
+        "D": "The Rising Prestige and Diversity of Jazz"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q02",
+      "source_number": 24,
+      "prompt": "In line 2, the word \"feature\" is closest in meaning to",
+      "choices": {
+        "A": "profess",
+        "B": "prohibit",
+        "C": "protest",
+        "D": "promote"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P02-RC-03-Q03",
+      "source_number": 25,
+      "prompt": "The paragraph preceding this passage would most likely describe",
+      "choices": {
+        "A": "instruments used in jazz",
+        "B": "instrumental pieces in jazz",
+        "C": "jazz in the 1940s",
+        "D": "the origins of jazz"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q04",
+      "source_number": 26,
+      "prompt": "The author of the passage implies that in the 1950s, jazz musicians",
+      "choices": {
+        "A": "strictly adhered to its traditions and compositions",
+        "B": "probably continued with its tempo and instrumentation",
+        "C": "experimented with rhythm and instruments",
+        "D": "increased the tempo to keep up with the changes"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q05",
+      "source_number": 27,
+      "prompt": "The author of the passage mentions all of the following EXCEPT",
+      "choices": {
+        "A": "bagpipes",
+        "B": "percussion",
+        "C": "string bass",
+        "D": "harpsichord"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q06",
+      "source_number": 28,
+      "prompt": "It can be inferred from the passage that small jazz bands",
+      "choices": {
+        "A": "were dominated by large orchestras",
+        "B": "consisted of drums and a string bass",
+        "C": "were innovative in their music",
+        "D": "included modern sound systems"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q07",
+      "source_number": 29,
+      "prompt": "The author believes that the developments in jazz described in the passage",
+      "choices": {
+        "A": "should be seen as precocious.",
+        "B": "should be considered influential",
+        "C": "appear largely suggestive",
+        "D": "may be perceived as discrete"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q08",
+      "source_number": 30,
+      "prompt": "The passage implies that representative jazz musicians",
+      "choices": {
+        "A": "concentrated on melodious combinations of sounds",
+        "B": "blended improvisations and sheet music together",
+        "C": "created and modernized sophisticated devices",
+        "D": "sought novel techniques in form and content"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q09",
+      "source_number": 31,
+      "prompt": "According to the passage, the changes in jazz music in the 1970s came from",
+      "choices": {
+        "A": "another harmonious scale",
+        "B": "another musical trend",
+        "C": "ambitious aspirations",
+        "D": "sound amplifications"
+      }
+    },
+    {
+      "id": "P02-RC-03-Q10",
+      "source_number": 32,
+      "prompt": "In line 17, the word \"compelled\" is closest in meaning to",
+      "choices": {
+        "A": "forced",
+        "B": "challenged",
+        "C": "obligated",
+        "D": "censored"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P02-RC-03-Q11",
+      "source_number": 33,
+      "prompt": "Which of the following best describes the organization of the passage?",
+      "choices": {
+        "A": "Chronological innovations in jazz music",
+        "B": "Definitions of diverse jazz styles",
+        "C": "A classification of prominent jazz musicians",
+        "D": "Descriptions and examples to illustrate jazz rhythms"
+      }
+    }
+  ]
+}
