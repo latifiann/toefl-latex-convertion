@@ -1,0 +1,1298 @@
+{
+  "practice_id": "P06",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-ST-16",
+      "source_number": 16,
+      "prompt": "Balm which grown in(A) damp and shady(B) woodlands, is a tall(C), fragrant herb of the mint(D) species.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Balm ",
+          "underlined": false
+        },
+        {
+          "text": "which grown in",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "damp and shady",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " woodlands, ",
+          "underlined": false
+        },
+        {
+          "text": "is a tall",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", fragrant herb ",
+          "underlined": false
+        },
+        {
+          "text": "of the mint",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " species.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-17",
+      "source_number": 17,
+      "prompt": "Banks store cash(A) in fireproof safes insured(B) against fire, robberies(C), floods, theft, and natural disaster(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Banks ",
+          "underlined": false
+        },
+        {
+          "text": "store cash",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " in fireproof ",
+          "underlined": false
+        },
+        {
+          "text": "safes insured",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " against fire, ",
+          "underlined": false
+        },
+        {
+          "text": "robberies",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", floods, theft, and ",
+          "underlined": false
+        },
+        {
+          "text": "natural disaster",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-18",
+      "source_number": 18,
+      "prompt": "During the Middle Ages, riddles were(A) composed of poets(B) and became a form(C) of entertainment and art(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "During the Middle Ages, ",
+          "underlined": false
+        },
+        {
+          "text": "riddles were",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " composed ",
+          "underlined": false
+        },
+        {
+          "text": "of poets",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " and became ",
+          "underlined": false
+        },
+        {
+          "text": "a form",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of entertainment ",
+          "underlined": false
+        },
+        {
+          "text": "and art",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-19",
+      "source_number": 19,
+      "prompt": "Rainwater carries unused chemicals(A) from fields into streams or lakes(B), where various compounds(C) promote the rate of grown(D) of weeds.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Rainwater carries ",
+          "underlined": false
+        },
+        {
+          "text": "unused chemicals",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from fields into ",
+          "underlined": false
+        },
+        {
+          "text": "streams or lakes",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", where ",
+          "underlined": false
+        },
+        {
+          "text": "various compounds",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " promote the ",
+          "underlined": false
+        },
+        {
+          "text": "rate of grown",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " of weeds.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-20",
+      "source_number": 20,
+      "prompt": "Nuclear reactors produce(A) energy by split(B) the atom in the target material(C) into two nearly equal(D) parts.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Nuclear ",
+          "underlined": false
+        },
+        {
+          "text": "reactors produce",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " energy ",
+          "underlined": false
+        },
+        {
+          "text": "by split",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the atom in the ",
+          "underlined": false
+        },
+        {
+          "text": "target material",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " into two ",
+          "underlined": false
+        },
+        {
+          "text": "nearly equal",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " parts.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-21",
+      "source_number": 21,
+      "prompt": "Clifford Odets' play Waiting for Lefty ranks among(A) the most important(B) works whom deal with(C) the struggle of the working class(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Clifford Odets' play Waiting for Lefty ranks ",
+          "underlined": false
+        },
+        {
+          "text": "among",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "the most important",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " works ",
+          "underlined": false
+        },
+        {
+          "text": "whom deal with",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " the struggle of ",
+          "underlined": false
+        },
+        {
+          "text": "the working class",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-22",
+      "source_number": 22,
+      "prompt": "To enjoy(A) an opera fully, the listener should be(B) familiar with the summary of the plot, particularly(C) if the opera is singing(D) in a foreign language.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "To enjoy",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " an opera fully, the listener ",
+          "underlined": false
+        },
+        {
+          "text": "should be",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " familiar with the summary of the plot, ",
+          "underlined": false
+        },
+        {
+          "text": "particularly",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " if the opera ",
+          "underlined": false
+        },
+        {
+          "text": "is singing",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in a foreign language.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-23",
+      "source_number": 23,
+      "prompt": "In 1968, the U.S. government effort(A) to controls(B) wages and prices to halt(C) inflation had little(D) effect.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In 1968, the U.S. ",
+          "underlined": false
+        },
+        {
+          "text": "government effort",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "to controls",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " wages and prices ",
+          "underlined": false
+        },
+        {
+          "text": "to halt",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " inflation ",
+          "underlined": false
+        },
+        {
+          "text": "had little",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " effect.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-24",
+      "source_number": 24,
+      "prompt": "Annie Oakley learned(A) to shoot at the age(B) of eight and helped to support(C) her family for hunting(D) for a hotel restaurant.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Annie Oakley ",
+          "underlined": false
+        },
+        {
+          "text": "learned",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to shoot ",
+          "underlined": false
+        },
+        {
+          "text": "at the age",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " of eight and helped ",
+          "underlined": false
+        },
+        {
+          "text": "to support",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " her family ",
+          "underlined": false
+        },
+        {
+          "text": "for hunting",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " for a hotel restaurant.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-25",
+      "source_number": 25,
+      "prompt": "English is the official language(A) of New Zealand and when spoken(B) throughout the country(C) while Maoris speak their own(D) language.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "English is the ",
+          "underlined": false
+        },
+        {
+          "text": "official language",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of New Zealand and ",
+          "underlined": false
+        },
+        {
+          "text": "when spoken",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " throughout ",
+          "underlined": false
+        },
+        {
+          "text": "the country",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " while Maoris ",
+          "underlined": false
+        },
+        {
+          "text": "speak their own",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " language.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-26",
+      "source_number": 26,
+      "prompt": "Cumulative rhymes repeat the informations(A) and the wording(B) in earlier verses that continue for(C) seven to twelve cycles(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Cumulative rhymes repeat ",
+          "underlined": false
+        },
+        {
+          "text": "the informations",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "the wording",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in earlier verses that ",
+          "underlined": false
+        },
+        {
+          "text": "continue for",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " seven ",
+          "underlined": false
+        },
+        {
+          "text": "to twelve cycles",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-27",
+      "source_number": 27,
+      "prompt": "Animals inhabiting the sea(A) bottom can be carried(B) the weight of the water(C) because it buoys them(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Animals ",
+          "underlined": false
+        },
+        {
+          "text": "inhabiting the sea",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " bottom ",
+          "underlined": false
+        },
+        {
+          "text": "can be carried",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "weight of the water",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " because ",
+          "underlined": false
+        },
+        {
+          "text": "it buoys them",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-28",
+      "source_number": 28,
+      "prompt": "Making(A) a photographic print required paper(B) coated with light-sensitive(C) chemicals that react to(D) special solutions.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Making",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " a photographic print ",
+          "underlined": false
+        },
+        {
+          "text": "required paper",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " coated ",
+          "underlined": false
+        },
+        {
+          "text": "with light-sensitive",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " chemicals that ",
+          "underlined": false
+        },
+        {
+          "text": "react to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " special solutions.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-29",
+      "source_number": 29,
+      "prompt": "Cabbage and lettuce have such a short(A) stems and broad leaves(B) that they appear to have(C) no stems at all(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Cabbage and lettuce have ",
+          "underlined": false
+        },
+        {
+          "text": "such a short",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " stems and ",
+          "underlined": false
+        },
+        {
+          "text": "broad leaves",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " that they ",
+          "underlined": false
+        },
+        {
+          "text": "appear to have",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "no stems at all",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-30",
+      "source_number": 30,
+      "prompt": "Plowing reduces the hard(A) of the upper(B) 6 to 16 inches of the earth's crust(C) and allows air movement into the gaps between soil particles(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Plowing reduces ",
+          "underlined": false
+        },
+        {
+          "text": "the hard",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of the ",
+          "underlined": false
+        },
+        {
+          "text": "upper",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " 6 to 16 inches of the ",
+          "underlined": false
+        },
+        {
+          "text": "earth's crust",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and allows air movement into the gaps ",
+          "underlined": false
+        },
+        {
+          "text": "between soil particles",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-31",
+      "source_number": 31,
+      "prompt": "In basic terms, all communication is a process of exchange information(A), imparting thoughts(B) and ideas, and attempting to make(C) oneself understood(D) by listeners or readers.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In basic terms, all communication is a ",
+          "underlined": false
+        },
+        {
+          "text": "process of exchange information",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "text": "imparting thoughts",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " and ideas, and ",
+          "underlined": false
+        },
+        {
+          "text": "attempting to make",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " oneself ",
+          "underlined": false
+        },
+        {
+          "text": "understood",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " by listeners or readers.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-32",
+      "source_number": 32,
+      "prompt": "Iron and steel are rigid in their solid(A) state and need to be(B) melting(C) when they are to be reshaped into(D) new forms.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Iron and steel are rigid ",
+          "underlined": false
+        },
+        {
+          "text": "in their solid",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " state and ",
+          "underlined": false
+        },
+        {
+          "text": "need to be",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "melting",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " when they are to be ",
+          "underlined": false
+        },
+        {
+          "text": "reshaped into",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " new forms.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-33",
+      "source_number": 33,
+      "prompt": "Porous filters of charcoal can remove(A) dust particles from the air(B) if it is directed through(C) them in a steadily stream(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Porous filters of charcoal ",
+          "underlined": false
+        },
+        {
+          "text": "can remove",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " dust particles ",
+          "underlined": false
+        },
+        {
+          "text": "from the air",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " if it ",
+          "underlined": false
+        },
+        {
+          "text": "is directed through",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " them in ",
+          "underlined": false
+        },
+        {
+          "text": "a steadily stream",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-34",
+      "source_number": 34,
+      "prompt": "The sender places stamps(A) on packages as proof(B) that postage for mailing(C) an envelope or a package has paid(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The sender ",
+          "underlined": false
+        },
+        {
+          "text": "places stamps",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " on packages ",
+          "underlined": false
+        },
+        {
+          "text": "as proof",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " that postage ",
+          "underlined": false
+        },
+        {
+          "text": "for mailing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " an envelope or a package ",
+          "underlined": false
+        },
+        {
+          "text": "has paid",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-35",
+      "source_number": 35,
+      "prompt": "Potash was originally(A) obtained by running(B) water through wood ashes and boiling the solution(C) in cast-iron pot(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Potash ",
+          "underlined": false
+        },
+        {
+          "text": "was originally",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " obtained ",
+          "underlined": false
+        },
+        {
+          "text": "by running",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " water through wood ashes and ",
+          "underlined": false
+        },
+        {
+          "text": "boiling the solution",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "text": "cast-iron pot",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-36",
+      "source_number": 36,
+      "prompt": "The earth's gravitational force(A) for a given mass accords matter(B) weight and diminish(C) as an object moves(D) away from the center of the earth.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The earth's ",
+          "underlined": false
+        },
+        {
+          "text": "gravitational force",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " for a given mass ",
+          "underlined": false
+        },
+        {
+          "text": "accords matter",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " weight and ",
+          "underlined": false
+        },
+        {
+          "text": "diminish",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " as an ",
+          "underlined": false
+        },
+        {
+          "text": "object moves",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " away from the center of the earth.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-37",
+      "source_number": 37,
+      "prompt": "Allan Pinkerton organized groups of armed(A) citizens whose services(B) were available to employers for(C) a daily fee to breaking labor(D) strikes.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Allan Pinkerton organized ",
+          "underlined": false
+        },
+        {
+          "text": "groups of armed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " citizens ",
+          "underlined": false
+        },
+        {
+          "text": "whose services",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " were available to ",
+          "underlined": false
+        },
+        {
+          "text": "employers for",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " a daily fee ",
+          "underlined": false
+        },
+        {
+          "text": "to breaking labor",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " strikes.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-38",
+      "source_number": 38,
+      "prompt": "The Bureau of Labor Statistics found that(A) few as(B) 14 percent of executives(C) write their own(D) memos, letters, and speeches.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The Bureau of Labor Statistics ",
+          "underlined": false
+        },
+        {
+          "text": "found that",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "few as",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " 14 percent of ",
+          "underlined": false
+        },
+        {
+          "text": "executives",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " write ",
+          "underlined": false
+        },
+        {
+          "text": "their own",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " memos, letters, and speeches.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-39",
+      "source_number": 39,
+      "prompt": "Real estate law holds that(A) not one(B) may legally plant or remove plants of any kind(C) without permission of(D) the land owner.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Real estate law ",
+          "underlined": false
+        },
+        {
+          "text": "holds that",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "not one",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " may legally plant or remove plants ",
+          "underlined": false
+        },
+        {
+          "text": "of any kind",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " without ",
+          "underlined": false
+        },
+        {
+          "text": "permission of",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " the land owner.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P06-ST-40",
+      "source_number": 40,
+      "prompt": "National income is defined(A) as the total income(B) earned, but(C) not necessarily received by all persons lived(D) in a country during a period of time.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "National income ",
+          "underlined": false
+        },
+        {
+          "text": "is defined",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " as ",
+          "underlined": false
+        },
+        {
+          "text": "the total income",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "earned, but",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " not necessarily received by all ",
+          "underlined": false
+        },
+        {
+          "text": "persons lived",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in a country during a period of time.",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

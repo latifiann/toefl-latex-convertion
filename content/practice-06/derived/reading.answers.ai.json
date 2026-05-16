@@ -1,0 +1,1090 @@
+{
+  "practice_id": "P06",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P06-RC-01-Q01",
+      "passage_id": "P06-RC-01",
+      "source_number": 1,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 9
+        },
+        {
+          "start": 22,
+          "end": 29
+        }
+      ],
+      "evidence_quote": "Materials which can be sculpted... are all used as sculpting media... In addition to carving a work, sculptures can be cast.",
+      "rationale_id": "Jawaban (B) karena passage terutama membahas bahan yang dipakai untuk membuat patung dan dua teknik utamanya, yaitu carving dan casting. Opsi lain hanya membahas bagian kecil dari isi passage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q02",
+      "passage_id": "P06-RC-01",
+      "source_number": 2,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "the ultimate shape of a sculpture reflects the artist's vision",
+      "rationale_id": "Jawaban (B) karena dalam konteks ini ultimate shape berarti bentuk akhir atau final dari patung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q03",
+      "passage_id": "P06-RC-01",
+      "source_number": 3,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "the ultimate shape of a sculpture reflects the artist's vision of individuals or experiences represented by the work... people everywhere have discovered a need for sculpture as a record of events and feelings",
+      "rationale_id": "Jawaban (C) karena passage menegaskan bahwa bentuk akhir patung mencerminkan vision dari senimannya. Kalimat tentang record of events and feelings mendukung fungsi ekspresif itu, tetapi opsi (D) terlalu sempit dibanding gagasan utama penulis.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q04",
+      "passage_id": "P06-RC-01",
+      "source_number": 4,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 7,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "Throughout history, people everywhere have discovered a need for sculpture... Wood, stone, metal... are all used as sculpting media... represents a change from the older approach",
+      "rationale_id": "Jawaban (D) karena passage justru menyatakan bahwa sepanjang sejarah orang di mana-mana membutuhkan sculpture. Jadi pernyataan bahwa sculpture is no longer useful for people adalah satu-satunya yang tidak benar.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q05",
+      "passage_id": "P06-RC-01",
+      "source_number": 5,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "the quality of the final product relies on the interplay between light and shade... the artist's work is brought to life by light, and its character can be altered by the control of the light source",
+      "rationale_id": "Jawaban (D) karena penulis menekankan bahwa sculpture ditampilkan dengan benar jika efek cahaya terhadap bentuk patung sesuai dengan yang dimaksud sculptor. Bukan sekadar kuat-lemahnya lampu, tetapi dampak light pada image patung itu sendiri.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q06",
+      "passage_id": "P06-RC-01",
+      "source_number": 6,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "when viewing a painting, the audience can only see the point of view that the painter had intended",
+      "rationale_id": "Jawaban (B) karena audience di konteks melihat painting berarti orang yang melihat karya itu, yaitu viewers.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q07",
+      "passage_id": "P06-RC-01",
+      "source_number": 7,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "A fundamental difference between a painting and a sculpture is that when viewing a painting, the audience can only see the point of view that the painter had intended. A free-standing sculpture can be seen from practically any angle.",
+      "rationale_id": "Jawaban (B) karena penulis secara eksplisit menyebut painting hanya dapat dilihat dari sudut pandang yang dimaksud pelukis, sedangkan free-standing sculpture bisa dilihat dari hampir semua sudut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q08",
+      "passage_id": "P06-RC-01",
+      "source_number": 8,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        },
+        {
+          "start": 26,
+          "end": 28
+        }
+      ],
+      "evidence_quote": "stone, wood, ivory, or even ice... Bronze is the preferred metal... the space in a mold is filled with wax until it is melted",
+      "rationale_id": "Jawaban (D) karena ice, ivory, dan stone disebut langsung sebagai media sculpting. Wax hanya muncul sebagai bagian dari proses lost-wax casting, bukan sebagai sculpting medium dalam daftar media.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q09",
+      "passage_id": "P06-RC-01",
+      "source_number": 9,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "a sculpture can be reproduced in a mold... Casting allows the artist to produce as many replicas as needed",
+      "rationale_id": "Jawaban (C) karena replicas dihubungkan langsung dengan reproduced in a mold, jadi maknanya adalah reproductions.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-01-Q10",
+      "passage_id": "P06-RC-01",
+      "source_number": 10,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        },
+        {
+          "start": 22,
+          "end": 23
+        }
+      ],
+      "evidence_quote": "the sculptor carves or chips the substance... In addition to carving a work, sculptures can be cast",
+      "rationale_id": "Jawaban (A) karena passage menyebut dua cara dasar membuat sculpture: carving atau chipping bahan, dan casting dengan mold.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q01",
+      "passage_id": "P06-RC-02",
+      "source_number": 11,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 23
+        }
+      ],
+      "evidence_quote": "The Beatles became the most popular group in rock music history... During the 1960s, their music matured... the much idolized group finally disbanded in 1970.",
+      "rationale_id": "Jawaban (A) karena seluruh passage membahas sejarah perkembangan Beatles sekaligus ciri dan perubahan musik mereka, dari pembentukan grup sampai perpecahan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q02",
+      "passage_id": "P06-RC-02",
+      "source_number": 12,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "Lennon and five others formed a group called the Quarrymen in 1956",
+      "rationale_id": "Jawaban (C) karena `Lennon and five others` berarti Lennon ditambah lima orang lain, jadi total enam anggota.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q03",
+      "passage_id": "P06-RC-02",
+      "source_number": 13,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "While all of them sang, John Lennon and Paul McCartney wrote the majority of their songs.",
+      "rationale_id": "Jawaban (A) karena passage menonjolkan Lennon dan McCartney sebagai penulis mayoritas lagu. Ini mengisyaratkan keduanya paling menonjol secara musikal dibanding anggota lain.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q04",
+      "passage_id": "P06-RC-02",
+      "source_number": 14,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "formed a group called the Quarrymen in 1956... The Beatles' U.S. tour propelled them to stardom... they took the top five spots on the singles charts",
+      "rationale_id": "Jawaban (C) karena dari pembentukan awal pada 1956 hingga menjadi bintang besar dan menguasai chart pada awal 1960-an, passage menyiratkan kenaikan popularitas mereka berlangsung cukup cepat.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q05",
+      "passage_id": "P06-RC-02",
+      "source_number": 15,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "The Beatles' U.S. tour propelled them to stardom",
+      "rationale_id": "Jawaban (B) karena passage secara eksplisit menyatakan tur mereka di Amerika Serikat mendorong mereka menuju ketenaran besar.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q06",
+      "passage_id": "P06-RC-02",
+      "source_number": 16,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "their music matured and acquired a sense of melody. The lyrics of their songs became deeper and gained in both imagination and meaning.",
+      "rationale_id": "Jawaban (A) karena passage jelas menyebut musik mereka menjadi lebih matang dan liriknya lebih dalam, imajinatif, dan bermakna dibanding masa awal yang masih sederhana.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q07",
+      "passage_id": "P06-RC-02",
+      "source_number": 17,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "their music matured and acquired a sense of melody",
+      "rationale_id": "Jawaban (D) karena `acquired` dalam konteks ini berarti memperoleh atau mencapai kualitas tertentu, paling dekat dengan `attained`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q08",
+      "passage_id": "P06-RC-02",
+      "source_number": 18,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "The Beatles' U.S. tour propelled them to stardom... During the 1960s... Their popularity continued to grow",
+      "rationale_id": "Jawaban (C) karena evidence menunjukkan puncak ketenaran terjadi setelah tur Amerika dan sepanjang pertumbuhan besar mereka pada awal hingga pertengahan 1960-an.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q09",
+      "passage_id": "P06-RC-02",
+      "source_number": 19,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "McCartney's songs that created scenarios with off beat individuals",
+      "rationale_id": "Jawaban (B) karena `scenarios` di sini merujuk pada keadaan atau situasi yang dibangun dalam lagu-lagunya, bukan pemandangan atau tema cinta semata.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q10",
+      "passage_id": "P06-RC-02",
+      "source_number": 20,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "Lennon's sardonic music... and McCartney's songs that created scenarios with off beat individuals, contributed to the character of the music produced by the group.",
+      "rationale_id": "Jawaban (C) karena passage menyatakan gaya Lennon dan McCartney memberi `character` pada musik Beatles, yaitu membuat repertoar grup itu lebih khas dan berbeda.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-02-Q11",
+      "passage_id": "P06-RC-02",
+      "source_number": 21,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 23
+        }
+      ],
+      "evidence_quote": "the musicians began to drift apart... the much idolized group finally disbanded in 1970.",
+      "rationale_id": "Jawaban (A) karena `disbanded` dalam konteks grup musik yang anggotanya mulai `drift apart` berarti bubar atau berpisah, paling dekat dengan `separated`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q01",
+      "passage_id": "P06-RC-03",
+      "source_number": 22,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "Nomadic migrations required Indians to construct shelters... Eastern Woodland Indian tribes lived in bark-covered wigwams... The Iroquois... built longhouses... Pueblo Indians... constructed elaborate housing with several stories and many rooms.",
+      "rationale_id": "Jawaban (C) karena hampir seluruh passage membahas jenis-jenis tempat tinggal atau shelter yang dibangun oleh berbagai kelompok Indian, bukan budaya mereka secara umum.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q02",
+      "passage_id": "P06-RC-03",
+      "source_number": 23,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "their cultures and languages were only marginally similar",
+      "rationale_id": "Jawaban (B) karena marginally similar dalam konteks ini berarti hanya sedikit atau minimally mirip.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q03",
+      "passage_id": "P06-RC-03",
+      "source_number": 24,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "and by and large, they had different ways of life",
+      "rationale_id": "Jawaban (A) karena by and large berarti secara umum atau mostly.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q04",
+      "passage_id": "P06-RC-03",
+      "source_number": 25,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "Nomadic migrations required Indians to construct shelters that did not need to be transported, but could be easily erected from the materials found in their new location.",
+      "rationale_id": "Jawaban (D) karena jika mereka bermigrasi dan shelter tidak dibawa, implikasinya mereka perlu membangun shelter lagi di lokasi baru.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q05",
+      "passage_id": "P06-RC-03",
+      "source_number": 26,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Eastern Woodland Indian tribes lived in bark-covered wigwams that were shaped like cones or domes.",
+      "rationale_id": "Jawaban (B) karena cone dan dome sama-sama menunjukkan bentuk membulat atau round, bukan rectangular.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q06",
+      "passage_id": "P06-RC-03",
+      "source_number": 27,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "leaving an opening to serve as a door and to allow smoke to escape",
+      "rationale_id": "Jawaban (C) karena adanya lubang untuk membiarkan asap keluar menyiratkan bahwa mereka menyalakan api di dalam hut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q07",
+      "passage_id": "P06-RC-03",
+      "source_number": 28,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "five to a dozen families lived under one roof",
+      "rationale_id": "Jawaban (D) karena under one roof berarti tinggal bersama dalam satu bangunan, yaitu together.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q08",
+      "passage_id": "P06-RC-03",
+      "source_number": 29,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        },
+        {
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "Nomadic migrations required Indians to construct shelters... Pueblo Indians... constructed elaborate housing with several stories and many rooms.",
+      "rationale_id": "Jawaban (A) karena Woodland Indians dikaitkan dengan shelter nomadik yang mudah didirikan ulang, sedangkan Pueblo Indians tinggal di struktur besar bertingkat yang bersifat lebih permanen.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q09",
+      "passage_id": "P06-RC-03",
+      "source_number": 30,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        },
+        {
+          "start": 22,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "The ground story of a Pueblo dwelling had no doors or windows in order to prevent enemies from entering... a solid roof to preclude the water from leaking inside.",
+      "rationale_id": "Jawaban (B) karena passage menyebut dua fungsi perlindungan yang jelas: mencegah musuh masuk dan mencegah air hujan bocor ke dalam.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-03-Q10",
+      "passage_id": "P06-RC-03",
+      "source_number": 31,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 24,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "created a solid roof to preclude the water from leaking inside",
+      "rationale_id": "Jawaban (B) karena preclude dalam konteks ini berarti mencegah atau stop air agar tidak masuk.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q01",
+      "passage_id": "P06-RC-04",
+      "source_number": 32,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 18
+        },
+        {
+          "start": 21,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "The analysis of compression and tension in the earth's crust... Although each continent has its special features... Mountain belts are elongated narrow zones...",
+      "rationale_id": "Jawaban (C) karena mayoritas passage membahas struktur benua, lapisan kerak, komponen pembentuk benua, dan pembentukan pegunungan; definisi continent hanya pembuka.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q02",
+      "passage_id": "P06-RC-04",
+      "source_number": 33,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "the term `continent` refers to the surface of continuous landmasses...",
+      "rationale_id": "Jawaban (A) karena definisi geografis pada passage adalah continuous landmasses, yaitu massa daratan yang berkesinambungan atau tanpa terputus.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q03",
+      "passage_id": "P06-RC-04",
+      "source_number": 34,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "Although all continents are bounded by water bodies or high mountain ranges",
+      "rationale_id": "Jawaban (C) karena bounded dalam konteks ini berarti dibatasi atau delimited oleh perairan atau pegunungan tinggi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q04",
+      "passage_id": "P06-RC-04",
+      "source_number": 35,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "disagreement among geologists surrounds the issue of exactly how many layers underlie each landmass because of their distinctive mineral and chemical composition",
+      "rationale_id": "Jawaban (D) karena passage menyatakan perbedaan pendapat muncul akibat komposisi mineral dan kimia yang khas, jadi inti masalahnya adalah chemical makeup yang berbeda.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q05",
+      "passage_id": "P06-RC-04",
+      "source_number": 36,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "measurements of the specifics within crust formations by means of monitoring earthquakes",
+      "rationale_id": "Jawaban (C) karena specifics di sini merujuk pada rincian yang tepat dalam formasi kerak, bukan spekulasi atau gerakan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q06",
+      "passage_id": "P06-RC-04",
+      "source_number": 37,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "a chemical split occurred to form the atmosphere, sea water, and the crust before it solidified",
+      "rationale_id": "Jawaban (B) karena yang paling logis dapat solidified adalah the crust; atmosphere dan sea water tidak cocok dengan verba itu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q07",
+      "passage_id": "P06-RC-04",
+      "source_number": 38,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "The continental crust is believed to have been formed... geologists can speculate that a chemical split occurred",
+      "rationale_id": "Jawaban (A) karena penulis memakai believed dan speculate, yang menunjukkan proses terbentuknya kerak benua belum diketahui secara pasti.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q08",
+      "passage_id": "P06-RC-04",
+      "source_number": 39,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "The basic differences among continents lie in the proportion and the composition of these features relative to the continent size",
+      "rationale_id": "Jawaban (B) karena perbedaan struktur benua dijelaskan sebagai perbandingan proporsi komponen utama dan komposisinya terhadap ukuran benua.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q09",
+      "passage_id": "P06-RC-04",
+      "source_number": 40,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 23,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "When continental margins collide... This process also accounts for the occurrence of mountain belts",
+      "rationale_id": "Jawaban (A) karena This process paling dekat merujuk pada tabrakan margin benua, yaitu proses yang memicu pembentukan pegunungan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q10",
+      "passage_id": "P06-RC-04",
+      "source_number": 41,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 25,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "produces evidence for the ongoing continental plate evolution",
+      "rationale_id": "Jawaban (D) karena ongoing continental plate evolution menyiratkan proses perkembangan atau pembentukan benua masih terus berlangsung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-04-Q11",
+      "passage_id": "P06-RC-04",
+      "source_number": 42,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 25,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "produces evidence for the ongoing continental plate evolution",
+      "rationale_id": "Jawaban (B) karena evidence dalam konteks ini berarti bukti yang mengonfirmasi bahwa evolusi lempeng benua masih berlangsung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q01",
+      "passage_id": "P06-RC-05",
+      "source_number": 43,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 4
+        },
+        {
+          "start": 16,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "Chicago ranks as the leading industrial and urban center in North America... This poetic phrase, however, does not do justice to the city's outstanding array of cultural institutions... The Chicago metropolitan area has undergone dramatic changes since the 1940s... Today, most of the city's ethnic enclaves have faded away, but their rich heritage remains.",
+      "rationale_id": "Jawaban (A) karena isi passage paling luas membahas perkembangan Chicago sebagai pusat industrial dan urban, lalu perubahan sosial-demografisnya dari masa imigrasi sampai periode setelah 1940-an. Pilihan lain hanya menangkap bagian kecil seperti wisata atau bangunan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q02",
+      "passage_id": "P06-RC-05",
+      "source_number": 44,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "Carl Sandburg called it the `City of the Big Shoulders`... This poetic phrase, however, does not do justice to the city's outstanding array of cultural institutions, such as the symphony orchestra and the museums of art and history.",
+      "rationale_id": "Jawaban (C) karena penulis secara eksplisit berkata frasa Sandburg `does not do justice` pada banyak sisi menarik Chicago, khususnya institusi budayanya. Artinya frasa itu melewatkan banyak daya tarik kota tersebut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q03",
+      "passage_id": "P06-RC-05",
+      "source_number": 45,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "The downtown business district on the shore of Lake Michigan is the hub of fashionable and elegant boutiques, quaint restaurants, and high-rise office buildings.",
+      "rationale_id": "Jawaban (B) karena dalam konteks ini hub berarti pusat tempat berbagai aktivitas atau tempat penting terkonsentrasi. Jadi makna terdekatnya adalah center.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q04",
+      "passage_id": "P06-RC-05",
+      "source_number": 46,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "The Old Water Tower, dwarfed by the John Hancock Center, is a must-see landmark frequented by thousands of tourists each year.",
+      "rationale_id": "Jawaban (A) karena kata dwarfed by menyiratkan Old Water Tower tampak jauh lebih kecil dibanding John Hancock Center. Implikasi paling langsung adalah Old Water Tower lebih pendek.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q05",
+      "passage_id": "P06-RC-05",
+      "source_number": 47,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "Throughout its history, Europeans streamed into the city in search of jobs in steel mills and factories. The large influx of population created tensions in various neighborhoods.",
+      "rationale_id": "Jawaban (C) karena passage menyebut Europeans `streamed into the city` dan ada `large influx of population`, yang jelas menunjukkan mereka datang dalam jumlah besar.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q06",
+      "passage_id": "P06-RC-05",
+      "source_number": 48,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "The Chicago metropolitan area has undergone dramatic changes since the 1940s when the suburban population almost doubled, and the number of city residents fell.",
+      "rationale_id": "Jawaban (A) karena kenaikan tajam populasi suburb dan turunnya jumlah penduduk kota menunjukkan banyak orang pindah keluar kota ke daerah pinggiran atau kota tetangga.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q07",
+      "passage_id": "P06-RC-05",
+      "source_number": 49,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "The residents take pride in impressive churches and blocks of homes constructed in the early 20th century by industrious European immigrants who built the city.",
+      "rationale_id": "Jawaban (B) karena industrious dalam konteks deskripsi para imigran yang membangun kota berarti rajin atau pekerja keras. Makna terdekatnya adalah hard-working.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P06-RC-05-Q08",
+      "passage_id": "P06-RC-05",
+      "source_number": 50,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "More than 85% of Chicagoans were born in the United States... Italian is no longer spoken in Little Italy, and Irish pubs have fewer Irish customers than those of mixed, typically American origins.",
+      "rationale_id": "Jawaban (D) karena evidence menunjukkan mayoritas penduduk lahir di Amerika Serikat dan bahasa etnis seperti Italian sudah tidak lagi dipakai di area yang dulu khas. Implikasi paling kuatnya adalah kebanyakan warga sekarang terutama berbahasa Inggris.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    }
+  ]
+}

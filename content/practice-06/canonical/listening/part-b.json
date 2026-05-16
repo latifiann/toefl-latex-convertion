@@ -1,0 +1,105 @@
+{
+  "practice_id": "P06",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    38
+  ],
+  "questions": [
+    {
+      "id": "P06-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "Various species of shark.",
+        "B": "The oceans where sharks live.",
+        "C": "Specific features of the shark's body.",
+        "D": "Special characteristic of the shark's hearing."
+      }
+    },
+    {
+      "id": "P06-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "One or two",
+        "B": "Approximately 45",
+        "C": "About 100",
+        "D": "More than 350"
+      }
+    },
+    {
+      "id": "P06-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "Their attacks",
+        "B": "Their teeth",
+        "C": "Their hunting habits",
+        "D": "Their electrical fields"
+      }
+    },
+    {
+      "id": "P06-LB-34",
+      "source_number": 34,
+      "prompt": "eyesight.",
+      "choices": {
+        "A": "They move slowly and quietly.",
+        "B": "They don't turn over on their backs.",
+        "C": "Their tails and gills.",
+        "D": "They have sharp senses of hearing and"
+      }
+    },
+    {
+      "id": "P06-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "He is new in the city.",
+        "B": "He is sick.",
+        "C": "His family needs to be treated.",
+        "D": "His hospital doesn't provide the service."
+      }
+    },
+    {
+      "id": "P06-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": "The man should go to the hospital.",
+        "B": "The man needs to call the referral service.",
+        "C": "The man's wife can make the phone calls.",
+        "D": "The man needs to refer her to a physician."
+      }
+    },
+    {
+      "id": "P06-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "Whether a physician accepts new patients.",
+        "B": "Whether patients like the physician.",
+        "C": "Which doctors are employed by the referral service.",
+        "D": "How often insurance claims need to be filed."
+      }
+    },
+    {
+      "id": "P06-LB-38",
+      "source_number": 38,
+      "choices": {
+        "A": "Hospitals have dentists who require care.",
+        "B": "She is not sure whether they are provided.",
+        "C": "Dentists usually belong to an association.",
+        "D": "Dental insurance is not accepted at hospitals."
+      }
+    }
+  ]
+}

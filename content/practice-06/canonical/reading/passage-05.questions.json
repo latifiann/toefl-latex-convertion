@@ -1,0 +1,211 @@
+{
+  "practice_id": "P06",
+  "section": "reading",
+  "passage_id": "P06-RC-05",
+  "source_question_range": [
+    43,
+    50
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Chicago ranks as the leading industrial and urban center in North America. Carl Sandburg called it the \"City of the Big Shoulders\" primarily because in the 1930s, its population"
+    },
+    {
+      "line": 2,
+      "text": "contained a large segment of industrial workers, the largest agricultural market, and a huge"
+    },
+    {
+      "line": 3,
+      "text": "airport. This poetic phrase, however, does not do justice to the city's outstanding array of"
+    },
+    {
+      "line": 4,
+      "text": "cultural institutions, such as the symphony orchestra and the museums of art and history."
+    },
+    {
+      "line": 5,
+      "text": "The downtown busiriess district on the shore of Lake Michigan is the hub of fashionable"
+    },
+    {
+      "line": 6,
+      "text": "and elegant boutiques, quaint restaurants, and high-rise office buildings. Lake Shore Drive"
+    },
+    {
+      "line": 7,
+      "text": "extends to both the north and south ends of the city, making it one of the most spectacular"
+    },
+    {
+      "line": 8,
+      "text": "roadways in the state of Illinois. The Old Water Tower, dwarfed by the John Hancock Cen-"
+    },
+    {
+      "line": 9,
+      "text": "ter, is a must-see landmark frequented by thousands of tourists each year. Most of the Chicago lakefront is public, with spectacular beaches and wide lawns stretching along the shore"
+    },
+    {
+      "line": 10,
+      "text": "line."
+    },
+    {
+      "line": 11,
+      "text": "Throughout its history, Europeans streamed into the city in search of jobs in steel mills"
+    },
+    {
+      "line": 12,
+      "text": "and factories. The large influx of population created tensions in various neighborhoods, and"
+    },
+    {
+      "line": 13,
+      "text": "in the 1920s, Chicago gained a reputation for violence and crime that it never lived down."
+    },
+    {
+      "line": 14,
+      "text": "Nonetheless, the booming industries continued to attract new residents into the thriving"
+    },
+    {
+      "line": 15,
+      "text": "city, despite its notoriety."
+    },
+    {
+      "line": 16,
+      "text": "The Chicago metropolitan area has undergone dramatic changes since the 1940s when"
+    },
+    {
+      "line": 17,
+      "text": "the suburban population almost doubled, and the number of city residents fell. Today, most"
+    },
+    {
+      "line": 18,
+      "text": "of the city's ethnic enclaves have faded away, but their rich heritage remains. The residents"
+    },
+    {
+      "line": 19,
+      "text": "take pride in impressive churches and blocks of homes constructed in the early 20th century"
+    },
+    {
+      "line": 20,
+      "text": "by industrious European immigrants who built the city. More than 85% of Chicagoans"
+    },
+    {
+      "line": 21,
+      "text": "were born in the United States, and access to Irish, Italian, Polish, and German community"
+    },
+    {
+      "line": 22,
+      "text": "institutions and businesses is not as important to them as it was to their grandparents. Ital-"
+    },
+    {
+      "line": 23,
+      "text": "ian is no longer spoken in Little Italy, and Irish pubs have fewer Irish customers than those"
+    },
+    {
+      "line": 24,
+      "text": "of mixed, typically American origins."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 24
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-RC-05-Q01",
+      "source_number": 43,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Chicago's industrial and urban evolution",
+        "B": "Cultural and tourist attractions in Chicago",
+        "C": "The size of the city and its roadways",
+        "D": "The spectacular arrays of buildings in Chicago"
+      }
+    },
+    {
+      "id": "P06-RC-05-Q02",
+      "source_number": 44,
+      "prompt": "According to the passage, Carl Sandburg's phrase",
+      "choices": {
+        "A": "describes the city in the best light",
+        "B": "reflects the city in its entirety",
+        "C": "overlooks many of Chicago's attractive features",
+        "D": "gives an overview of Chicago's cultural life"
+      }
+    },
+    {
+      "id": "P06-RC-05-Q03",
+      "source_number": 45,
+      "prompt": "The word \"hub\" in line 6 is closest in meaning to",
+      "choices": {
+        "A": "hill",
+        "B": "center",
+        "C": "corner",
+        "D": "home"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P06-RC-05-Q04",
+      "source_number": 46,
+      "prompt": "The author of the passage implies that",
+      "choices": {
+        "A": "the Old Water Tower is shorter than the John Hancock Center",
+        "B": "the John Hancock Center is probably the tallest building in the city",
+        "C": "the Old Water Tower and the John Hancock Center are located on the lake shore",
+        "D": "the Old Water Tower and the John Hancock Center are easy to reach by one of the Illinois roadways"
+      }
+    },
+    {
+      "id": "P06-RC-05-Q05",
+      "source_number": 47,
+      "prompt": "According to the passage, immigrants from Europe",
+      "choices": {
+        "A": "arrived in Chicago by ships and boats",
+        "B": "came to the city to enjoy its beaches",
+        "C": "arrived in large numbers",
+        "D": "came to Chicago to live in a large city"
+      }
+    },
+    {
+      "id": "P06-RC-05-Q06",
+      "source_number": 48,
+      "prompt": "What changes have occurred in the city since the 1940s?",
+      "choices": {
+        "A": "Many residents moved out to neighboring towns.",
+        "B": "Its population grew rapidly.",
+        "C": "Many residents forgot their ethnic heritage.",
+        "D": "Its original builders moved back to Europe."
+      }
+    },
+    {
+      "id": "P06-RC-05-Q07",
+      "source_number": 49,
+      "prompt": "In line 20, the word \"industrious\" is closest in meaning to",
+      "choices": {
+        "A": "employed in an industry",
+        "B": "hard-working",
+        "C": "ill-famed",
+        "D": "employed in construction"
+      },
+      "referenced_lines": {
+        "start": 20,
+        "end": 20
+      }
+    },
+    {
+      "id": "P06-RC-05-Q08",
+      "source_number": 50,
+      "prompt": "According to the passage, currently most residents of Chicago",
+      "choices": {
+        "A": "speak several languages",
+        "B": "do not shop in local stores",
+        "C": "do not have community institutions",
+        "D": "predominantly speak English"
+      }
+    }
+  ]
+}

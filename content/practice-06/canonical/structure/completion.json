@@ -1,0 +1,207 @@
+{
+  "practice_id": "P06",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-ST-01",
+      "source_number": 1,
+      "prompt": "The red deer is a playful animal....... the American elk.",
+      "choices": {
+        "A": "direct relationship",
+        "B": "relative to the direction",
+        "C": "directly related to",
+        "D": "relating it to the direct"
+      }
+    },
+    {
+      "id": "P06-ST-02",
+      "source_number": 2,
+      "prompt": "Sally Ride participated in launching Canadian communication satellites and.... pharmaceuticals.",
+      "choices": {
+        "A": "conduct experiments with",
+        "B": "experimented with conducting",
+        "C": "conducting experiments with",
+        "D": "experimental conduct with"
+      }
+    },
+    {
+      "id": "P06-ST-03",
+      "source_number": 3,
+      "prompt": "Various regions of North America.... of European colonists, who spoke mostly English, Spanish, or French.",
+      "choices": {
+        "A": "have retained the languages",
+        "B": "retaining the languages",
+        "C": "the languages have retained",
+        "D": "the retaining of languages"
+      }
+    },
+    {
+      "id": "P06-ST-04",
+      "source_number": 4,
+      "prompt": "Division means..... into smaller equal groups.",
+      "choices": {
+        "A": "break up a number",
+        "B": "a number is a break up",
+        "C": "breaking up a number",
+        "D": "broken up is a number"
+      }
+    },
+    {
+      "id": "P06-ST-05",
+      "source_number": 5,
+      "prompt": "Market research investigation is the formulation of a problem that a client.....",
+      "choices": {
+        "A": "seeks solution",
+        "B": "to solve seeking",
+        "C": "solving to seek",
+        "D": "seeks to solve"
+      }
+    },
+    {
+      "id": "P06-ST-06",
+      "source_number": 6,
+      "prompt": "In the early 18th century, Philadelphia and Boston were..... New York, which continued to grow rapidly in the next century.",
+      "choices": {
+        "A": "largest and more prosperous than",
+        "B": "larger and more prosperous than",
+        "C": "prosperity and larger than",
+        "D": "than larger and more prosperous"
+      }
+    },
+    {
+      "id": "P06-ST-07",
+      "source_number": 7,
+      "prompt": "Farmers grow oats to feed cattle......",
+      "choices": {
+        "A": "and sell to processing plants",
+        "B": "after they are being sold to processing plants",
+        "C": "and selling them to processing plants",
+        "D": "process and sold to them to plants"
+      }
+    },
+    {
+      "id": "P06-ST-08",
+      "source_number": 8,
+      "prompt": "Pigment mixed with water does not dissolve but remains....",
+      "choices": {
+        "A": "suspending and forming paint",
+        "B": "suspend and form to paint",
+        "C": "suspended while painting",
+        "D": "suspended to form paint"
+      }
+    },
+    {
+      "id": "P06-ST-09",
+      "source_number": 9,
+      "prompt": "Ralph De Palma, a pioneer American race driver, preferred matches against..... to open competitions.",
+      "choices": {
+        "A": "other driver",
+        "B": "another driver",
+        "C": "drivers other",
+        "D": "driver, another"
+      }
+    },
+    {
+      "id": "P06-ST-10",
+      "source_number": 10,
+      "prompt": "When one party arranges for a position in court, all involved....",
+      "choices": {
+        "A": "notified and must",
+        "B": "must be notified",
+        "C": "notifying them must be",
+        "D": "must be notifying"
+      }
+    },
+    {
+      "id": "P06-ST-11",
+      "source_number": 11,
+      "prompt": "Alcohol, generally considered a depressant, decreases essential.....",
+      "choices": {
+        "A": "functioning brain with",
+        "B": "functioning as a brain",
+        "C": "brain functions",
+        "D": "brain as a function of"
+      }
+    },
+    {
+      "id": "P06-ST-12",
+      "source_number": 12,
+      "prompt": "Cooperatives, owned by the people who use their services, sell goods produced by their members or purchased......",
+      "choices": {
+        "A": "directly from farmers",
+        "B": "direct to the farmers",
+        "C": "farmers directly",
+        "D": "farmers with direct"
+      }
+    },
+    {
+      "id": "P06-ST-13",
+      "source_number": 13,
+      "prompt": "Marc Chagall's dreamlike paintings and.... come from his recollections of childhood images and mementoes.",
+      "choices": {
+        "A": "brilliantly colored",
+        "B": "brilliant coloring",
+        "C": "brilliant color",
+        "D": "brilliantly and color"
+      }
+    },
+    {
+      "id": "P06-ST-14",
+      "source_number": 14,
+      "prompt": "Rationalism as a philosophical trend was based on the idea.....",
+      "choices": {
+        "A": "reason is superior to experience that",
+        "B": "that is reason superior to that experience",
+        "C": "that reason is superior to experience",
+        "D": "is that reason superior to experience"
+      }
+    },
+    {
+      "id": "P06-ST-15",
+      "source_number": 15,
+      "prompt": "Rudolf Nureyev became recognized and admired for his stage activity and.....",
+      "choices": {
+        "A": "impressive dance technique",
+        "B": "technique dance is impressive",
+        "C": "technique in dance impressive",
+        "D": "is impressive in dance technique"
+      }
+    }
+  ]
+}

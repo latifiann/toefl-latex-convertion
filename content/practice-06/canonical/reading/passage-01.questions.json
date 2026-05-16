@@ -1,0 +1,257 @@
+{
+  "practice_id": "P06",
+  "section": "reading",
+  "passage_id": "P06-RC-01",
+  "source_question_range": [
+    1,
+    10
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Free-standing sculpture that is molded or carved is a type familiar to almost everyone."
+    },
+    {
+      "line": 2,
+      "text": "Although certain free-standing figures or groups of figures can have only a single side"
+    },
+    {
+      "line": 3,
+      "text": "intended for viewing, others are completed on all sides. As with all 'other forms of art, the"
+    },
+    {
+      "line": 4,
+      "text": "ultimate shape of a sculpture reflects the artist's vision of individuals or experiences repre-"
+    },
+    {
+      "line": 5,
+      "text": "sented by the work. Throughout history, people everywhere have discovered a need for"
+    },
+    {
+      "line": 6,
+      "text": "sculpture as a record of events and feelings."
+    },
+    {
+      "line": 7,
+      "text": "Materials which can be sculpted do much to contribute to the artist's imagination."
+    },
+    {
+      "line": 8,
+      "text": "Wood, stone, metal, and various types of plastic and synthetics are all used as sculpting media. When sculptures are made of stone, wood, ivory, or even ice, the sculptor carves or chips"
+    },
+    {
+      "line": 9,
+      "text": "the substance to reduce it to the necessary shape. Developing a sculptured image on all sides"
+    },
+    {
+      "line": 10,
+      "text": "represents a change from the older approach when artists left the back portion of the figure"
+    },
+    {
+      "line": 11,
+      "text": "unfinished and rough. In fact, sculpture in relief is completely attached to the flat background material and appears to be a part of it. Relief, which is completed only on one side intended for viewing, was the first type of sculpture created by man, when ancient sculptors"
+    },
+    {
+      "line": 12,
+      "text": "removed the background material in a side of a tree or a cave to make their drawing appear"
+    },
+    {
+      "line": 13,
+      "text": "more realistic."
+    },
+    {
+      "line": 14,
+      "text": "While creating a statue, the artist 'depends on the appropriate lighting to develop the figure because the quality of the final product relies on the interplay between light and shade."
+    },
+    {
+      "line": 15,
+      "text": "When the work is finished, the' sculpture must be displayed in the same light as it was origi-"
+    },
+    {
+      "line": 16,
+      "text": "nally created. If a light from a source is too weak or too strong, the effect that the sculptor intended may be lost. For example, in painting, the light and shade give the image shape and"
+    },
+    {
+      "line": 17,
+      "text": "solidity that cannot be altered by an external light in which it is displayed. When a sculpture is exhibited, the artist's work is brought to life by light, and its character can be altered"
+    },
+    {
+      "line": 18,
+      "text": "by the control of the light source. A fundamental difference betweena painting and a sculp-"
+    },
+    {
+      "line": 19,
+      "text": "ture is that when viewing a painting, the audience can only see the point of view that the"
+    },
+    {
+      "line": 20,
+      "text": "painter had intended. A free-standing sculpture can be seen from practically any angle. The"
+    },
+    {
+      "line": 21,
+      "text": "job of the sculptor is then to attain the quality and the volume of the image from any possible point of view."
+    },
+    {
+      "line": 22,
+      "text": "In addition to carving a work, sculptures can be cast. In the process of casting, a sculpture"
+    },
+    {
+      "line": 23,
+      "text": "can be reproduced in a mold when a liquefied medium is poured intoa shape. After the material from which the sculpture is made hardens, the mold is removed, and the work is"
+    },
+    {
+      "line": 24,
+      "text": "cleaned of the excess and polished. Casting allows the artist to produce as many replicas as"
+    },
+    {
+      "line": 25,
+      "text": "needed. Most commercially sold sculptures are made in this way. Casting metals requires"
+    },
+    {
+      "line": 26,
+      "text": "special care and skill. Bronze is the preferred metal because of its versatility and malleabil-"
+    },
+    {
+      "line": 27,
+      "text": "ity. To make bronze sculpture, the space in a mold is filled with wax until it is melted by the"
+    },
+    {
+      "line": 28,
+      "text": "heated metal. This process, sometimes called lost-wax, was favored by Benvenuto Cellini"
+    },
+    {
+      "line": 29,
+      "text": "and was common among the artists in ancient China."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 29
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "What is the main topic of this passage?",
+      "choices": {
+        "A": "Differences between painting and sculpture",
+        "B": "Sculpting techniques and media",
+        "C": "Types of commercially produced sculptures",
+        "D": "Reasons for enjoying sculpture"
+      }
+    },
+    {
+      "id": "P06-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "The word \"ultimate\" in line 4 is closest in meaning to",
+      "choices": {
+        "A": "ulterior",
+        "B": "final",
+        "C": "formal",
+        "D": "formidable"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P06-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "According to the passage, the purpose of sculpture as a form of art is to",
+      "choices": {
+        "A": "Display a group of figures",
+        "B": "Reflect a human need for freedom",
+        "C": "Express an artistic vision",
+        "D": "Commemorate individuals and events"
+      }
+    },
+    {
+      "id": "P06-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "According to the passage, all of the following are true of sculpture EXCEPT that",
+      "choices": {
+        "A": "it can be found in all parts of the world",
+        "B": "it has undergone change since the early times",
+        "C": "it can be created from many substances",
+        "D": "it is no longer useful for people"
+      }
+    },
+    {
+      "id": "P06-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "The author of the passage implies that the most important factor in showing a sculpted work is",
+      "choices": {
+        "A": "the strength of the light source",
+        "B": "the development of the sculpted figure",
+        "C": "the shape of the material for sculpting",
+        "D": "the effect of light on the sculpted image"
+      }
+    },
+    {
+      "id": "P06-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "The word \"audience\" in line 19 is closest in meaning to",
+      "choices": {
+        "A": "listeners",
+        "B": "viewers",
+        "C": "public",
+        "D": "artists"
+      },
+      "referenced_lines": {
+        "start": 19,
+        "end": 19
+      }
+    },
+    {
+      "id": "P06-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "What does the author mention as an important difference between a painting and a sculpture?",
+      "choices": {
+        "A": "A painting does not need shading to be displayed.",
+        "B": "A painting can be viewed from only one position.",
+        "C": "A sculpture needs to have proper light.",
+        "D": "A sculpture does not look good from all angles."
+      }
+    },
+    {
+      "id": "P06-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "Which of the following is NOT mentioned as a sculpting medium?",
+      "choices": {
+        "A": "Ice",
+        "B": "Ivory",
+        "C": "Stone",
+        "D": "Wax"
+      }
+    },
+    {
+      "id": "P06-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "The word \"replicas\" in line 24 is closest in meaning to",
+      "choices": {
+        "A": "replacements",
+        "B": "molds",
+        "C": "reproductions",
+        "D": "monuments"
+      },
+      "referenced_lines": {
+        "start": 24,
+        "end": 24
+      }
+    },
+    {
+      "id": "P06-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "According to the passage, what are the two basic methods for making sculptures?",
+      "choices": {
+        "A": "Carving and casting",
+        "B": "Free-standing and relief",
+        "C": "Hardening and melting",
+        "D": "Stone and metal"
+      }
+    }
+  ]
+}

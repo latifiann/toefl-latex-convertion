@@ -1,0 +1,324 @@
+{
+  "practice_id": "P06",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P06-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "She needs to check her room.",
+        "B": "She should leave the key at the desk.",
+        "C": "She can leave any time the front desk is open.",
+        "D": "She doesn't need to return the key"
+      }
+    },
+    {
+      "id": "P06-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "He went to the movies yesterday.",
+        "B": "He decided to go to the movies.",
+        "C": "He was too tired to see the movie.",
+        "D": "He stayed for the movie yesterday."
+      }
+    },
+    {
+      "id": "P06-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "The travel agent liked the book.",
+        "B": "The book is about a travel agent.",
+        "C": "The flight is full.",
+        "D": "Travellers may have difficulty reading."
+      }
+    },
+    {
+      "id": "P06-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "She thinks that papers must be typed.",
+        "B": "She believes that handwritten papers are acceptable.",
+        "C": "Omitted words can be written in.",
+        "D": "Typing skills are necessary for all students."
+      }
+    },
+    {
+      "id": "P06-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "He heard the noise.",
+        "B": "He has decided already.",
+        "C": "The man didn't like the noise.",
+        "D": "The counsel will be noisy."
+      }
+    },
+    {
+      "id": "P06-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "Do you have the chemistry assignment?",
+        "B": "Will Frank come to the chemistry lab?",
+        "C": "Does Frank teach chemistry?",
+        "D": "Will Frank be willing to help us?"
+      }
+    },
+    {
+      "id": "P06-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "Only two pieces of luggage can be checked in",
+        "B": "The boxes and the suitcases should be checked.",
+        "C": "The suitcases belong to another passenger.",
+        "D": "Suitcases cannot be checked in."
+      }
+    },
+    {
+      "id": "P06-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "Do you know where my coat is?",
+        "B": "Have you been wearing my red coat?",
+        "C": "Where is your coat?",
+        "D": "Have you read it yet?"
+      }
+    },
+    {
+      "id": "P06-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "He lives in the dorm.",
+        "B": "He has a new apartment.",
+        "C": "His apartment is north of campus.",
+        "D": "He is moving soon."
+      }
+    },
+    {
+      "id": "P06-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "The wait is 15 minutes if you have a reservation.",
+        "B": "Those who have to wait should make reservations.",
+        "C": "The waiting room is on the fifth floor.",
+        "D": "Without a reservation, you may wait for almost an hour,"
+      }
+    },
+    {
+      "id": "P06-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "She thinks the food is excellent.",
+        "B": "She feels that the price is reasonable.",
+        "C": "She doesn't want to order the salad.",
+        "D": "She thinks they should order dessert."
+      }
+    },
+    {
+      "id": "P06-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "Repair Jennifer's car.",
+        "B": "Start driving to Jennifer's house.",
+        "C": "Take Jennifer to the library.",
+        "D": "Take Jennifer to the bank."
+      }
+    },
+    {
+      "id": "P06-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "He is excited about the show.",
+        "B": "He has been to the museum many times.",
+        "C": "He has seen the crafts displayed at the show.",
+        "D": "He doesn't want to attend the craft show."
+      }
+    },
+    {
+      "id": "P06-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "Avoid traveling through the city.",
+        "B": "Travel on a different day.",
+        "C": "Stay away from highways.",
+        "D": "Travel at 75 miles an hour."
+      }
+    },
+    {
+      "id": "P06-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "In the kitchen.",
+        "B": "In a bookstore.",
+        "C": "At a sports counter.",
+        "D": "Near the outside door."
+      }
+    },
+    {
+      "id": "P06-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "She is the course advisor.",
+        "B": "The man needs to take the history course.",
+        "C": "The man is not taking a discussion course.",
+        "D": "She cannot advise the man."
+      }
+    },
+    {
+      "id": "P06-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "It's around the corner.",
+        "B": "It's in the next block.",
+        "C": "It's on woman's right.",
+        "D": "It's at the end of the block."
+      }
+    },
+    {
+      "id": "P06-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "At a packaging company.",
+        "B": "In Seattle.",
+        "C": "At a post office.",
+        "D": "In a weight loss clinic."
+      }
+    },
+    {
+      "id": "P06-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "His wife does not like the man's brother.",
+        "B": "He'll be busy on Saturday.",
+        "C": "He'll be away for the weekend.",
+        "D": "His wife will be away."
+      }
+    },
+    {
+      "id": "P06-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "A sales clerk.",
+        "B": "A shoe-maker.",
+        "C": "A receptionist.",
+        "D": "A tailor."
+      }
+    },
+    {
+      "id": "P06-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "Go to the pool.",
+        "B": "Make a phone call.",
+        "C": "Correct the mistake.",
+        "D": "Write a letter."
+      }
+    },
+    {
+      "id": "P06-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "It's been a great day.",
+        "B": "We should do it all today.",
+        "C": "We should stop for today.",
+        "D": "Let's call Kay"
+      }
+    },
+    {
+      "id": "P06-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "The lab is open every day.",
+        "B": "The weather was terrible on Friday.",
+        "C": "The test is at the end of the week.",
+        "D": "The towels will be brought on Friday."
+      }
+    },
+    {
+      "id": "P06-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "In a garden",
+        "B": "Near a pool",
+        "C": "At an office",
+        "D": "At a home"
+      }
+    },
+    {
+      "id": "P06-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "Taking a class",
+        "B": "Designing a building",
+        "C": "Watching TV",
+        "D": "Looking at pictures"
+      }
+    },
+    {
+      "id": "P06-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "He doesn't know if the museum is open.",
+        "B": "He has never been in a museum.",
+        "C": "He thinks there is a museum nearby.",
+        "D": "He doesn't have the directions."
+      }
+    },
+    {
+      "id": "P06-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "She has to take the boxes downstairs.",
+        "B": "Would she mind helping him with the boxes?",
+        "C": "The boxe's downstairs are heavy.",
+        "D": "Did the packers bring all the boxes?"
+      }
+    },
+    {
+      "id": "P06-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "He has changed jobs.",
+        "B": "He has two children.",
+        "C": "He has two jobs.",
+        "D": "He is looking for a job."
+      }
+    },
+    {
+      "id": "P06-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "Marsha is having a difficult time.",
+        "B": "Marsha is not very practical.",
+        "C": "Rob's jokes are difficult to understand.",
+        "D": "Rob's jokes are not funny."
+      }
+    },
+    {
+      "id": "P06-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "The store is closing.",
+        "B": "The store is near the bay.",
+        "C": "The employees get a good salary.",
+        "D": "The store offers part-time jobs."
+      }
+    }
+  ]
+}

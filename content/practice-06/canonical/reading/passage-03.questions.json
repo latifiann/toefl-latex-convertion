@@ -1,0 +1,241 @@
+{
+  "practice_id": "P06",
+  "section": "reading",
+  "passage_id": "P06-RC-03",
+  "source_question_range": [
+    22,
+    31
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Like Europeans who amived in the Americas, the first American Indians were 'immigrants. Because"
+    },
+    {
+      "line": 2,
+      "text": "Indians were nomadic hunters and gatherers, they probably arrived in search of new hunting grounds from Asia when they crossed the ice-covered Bering Strait to Alaska. Anthropologists estimate that the entire Indian population north of Mexico was slightly greater"
+    },
+    {
+      "line": 3,
+      "text": "than 1,020,000 when the first settlers arrived from Europe. Although Native Americans belonged to one geographic race, their cultures and languages were only marginally similar,"
+    },
+    {
+      "line": 4,
+      "text": "and by and large, they had different ways of life. Nomadic migrations required Indians to"
+    },
+    {
+      "line": 5,
+      "text": "construct shelters that did not need to be transported, but could be easily erected from the"
+    },
+    {
+      "line": 6,
+      "text": "materials found in their new location."
+    },
+    {
+      "line": 7,
+      "text": "Eastern Woodland Indian tribes lived in bark-covered wigwams that were shaped like"
+    },
+    {
+      "line": 8,
+      "text": "cones or domes. The frame for the hut was made of young trees firmly driven into the"
+    },
+    {
+      "line": 9,
+      "text": "ground, and then bent overhead to tie together with bark fibers or strings of animal hides."
+    },
+    {
+      "line": 10,
+      "text": "Sheets and slabs of bark were attached to the frame to construct the roof and walls, leaving"
+    },
+    {
+      "line": 11,
+      "text": "an opening to serve as a door and to allow smoke to escape. The Iroquois in north eastern re-"
+    },
+    {
+      "line": 12,
+      "text": "gions built longhouses that were more spacious than wigwams because five to a dozen families lived under one roof. During the winter, they plastered clay to the poles of the frame to"
+    },
+    {
+      "line": 13,
+      "text": "protect the inhabitants from wind and rain."
+    },
+    {
+      "line": 14,
+      "text": "Pueblo Indians who lived in the southwest portion of the United States in northern Arizona and New Mexico constructed elaborate housing with several stories and many rooms."
+    },
+    {
+      "line": 15,
+      "text": "Each family unit had only one room, and their ancestors dug shelters in the walls of cliffs and"
+    },
+    {
+      "line": 16,
+      "text": "canyons. The ground story of a Pueblo dwelling had no doors or windows in order to prevent"
+    },
+    {
+      "line": 17,
+      "text": "enemies from entering. The next level was set back the width of one room, and the row of"
+    },
+    {
+      "line": 18,
+      "text": "rooms above it was set back once again, giving their houses the appearance of a terrace. Pueblos used ladders to climb to the upper levels and pulled them in when all family members re-"
+    },
+    {
+      "line": 19,
+      "text": "turned for the night."
+    },
+    {
+      "line": 20,
+      "text": "Indians living in deserts used sandstone and clay as construction materials. Those who"
+    },
+    {
+      "line": 21,
+      "text": "lived in the valleys of rivèrs even made bricks of clay with wood chips to add strength and to"
+    },
+    {
+      "line": 22,
+      "text": "prevent the clay from cracking. To make roofs, Pueblos tied logs together to make rafters and"
+    },
+    {
+      "line": 23,
+      "text": "laid them across the two outside walls. On top of the rafters, layers of tree branches, sticks,"
+    },
+    {
+      "line": 24,
+      "text": "grass, and brush created a solid roof to preclude the water from leaking inside. Pueblo dwellings were dark because windows were often not large enough to allow much light."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 24
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-RC-03-Q01",
+      "source_number": 22,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Different Indian tribes",
+        "B": "Types of households among Indians",
+        "C": "Types of shelters built by Indians",
+        "D": "Different Indian cultures"
+      }
+    },
+    {
+      "id": "P06-RC-03-Q02",
+      "source_number": 23,
+      "prompt": "In line 3, the word \"marginally\" is closest in meaning to",
+      "choices": {
+        "A": "markedly",
+        "B": "minimally",
+        "C": "temporarily",
+        "D": "tentatively"
+      },
+      "referenced_lines": {
+        "start": 3,
+        "end": 3
+      }
+    },
+    {
+      "id": "P06-RC-03-Q03",
+      "source_number": 24,
+      "prompt": "In line 4, the phrase \"by and large\" is closest in meaning to",
+      "choices": {
+        "A": "mostly",
+        "B": "conversely",
+        "C": "occasionally",
+        "D": "notably"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P06-RC-03-Q04",
+      "source_number": 25,
+      "prompt": "The author of the passage implies that Indians",
+      "choices": {
+        "A": "carried their construction materials to new locations",
+        "B": "lived in settlements, similar to the Europeans",
+        "C": "liked the climate in the Southwest",
+        "D": "constructed shelters every time a tribe moved"
+      }
+    },
+    {
+      "id": "P06-RC-03-Q05",
+      "source_number": 26,
+      "prompt": "According to the passage, what shape did the shelters of Woodland Indians have?",
+      "choices": {
+        "A": "random",
+        "B": "round",
+        "C": "rectangular",
+        "D": "convex"
+      }
+    },
+    {
+      "id": "P06-RC-03-Q06",
+      "source_number": 27,
+      "prompt": "The author of the passage implies that Eastern Indians",
+      "choices": {
+        "A": "constructed huts without roofs",
+        "B": "planted trees to harvest crops",
+        "C": "made fires inside their huts",
+        "D": "used sheets and blankets as bedding"
+      }
+    },
+    {
+      "id": "P06-RC-03-Q07",
+      "source_number": 28,
+      "prompt": "In line 12, the phrase \"under one roof\" is closest in meaning to",
+      "choices": {
+        "A": "in separate sections",
+        "B": "in several shelters",
+        "C": "comfortably",
+        "D": "together"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P06-RC-03-Q08",
+      "source_number": 29,
+      "prompt": "What was the main difference between the dwellings of Pueblo and Woodland Indians?",
+      "choices": {
+        "A": "The Pueblos lived in permanent structures, but the Woodland Indians lived in transient shelters.",
+        "B": "The Pueblos used wood in their constructions, but the Woodland Indians relied mostly on animal hides.",
+        "C": "The Woodland Indians lived on flat ground, but the Pueblos lived in canyons.",
+        "D": "The Woodland Indians built small shelter."
+      }
+    },
+    {
+      "id": "P06-RC-03-Q09",
+      "source_number": 30,
+      "prompt": "It can be inferred from the passage that Pueblo dwellings were designed to protect inhabitants from",
+      "choices": {
+        "A": "attacks by enemies and cold winters",
+        "B": "attacks by enemies and against rain water",
+        "C": "wind storms and water from rain",
+        "D": "wild animals, cold winters, and desert sands"
+      }
+    },
+    {
+      "id": "P06-RC-03-Q10",
+      "source_number": 31,
+      "prompt": "The word \"preclude\" in line 24 is closest in meaning to",
+      "choices": {
+        "A": "include",
+        "B": "stop",
+        "C": "preserve",
+        "D": "conclude"
+      },
+      "referenced_lines": {
+        "start": 24,
+        "end": 24
+      }
+    }
+  ]
+}

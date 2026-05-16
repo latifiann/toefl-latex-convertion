@@ -1,0 +1,23 @@
+{
+  "anomalies": [
+    {
+      "id": "normalization-whitespace-and-formfeed",
+      "severity": "low",
+      "section": "global",
+      "detail": "Whitespace, form-feed characters, zero-width characters, and obvious mixed-script confusables were normalized during ingestion."
+    },
+    {
+      "id": "reading-prompt-line-sync",
+      "severity": "medium",
+      "section": "reading",
+      "detail": "Line-based reading prompts and referenced_lines were synchronized to the current canonical line maps after extraction cleanup and OCR normalization."
+    },
+    {
+      "id": "reading-prompt-text-cleanup",
+      "severity": "medium",
+      "section": "reading",
+      "detail": "Obvious reading prompt and choice artifacts such as missing letters, stray pasted options, and malformed punctuation were normalized where the intended wording was clear from the source context."
+    }
+  ],
+  "note": "Anomalies record source problems or deliberate normalization decisions. Canonical files should stay close to the DOCX while avoiding silent guessing."
+}

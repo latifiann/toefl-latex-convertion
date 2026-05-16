@@ -1,0 +1,142 @@
+{
+  "practice_id": "P06",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P06-LC-39",
+      "source_number": 39,
+      "choices": {
+        "A": "To discuss the importance of expensive clothes.",
+        "B": "To explain the purpose of interviews.",
+        "C": "To prepare listeners for a job interview.",
+        "D": "To emphasize the importance of being polite."
+      }
+    },
+    {
+      "id": "P06-LC-40",
+      "source_number": 40,
+      "choices": {
+        "A": "It should be expensive.",
+        "B": "It can bring good fortune.",
+        "C": "It is required of all interviewers..",
+        "D": "It should be clean."
+      }
+    },
+    {
+      "id": "P06-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "They don't care about their appearance.",
+        "B": "They don't arrive on time?",
+        "C": "They borrow other people's clothes.",
+        "D": "They lose money if they are careless."
+      }
+    },
+    {
+      "id": "P06-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "To match that of the interviewer.",
+        "B": "Increase it to save time.",
+        "C": "Slow it down and think before responding.",
+        "D": "To meet the interviewer's expectations."
+      }
+    },
+    {
+      "id": "P06-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "A party in Boston.",
+        "B": "A raid by American colonists.",
+        "C": "Tea popularity in America.",
+        "D": "The price of merchandise in Boston."
+      }
+    },
+    {
+      "id": "P06-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "In 1342",
+        "B": "In 1660",
+        "C": "In 1767",
+        "D": "In 1773"
+      }
+    },
+    {
+      "id": "P06-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      }
+    },
+    {
+      "id": "P06-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "They wanted to profit from its sales.",
+        "B": "They, wanted to destroy it.",
+        "C": "The tea was not fit for consumption.",
+        "D": "The tea was too expensive to buy"
+      }
+    },
+    {
+      "id": "P06-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "3 percent",
+        "B": "5 percent",
+        "C": "36 percent",
+        "D": "100 percent"
+      }
+    },
+    {
+      "id": "P06-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "Events as they continue to occur.",
+        "B": "Voters' attitudes at a particular time.",
+        "C": "People's political beliefs in general.",
+        "D": "Politician's views on current problems."
+      }
+    },
+    {
+      "id": "P06-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "They distributed the information.",
+        "B": "They used a scientific method.",
+        "C": "They reminded voters to go to the polls.",
+        "D": "They made phone calls to ask for opinions."
+      }
+    },
+    {
+      "id": "P06-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "Roosevelt lost to Landon by a landslide.",
+        "B": "The sample didn't include various groups of population.",
+        "C": "Voters changed-their minds.",
+        "D": "The sample of the population was not large enough."
+      }
+    }
+  ]
+}

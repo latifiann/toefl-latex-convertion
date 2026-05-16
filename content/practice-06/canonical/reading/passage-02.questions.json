@@ -1,0 +1,244 @@
+{
+  "practice_id": "P06",
+  "section": "reading",
+  "passage_id": "P06-RC-02",
+  "source_question_range": [
+    11,
+    21
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The Beatles became the most popular group in rock music history. This quartet of extraordinarily talented musicians generated a phenomenal number of pieces that won gold"
+    },
+    {
+      "line": 2,
+      "text": "records. They inspired a frenzy that transcended countries and economic strata. While all of"
+    },
+    {
+      "line": 3,
+      "text": "them sang, John Lennon and Paul McCartney wrote the majority of their songs. Originally,"
+    },
+    {
+      "line": 4,
+      "text": "Lennon and five others formed a group called the Quarrymen in 1956, with McCartney joining them later that year. George Harrison, John Lennon, and Paul McCartney, together"
+    },
+    {
+      "line": 5,
+      "text": "with Stuart Sutcliffe, who played the bass guitar, and Pete Best on the drums, performed together in several bands for a few years, until they finally settled on the Silver Beatles in"
+    },
+    {
+      "line": 6,
+      "text": "1960. American rock musicians, such as Chuck Berry and Elvis Presley, influenced Len-"
+    },
+    {
+      "line": 7,
+      "text": "non's and McCartney's music, whose first hits consisted of simple tunes and lyrics about"
+    },
+    {
+      "line": 8,
+      "text": "young love, \"Love Me Do\" and \"Please, Please Me.\" The Beatles' U.S. tour propelled them"
+    },
+    {
+      "line": 9,
+      "text": "to stardom and led to two movies A Hard Day's Night and Help!, filmed in 1964 and 1965."
+    },
+    {
+      "line": 10,
+      "text": "The so-called British invasion of the United States was in full swing when they took the top"
+    },
+    {
+      "line": 11,
+      "text": "five spots on the singles charts, followed by the release of their first film."
+    },
+    {
+      "line": 12,
+      "text": "During the 1960s, their music matured and acquired a sense of melody. The lyrics of"
+    },
+    {
+      "line": 13,
+      "text": "their songs became deeper and gained in both imagination and meaning. Their popularity"
+    },
+    {
+      "line": 14,
+      "text": "continued to grow as the Beatles turned their attention to social problems and political issues in \"Nowhere Man\" and \"Eleanor Rigby.\" Loneliness and nostalgia come through in"
+    },
+    {
+      "line": 15,
+      "text": "their ballads \"Michelle\" and \"Yesterday,\" which fully displayed the group's professional de-"
+    },
+    {
+      "line": 16,
+      "text": "velopment and sophistication. Lennon's sardonic music with lyrics written in the first person, and McCartney's songs that created scenarios with off beat individuals, contributed to"
+    },
+    {
+      "line": 17,
+      "text": "the character of the music produced by the group. In addition to their music, the Beatles set"
+    },
+    {
+      "line": 18,
+      "text": "a social trend that popularized long hair, Indian music, and mod dress."
+    },
+    {
+      "line": 19,
+      "text": "For a variety of reasons, the musicians began to drift apart, and their last concert took"
+    },
+    {
+      "line": 20,
+      "text": "place in San Francisco in 1966. The newspapers and tabloids publicized their quarrels and"
+    },
+    {
+      "line": 21,
+      "text": "lawsuits, and the much idolized group finally disbanded in 1970. However, their albums"
+    },
+    {
+      "line": 22,
+      "text": "had outsold those of any other band in history. Although all of the Beatles continued to perform solo or form new rock groups, alone, none could achieve the recognition and success"
+    },
+    {
+      "line": 23,
+      "text": "that they had been able to win together."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 23
+    }
+  ],
+  "questions": [
+    {
+      "id": "P06-RC-02-Q01",
+      "source_number": 11,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "The history and music of the Beatles",
+        "B": "The history and milestones of rock",
+        "C": "The fashion and music popular in the 1960s",
+        "D": "The creation and history of a music group"
+      }
+    },
+    {
+      "id": "P06-RC-02-Q02",
+      "source_number": 12,
+      "prompt": "According to the passage, how many members were in the band, formed in 1956?",
+      "choices": {
+        "A": "Four",
+        "B": "Five",
+        "C": "Six",
+        "D": "Seven"
+      }
+    },
+    {
+      "id": "P06-RC-02-Q03",
+      "source_number": 13,
+      "prompt": "According to the passage, which of the Beatles had the greatest musical talent?",
+      "choices": {
+        "A": "John Lennon and Paul McCartney",
+        "B": "George Harrison and John Lennon",
+        "C": "Stuart Sutcliffe and Pete Best",
+        "D": "John Lennon, Paul McCartney, and George Harrison"
+      }
+    },
+    {
+      "id": "P06-RC-02-Q04",
+      "source_number": 14,
+      "prompt": "The author of the passage implies that the Beatles",
+      "choices": {
+        "A": "competed with American musicians",
+        "B": "wrote their music as a group",
+        "C": "became popular relatively quickly",
+        "D": "were active in social movements"
+      }
+    },
+    {
+      "id": "P06-RC-02-Q05",
+      "source_number": 15,
+      "prompt": "According to the passage, the Beatles' fame grew as a result of",
+      "choices": {
+        "A": "Chuck Berry's involvement",
+        "B": "their American tour",
+        "C": "two movies made in the U.S.",
+        "D": "their first two hits"
+      }
+    },
+    {
+      "id": "P06-RC-02-Q06",
+      "source_number": 16,
+      "prompt": "The author of the passage implies that over time, the music and lyrics by the Beatles",
+      "choices": {
+        "A": "became more complex than at the beginning of their career",
+        "B": "declined in quality and political significance",
+        "C": "were dedicated to women named Eleanor and Michelle",
+        "D": "made them the richest musicians in the world"
+      }
+    },
+    {
+      "id": "P06-RC-02-Q07",
+      "source_number": 17,
+      "prompt": "The word \"acquired\" in line 12 is closest in meaning to",
+      "choices": {
+        "A": "imparted",
+        "B": "attached",
+        "C": "imprinted",
+        "D": "attained"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P06-RC-02-Q08",
+      "source_number": 18,
+      "prompt": "According to the passage, when did the Beatles experience their greatest success?",
+      "choices": {
+        "A": "In the late 1950s.",
+        "B": "After their break-up in 1970.",
+        "C": "During the early and mid-1960s.",
+        "D": "Throughout their lifetimes."
+      }
+    },
+    {
+      "id": "P06-RC-02-Q09",
+      "source_number": 19,
+      "prompt": "The word \"scenarios\" in line 16 is closest in meaning to",
+      "choices": {
+        "A": "sceneries",
+        "B": "situations",
+        "C": "life stories",
+        "D": "love themes"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P06-RC-02-Q10",
+      "source_number": 20,
+      "prompt": "According to the passage, how did Lennon and McCartney enhance the music of the group?",
+      "choices": {
+        "A": "They struggled to reach stardom in the United States.",
+        "B": "They composed lyrics to scornful songs and ballads.",
+        "C": "Their music added distinctiveness to the Beatles' repertoire.",
+        "D": "Their loneliness and sadness made their music popular."
+      }
+    },
+    {
+      "id": "P06-RC-02-Q11",
+      "source_number": 21,
+      "prompt": "In line 21, the word \"disbanded\" is closest in meaning to",
+      "choices": {
+        "A": "separated",
+        "B": "slipped",
+        "C": "revelled",
+        "D": "bonded"
+      },
+      "referenced_lines": {
+        "start": 21,
+        "end": 21
+      }
+    }
+  ]
+}
