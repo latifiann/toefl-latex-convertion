@@ -1,0 +1,207 @@
+{
+  "practice_id": "P05",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-ST-01",
+      "source_number": 1,
+      "prompt": "The Boston Public Library,......1854, was the first library to be financed by donations and proceeds from raffles.",
+      "choices": {
+        "A": "found it in",
+        "B": "founded in",
+        "C": "was founded in",
+        "D": "it was found"
+      }
+    },
+    {
+      "id": "P05-ST-02",
+      "source_number": 2,
+      "prompt": "Toolmakers not only...... elaborate tools but also test them for reliability and utility.",
+      "choices": {
+        "A": "does it help to construct",
+        "B": "help in the construction",
+        "C": "help to construct",
+        "D": "do help to construct"
+      }
+    },
+    {
+      "id": "P05-ST-03",
+      "source_number": 3,
+      "prompt": "Before he turned 14, Mozart few lesser pieces for the piano.... a.",
+      "choices": {
+        "A": "had composed",
+        "B": "has composed",
+        "C": "had the composition",
+        "D": "he had composed"
+      }
+    },
+    {
+      "id": "P05-ST-04",
+      "source_number": 4,
+      "prompt": "One of the quickest methods..... personality is the self-report inventory.",
+      "choices": {
+        "A": "the measuring of",
+        "B": "to the measures",
+        "C": "for measurements",
+        "D": "of measuring"
+      }
+    },
+    {
+      "id": "P05-ST-05",
+      "source_number": 5,
+      "prompt": "Ginkgo trees bear seeds.... an unpleasant odor to discourage animals from eating them.",
+      "choices": {
+        "A": "who have",
+        "B": "that have",
+        "C": "which they",
+        "D": "that are"
+      }
+    },
+    {
+      "id": "P05-ST-06",
+      "source_number": 6,
+      "prompt": "Patrick Henry, born in 1736,.... by his father, who had advanced training in mechanics.",
+      "choices": {
+        "A": "had taught",
+        "B": "has been taught",
+        "C": "taught",
+        "D": "was taught"
+      }
+    },
+    {
+      "id": "P05-ST-07",
+      "source_number": 7,
+      "prompt": "In the 1950s, many people believed that the more they produced and consumed,.....",
+      "choices": {
+        "A": "they were the more affluent",
+        "B": "the more affluent they were",
+        "C": "were they affluent",
+        "D": "they were affluent"
+      }
+    },
+    {
+      "id": "P05-ST-08",
+      "source_number": 8,
+      "prompt": "A meteor burns brightly.... through the earth's atmosphere.",
+      "choices": {
+        "A": "as it descends",
+        "B": "as descending",
+        "C": "whether it descends",
+        "D": "when descends"
+      }
+    },
+    {
+      "id": "P05-ST-09",
+      "source_number": 9,
+      "prompt": "Mass transit systems relieve traffic congestion when the service is convenient,....., and affordable.",
+      "choices": {
+        "A": "comfort",
+        "B": "comforting",
+        "C": "comfortable",
+        "D": "comforted"
+      }
+    },
+    {
+      "id": "P05-ST-10",
+      "source_number": 10,
+      "prompt": "Automatic fire alarms,..... smoke detector, are installed in almost all public buildings.",
+      "choices": {
+        "A": "such as the ubiquitous",
+        "B": "so ubiquitous",
+        "C": "such is the ubiquitous",
+        "D": "so as the ubiquitous"
+      }
+    },
+    {
+      "id": "P05-ST-11",
+      "source_number": 11,
+      "prompt": "When a person is in shock, the blood..... enough oxygen to the brain.",
+      "choices": {
+        "A": "supplies fail to",
+        "B": "supplied fails to",
+        "C": "failing to supply",
+        "D": "fails to supply"
+      }
+    },
+    {
+      "id": "P05-ST-12",
+      "source_number": 12,
+      "prompt": "Throughout history, elevated ranges have been viewed as barriers to transportation and.....",
+      "choices": {
+        "A": "to the communicating",
+        "B": "to the communications",
+        "C": "communication",
+        "D": "communication with"
+      }
+    },
+    {
+      "id": "P05-ST-13",
+      "source_number": 13,
+      "prompt": "About 90 percent of fabrics distributed to secondary sewing outlets..... weaving or knitting.",
+      "choices": {
+        "A": "are manufactured the",
+        "B": "are manufactured by",
+        "C": "by manufacturing the",
+        "D": "manufactured by"
+      }
+    },
+    {
+      "id": "P05-ST-14",
+      "source_number": 14,
+      "prompt": "Deer ticks..... vacationers hiking or camping in mixed deciduous forests.",
+      "choices": {
+        "A": "never trouble",
+        "B": "never any trouble",
+        "C": "troubles never",
+        "D": "trouble never"
+      }
+    },
+    {
+      "id": "P05-ST-15",
+      "source_number": 15,
+      "prompt": "Either the goalkeeper or one of the other players.... the ball from the goal.",
+      "choices": {
+        "A": "retrieving",
+        "B": "retrieval",
+        "C": "retrieves",
+        "D": "retrieve"
+      }
+    }
+  ]
+}

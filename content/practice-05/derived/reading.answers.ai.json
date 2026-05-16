@@ -1,0 +1,1074 @@
+{
+  "practice_id": "P05",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P05-RC-01-Q01",
+      "passage_id": "P05-RC-01",
+      "source_number": 1,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "William Worral Mayo provided crucial assistance to his sons... The Mayo practice became known far and wide for its success in surgical procedures.",
+      "rationale_id": "Jawaban (C) karena sebagian besar passage menyoroti peran William Worral Mayo, kedua putranya, dan generasi berikutnya dalam membangun serta mengembangkan Mayo Clinic. Judul lain terlalu sempit atau hanya mencakup sebagian isi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q02",
+      "passage_id": "P05-RC-01",
+      "source_number": 2,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "staff physicians practice a special integrated approach to patient care",
+      "rationale_id": "Jawaban (A) karena integrated approach berarti pendekatan yang disatukan atau coordinated, paling dekat dengan unified.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q03",
+      "passage_id": "P05-RC-01",
+      "source_number": 3,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "one of the largest medical facilities in the world... About 800 resident doctors assist the full-time physicians as a phase of their training",
+      "rationale_id": "Jawaban (C) karena paragraf pertama menyebut fasilitas ini sangat besar dan juga menjadi tempat pelatihan bagi resident doctors. Itu mendukung inferensi bahwa Mayo Clinic adalah specialized teaching hospital.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q04",
+      "passage_id": "P05-RC-01",
+      "source_number": 4,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "when a cyclone struck Rochester, and he was placed in charge of an emergency hospital",
+      "rationale_id": "Jawaban (C) karena cyclone adalah bencana alam yang menghancurkan, sehingga sesuai dengan devastating natural disaster.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q05",
+      "passage_id": "P05-RC-01",
+      "source_number": 5,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "His personal dedication and courage became legendary",
+      "rationale_id": "Jawaban (B) karena dedication dalam konteks sifat pribadi berarti devotion atau pengabdian.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q06",
+      "passage_id": "P05-RC-01",
+      "source_number": 6,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "William Worral Mayo provided crucial assistance to his sons in launching their team practice in 1889... He and his brother, Charles Horace",
+      "rationale_id": "Jawaban (B) karena passage menyatakan ayah mereka membantu kedua putranya meluncurkan team practice, yaitu William James Mayo dan Charles Horace Mayo. Jadi merekalah physician pertama dalam praktik atau klinik itu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q07",
+      "passage_id": "P05-RC-01",
+      "source_number": 7,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "founded the Mayo Graduate School of Medicine",
+      "rationale_id": "Jawaban (B) karena founded dalam konteks institusi berarti established, yaitu mendirikan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q08",
+      "passage_id": "P05-RC-01",
+      "source_number": 8,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "donated $1.5 million to establish the foundation for contributions",
+      "rationale_id": "Jawaban (C) karena contributions dalam konteks foundation dan donation berarti sumbangan atau gifts.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q09",
+      "passage_id": "P05-RC-01",
+      "source_number": 9,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "served in the Army military corps as a brigadier general... Charles Horace was a professor of surgery and a health officer of Rochester subsequent to serving in the armed forces",
+      "rationale_id": "Jawaban (C) karena kedua Mayo brothers sama-sama memiliki military service, dan keduanya juga memegang peran publik atau profesional di luar praktik medis. Pilihan lain tidak berlaku untuk keduanya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q10",
+      "passage_id": "P05-RC-01",
+      "source_number": 10,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "a health officer of Rochester subsequent to serving in the armed forces",
+      "rationale_id": "Jawaban (C) karena subsequent to dalam frasa itu berarti after, yaitu setelah bertugas di angkatan bersenjata.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-01-Q11",
+      "passage_id": "P05-RC-01",
+      "source_number": 11,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "The Mayo practice became known far and wide for its success in surgical procedures. In 1914, the practice moved into its own medical center",
+      "rationale_id": "Jawaban (D) karena alasan utama ekspansi dinyatakan ketika penulis menyebut praktik Mayo terkenal luas berkat keberhasilannya dalam surgical procedures, lalu langsung diikuti informasi perpindahan ke medical center sendiri dan pertumbuhan jumlah pasien.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q01",
+      "passage_id": "P05-RC-02",
+      "source_number": 12,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 9
+        },
+        {
+          "start": 12,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "From a business perspective, chain stores have numerous advantages over independent stores... They can also distribute their operating costs... By combining their marketing resources and distribution networks... controlling production decisions and the pricing policy.",
+      "rationale_id": "Jawaban (B) karena fokus utama passage adalah alasan bisnis mengapa chain stores dan franchises menguntungkan: pembelian massal, distribusi terpusat, efisiensi biaya, dan kontrol pemasaran serta harga.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q02",
+      "passage_id": "P05-RC-02",
+      "source_number": 13,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "department stores are franchises with numerous outlets. Chain stores are a group of retail stores",
+      "rationale_id": "Jawaban (C) karena dalam konteks ini outlets berarti cabang toko atau retail stores, jadi paling dekat dengan retailers.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q03",
+      "passage_id": "P05-RC-02",
+      "source_number": 14,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Through the centralized system of distribution, chain stores can absorb the cost and price differential",
+      "rationale_id": "Jawaban (B) karena absorb di sini berarti menahan atau meredam selisih biaya dan harga, paling dekat dengan cushion.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q04",
+      "passage_id": "P05-RC-02",
+      "source_number": 15,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "They can also distribute their operating costs for accounting, advertising, marketing, merchandising, and transportation.",
+      "rationale_id": "Jawaban (B) karena passage menyatakan chain stores dapat membagi operating costs, sehingga dapat berhemat lewat pengendalian biaya operasional.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q05",
+      "passage_id": "P05-RC-02",
+      "source_number": 16,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "research focuses on the probable market segments, it strongly considers consumer behavior and cognitive motives rather than the actual prices of goods",
+      "rationale_id": "Jawaban (B) karena marketing research menurut passage mencakup probable market segments dan consumer behavior atau cognitive motives, bukan harga aktual barang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q06",
+      "passage_id": "P05-RC-02",
+      "source_number": 17,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "accounts for about 23 percent of the unit price",
+      "rationale_id": "Jawaban (D) karena accounts for dalam konteks persentase berarti represents, yaitu membentuk atau mewakili 23 persen dari harga satuan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q07",
+      "passage_id": "P05-RC-02",
+      "source_number": 18,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 12,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "purchase large quantities of goods... receive a discount... By combining their marketing resources and distribution networks... reduce unit prices.",
+      "rationale_id": "Jawaban (C) karena passage justru menyebut pembelian dalam jumlah besar untuk mendapat diskon, bukan dividing purchase orders. Opsi lain masih terkait mekanisme efisiensi yang dibahas, meski tidak semuanya dinyatakan dengan istilah yang sama.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P05-RC-02-Q08",
+      "passage_id": "P05-RC-02",
+      "source_number": 19,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "Franchises operate according to their contracts with the parent company and pay it a fraction of their net gains.",
+      "rationale_id": "Jawaban (C) karena penyebutan contracts menunjukkan cara parent company mengendalikan franchise: operasi mereka diatur kontrak dan sebagian keuntungan dibayarkan ke perusahaan induk.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q09",
+      "passage_id": "P05-RC-02",
+      "source_number": 20,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "Franchises operate according to their contracts... They symbolize a brand name and identify their goods",
+      "rationale_id": "Jawaban (B) karena subject terdekat dan paling logis untuk they adalah Franchises.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q10",
+      "passage_id": "P05-RC-02",
+      "source_number": 21,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "It is the central company that conducts marketing and communicates with manufacturers",
+      "rationale_id": "Jawaban (C) karena jika central company conducts marketing, implikasinya perusahaan induk kemungkinan besar menentukan bagaimana barang diiklankan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q11",
+      "passage_id": "P05-RC-02",
+      "source_number": 22,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "They symbolize a brand name... Essentially, chain stores convert consumer brand name loyalty into profit",
+      "rationale_id": "Jawaban (D) karena passage secara eksplisit menyatakan chain stores mengubah consumer brand name loyalty menjadi profit, yaitu dengan memasarkan pengenalan atau loyalitas merek itu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-02-Q12",
+      "passage_id": "P05-RC-02",
+      "source_number": 23,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "chain stores convert consumer brand name loyalty into profit",
+      "rationale_id": "Jawaban (A) karena convert di sini berarti turn, yaitu mengubah loyalitas merek menjadi keuntungan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q01",
+      "passage_id": "P05-RC-03",
+      "source_number": 24,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        },
+        {
+          "start": 5,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "the organization conducting a census decides on and narrows the topics to be addressed ... Censuses examine such issues as population size and density ... Major censuses taken by the federal government are conducted every 10 years",
+      "rationale_id": "Jawaban (A) karena passage terutama membahas isi sensus, yaitu topik apa saja yang dicakup, dan kapan berbagai sensus dilakukan. Aspek analisis memang disebut, tetapi bukan fokus utama seluruh passage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q02",
+      "passage_id": "P05-RC-03",
+      "source_number": 25,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "decides on and narrows the topics to be addressed",
+      "rationale_id": "Jawaban (A) karena `narrows the topics` berarti membatasi atau mempersempit cakupan topik, paling dekat dengan `delimits`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q03",
+      "passage_id": "P05-RC-03",
+      "source_number": 26,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "Assimilating, compiling, and statistically analyzing the information is a work-intensive process that may sometimes take up to a year",
+      "rationale_id": "Jawaban (D) karena passage secara eksplisit menyebut proses sensus sangat menyita waktu dan bahkan bisa memakan waktu sampai satu tahun.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q04",
+      "passage_id": "P05-RC-03",
+      "source_number": 27,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "population size and density, employment ... housing ... age ... industrial production ... local government",
+      "rationale_id": "Jawaban (D) karena passage menyebut data tentang ukuran atau populasi keluarga secara tidak langsung, produksi industri, dan isu pertanian, tetapi tidak pernah menyebut jaringan sosial.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q05",
+      "passage_id": "P05-RC-03",
+      "source_number": 28,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "A detailed series of queries sample the data",
+      "rationale_id": "Jawaban (D) karena dalam konteks sensus, `queries` berarti pertanyaan-pertanyaan yang diajukan untuk mengumpulkan data.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q06",
+      "passage_id": "P05-RC-03",
+      "source_number": 29,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "manufacturing censuses in the years that end in 3 and 8",
+      "rationale_id": "Jawaban (C) karena sensus industri atau manufaktur dilakukan pada tahun yang berakhir dengan 3 atau 8, sehingga 1998 cocok.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q07",
+      "passage_id": "P05-RC-03",
+      "source_number": 30,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "To be consistent, information is gathered at approximately the same time",
+      "rationale_id": "Jawaban (B) karena `consistent` di sini berarti seragam atau dilakukan dengan cara atau waktu yang sama, yaitu `uniform`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q08",
+      "passage_id": "P05-RC-03",
+      "source_number": 31,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "low",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "attempts to contact every individual residing or employed in a particular geographic area",
+      "rationale_id": "Jawaban (C) dipilih sebagai opsi yang paling mendekati, tetapi sebenarnya pilihan jawaban tidak memparafrasekan kalimat passage dengan baik. Evidence aslinya adalah semua orang yang tinggal atau bekerja di area geografis tertentu, sehingga item ini ambigu dan perlu dicek manual.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P05-RC-03-Q09",
+      "passage_id": "P05-RC-03",
+      "source_number": 32,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "the organization conducting the census attempts to contact every individual ... information is gathered at approximately the same time ... censuses question the individual",
+      "rationale_id": "Jawaban (B) karena pada lines 11-13 penulis menjelaskan mekanisme pengumpulan data: siapa yang dihubungi, kapan data dikumpulkan, dan bahwa pertanyaan mengacu pada tanggal tertentu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q10",
+      "passage_id": "P05-RC-03",
+      "source_number": 33,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "the information is analyzed to determine the extent of social and economic change and problems, as well as the resources available to deal with them",
+      "rationale_id": "Jawaban (B) karena data sensus dipakai untuk mengidentifikasi perubahan, masalah, dan sumber daya yang dibutuhkan, yaitu untuk menentukan kebutuhan yang muncul.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q11",
+      "passage_id": "P05-RC-03",
+      "source_number": 34,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 10
+        },
+        {
+          "start": 15,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "Major censuses taken by the federal government ... During the years between censuses, the Census Bureau engages",
+      "rationale_id": "Jawaban (C) karena passage berulang kali mengaitkan sensus dengan `the federal government` dan `the Census Bureau`, sehingga implikasinya sensus umumnya dijalankan oleh pemerintah pusat.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-03-Q12",
+      "passage_id": "P05-RC-03",
+      "source_number": 35,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "update its statistics. The issues of Statistical Abstract of the United States summarize all the information that is collected",
+      "rationale_id": "Jawaban (D) karena `statistics` di konteks ini merujuk pada data atau informasi numerik yang terus diperbarui.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-04-Q01",
+      "passage_id": "P05-RC-04",
+      "source_number": 36,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "The bee's entire body is covered with fine hairs to which grains of pollen adhere",
+      "rationale_id": "Jawaban (B) paling dekat karena passage menyatakan seluruh tubuh lebah tertutup fine hairs. Namun opsi tampak bermasalah secara OCR karena tertulis `fine layers`, jadi perlu cek manual.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P05-RC-04-Q02",
+      "passage_id": "P05-RC-04",
+      "source_number": 37,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "grains of pollen adhere as the bee moves from flower to flower, harvesting nectar and pollinating plants",
+      "rationale_id": "Jawaban (C) karena passage menyebut lebah memanen nectar, dan pollen menempel pada tubuhnya saat berpindah dari bunga ke bunga.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-04-Q03",
+      "passage_id": "P05-RC-04",
+      "source_number": 38,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "The bee's entire body is covered with fine hairs to which grains of pollen adhere ... pollinating plants",
+      "rationale_id": "Jawaban (C) karena fungsi fine hairs pada tubuh adalah membawa pollen yang kemudian membantu proses penyerbukan. Opsi tampak terpotong pada kata `female`, jadi perlu cek manual.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P05-RC-04-Q04",
+      "passage_id": "P05-RC-04",
+      "source_number": 39,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "The queens are larger by far than both workers and drones",
+      "rationale_id": "Jawaban (B) karena passage menyebut tiga kelas lebah: queens, workers, dan drones.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-04-Q05",
+      "passage_id": "P05-RC-04",
+      "source_number": 40,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "thousands of lenses clustered closely to one another",
+      "rationale_id": "Jawaban (C) karena clustered closely berarti berkumpul rapat atau bunched together.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-04-Q06",
+      "passage_id": "P05-RC-04",
+      "source_number": 41,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "Their vision is especially receptive to hues of blue and yellow",
+      "rationale_id": "Jawaban (A) karena hues dalam konteks warna berarti shades atau nuansa warna.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-04-Q07",
+      "passage_id": "P05-RC-04",
+      "source_number": 42,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "bees see red in the same way they see green but can distinguish geometrical patterns in the shapes of foliage and blossoms",
+      "rationale_id": "Jawaban (B) karena passage menyebut lebah melihat red sama seperti green, sehingga paling kecil kemungkinan mereka membedakan bunga merah dari foliage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q01",
+      "passage_id": "P05-RC-05",
+      "source_number": 43,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The term `fixed star` refers to stars whose positions do not seem to change... they can predict the direction of a star's movement in the near and distant future.",
+      "rationale_id": "Jawaban (D) paling cocok karena seluruh passage membahas bintang tetap dalam kaitannya dengan gerak dan perubahan posisinya. Opsi ini tidak sempurna karena kata `emergence` tidak dibahas, tetapi tetap paling dekat dibanding opsi lain yang terlalu sempit atau tidak sesuai isi utama.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q02",
+      "passage_id": "P05-RC-05",
+      "source_number": 44,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "stars appear stationary in their positions and relative distances from other bodies in a constellation",
+      "rationale_id": "Jawaban (B) karena penulis menyiratkan bahwa bintang tampak mempertahankan jarak relatifnya terhadap bintang atau benda langit lain dalam konstelasi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q03",
+      "passage_id": "P05-RC-05",
+      "source_number": 45,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "Barnard's star, which is considered to move the fastest among the fixed stars, requires 200 years to noticeably alter its position",
+      "rationale_id": "Jawaban (C) karena Barnard's star dipakai sebagai contoh acuan untuk menunjukkan seberapa lambat atau cepat pergerakan bintang tetap dapat diamati.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q04",
+      "passage_id": "P05-RC-05",
+      "source_number": 46,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "stars appear stationary in their positions",
+      "rationale_id": "Jawaban (C) karena stationary dalam konteks ini berarti tampak tidak bergerak, yaitu immobile.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q05",
+      "passage_id": "P05-RC-05",
+      "source_number": 47,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "unlike planets, stars are located at a great distance from the earth",
+      "rationale_id": "Jawaban (C) karena jika bintang, tidak seperti planet, berada sangat jauh dari bumi, maka dapat disimpulkan planet lebih dekat ke bumi daripada bintang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q06",
+      "passage_id": "P05-RC-05",
+      "source_number": 48,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "By using the spectrographs and photographs obtained over decades, scientists are able to detect changes in the proper motions of stars.",
+      "rationale_id": "Jawaban (C) karena detect di sini paling dekat dengan trace, yaitu melacak atau mengenali perubahan gerak bintang dari waktu ke waktu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q07",
+      "passage_id": "P05-RC-05",
+      "source_number": 49,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "By using the spectrographs and photographs obtained over decades... By computing the differences in the spectra length, color, and shade of color",
+      "rationale_id": "Jawaban (A) karena penulis menjelaskan dua langkah: memakai spectrographs dan photographs, lalu menghitung perbedaannya. Itu sesuai dengan penggunaan foto dan penalaran matematis.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P05-RC-05-Q08",
+      "passage_id": "P05-RC-05",
+      "source_number": 50,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "positions do not seem to change... the difference may not appear significant over a period of 50 or 70 years... stars appear stationary",
+      "rationale_id": "Jawaban (C) karena gagasan utama passage adalah bahwa gerakan fixed stars sangat sulit disadari secara langsung; mereka tampak tidak berubah atau stationary meskipun sebenarnya bergerak.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    }
+  ]
+}

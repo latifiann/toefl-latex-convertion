@@ -1,0 +1,1298 @@
+{
+  "practice_id": "P05",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-ST-16",
+      "source_number": 16,
+      "prompt": "The Slater Mill, built in(A) 1793, it was(B) one of the first successful(C) mills in(D) the United States.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The Slater Mill, ",
+          "underlined": false
+        },
+        {
+          "text": "built in",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " 1793, ",
+          "underlined": false
+        },
+        {
+          "text": "it was",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " one of the first ",
+          "underlined": false
+        },
+        {
+          "text": "successful",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "mills in",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " the United States.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-17",
+      "source_number": 17,
+      "prompt": "In kindergarten, children(A) are generally unrestricted in(B) expressing their ideas(C) by talk(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In kindergarten, ",
+          "underlined": false
+        },
+        {
+          "text": "children",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " are generally ",
+          "underlined": false
+        },
+        {
+          "text": "unrestricted in",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " expressing ",
+          "underlined": false
+        },
+        {
+          "text": "their ideas",
+          "underlined": true,
+            "marker": "C"
+        },
+        {
+          "text": " by ",
+          "underlined": false
+        },
+        {
+          "text": "talk",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-18",
+      "source_number": 18,
+      "prompt": "Japanese(A) initially used(B) jeweled(C) objects to decorate(D) swords and ceremonial items.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Japanese",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " initially ",
+          "underlined": false
+        },
+        {
+          "text": "used",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "jeweled",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " objects to ",
+          "underlined": false
+        },
+        {
+          "text": "decorate",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " swords and ceremonial items.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-19",
+      "source_number": 19,
+      "prompt": "The legal age which(A) a person is considered(B) to be an(C) adult is customarily(D) 18.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The legal ",
+          "underlined": false
+        },
+        {
+          "text": "age which",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " a person ",
+          "underlined": false
+        },
+        {
+          "text": "is considered",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "text": "be an",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " adult ",
+          "underlined": false
+        },
+        {
+          "text": "is customarily",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " 18.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-20",
+      "source_number": 20,
+      "prompt": "Australian aborigines adhere(A) to their tribal traditions and few(B) marriage(C) outside(D) the tribe.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Australian aborigines ",
+          "underlined": false
+        },
+        {
+          "text": "adhere",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " to their tribal traditions and ",
+          "underlined": false
+        },
+        {
+          "text": "few",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "marriage",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "outside",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " the tribe.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-21",
+      "source_number": 21,
+      "prompt": "During a radio broadcast(A), a microphone picks up(B) speech and another(C) live sounds(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "During a radio ",
+          "underlined": false
+        },
+        {
+          "text": "broadcast",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", a microphone ",
+          "underlined": false
+        },
+        {
+          "text": "picks up",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " speech and ",
+          "underlined": false
+        },
+        {
+          "text": "another",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " live ",
+          "underlined": false
+        },
+        {
+          "text": "sounds",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-22",
+      "source_number": 22,
+      "prompt": "Although both are the bread and butter of recreational(A) vehicles, camping trailers are smaller(B) and compacter(C) than travel(D) trailers.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Although both are the bread and butter of ",
+          "underlined": false
+        },
+        {
+          "text": "recreational",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " vehicles, camping trailers are ",
+          "underlined": false
+        },
+        {
+          "text": "smaller",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "compacter",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " than ",
+          "underlined": false
+        },
+        {
+          "text": "travel",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " trailers.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-23",
+      "source_number": 23,
+      "prompt": "The leathery fruit(A) burr of the horse chestnut splits openly(B) when ripe and releases(C) a roundish brown(D) seed.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The ",
+          "underlined": false
+        },
+        {
+          "text": "leathery fruit",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " burr of the horse chestnut ",
+          "underlined": false
+        },
+        {
+          "text": "splits openly",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " when ",
+          "underlined": false
+        },
+        {
+          "text": "ripe and releases",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " a ",
+          "underlined": false
+        },
+        {
+          "text": "roundish brown",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " seed.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-24",
+      "source_number": 24,
+      "prompt": "Blacksnakes ascend(A) trees to reach bird's(B) nests(C) and ingest the eggs and young birds(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Blacksnakes ",
+          "underlined": false
+        },
+        {
+          "text": "ascend",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " trees to reach ",
+          "underlined": false
+        },
+        {
+          "text": "bird's",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "nests",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ingest the eggs and young ",
+          "underlined": false
+        },
+        {
+          "text": "birds",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-25",
+      "source_number": 25,
+      "prompt": "Although rhubarb is technically(A) a vegetable, it usually(B) prepared(C) as a dessert(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Although rhubarb is ",
+          "underlined": false
+        },
+        {
+          "text": "technically",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " a vegetable, ",
+          "underlined": false
+        },
+        {
+          "text": "it usually",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "prepared",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " as a ",
+          "underlined": false
+        },
+        {
+          "text": "dessert",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-26",
+      "source_number": 26,
+      "prompt": "Colonial craftsmen(A) pieced(B) bed covers together from scraps of linen and wool because(C) cloth was scarcely(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Colonial ",
+          "underlined": false
+        },
+        {
+          "text": "craftsmen",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "pieced",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " bed covers together from scraps of linen and wool ",
+          "underlined": false
+        },
+        {
+          "text": "because",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " cloth was ",
+          "underlined": false
+        },
+        {
+          "text": "scarcely",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-27",
+      "source_number": 27,
+      "prompt": "In art, relief(A) is sculpture(B) in which(C) the figures or designs projects(D) from their background.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In art, ",
+          "underlined": false
+        },
+        {
+          "text": "relief",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " is ",
+          "underlined": false
+        },
+        {
+          "text": "sculpture",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "in which",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " the figures or designs ",
+          "underlined": false
+        },
+        {
+          "text": "projects",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " from their background.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-28",
+      "source_number": 28,
+      "prompt": "Edith Roosevelt was a devoted(A) mother of(B) five children, as well(C) a gracious(D) hostess.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Edith Roosevelt was a ",
+          "underlined": false
+        },
+        {
+          "text": "devoted",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " mother ",
+          "underlined": false
+        },
+        {
+          "text": "of",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " five children, ",
+          "underlined": false
+        },
+        {
+          "text": "as well",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " a ",
+          "underlined": false
+        },
+        {
+          "text": "gracious",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " hostess.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-29",
+      "source_number": 29,
+      "prompt": "Vocational counseling guides(A) students and helps them to understand(B) how occupations differ(C) and what job opportunities are exist(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Vocational counseling ",
+          "underlined": false
+        },
+        {
+          "text": "guides",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " students and helps them ",
+          "underlined": false
+        },
+        {
+          "text": "to understand",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " how ",
+          "underlined": false
+        },
+        {
+          "text": "occupations differ",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and what job opportunities ",
+          "underlined": false
+        },
+        {
+          "text": "are exist",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-30",
+      "source_number": 30,
+      "prompt": "Newtonian physics holds true(A) if the velocities(B) of the objects being study(C) are negligible(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Newtonian physics ",
+          "underlined": false
+        },
+        {
+          "text": "holds true",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " if the ",
+          "underlined": false
+        },
+        {
+          "text": "velocities",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " of the objects ",
+          "underlined": false
+        },
+        {
+          "text": "being study",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " are ",
+          "underlined": false
+        },
+        {
+          "text": "negligible",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-31",
+      "source_number": 31,
+      "prompt": "Roman doctrine stipulated(A) every man was(B) born with a spiritual(C) who guarded(D) him against travail.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Roman doctrine ",
+          "underlined": false
+        },
+        {
+          "text": "stipulated",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " every man ",
+          "underlined": false
+        },
+        {
+          "text": "was",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " born with a ",
+          "underlined": false
+        },
+        {
+          "text": "spiritual",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " who ",
+          "underlined": false
+        },
+        {
+          "text": "guarded",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " him against travail.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-32",
+      "source_number": 32,
+      "prompt": "When(A) wine grapes contain(B) the proper amounts(C) of acid and sugar required(D) to produce wine.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "When",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " wine grapes ",
+          "underlined": false
+        },
+        {
+          "text": "contain",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the proper ",
+          "underlined": false
+        },
+        {
+          "text": "amounts",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " of acid and sugar ",
+          "underlined": false
+        },
+        {
+          "text": "required",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " to produce wine.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-33",
+      "source_number": 33,
+      "prompt": "Beef and dairy cattle is(A) major sources(B) of income in Louisiana, which(C) has a mild climate(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Beef and dairy cattle ",
+          "underlined": false
+        },
+        {
+          "text": "is",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " major ",
+          "underlined": false
+        },
+        {
+          "text": "sources",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " of income in Louisiana, ",
+          "underlined": false
+        },
+        {
+          "text": "which",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " has a ",
+          "underlined": false
+        },
+        {
+          "text": "mild climate",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-34",
+      "source_number": 34,
+      "prompt": "After the new dollar bills(A) are printed(B) and cut, the inspectors scrutinize(C) them for imperfectives(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "After the new dollar ",
+          "underlined": false
+        },
+        {
+          "text": "bills",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "are printed",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " and cut, the inspectors ",
+          "underlined": false
+        },
+        {
+          "text": "scrutinize",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " them for ",
+          "underlined": false
+        },
+        {
+          "text": "imperfectives",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-35",
+      "source_number": 35,
+      "prompt": "Psychologists take it for granted(A) that(B) girls are more empathetic(C) than do(D) boys.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Psychologists ",
+          "underlined": false
+        },
+        {
+          "text": "take it for granted",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "that",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " girls are more ",
+          "underlined": false
+        },
+        {
+          "text": "empathetic",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " than ",
+          "underlined": false
+        },
+        {
+          "text": "do",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " boys.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-36",
+      "source_number": 36,
+      "prompt": "Henry Richardson was the first(A) prominent architect to incorporate(B) geometric form(C) in his concave designs(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Henry Richardson was the ",
+          "underlined": false
+        },
+        {
+          "text": "first",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " prominent architect to ",
+          "underlined": false
+        },
+        {
+          "text": "incorporate",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " geometric ",
+          "underlined": false
+        },
+        {
+          "text": "form",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " in his ",
+          "underlined": false
+        },
+        {
+          "text": "concave designs",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-37",
+      "source_number": 37,
+      "prompt": "With small numbers(A), the objects in a set(B) can be visualized(C) and quick counted(D) without mathematical formulas.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "With ",
+          "underlined": false
+        },
+        {
+          "text": "small numbers",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", the objects ",
+          "underlined": false
+        },
+        {
+          "text": "in a set",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " can be ",
+          "underlined": false
+        },
+        {
+          "text": "visualized",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " and ",
+          "underlined": false
+        },
+        {
+          "text": "quick counted",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " without mathematical formulas.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-38",
+      "source_number": 38,
+      "prompt": "In group dancing(A), couples step(B) in tandem, bow, join hands(C), and change partner(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In ",
+          "underlined": false
+        },
+        {
+          "text": "group dancing",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", couples ",
+          "underlined": false
+        },
+        {
+          "text": "step",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " in tandem, bow, ",
+          "underlined": false
+        },
+        {
+          "text": "join hands",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "text": "change partner",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-39",
+      "source_number": 39,
+      "prompt": "Additives are chemicals(A) infused into perishable(B) foods to prevent it(C) from spoiling(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Additives are ",
+          "underlined": false
+        },
+        {
+          "text": "chemicals",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " infused into ",
+          "underlined": false
+        },
+        {
+          "text": "perishable",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " foods to prevent ",
+          "underlined": false
+        },
+        {
+          "text": "it",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " from ",
+          "underlined": false
+        },
+        {
+          "text": "spoiling",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P05-ST-40",
+      "source_number": 40,
+      "prompt": "Football is a fast-moving(A) team sport(B) playing(C) mainly(D) in the United States and Canada.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Football is a ",
+          "underlined": false
+        },
+        {
+          "text": "fast-moving",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "team sport",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "playing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "mainly",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " in the United States and Canada.",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

@@ -207,6 +207,10 @@ def parse_underlined_segments(inner_html: str) -> list[dict]:
         if first_plain:
             plain_text = re.sub(r"^\d+\.\s*", "", plain_text)
             first_plain = False
+        marker_prefix = re.match(r"^\(([A-D])\)(.*)$", plain_text, re.DOTALL)
+        if marker_prefix and segments and segments[-1].get("underlined") and not segments[-1].get("marker"):
+            segments[-1]["marker"] = marker_prefix.group(1)
+            plain_text = marker_prefix.group(2)
         if plain_text != "":
             segments.append({"text": plain_text, "underlined": False})
     return segments
@@ -344,6 +348,8 @@ def build_line_map(lines: list[str]) -> list[dict]:
         line = clean_line(original)
         if not line:
             continue
+        line = re.sub(r"^Line\s+", "", line)
+        line = re.sub(r"([A-Za-z])Line\s+([A-Za-z])", r"\1\2", line)
         mapped.append({"line": len(mapped) + 1, "text": line})
     return mapped
 

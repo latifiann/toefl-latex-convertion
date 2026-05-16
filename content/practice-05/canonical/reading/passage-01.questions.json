@@ -1,0 +1,260 @@
+{
+  "practice_id": "P05",
+  "section": "reading",
+  "passage_id": "P05-RC-01",
+  "source_question_range": [
+    1,
+    11
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The Mayo Clinic in Rochester, Minnesota, where staff physicians practice a special"
+    },
+    {
+      "line": 2,
+      "text": "integrated approach to patient care, is one of the largest medical facilities in the world. The"
+    },
+    {
+      "line": 3,
+      "text": "clinic staff consists of a 12-member, committee-based board of governors and 900 physicians and medical personnel whose records are updated by approximately 200 auxiliary per-"
+    },
+    {
+      "line": 4,
+      "text": "sonnel. About 800 resident doctors assist the full-time physicians as a phase of their training in medicine and surgery while they acquire their specializations. The Mayo approach to"
+    },
+    {
+      "line": 5,
+      "text": "treatment has been hailed for its almost miraculous patient recovery rate."
+    },
+    {
+      "line": 6,
+      "text": "William Worral Mayo was born in Manchester, England, immigrated to the United"
+    },
+    {
+      "line": 7,
+      "text": "States in 1845, and immediately began his medical training. In 1860, he took an active part"
+    },
+    {
+      "line": 8,
+      "text": "in organizing the Minnesota Territory and accepted the position of an Army surgeon during"
+    },
+    {
+      "line": 9,
+      "text": "a Sioux Indian outbreak. This appointment became a stepping stone for his advancement"
+    },
+    {
+      "line": 10,
+      "text": "to the post of provost surgeon for the southern portion of the state in 1863. His personal"
+    },
+    {
+      "line": 11,
+      "text": "dedication and courage became legendary when a cyclone struck Rochester, and he was"
+    },
+    {
+      "line": 12,
+      "text": "placed in charge of an emergency hospital."
+    },
+    {
+      "line": 13,
+      "text": "William Worral Mayo provided crucial assistance to his sons in launching their team"
+    },
+    {
+      "line": 14,
+      "text": "practice in 1889, while they were holding positions at St. Mary's Hospital. William James"
+    },
+    {
+      "line": 15,
+      "text": "became recognized for his surgical skill in gallstone, cancer, and abdominal operations. He"
+    },
+    {
+      "line": 16,
+      "text": "and his brother, Charles Horace, founded the Mayo Graduate School of Medicine and donated $1.5 million to establish the foundation for contributions. Charles William, the son(20) of Charles Horace Mayo, became a member of the board of governors at the Mayo Graduate"
+    },
+    {
+      "line": 17,
+      "text": "School and an alternate delegate to the United Nations General Assembly before retiring"
+    },
+    {
+      "line": 18,
+      "text": "from the clinic in 1963."
+    },
+    {
+      "line": 19,
+      "text": "William James Mayo presided in the American Medical Association and served in the"
+    },
+    {
+      "line": 20,
+      "text": "Army military corps as a brigadier general in the medical reserve. Charles Horace was a pro-"
+    },
+    {
+      "line": 21,
+      "text": "fessor of surgery and a health officer of Rochester subsequent to serving in the armed forces"
+    },
+    {
+      "line": 22,
+      "text": "between 1914 and 1918. The Mayo practice became known far and wide for its success in"
+    },
+    {
+      "line": 23,
+      "text": "surgical procedures. In 1914, the practice moved into its.own medical center, and today the"
+    },
+    {
+      "line": 24,
+      "text": "number of patients equals approximately 280,000 per annum. Since the clinic opened in"
+    },
+    {
+      "line": 25,
+      "text": "1907, 4.5 million patients have been treated there.."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 25
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "What is the best title for the passage?",
+      "choices": {
+        "A": "A Welcome to the Mayo Clinic",
+        "B": "Brilliant American Surgeons",
+        "C": "The Contributions of the Mayo Family",
+        "D": "The Start of a Successful Practice"
+      }
+    },
+    {
+      "id": "P05-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "In line 2, the word \"integrated\" is closest in meaning to",
+      "choices": {
+        "A": "unified",
+        "B": "goal-oriented",
+        "C": "ready-made",
+        "D": "unique"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P05-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "What can be inferred from the first paragraph?",
+      "choices": {
+        "A": "Rochester, Minnesota is a city with a large population.",
+        "B": "The Mayó Clinic employees have set many medical records.",
+        "C": "The Mayo Clinic is a large specialized teaching hospital.",
+        "D": "The clinic's physicians represent many medical specializations.."
+      }
+    },
+    {
+      "id": "P05-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "According to the passage, William Worral Mayo was involved in caring for the patients affected by",
+      "choices": {
+        "A": "an outbreak of an epidemic",
+        "B": "a spread of disease among Indians",
+        "C": "a devastating natural disaster",
+        "D": "a brief military confrontation"
+      }
+    },
+    {
+      "id": "P05-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "In line 11, the word \"dedication\" is closest in meaning to",
+      "choices": {
+        "A": "dejection",
+        "B": "devotion",
+        "C": "deliberation",
+        "D": "delectation"
+      },
+      "referenced_lines": {
+        "start": 11,
+        "end": 11
+      }
+    },
+    {
+      "id": "P05-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "According to the passage, who were the first physicians in the clinic?",
+      "choices": {
+        "A": "William Worral Mayo and Charles Horace Mayo",
+        "B": "William James Mayo and Charles Horace Mayo",
+        "C": "William Worral Mayo and William James Mayo",
+        "D": "William James Mayo and Charles William Mayo"
+      }
+    },
+    {
+      "id": "P05-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "In line 16, the word \"founded\" is closest in meaning to",
+      "choices": {
+        "A": "found",
+        "B": "established",
+        "C": "fortified",
+        "D": "articulated"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P05-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "In line 16, the word \"contributions\" is closest in meaning to",
+      "choices": {
+        "A": "contractions",
+        "B": "conventions",
+        "C": "gifts",
+        "D": "prizes"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P05-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "In addition to their medical expertise, what common characteristics distinguished the careers of the Mayo brothers?",
+      "choices": {
+        "A": "Funding of schools in Minnesota",
+        "B": "Positions on the board of directors",
+        "C": "Military and political service",
+        "D": "Donations for poor patients"
+      }
+    },
+    {
+      "id": "P05-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "In line 21, the phrase \"subsequent to\" is closest in meaning to",
+      "choices": {
+        "A": "because",
+        "B": "regardless of",
+        "C": "after",
+        "D": "contrary to"
+      },
+      "referenced_lines": {
+        "start": 21,
+        "end": 21
+      }
+    },
+    {
+      "id": "P05-RC-01-Q11",
+      "source_number": 11,
+      "prompt": "Where in the passage does the author state the principal reason for the expansion of the practice?",
+      "choices": {
+        "A": "Lines 5-6",
+        "B": "Lines 11-14",
+        "C": "Lines 17-22",
+        "D": "Lines 22-25"
+      }
+    }
+  ]
+}

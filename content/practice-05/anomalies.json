@@ -1,0 +1,41 @@
+{
+  "anomalies": [
+    {
+      "id": "normalization-whitespace-and-formfeed",
+      "severity": "low",
+      "section": "global",
+      "detail": "Whitespace, form-feed characters, zero-width characters, and obvious mixed-script confusables were normalized during ingestion."
+    },
+    {
+      "id": "structure-q17-duplicate-d-marker",
+      "severity": "high",
+      "section": "structure",
+      "detail": "Question 17 duplicated marker D in the source around `their ideas` and `talk`; canonical content was normalized to the expected marker sequence A-B-C-D."
+    },
+    {
+      "id": "structure-q18-missing-d-marker",
+      "severity": "high",
+      "section": "structure",
+      "detail": "Question 18 omitted the final marker on `decorate` in the source extraction; canonical render segments were normalized so `decorate` is marker D."
+    },
+    {
+      "id": "reading-line-artifacts-removed",
+      "severity": "medium",
+      "section": "reading",
+      "detail": "Embedded `Line` artifacts that leaked into passage line maps during text extraction were removed from canonical reading content."
+    },
+    {
+      "id": "reading-prompt-line-sync",
+      "severity": "medium",
+      "section": "reading",
+      "detail": "Line-based reading prompts and referenced_lines were synchronized to the current canonical line maps after extraction cleanup."
+    },
+    {
+      "id": "reading-prompt-text-cleanup",
+      "severity": "medium",
+      "section": "reading",
+      "detail": "Obvious prompt and choice artifacts such as missing initial letters, stray trailing words, and split words were normalized where the intended wording was clear from the source context."
+    }
+  ],
+  "note": "Anomalies record source problems or deliberate normalization decisions. Canonical files should stay close to the DOCX while avoiding silent guessing."
+}

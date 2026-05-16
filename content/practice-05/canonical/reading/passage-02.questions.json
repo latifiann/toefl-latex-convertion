@@ -1,0 +1,243 @@
+{
+  "practice_id": "P05",
+  "section": "reading",
+  "passage_id": "P05-RC-02",
+  "source_question_range": [
+    12,
+    23
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Consumers are frequently unaware that about 30 percent of nationwide department"
+    },
+    {
+      "line": 2,
+      "text": "stores are franchises with numerous outlets. Chain stores are a group of retail stores that are"
+    },
+    {
+      "line": 3,
+      "text": "supervised or coordinated by centralized management. From a business perspective, chain"
+    },
+    {
+      "line": 4,
+      "text": "stores have numerous advantages over independent stores, one of which is that the parent"
+    },
+    {
+      "line": 5,
+      "text": "company almost always has the credit to purchase large quantities of goods to supply to its"
+    },
+    {
+      "line": 6,
+      "text": "outlets and to receive a discount for placing such an order. Through the centralized system"
+    },
+    {
+      "line": 7,
+      "text": "of distribution, chain stores can absorb the cost and price differential and attract consumers"
+    },
+    {
+      "line": 8,
+      "text": "with various physical and psychological needs. They can also distribute their operating"
+    },
+    {
+      "line": 9,
+      "text": "costs for accounting, advertising, marketing, merchandising, and transportation."
+    },
+    {
+      "line": 10,
+      "text": "In general, approximately 50 percent of gross product cost results from the associated"
+    },
+    {
+      "line": 11,
+      "text": "marketing research and distribution. While research focuses on the probable market segments, it strongly considers consumer behavior and cognitive motives rather than the actual prices of goods. Similarly, the cost increase in the multiple channels of distribution"
+    },
+    {
+      "line": 12,
+      "text": "accounts for about 23 percent of the unit price. By combining their marketing resources and"
+    },
+    {
+      "line": 13,
+      "text": "distribution networks, franchise outlets can avoid performing whole stages of marketing"
+    },
+    {
+      "line": 14,
+      "text": "studies and layers of distribution networks to reduce unit prices. It is the central company"
+    },
+    {
+      "line": 15,
+      "text": "that conducts marketing and communicates with manufacturers, thus controlling production decisions and the pricing policy. Franchises operate according to their contracts with"
+    },
+    {
+      "line": 16,
+      "text": "the parent company and pay it a fraction of their net gains. They symbolize a brand name"
+    },
+    {
+      "line": 17,
+      "text": "and identify their goods with a particular range of quality that sets it apart from other, similar products. Essentially, chain stores convert consumer brand name loyalty into profit; this"
+    },
+    {
+      "line": 18,
+      "text": "factor determines franchise proliferation and results in a relatively low degree of failure."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 18
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-RC-02-Q01",
+      "source_number": 12,
+      "prompt": "With what topic is the passage mainly concerned?",
+      "choices": {
+        "A": "The marketing of chain store products",
+        "B": "The business rationale for chain stores",
+        "C": "Pricing and distribution in franchises",
+        "D": "Brand name'imaging of retail outlets"
+      }
+    },
+    {
+      "id": "P05-RC-02-Q02",
+      "source_number": 13,
+      "prompt": "In line 2, the word \"outlets\" is closest in meaning to",
+      "choices": {
+        "A": "stock markets",
+        "B": "store rooms",
+        "C": "retailers",
+        "D": "outfits"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P05-RC-02-Q03",
+      "source_number": 14,
+      "prompt": "In line 7, the word \"absorb\" is closest in meaning to",
+      "choices": {
+        "A": "absolve",
+        "B": "cushion",
+        "C": "hide",
+        "D": "advertis"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P05-RC-02-Q04",
+      "source_number": 15,
+      "prompt": "It can be inferred from the passage that chain stores",
+      "choices": {
+        "A": "are more expensive than department stores",
+        "B": "can economize by controlling their operating costs",
+        "C": "have a greater consumer appeal than the parent company",
+        "D": "have power in identifying their market segments"
+      }
+    },
+    {
+      "id": "P05-RC-02-Q05",
+      "source_number": 16,
+      "prompt": "According to the passage, what does marketing research include?",
+      "choices": {
+        "A": "The actual prices of goods",
+        "B": "Consumer segments and behavior",
+        "C": "Multiple channels of distribution",
+        "D": "The percentage of gross product cost"
+      }
+    },
+    {
+      "id": "P05-RC-02-Q06",
+      "source_number": 17,
+      "prompt": "In line 12, the phrase \"accounts for\" is closest in meaning to",
+      "choices": {
+        "A": "sees as",
+        "B": "counts on",
+        "C": ". adjusts",
+        "D": "represents"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P05-RC-02-Q07",
+      "source_number": 18,
+      "prompt": "Which of the following is NOT mentioned as a means through which chain stores control their prices?",
+      "choices": {
+        "A": "Reducing distribution costs",
+        "B": "Consolidating their finances",
+        "C": "Dividing their purchase orders",
+        "D": "Marketing a company brand name"
+      }
+    },
+    {
+      "id": "P05-RC-02-Q08",
+      "source_number": 19,
+      "prompt": "Why does the author mention legally binding agreements between businesses?",
+      "choices": {
+        "A": "To show feasible profitability of merchandising",
+        "B": "To measure the value of consumer dependence on a product",
+        "C": "To point out the means of parent company control",
+        "D": "To exemplify the system of franchise Operations"
+      }
+    },
+    {
+      "id": "P05-RC-02-Q09",
+      "source_number": 20,
+      "prompt": "In line 16, the word \"they\" refers to",
+      "choices": {
+        "A": "production decisions and the pricing",
+        "B": "franchises",
+        "C": "contracts",
+        "D": "their net gains"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P05-RC-02-Q10",
+      "source_number": 21,
+      "prompt": "It can be inferred from the passage that the parent company probably dictates",
+      "choices": {
+        "A": "what sales personnel are employed",
+        "B": "what profit an outlet makes",
+        "C": "how goods are advertised",
+        "D": "how products are packed"
+      }
+    },
+    {
+      "id": "P05-RC-02-Q11",
+      "source_number": 22,
+      "prompt": "According to the passage, how do chain stores profit by being associated with the parent company?",
+      "choices": {
+        "A": "They are not concerned about market instability,",
+        "B": "They are not held accountable for a change in profits.",
+        "C": "They put their needs ahead of those of the parent company.",
+        "D": "They market consumer brand name recognition."
+      }
+    },
+    {
+      "id": "P05-RC-02-Q12",
+      "source_number": 23,
+      "prompt": "In line 17, the word \"convert\" is closest in meaning to",
+      "choices": {
+        "A": "turn",
+        "B": "nestle",
+        "C": "antagonize",
+        "D": "fit"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    }
+  ]
+}

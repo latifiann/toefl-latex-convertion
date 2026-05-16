@@ -1,0 +1,104 @@
+{
+  "practice_id": "P05",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    38
+  ],
+  "questions": [
+    {
+      "id": "P05-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "Leaves",
+        "B": "Cloth",
+        "C": "Skins",
+        "D": "Fibers"
+      }
+    },
+    {
+      "id": "P05-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "Elegant",
+        "B": "Functional",
+        "C": "Pretentious",
+        "D": "Sturdy"
+      }
+    },
+    {
+      "id": "P05-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "100 years",
+        "B": "300 years",
+        "C": "600 years",
+        "D": "1600 years"
+      }
+    },
+    {
+      "id": "P05-LB-34",
+      "source_number": 34,
+      "choices": {
+        "A": "Leather has become cheaper.",
+        "B": "Computers have come down in price.",
+        "C": "Shoes are made by machines.",
+        "D": "The cost of labor has declined."
+      }
+    },
+    {
+      "id": "P05-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "In an airport",
+        "B": "In a bus depot",
+        "C": "At a wedding",
+        "D": "On a school campus"
+      }
+    },
+    {
+      "id": "P05-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": "To Baltimore",
+        "B": "To Philadelphia",
+        "C": "To Chicago",
+        "D": "To New York"
+      }
+    },
+    {
+      "id": "P05-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "While visiting their children in college",
+        "B": "While the man was attending a convention",
+        "C": "When they went to college together",
+        "D": "When the woman was in high school"
+      }
+    },
+    {
+      "id": "P05-LB-38",
+      "source_number": 38,
+      "choices": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      }
+    }
+  ]
+}

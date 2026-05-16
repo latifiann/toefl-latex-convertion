@@ -1,0 +1,142 @@
+{
+  "practice_id": "P05",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P05-LC-39",
+      "source_number": 39,
+      "choices": {
+        "A": "How thrilling police work can be",
+        "B": "Why police work is enlightening",
+        "C": "That police work has its mundane aspects",
+        "D": "That serving on the police force is difficult."
+      }
+    },
+    {
+      "id": "P05-LC-40",
+      "source_number": 40,
+      "choices": {
+        "A": "As full of risk and adventure",
+        "B": "As straightforward but demanding",
+        "C": "As routine but necessary",
+        "D": "As guaranteed employment"
+      }
+    },
+    {
+      "id": "P05-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "Directing traffic",
+        "B": "Enforcing speed laws",
+        "C": "Patrolling streets",
+        "D": "Resolving disputes"
+      }
+    },
+    {
+      "id": "P05-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "Changing tires for motorists",
+        "B": "Verifying vehicle licenses",
+        "C": "Walking the beat on city streets",
+        "D": "Producing reports and correspondence"
+      }
+    },
+    {
+      "id": "P05-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "It's physically exhausting.",
+        "B": "It's ineffectual.",
+        "C": "It can be boring.",
+        "D": "It may be exhilarating."
+      }
+    },
+    {
+      "id": "P05-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "The first American government",
+        "B": "Writing in the early colonial times",
+        "C": "Population mobility in the colonial times",
+        "D": "The establishment of first libraries"
+      }
+    },
+    {
+      "id": "P05-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "To describe their new lives",
+        "B": "To produce literary volumes",
+        "C": "To conquer wilderness",
+        "D": "To improve their writing skills"
+      }
+    },
+    {
+      "id": "P05-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "To gain insight and understanding",
+        "B": "To help shape them into novels",
+        "C": "To make thema part of legal institutions",
+        "D": "To develop American national character"
+      }
+    },
+    {
+      "id": "P05-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "Jamestown colony",
+        "B": "Virginia Company",
+        "C": "English tailors",
+        "D": "Religious organizations"
+      }
+    },
+    {
+      "id": "P05-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "In Virginia",
+        "B": "In Pennsylvania",
+        "C": "In Boston Bay",
+        "D": "In Middle Colonies"
+      }
+    },
+    {
+      "id": "P05-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "Philadelphia",
+        "B": "London",
+        "C": "Jamestown",
+        "D": "Salem"
+      }
+    },
+    {
+      "id": "P05-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "Chronicles",
+        "B": "Observations and essays",
+        "C": "Government documents",
+        "D": "Novels and poetry"
+      }
+    }
+  ]
+}

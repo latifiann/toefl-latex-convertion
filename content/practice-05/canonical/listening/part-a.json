@@ -1,0 +1,324 @@
+{
+  "practice_id": "P05",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P05-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "They gave me a lift.",
+        "B": "He didn't stand close to the door.",
+        "C": "He walked through the door on the left.",
+        "D": "The door was left open."
+      }
+    },
+    {
+      "id": "P05-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "Rich students don't take math.",
+        "B": "Rich didn't know much math.",
+        "C": "Rich is taking a math course.",
+        "D": "Rich should take math next year.."
+      }
+    },
+    {
+      "id": "P05-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "They wanted to know if they could buy the picture.",
+        "B": "They were wandering around looking for a picture.",
+        "C": "They stopped by the picture gallery to ask questions.",
+        "D": "They thought that the picture was wonderful."
+      }
+    },
+    {
+      "id": "P05-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "He spent 15 minutes reading.",
+        "B": "He talked for 50 minutes",
+        "C": "He found the magazine.",
+        "D": "He enjoyed the article."
+      }
+    },
+    {
+      "id": "P05-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "He's looking for a new apartment.",
+        "B": "He decided to buy a new car.",
+        "C": "He doesn't have the figures.",
+        "D": "His apartment is better than hers."
+      }
+    },
+    {
+      "id": "P05-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "The police stop most drivers.",
+        "B": "The speed limit is unreasonable.",
+        "C": "Drivers don't watch the traffic carefully.",
+        "D": "Few people drive within the speed limit."
+      }
+    },
+    {
+      "id": "P05-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "Pink looks great on you.",
+        "B": "Black is out of style.",
+        "C": "The fashion changes every year.",
+        "D": "I don't know the date of the fashion show."
+      }
+    },
+    {
+      "id": "P05-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "The banks are open at this hour.",
+        "B": "The river is overflowing its banks.",
+        "C": "Their bank is located nearby.",
+        "D": "The banks close too early."
+      }
+    },
+    {
+      "id": "P05-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "The teacher taught about dreams.",
+        "B": "The students are required to take the course.",
+        "C": "The lecture on dreams was a great success.",
+        "D": "Hardly anyone was listening to the teacher."
+      }
+    },
+    {
+      "id": "P05-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "They haven't had much luck with the weather.",
+        "B": "The door was locked because of severe weather.",
+        "C": "She's not sure if the door is locked.",
+        "D": "She can't remember where the key to the door is."
+      }
+    },
+    {
+      "id": "P05-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "She gave away my half.",
+        "B": "She is a half hour late.",
+        "C": "She is very angry.",
+        "D": "She is very hungry."
+      }
+    },
+    {
+      "id": "P05-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "It's easy to get along with Paul.",
+        "B": "Paul was not feeling well.",
+        "C": "She is sorry that Paul is ill.",
+        "D": "Paul was uncomfortable."
+      }
+    },
+    {
+      "id": "P05-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "They showed us the back entrance.",
+        "B": "When they return, the show will have started.",
+        "C": "They don't know what time the show starts.",
+        "D": "When they came back, there was no time left."
+      }
+    },
+    {
+      "id": "P05-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "She doesn't need any help.",
+        "B": "She has two people helping her.",
+        "C": "She's had enough.",
+        "D": "The man is very kind."
+      }
+    },
+    {
+      "id": "P05-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "There is no light in number 8.",
+        "B": "Smoking in the lounge is prohibited.",
+        "C": "The management doesn't allow complaints.",
+        "D": "The conversation in the lounge is too loud."
+      }
+    },
+    {
+      "id": "P05-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "Six copies were made last week.",
+        "B": "The copier doesn't work well.",
+        "C": "Eleven copies is plenty.",
+        "D": "There are 11 jars.of jam."
+      }
+    },
+    {
+      "id": "P05-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "The club has stopped serving the Johnsons.",
+        "B": "If the Johnsons want to, they can serve themselves.",
+        "C": "The Johnsons think the service is bad.",
+        "D": "The Johnsons are going to the club."
+      }
+    },
+    {
+      "id": "P05-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "The new paint makes the house look clean.",
+        "B": "They worked for three days.",
+        "C": "They. ran out of paint on the second day.",
+        "D": "They were in pain for two days."
+      }
+    },
+    {
+      "id": "P05-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "There are more students in the first class than in the second",
+        "B": "First class mail delivery is þetter than second.",
+        "C": "First class postage is more expensive than second class.",
+        "D": "The packaging comes in two prices, first and second."
+      }
+    },
+    {
+      "id": "P05-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "Mike didn't sleep well.",
+        "B": "Mike slipped last night.",
+        "C": "The car is parked for the night.",
+        "D": "The neighbor has a white dog."
+      }
+    },
+    {
+      "id": "P05-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "In a taxi",
+        "B": "In a hotel",
+        "C": "Downstairs",
+        "D": "Downtown"
+      }
+    },
+    {
+      "id": "P05-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "The snow will stop soon.",
+        "B": "The man is wrong about the situation.",
+        "C": "The man is happy.",
+        "D": "A call isn't necessary."
+      }
+    },
+    {
+      "id": "P05-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "Make up her mind",
+        "B": "Take the man to work",
+        "C": "Go to school",
+        "D": "Do the right thing"
+      }
+    },
+    {
+      "id": "P05-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "He doesn't like the company.",
+        "B": "He has ordered some books.",
+        "C": "He is a businessman.",
+        "D": "He is selfish."
+      }
+    },
+    {
+      "id": "P05-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "A picture",
+        "B": "A brochure",
+        "C": "A letter",
+        "D": "A flier"
+      }
+    },
+    {
+      "id": "P05-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "Joe is not French.",
+        "B": "Joe is going the wrong way.",
+        "C": "Joe has passed his exam.",
+        "D": "Joe will probably fail."
+      }
+    },
+    {
+      "id": "P05-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "Room 217",
+        "B": "Room 17",
+        "C": "The conference room",
+        "D": "The meeting room"
+      }
+    },
+    {
+      "id": "P05-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "They don't sell milk at the store.",
+        "B": "They already have enough milk.",
+        "C": "It's their breakfast.",
+        "D": "It's too late to go out."
+      }
+    },
+    {
+      "id": "P05-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "The woman",
+        "B": "A bakery",
+        "C": "The woman's husband",
+        "D": "The woman's mother"
+      }
+    },
+    {
+      "id": "P05-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "The Stevensons have a lot of money.",
+        "B": "The Stevensons will have to make many arrangements.",
+        "C": "Will they go by boat or by plane?",
+        "D": "The Stevensons don't appear to be rich."
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "practice_id": "P05",
+  "section": "reading",
+  "passage_id": "P05-RC-04",
+  "source_question_range": [
+    36,
+    42
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The body of the honey bee, like the bodies of all insects, is divided into three sections: the"
+    },
+    {
+      "line": 2,
+      "text": "head, the thorax, and the abdomen. The bee's entire body is covered with fine hairs to which"
+    },
+    {
+      "line": 3,
+      "text": "grains of pollen adhere as the bee moves from flower to flower, harvesting nectar and pollinating plants. The hairs on the antennae provide a means for tactile sensing without the"
+    },
+    {
+      "line": 4,
+      "text": "ability. to grasp extending objects. In pigmentation, bees range from black to shades of very"
+    },
+    {
+      "line": 5,
+      "text": "pale-brown, thus reflecting their wasplike ancestry. The queens are larger by far than both"
+    },
+    {
+      "line": 6,
+      "text": "workers and drones, with the drones being bigger than workers."
+    },
+    {
+      "line": 7,
+      "text": "A honey bee has five eyes-three secondary ones that form a triangle on top of its head"
+    },
+    {
+      "line": 8,
+      "text": "and a large compound eye on either side of its head. The compound eyes center around thou-"
+    },
+    {
+      "line": 9,
+      "text": "sands of lenses clustered closely to one another. Bees cannot focus their eyes, as many mammals do, because their eyes have no pupils. Bees were the first insects known to distinguish"
+    },
+    {
+      "line": 10,
+      "text": "color, an ability due to the color sensitivity of their optic nerve particles. Their vision is especially receptive to hues of blue and yellow and to ultraviolet rays, unseen by humans. However, bees see red in the same way they see green but can distinguish geometrical patterns in"
+    },
+    {
+      "line": 11,
+      "text": "the shapes of foliage and blossoms."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 11
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-RC-04-Q01",
+      "source_number": 36,
+      "prompt": "It can be inferred from the passage that the body of the bee",
+      "choices": {
+        "A": "has a pronounced abdomen",
+        "B": "has fine layers",
+        "C": "is colored for protection",
+        "D": "is typically compound"
+      }
+    },
+    {
+      "id": "P05-RC-04-Q02",
+      "source_number": 37,
+      "prompt": "According to the passage, what do bees collect?",
+      "choices": {
+        "A": "flowers",
+        "B": "grains",
+        "C": "nectar and pollen",
+        "D": "extending objects"
+      }
+    },
+    {
+      "id": "P05-RC-04-Q03",
+      "source_number": 38,
+      "prompt": "According to the passage, what purpose do the fine hairs on the body of the bee serve?",
+      "choices": {
+        "A": "They identify the bees' ancestry.",
+        "B": "They furnish a sense of touch.",
+        "C": "They carry pollen to female",
+        "D": "They camouflage the insect."
+      }
+    },
+    {
+      "id": "P05-RC-04-Q04",
+      "source_number": 39,
+      "prompt": "How many classes of bees are mentioned in the passage?",
+      "choices": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      }
+    },
+    {
+      "id": "P05-RC-04-Q05",
+      "source_number": 40,
+      "prompt": "In line 9, the word \"clustered\" is closest in meaning to",
+      "choices": {
+        "A": "lined up",
+        "B": "turned up",
+        "C": "bunched",
+        "D": "bundled"
+      },
+      "referenced_lines": {
+        "start": 9,
+        "end": 9
+      }
+    },
+    {
+      "id": "P05-RC-04-Q06",
+      "source_number": 41,
+      "prompt": "In line 10, the word \"hues\" is closest in meaning to",
+      "choices": {
+        "A": "shades",
+        "B": "layers",
+        "C": "specks",
+        "D": "circles"
+      },
+      "referenced_lines": {
+        "start": 10,
+        "end": 10
+      }
+    },
+    {
+      "id": "P05-RC-04-Q07",
+      "source_number": 42,
+      "prompt": "It can be inferred from the passage that bees are LEAST likely to distinguish",
+      "choices": {
+        "A": "ultraviolet light",
+        "B": "red flowers from foliage",
+        "C": "shapes in their proximity",
+        "D": "patterns of leaf veins"
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "practice_id": "P05",
+  "section": "reading",
+  "passage_id": "P05-RC-05",
+  "source_question_range": [
+    43,
+    50
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The term \"fixed star\" refers to stars whose positions do not seem to change relative to"
+    },
+    {
+      "line": 2,
+      "text": "other stars. As stars are constantly moving, their patterns alter gradually, but the difference"
+    },
+    {
+      "line": 3,
+      "text": "may not appear significant over a period of 50 or 70 years, because, unlike planets, stars are"
+    },
+    {
+      "line": 4,
+      "text": "located at a great distance from the earth. Barnard's star, which is considered to move the"
+    },
+    {
+      "line": 5,
+      "text": "fastest among the fixed stars, requires 200 years to noticeably alter its position by a distance"
+    },
+    {
+      "line": 6,
+      "text": "equal to the moon's diameter. Compared to planets, which seem to be continuously shifting, stars appear stationary in their positions and relative distances from other bodies in a"
+    },
+    {
+      "line": 7,
+      "text": "constellation. Astronomers employ spectrographs and photometers to keep track of perpetually shifting constellations. By using the spectrographs and photographs obtained over"
+    },
+    {
+      "line": 8,
+      "text": "decades, scientists are able to detect changes in the proper motions of stars. By computing"
+    },
+    {
+      "line": 9,
+      "text": "the differences in the spectra length, color, and shade of color, they can predict the direction"
+    },
+    {
+      "line": 10,
+      "text": "of a star's movement in the near and distant future. A classical example is the cup of the Big"
+    },
+    {
+      "line": 11,
+      "text": "Dipper, which is open quite a bit more widely now than it was 40,000 years ago. According"
+    },
+    {
+      "line": 12,
+      "text": "to the spectrograph-based projections, 50,000 years from now the opening will be so expan-"
+    },
+    {
+      "line": 13,
+      "text": "sivė that the constellation will no longer resemble a dipper."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 13
+    }
+  ],
+  "questions": [
+    {
+      "id": "P05-RC-05-Q01",
+      "source_number": 43,
+      "prompt": "This passage is probably taken from an article discussing",
+      "choices": {
+        "A": "the uses of spectra for projections",
+        "B": "various fixed constellations and stars",
+        "C": "the classification of planets and stars",
+        "D": "the emergence and motions of stars"
+      }
+    },
+    {
+      "id": "P05-RC-05-Q02",
+      "source_number": 44,
+      "prompt": "The author of the passage implies that stars",
+      "choices": {
+        "A": "seem to rotate differently than planets",
+        "B": "appear to retain their distances from other stars",
+        "C": "are presumed to be perpetually fixed and immobile",
+        "D": "alter their ray emissions gradually"
+      }
+    },
+    {
+      "id": "P05-RC-05-Q03",
+      "source_number": 45,
+      "prompt": "The author mentions Barnard's star as",
+      "choices": {
+        "A": "an example of a very brilliant star",
+        "B": "a description of a constellation divide",
+        "C": "a point of reference for star mobility",
+        "D": "proof of star diameter and proximity"
+      }
+    },
+    {
+      "id": "P05-RC-05-Q04",
+      "source_number": 46,
+      "prompt": "In line 6, the word \"stationary\" is closest in meaning to",
+      "choices": {
+        "A": "shining",
+        "B": "glimmering",
+        "C": "immobile",
+        "D": "immense"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P05-RC-05-Q05",
+      "source_number": 47,
+      "prompt": "It can be inferred from the passage that",
+      "choices": {
+        "A": "stars revolve every 40,000 to 50,000 years",
+        "B": "stars alter their trajectories every 200 years",
+        "C": "planets are closer to the earth than stars",
+        "D": "planets do not appear to be as close as stars"
+      }
+    },
+    {
+      "id": "P05-RC-05-Q06",
+      "source_number": 48,
+      "prompt": "In line 8, the word \"detect\" is closest in meaning to",
+      "choices": {
+        "A": "spy",
+        "B": "project",
+        "C": "trace",
+        "D": "compute"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P05-RC-05-Q07",
+      "source_number": 49,
+      "prompt": "The author of the passage implies that astronomers detect the movement of stars by",
+      "choices": {
+        "A": "using photographs and mathematical reasoning",
+        "B": "comparing the spectrum of each categorize. constellation",
+        "C": "overlaying the spectrum images in succession",
+        "D": "forecasting changes in the position of stars"
+      }
+    },
+    {
+      "id": "P05-RC-05-Q08",
+      "source_number": 50,
+      "prompt": "The author of the passage conveys which of the following about fixed stars?",
+      "choices": {
+        "A": "They are inspected by means of photometers.",
+        "B": "They are comparatively simple to categorize.",
+        "C": "Their movements are imperceptible.",
+        "D": "Their spectra vary in intensity."
+      }
+    }
+  ]
+}

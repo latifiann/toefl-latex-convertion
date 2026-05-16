@@ -1,0 +1,45 @@
+{
+  "practice_id": "P05",
+  "section": "reading",
+  "time_label": "Time 55 minutes",
+  "directions": [
+    "DIRECTIONS: In this section you will read several passages. Each passage is followed by a series of questions. For questions 1-50, you need to select the best answer, (A), (B), (C), or (D), to each question. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter of the answer you have selected. Fill in the space completely. Answer all questions following a passage on the basis of what is stated or implied in the passage."
+  ],
+  "sample_passage_lines": [
+    "Read the following passage:",
+    "A tomahawk is a small ax used as a tool and a weapon by the North American Indian",
+    "tribes. An average tomahawk was not very long and did not weigh a great deal. Originally,",
+    "the head of the tomahawk was made of a shaped stone or an animal bone and was mounted on",
+    "Line a wooden handle. After the arrival of the European settlers, the Indians began to use toma-",
+    "hawks with iron heads. Indian males and females of all ages used tomahawks to chop and cut wood, pound stakes into the ground to put up wigwams, and do many other chores. Indian warriors relied on tomahawks as weapons and even threw them at their enemies. Some types of tomahawks were used in religious ceremonies. Contemporary American idioms reflect",
+    "this aspect of American heritage."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Early tomahawk heads were made of",
+      "choices": {
+        "A": "stone or bone",
+        "B": "wood or sticks",
+        "C": "European iron",
+        "D": "religious weapons"
+      },
+      "explanation_lines": [
+        "According to the passage, early tomahawk heads were made of stone or bone. Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "How has the Indian use of tomahawks affected American daily life today?",
+      "choices": {
+        "A": "Tomahawks are still used as weapons.",
+        "B": "Tomahawks are used as tools for.certain jobs.",
+        "C": "Contemporary language refers to tomahawks.",
+        "D": "Indian tribes cherish tomahawks as heirlooms."
+      },
+      "explanation_lines": [
+        "The passage states, \"Contemporary American idioms reflect this aspect of American heritage.\" The correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ]
+}
