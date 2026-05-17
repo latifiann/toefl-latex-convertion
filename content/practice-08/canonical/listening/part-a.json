@@ -1,0 +1,324 @@
+{
+  "practice_id": "P08",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P08-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "The soup is delicious.",
+        "B": "The recipe is getting better.",
+        "C": "The soup does not taste very good.",
+        "D": "He decided to skip the soup."
+      }
+    },
+    {
+      "id": "P08-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "They have their troubles, and we have ours.",
+        "B": "The man should write his own lab report.",
+        "C": "They never tell us the correct hours.",
+        "D": "The man needs to check the hours."
+      }
+    },
+    {
+      "id": "P08-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "Andy keeps track of advising and registration.",
+        "B": "It is important to listen to Andy with skepticism.",
+        "C": "It is not necessary to add salt to the dish.",
+        "D": "Andy has already finished his registration."
+      }
+    },
+    {
+      "id": "P08-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "The lettuce needs to be rinsed before it is used.",
+        "B": "Let us wash up before we eat the sandwiches.",
+        "C": "We like eating lettuce because it is healthy.",
+        "D": "The lettuce is in the salad she is making."
+      }
+    },
+    {
+      "id": "P08-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "At the School of Business.",
+        "B": "At a bookstore.",
+        "C": "In.a hardware shop.",
+        "D": "In a grocery store."
+      }
+    },
+    {
+      "id": "P08-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "The sink has a bad odor.",
+        "B": "It is too late to start looking at the puddle.",
+        "C": "The man should not come at this hour.",
+        "D": "The sink should be repaired."
+      }
+    },
+    {
+      "id": "P08-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "Mary is an author of a book.",
+        "B": "Mary must have married a publisher.",
+        "C": "The historian is getting married.",
+        "D": "Historical novels are very popular."
+      }
+    },
+    {
+      "id": "P08-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "All customers get three pencils.",
+        "B": "Those who take the test get a pencil.",
+        "C": "All buyers receive a free gift.",
+        "D": "Those who show their textbooks receive a free pencil."
+      }
+    },
+    {
+      "id": "P08-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "She has been looking for a cab for fifty minutes",
+        "B": "She has been looking for a taxi for a pattern. quarter of an hour.",
+        "C": "She has been lost for fifteen minutes while wearing a light coat.",
+        "D": "She has sized up the situation correctly and called a cab"
+      }
+    },
+    {
+      "id": "P08-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "People's recommendations are more effective than newspaper ads.",
+        "B": "Most people do not pay attention to newspaper ads.",
+        "C": "The new exhibit is promoted by the best advertising agency.",
+        "D": "Words cannot describe the new exhibit effectively."
+      }
+    },
+    {
+      "id": "P08-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "The man needs to fill out the forms.",
+        "B": "The man's car is out of gas and needs a fill-up.",
+        "C": "The paint feels wet, and visitors should be careful.",
+        "D": "The man is invited to go along."
+      }
+    },
+    {
+      "id": "P08-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "It is better to prepare before pouring it.",
+        "B": "The batter contains four ingredients.",
+        "C": "The mixture is poured on a hot surface.",
+        "D": "The first pen is better than the next one."
+      }
+    },
+    {
+      "id": "P08-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "Julie and Michael plan to get married.",
+        "B": "Julie and Michael decided to buy a new tie.",
+        "C": "Julie's mother has not decided yet.",
+        "D": "Julie's mother has no news to report."
+      }
+    },
+    {
+      "id": "P08-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "They cannot attend advising sessions.",
+        "B": "An advisor is assigned to them.",
+        "C": "They chose the wrong advising schedule.",
+        "D": "An advisor shows them the correct schedule."
+      }
+    },
+    {
+      "id": "P08-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "It is a good idea to go jogging despitethe hot weather.",
+        "B": "It is important to stand up straight andexercise regularly.",
+        "C": "The current weather is difficult totolerate.",
+        "D": "The weather has a long-standing pattern."
+      }
+    },
+    {
+      "id": "P08-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "They have little time for dancing these days.",
+        "B": "They believe that gardening is serious business.",
+        "C": "Their dancing classes have not started yet",
+        "D": "Their gardening business is off to a good start."
+      }
+    },
+    {
+      "id": "P08-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "The color seems to be wrong.",
+        "B": "She is not sure if she likes it.",
+        "C": "She thinks that it is too short.",
+        "D": "The man should not buy it."
+      }
+    },
+    {
+      "id": "P08-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "Renting a car",
+        "B": "Going to the station",
+        "C": "Planting a tree for children",
+        "D": "Arriving late every day"
+      }
+    },
+    {
+      "id": "P08-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "The search committee has filled out the applications.",
+        "B": "The search for an office assistant has ended.",
+        "C": "The hiring process has not been completed.",
+        "D": "The applicants will still be reviewing the office"
+      }
+    },
+    {
+      "id": "P08-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "Come back on Tuesday.",
+        "B": "Take the test.",
+        "C": "Take the course.",
+        "D": "Make a choice of a major"
+      }
+    },
+    {
+      "id": "P08-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "The dinner last week was a disaster.",
+        "B": "She'll pay for the dinner.",
+        "C": "She'll cook dinner this time.",
+        "D": "She lives on Broadway."
+      }
+    },
+    {
+      "id": "P08-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "He finished the report already.",
+        "B": "He wants to have another meeting.",
+        "C": "He is tired' of meetings.",
+        "D": "He doesn't have time on Sunday."
+      }
+    },
+    {
+      "id": "P08-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "Making an appointment",
+        "B": "Going out on a date",
+        "C": "Discussing Peter",
+        "D": "Scheduling a departure"
+      }
+    },
+    {
+      "id": "P08-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "He will rest in the afternoon.",
+        "B": "He has to keep working.",
+        "C": "He needs to clean his desk.",
+        "D": "He has missed the deadline."
+      }
+    },
+    {
+      "id": "P08-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "Fred is mysterious.",
+        "B": "Fred's class is not difficult.",
+        "C": "She doesn't know.",
+        "D": "She is taking a different class."
+      }
+    },
+    {
+      "id": "P08-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "Roberta had misplaced her key before.",
+        "B": "Roberta's husband is late again.",
+        "C": "Roberta's husband does not treat her very well.",
+        "D": "Roberta had returned from work."
+      }
+    },
+    {
+      "id": "P08-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "At a gift shop",
+        "B": "In a bank",
+        "C": "At a florist's",
+        "D": "In a delivery office"
+      }
+    },
+    {
+      "id": "P08-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "It takes an hour to get to the NorthCampus from here.",
+        "B": "The shuttle comes twice an hour.",
+        "C": "It'll be 15 minutes for the shuttle to get here.",
+        "D": "The shuttle is 15 minutes behind the schedule."
+      }
+    },
+    {
+      "id": "P08-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "The man can't park there.",
+        "B": "It's okay to leave the car only for a few minutes.",
+        "C": "She doesn't live on this block.",
+        "D": "The man should park in the driveway."
+      }
+    },
+    {
+      "id": "P08-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "The woman is more careful nowthan she used to be.",
+        "B": "The woman is not very careful.",
+        "C": "He will help the woman with the gate.",
+        "D": "He wishes only the best for the woman."
+      }
+    }
+  ]
+}

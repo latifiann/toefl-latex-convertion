@@ -1,0 +1,258 @@
+{
+  "practice_id": "P08",
+  "section": "reading",
+  "passage_id": "P08-RC-02",
+  "source_question_range": [
+    13,
+    21
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "In the winter of 1848, James Marshall, a carpenter from New Jersey, was contracted by"
+    },
+    {
+      "line": 2,
+      "text": "John Sutter to build a sawmill in Coloma in eastern California. On January 24, Marshall dis-"
+    },
+    {
+      "line": 3,
+      "text": "covered gold on the mill grounds. He took his find to Sutter, who attempted to keep the"
+    },
+    {
+      "line": 4,
+      "text": "news a secret and made his hired hands promise not to divulge it. However, Samuel"
+    },
+    {
+      "line": 5,
+      "text": "Brannan, a shrewd San Francisco businessman, who owned a general store in the vicinity"
+    },
+    {
+      "line": 6,
+      "text": "of Sutter's mill, saw potential for profit. In the spring, after hearing the rumors from the"
+    },
+    {
+      "line": 7,
+      "text": "storekeeper in Coloma, Brannan hastily traveled to the Sacramento Valley and on his return"
+    },
+    {
+      "line": 8,
+      "text": "widely disseminated the news about the untold riches in the diggings."
+    },
+    {
+      "line": 9,
+      "text": "The first new arrivals assumed that the story of the gold was a hoax, and many were idle"
+    },
+    {
+      "line": 10,
+      "text": "curiosity seekers. However, within weeks, scores of city dwellers began to move by ships"
+    },
+    {
+      "line": 11,
+      "text": "and boats to reach the Coloma fort, and in subsequent months, rumors spread further down"
+    },
+    {
+      "line": 12,
+      "text": "the coast of California, across the Mexican border, and to Hawaii. In eastern states, the"
+    },
+    {
+      "line": 13,
+      "text": "press published reports of miners who struck it rich overnight so vast were the California"
+    },
+    {
+      "line": 14,
+      "text": "gold deposits. Between 1848 and 1851, in all, around half a million fortune-seekers from"
+    },
+    {
+      "line": 15,
+      "text": "around the globe descended o n California to pursue instant wealth and thus took part in"
+    },
+    {
+      "line": 16,
+      "text": "one of the largest migrations in history."
+    },
+    {
+      "line": 17,
+      "text": "The accounts of the Sutter Mill deposits were not entirely untruthful. In December of"
+    },
+    {
+      "line": 18,
+      "text": "1848, President James Polk confirmed the news about the California gold in a statement to"
+    },
+    {
+      "line": 19,
+      "text": "Congress, and the message was picked up by press agencies worldwide. Not all Forty-"
+    },
+    {
+      "line": 20,
+      "text": "Niners, as the prospectors came to be known, made their journey in vain. The swath of"
+    },
+    {
+      "line": 21,
+      "text": "gold-bearing quartz ran 100 miles wide along the Sierra Nevada mountain range and"
+    },
+    {
+      "line": 22,
+      "text": "stretched from La Porte to Mariposa. During the initial stages of the Gold Fever, yields of"
+    },
+    {
+      "line": 23,
+      "text": "$300 to $400 a day were not infrequent, and b y the end of 1849, nearly $10 million worth"
+    },
+    {
+      "line": 24,
+      "text": "of deposits had been excavated. However, a s competition for land claims increased, yields"
+    },
+    {
+      "line": 25,
+      "text": "and profits began to drop off, and ore nuggets and dust began to disappear from dry"
+    },
+    {
+      "line": 26,
+      "text": "streambeds and ravines. As mining operations became more laborious, individual prospec-"
+    },
+    {
+      "line": 27,
+      "text": "tors were replaced by large commercial ventures, when groups of miners employed their"
+    },
+    {
+      "line": 28,
+      "text": "penniless counterparts to divert and dry up rivers with strategically positioned dams and"
+    },
+    {
+      "line": 29,
+      "text": "canals. The gold rush of 1849 was followed by the next wave of migrants headed to the"
+    },
+    {
+      "line": 30,
+      "text": "Klondike region in Yukon Territory in mid-1897 to recover the gold at the conflation of two"
+    },
+    {
+      "line": 31,
+      "text": "rivers"
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 31
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-RC-02-Q01",
+      "source_number": 13,
+      "prompt": "The word \"contracted\" in line 1 is closest in meaning to",
+      "choices": {
+        "A": "empowered",
+        "B": "employed",
+        "C": "emboldened",
+        "D": "embodied"
+      },
+      "referenced_lines": {
+        "start": 1,
+        "end": 1
+      }
+    },
+    {
+      "id": "P08-RC-02-Q02",
+      "source_number": 14,
+      "prompt": "According to the passage, who was initially instrumental in diffusing accounts of Coloma gold?",
+      "choices": {
+        "A": "A carpenter",
+        "B": "A mill owner",
+        "C": "A merchant",
+        "D": "A business operator"
+      }
+    },
+    {
+      "id": "P08-RC-02-Q03",
+      "source_number": 15,
+      "prompt": "In line 5, the word \"vicinity\" is closest in meaning to",
+      "choices": {
+        "A": "proximity",
+        "B": "propensity",
+        "C": "propriety",
+        "D": "profundity"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P08-RC-02-Q04",
+      "source_number": 16,
+      "prompt": "The purpose of paragraph 2 is to demonstrate",
+      "choices": {
+        "A": "the suspicions of curiosity seekers",
+        "B": "the significance of population resettlement",
+        "C": "the influence of published press reports",
+        "D": "the wealth of gold deposits"
+      }
+    },
+    {
+      "id": "P08-RC-02-Q05",
+      "source_number": 17,
+      "prompt": "The word \"scores\" in line 10 is closest in meaning to",
+      "choices": {
+        "A": "a greater good",
+        "B": "a great stock",
+        "C": "a great many",
+        "D": "a greater evil"
+      },
+      "referenced_lines": {
+        "start": 10,
+        "end": 10
+      }
+    },
+    {
+      "id": "P08-RC-02-Q06",
+      "source_number": 18,
+      "prompt": "It can be inferred from the passage that California gold had a variety of",
+      "choices": {
+        "A": "polemical and ecological outcomes",
+        "B": "proclamations and denunciations in the White House",
+        "C": "proponents and opponents in Congress",
+        "D": "political and economic ramifications"
+      }
+    },
+    {
+      "id": "P08-RC-02-Q07",
+      "source_number": 19,
+      "prompt": "In line 20, the word \"prospectors\" is closest in meaning to",
+      "choices": {
+        "A": "entrepreneurs",
+        "B": "enthusiasts",
+        "C": "miners",
+        "D": "minions"
+      },
+      "referenced_lines": {
+        "start": 20,
+        "end": 20
+      }
+    },
+    {
+      "id": "P08-RC-02-Q08",
+      "source_number": 20,
+      "prompt": "It can be inferred from the passage that many Forty Niners",
+      "choices": {
+        "A": "acquired great wealth",
+        "B": "infected many laborers",
+        "C": "attained great dispositions",
+        "D": "inflated many recounts"
+      }
+    },
+    {
+      "id": "P08-RC-02-Q09",
+      "source_number": 21,
+      "prompt": "The author of the passage implies that the California Gold Fever",
+      "choices": {
+        "A": "was a unique event in North American history",
+        "B": "was a singular event in the succession of others",
+        "C": "presented a lone occurrence on the North American continent",
+        "D": "preserved a unique page in North American development"
+      }
+    }
+  ]
+}

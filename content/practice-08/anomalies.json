@@ -1,0 +1,23 @@
+{
+  "anomalies": [
+    {
+      "id": "normalization-whitespace-and-formfeed",
+      "severity": "low",
+      "section": "global",
+      "detail": "Whitespace, form-feed characters, zero-width characters, and obvious mixed-script confusables were normalized during ingestion."
+    },
+    {
+      "id": "structure-completion-q6-q15-source-damage",
+      "severity": "high",
+      "section": "structure",
+      "detail": "Questions 6-15 in Structure completion were partially corrupted in the DOCX extraction. Canonical content for Q6-Q15 was normalized from user-provided source corrections where the intended wording and choices were explicit."
+    },
+    {
+      "id": "listening-part-c-choice-artifacts",
+      "severity": "medium",
+      "section": "listening",
+      "detail": "Part C contained OCR artifacts in choices for questions 42, 43, 44, 45, 46, 48, and 50, including stray punctuation, missing initial letters, and missing spaces. Clear non-substantive text artifacts were normalized in canonical content."
+    }
+  ],
+  "note": "Anomalies record source problems or deliberate normalization decisions. Canonical files should stay close to the DOCX while avoiding silent guessing."
+}

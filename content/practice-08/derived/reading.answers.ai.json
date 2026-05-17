@@ -1,0 +1,1090 @@
+{
+  "practice_id": "P08",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P08-RC-01-Q01",
+      "passage_id": "P08-RC-01",
+      "source_number": 1,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        },
+        {
+          "start": 29,
+          "end": 31
+        }
+      ],
+      "evidence_quote": "Architecture has social purposes and meets practical needs by means of combining art and technological innovations... Advances in civil engineering and knowledge associated with properties of building materials combine to lead to innovations in architectural design.",
+      "rationale_id": "Jawaban (C) karena dari awal sampai akhir passage membahas hubungan timbal balik antara arsitektur dan teknologi: arsitektur memakai inovasi teknologi, sementara perkembangan material dan engineering mendorong desain arsitektur baru.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q02",
+      "passage_id": "P08-RC-01",
+      "source_number": 2,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "an emergence of new materials does not make its precursors obsolete",
+      "rationale_id": "Jawaban (D) karena dalam konteks ini obsolete berarti tidak lagi dipakai atau ketinggalan zaman, paling dekat dengan antiquated.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q03",
+      "passage_id": "P08-RC-01",
+      "source_number": 3,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "new materials does not make its precursors obsolete... much is constructed from prefabricated concrete does not do away with brick",
+      "rationale_id": "Jawaban (A) karena brick dipakai sebagai contoh bahwa teknik atau material lama tetap praktis meskipun material baru sudah muncul.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q04",
+      "passage_id": "P08-RC-01",
+      "source_number": 4,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "The social and utilitarian expectations of structures are largely based on elemental demands of keeping out elements and enemies...",
+      "rationale_id": "Jawaban (B) karena kebutuhan praktis bangunan digambarkan tetap bertumpu pada tuntutan dasar yang sama, seperti perlindungan dari cuaca dan ancaman, sehingga relatif konstan sepanjang waktu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q05",
+      "passage_id": "P08-RC-01",
+      "source_number": 5,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 12,
+          "end": 15
+        }
+      ],
+      "evidence_quote": "Vertical stacking of masonry materials causes compression... Arches, vaults, and domes were specifically developed to alleviate the compression by directing the spanning element along a curve",
+      "rationale_id": "Jawaban (B) karena passage menjelaskan bahwa tekanan kompresi dikurangi dengan bentuk lengkung seperti arches, vaults, dan domes, jadi gaya ke bawah disebarkan melalui struktur melengkung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q06",
+      "passage_id": "P08-RC-01",
+      "source_number": 6,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "steel that could reinforce structural frames and enable them to withstand natural forces previously believed to be insurmountable",
+      "rationale_id": "Jawaban (A) karena withstand natural forces berarti mampu menahan atau endure kekuatan alam.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q07",
+      "passage_id": "P08-RC-01",
+      "source_number": 7,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "Functional evolutions of modern buildings create new demands on the analysis of structural behavior and engineering... make very tall constructions engineering marvels",
+      "rationale_id": "Jawaban (B) karena bagian ini menekankan bahwa perkembangan fungsi bangunan modern menimbulkan tuntutan teknik baru, jadi inovasi arsitektur memunculkan tantangan baru bagi pengembangan teknologi dan engineering.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q08",
+      "passage_id": "P08-RC-01",
+      "source_number": 8,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 23
+        }
+      ],
+      "evidence_quote": "Humidity and temperature control... fire prevention make very tall constructions engineering marvels",
+      "rationale_id": "Jawaban (A) karena marvels dalam frasa engineering marvels berarti sesuatu yang mengagumkan atau wonders, paling dekat dengan miracle.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q09",
+      "passage_id": "P08-RC-01",
+      "source_number": 9,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 26,
+          "end": 28
+        }
+      ],
+      "evidence_quote": "The shape, size, and incombustibility of locally available construction materials fostered developments of specific technologies",
+      "rationale_id": "Jawaban (B) karena passage secara eksplisit menyebut locally available construction materials sebagai faktor penting. Pilihan lain tidak cocok: inflammable berlawanan dengan incombustibility, dan large tidak disebut sebagai keharusan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q10",
+      "passage_id": "P08-RC-01",
+      "source_number": 10,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 26,
+          "end": 28
+        }
+      ],
+      "evidence_quote": "The shape, size, and incombustibility of locally available construction materials fostered developments of specific technologies",
+      "rationale_id": "Jawaban (C) karena fostered developments berarti mendorong atau encouraged perkembangan teknologi tertentu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q11",
+      "passage_id": "P08-RC-01",
+      "source_number": 11,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        },
+        {
+          "start": 28,
+          "end": 30
+        }
+      ],
+      "evidence_quote": "Architecture has social purposes and meets practical needs by means of combining art and technological innovations... Advances in civil engineering... combine to lead to innovations in architectural design.",
+      "rationale_id": "Jawaban (B) karena passage menunjukkan arsitektur dan engineering bekerja saling mendukung: arsitektur memadukan seni dengan teknologi, dan engineering membantu melahirkan inovasi desain.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-01-Q12",
+      "passage_id": "P08-RC-01",
+      "source_number": 12,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 30,
+          "end": 31
+        }
+      ],
+      "evidence_quote": "Tools and skills required to exploit easily obtainable materials have continued to inform the development of modern industrialized technologies.",
+      "rationale_id": "Jawaban (D) karena inform the development di sini berarti ikut membentuk atau contribute to perkembangan teknologi modern.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q01",
+      "passage_id": "P08-RC-02",
+      "source_number": 13,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "James Marshall ... was contracted by John Sutter to build a sawmill",
+      "rationale_id": "Jawaban (B) karena dalam konteks ini contracted by berarti dipekerjakan untuk melakukan pekerjaan tertentu, bukan empowered atau embodied.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q02",
+      "passage_id": "P08-RC-02",
+      "source_number": 14,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Samuel Brannan ... owned a general store ... widely disseminated the news about the untold riches",
+      "rationale_id": "Jawaban (C) karena orang yang mula-mula menyebarluaskan berita emas adalah Samuel Brannan, dan passage mengenalkannya sebagai pemilik general store, yaitu seorang merchant.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q03",
+      "passage_id": "P08-RC-02",
+      "source_number": 15,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "a general store in the vicinity of Sutter's mill",
+      "rationale_id": "Jawaban (A) karena vicinity berarti area yang dekat atau nearby area, sehingga paling dekat maknanya dengan proximity.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q04",
+      "passage_id": "P08-RC-02",
+      "source_number": 16,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "scores of city dwellers began to move ... around half a million fortune-seekers ... took part in one of the largest migrations in history",
+      "rationale_id": "Jawaban (B) karena bagian ini menekankan perpindahan penduduk dalam skala sangat besar, dari puluhan orang sampai setengah juta migran, jadi fungsinya menunjukkan signifikansi resettlement itu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q05",
+      "passage_id": "P08-RC-02",
+      "source_number": 17,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 10
+        }
+      ],
+      "evidence_quote": "within weeks, scores of city dwellers began to move",
+      "rationale_id": "Jawaban (C) karena scores of dalam konteks jumlah orang berarti many atau a great many.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q06",
+      "passage_id": "P08-RC-02",
+      "source_number": 18,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 16
+        },
+        {
+          "start": 18,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "around half a million fortune-seekers ... one of the largest migrations in history ... President James Polk confirmed the news ... yields of $300 to $400 a day",
+      "rationale_id": "Jawaban (D) karena passage menunjukkan dampak politik saat Presiden Polk dan Congress terlibat dalam konfirmasi berita, serta dampak ekonomi lewat arus pencari kekayaan, hasil tambang, dan penurunan profit.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q07",
+      "passage_id": "P08-RC-02",
+      "source_number": 19,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "Not all Forty-Niners, as the prospectors came to be known",
+      "rationale_id": "Jawaban (C) karena prospectors dalam passage merujuk pada orang yang mencari emas, yaitu miners.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q08",
+      "passage_id": "P08-RC-02",
+      "source_number": 20,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "Not all Forty-Niners ... made their journey in vain ... yields of $300 to $400 a day were not infrequent",
+      "rationale_id": "Jawaban (A) karena jika tidak semua gagal dan hasil harian ratusan dolar cukup sering terjadi, masuk akal disimpulkan banyak Forty-Niners memang memperoleh kekayaan besar.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-02-Q09",
+      "passage_id": "P08-RC-02",
+      "source_number": 21,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 29,
+          "end": 30
+        }
+      ],
+      "evidence_quote": "The gold rush of 1849 was followed by the next wave of migrants headed to the Klondike region",
+      "rationale_id": "Jawaban (B) karena penulis secara implisit menyatakan California Gold Fever bukan peristiwa tunggal yang sepenuhnya unik, melainkan satu peristiwa yang kemudian diikuti gelombang gold rush lain.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q01",
+      "passage_id": "P08-RC-03",
+      "source_number": 22,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 9
+        },
+        {
+          "start": 13,
+          "end": 28
+        }
+      ],
+      "evidence_quote": "contain a mixture of pigments and linseed oil... varnish can be added... oil paints dry comparatively slowly... artists can exploit their viscosity... The thickness of the paste also plays an important role",
+      "rationale_id": "Jawaban (D) karena passage terutama membahas apa saja komposisi oil paint dan bagaimana sifat campurannya dipakai dalam teknik melukis. Unsur sejarah hanya pembuka, bukan fokus utama.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q02",
+      "passage_id": "P08-RC-03",
+      "source_number": 23,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "oil paint took hold as the artistic medium of choice... relative to the wax-based, watercolor, fresco, or tempera paints prevalent at the time",
+      "rationale_id": "Jawaban (A) karena jika oil paint menjadi `medium of choice` dibanding fresco dan tempera yang sebelumnya umum, implikasinya oil painting menggantikan dominasi media-media itu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q03",
+      "passage_id": "P08-RC-03",
+      "source_number": 24,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "poppy oil paints are also available to connoisseurs",
+      "rationale_id": "Jawaban (B) karena `connoisseurs` berarti orang yang punya pengetahuan dan apresiasi mendalam, paling dekat dengan `experts`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q04",
+      "passage_id": "P08-RC-03",
+      "source_number": 25,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "relied on fast-drying bases derived from various organic oils",
+      "rationale_id": "Jawaban (C) karena oil base disebut berasal dari `organic oils`, yang paling logis berarti sumber hayati seperti tanaman, bukan mineral atau obat. Namun teks tidak menyebut jenis tanamannya secara eksplisit.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P08-RC-03-Q05",
+      "passage_id": "P08-RC-03",
+      "source_number": 26,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "bases derived from various organic oils... The pigments are... powders ground in the base",
+      "rationale_id": "Jawaban (B) karena `the base` merujuk ke oil base yang disebut tepat sebelumnya, yaitu dasar cair atau medium berbahan minyak.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q06",
+      "passage_id": "P08-RC-03",
+      "source_number": 27,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "oil paints dry comparatively slowly, with little color alteration... tones and undertones are easy to blend... mistakes and smudges are simple to correct",
+      "rationale_id": "Jawaban (D) karena paragraf 2 memaparkan kelebihan oil paint: warna stabil, mudah dibaurkan, mudah dikoreksi, dan bisa dipakai dengan berbagai tekstur. Itu menunjukkan superioritasnya, bukan sekadar daya tahan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q07",
+      "passage_id": "P08-RC-03",
+      "source_number": 28,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "Due to the creamy consistency of most mixtures, artists can exploit their viscosity in thick applications",
+      "rationale_id": "Jawaban (A) karena dalam konteks ini `viscosity` menunjuk pada tingkat kekentalan atau ketegaran aliran cat, sehingga paling dekat dengan `stiffness`. Pilihan ini tidak sempurna, tetapi lebih dekat daripada `stickiness`.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P08-RC-03-Q08",
+      "passage_id": "P08-RC-03",
+      "source_number": 29,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 9
+        },
+        {
+          "start": 18,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "pigments and linseed oil... varnish can be added... protective seal; drying time can be reduced by adding metallic oxides",
+      "rationale_id": "Jawaban (B) karena passage menyebut gloss atau sealant melalui varnish dan accelerant melalui metallic oxides, tetapi tidak pernah menyebut retarders yang memperlambat pengeringan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q09",
+      "passage_id": "P08-RC-03",
+      "source_number": 30,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "their own trademark methods of mixing materials that art experts recognize as a part of an artist's creative work",
+      "rationale_id": "Jawaban (A) karena `trademark methods` di sini berarti cara khas yang menjadi ciri pengenal seniman, jadi paling dekat dengan `signature`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-03-Q10",
+      "passage_id": "P08-RC-03",
+      "source_number": 31,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 28
+        }
+      ],
+      "evidence_quote": "After the basic design is sketched... areas of the canvas are covered with thin, diluted paint... A thicker paint... is subsequently used to refine and outline",
+      "rationale_id": "Jawaban (D) karena penulis menjelaskan proses bertahap: sketsa, lapisan tipis awal, lalu lapisan lebih tebal untuk penyempurnaan. Itu mengimplikasikan oil painting membutuhkan beberapa lapis pekerjaan kuas.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q01",
+      "passage_id": "P08-RC-04",
+      "source_number": 32,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        },
+        {
+          "start": 13,
+          "end": 14
+        },
+        {
+          "start": 18,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "Samuel Johnson's achievements in lexicography and writing have few rivals ... Johnson began a life-long period of writing and lexicographic work ... Dictionary of the English Language ... became the imitable forerunner of how English language dictionaries are constructed to this day.",
+      "rationale_id": "Jawaban (A) karena passage terutama memberi ringkasan biografis tentang kehidupan Johnson, penyakit dan kesulitannya, lalu pencapaian besarnya sebagai leksikografer lewat kamusnya. Opsi lain hanya menyorot sebagian aspek.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q02",
+      "passage_id": "P08-RC-04",
+      "source_number": 33,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "he acquired a reputation for prodigious learning",
+      "rationale_id": "Jawaban (C) karena prodigious dalam konteks learning berarti sangat besar atau luar biasa besarnya, paling dekat dengan immense.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q03",
+      "passage_id": "P08-RC-04",
+      "source_number": 34,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "evidence_quote": "After being plagued by many ailments and emotional breakdowns",
+      "rationale_id": "Jawaban (D) karena plagued by ailments and emotional breakdowns berarti terus-menerus diganggu atau disiksa oleh masalah itu, jadi paling dekat dengan tormented.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q04",
+      "passage_id": "P08-RC-04",
+      "source_number": 35,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "low",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "Samuel was above all an insatiable reader.",
+      "rationale_id": "Saya usulkan (A) hanya jika item ini memang bermaksud menguji kata overlap secara umum, karena overlap paling dekat dengan coincide. Namun source passage pada line 4 tidak memuat kata overlap sama sekali, jadi item ini cacat sumber dan perlu review manual.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P08-RC-04-Q05",
+      "passage_id": "P08-RC-04",
+      "source_number": 36,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "he married Elizabeth Porter ... who became the source of calm, support, and self-confidence in his life",
+      "rationale_id": "Jawaban (C) karena passage menyatakan langsung bahwa istrinya menjadi sumber ketenangan, dukungan, dan rasa percaya diri, yaitu semacam safe haven bagi Johnson.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q06",
+      "passage_id": "P08-RC-04",
+      "source_number": 37,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "He recklessly dominated conversations ... His antagonistic habits cost him many a friend.",
+      "rationale_id": "Jawaban (D) karena antagonistic dijelaskan lewat perilaku agresif dan merugikan hubungan pertemanan, sehingga maknanya paling dekat dengan hostile.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q07",
+      "passage_id": "P08-RC-04",
+      "source_number": 38,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "40,000 entries with lucid, witty, occasionally spiteful, and idiosyncratic definitions ...",
+      "rationale_id": "Jawaban (B) karena passage menekankan bahwa definisinya bukan hanya jelas dan cerdas, tetapi juga kadang spiteful dan idiosyncratic. Itu menunjukkan deskripsi makna katanya memang tidak tanpa keanehan atau peculiarities.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q08",
+      "passage_id": "P08-RC-04",
+      "source_number": 39,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "low",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 29,
+          "end": 31
+        }
+      ],
+      "evidence_quote": "his vast body of work ... remained obscure until Joseph Krutch ... published a penetrating study",
+      "rationale_id": "Saya usulkan (C) sebagai pendekatan paling dekat, karena obscure di konteks ini berarti kurang dikenal atau kurang mendapat perhatian. Namun tidak ada opsi yang benar-benar setara dengan makna itu, jadi item ini juga perlu review manual.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P08-RC-04-Q09",
+      "passage_id": "P08-RC-04",
+      "source_number": 40,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 29,
+          "end": 30
+        }
+      ],
+      "evidence_quote": "poetry, novels, essays, tragedies, travelogues, biographies, diaries, and satire",
+      "rationale_id": "Jawaban (C) karena quotations tidak disebut dalam daftar genre tulisan Johnson. Plays tercakup oleh tragedies, biographies disebut langsung, dan articles paling dekat dengan essays.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-04-Q10",
+      "passage_id": "P08-RC-04",
+      "source_number": 41,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 26,
+          "end": 27
+        }
+      ],
+      "evidence_quote": "literary critics largely saw Johnson's literary contributions as slight with regard to their scholarly influence",
+      "rationale_id": "Jawaban (A) karena slight di sini berarti kecil atau tidak penting pengaruhnya, paling dekat dengan trivial.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q01",
+      "passage_id": "P08-RC-05",
+      "source_number": 42,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "Psychologists who work on motivation research a wide range of human traits ... hypotheses ... have the goal of identifying causes of an organism's behavior",
+      "rationale_id": "Jawaban (C) karena passage menjelaskan bahwa psikologi motivasi meneliti trait manusia dan menyusun hipotesis untuk mengidentifikasi penyebab perilaku; itu paling dekat dengan alasan perilaku dan daya pendorongnya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q02",
+      "passage_id": "P08-RC-05",
+      "source_number": 43,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "A plethora of hypotheses developed in the nineteenth and twentieth centuries",
+      "rationale_id": "Jawaban (D) karena `plethora` dalam konteks ini berarti jumlah yang sangat banyak, paling dekat dengan `overabundance`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q03",
+      "passage_id": "P08-RC-05",
+      "source_number": 44,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "The needs located at the bottom of the pyramid are the essentials of physiological survival ... The second tier is rooted in the human need for safety, stability, and protection.",
+      "rationale_id": "Jawaban (A) paling didukung karena lapisan pertama disebut sebagai kebutuhan esensial untuk survival fisiologis, sehingga secara inferensial ia lebih mendasar dan mendominasi urgensi tier di atasnya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q04",
+      "passage_id": "P08-RC-05",
+      "source_number": 45,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "low",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "conscious and unconscious.",
+      "rationale_id": "Jawaban (C) dipilih dari makna leksikal `trendy` = `fashionable`, tetapi kata `trendy` tidak muncul pada line_map passage ini sehingga item tampak anomali dan perlu cek manual.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P08-RC-05-Q05",
+      "passage_id": "P08-RC-05",
+      "source_number": 46,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "may explain, for example, food gratification",
+      "rationale_id": "Jawaban (B) karena `gratification` pada frasa `food gratification` berarti rasa puas atau nikmat, paling dekat dengan `pleasure`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q06",
+      "passage_id": "P08-RC-05",
+      "source_number": 47,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 12
+        }
+      ],
+      "evidence_quote": "The second tier is rooted in the human need for safety, stability, and protection.",
+      "rationale_id": "Jawaban (C) karena dalam istilah modern kebutuhan akan safety, stability, dan protection paling wajar tercermin pada keamanan kerja dan finansial.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q07",
+      "passage_id": "P08-RC-05",
+      "source_number": 48,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "includes a conglomeration of emotionally centered traits that pivot on competence, confidence, mastery, achievement, independence, and freedom",
+      "rationale_id": "Jawaban (A) karena `conglomeration` berarti kumpulan atau gabungan banyak unsur; dari opsi yang ada, `complex` paling dekat maknanya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q08",
+      "passage_id": "P08-RC-05",
+      "source_number": 49,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 4
+        },
+        {
+          "start": 23,
+          "end": 24
+        }
+      ],
+      "evidence_quote": "desires for power, tangible achievement, social acceptance, belongingness, self-esteem, and self-actualization ... resist enculturation",
+      "rationale_id": "Jawaban (D) karena esteem dan achievement disebut eksplisit, sedangkan `conformism` tidak disebut sebagai faktor motivasi; bahkan pada level tertinggi justru disebut `resist enculturation`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P08-RC-05-Q09",
+      "passage_id": "P08-RC-05",
+      "source_number": 50,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 25,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "In many cases, self-actualizers do not lead ordinary lives, choose growth over safety, and cultivate peak experiences",
+      "rationale_id": "Jawaban (D) karena passage menyimpulkan bahwa self-actualizers sering tidak menjalani hidup yang biasa, sehingga kesimpulan paling didukung adalah mereka dapat menjalani hidup yang rumit atau tidak sederhana.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    }
+  ]
+}

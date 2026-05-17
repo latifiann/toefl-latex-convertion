@@ -1,0 +1,207 @@
+{
+  "practice_id": "P08",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-ST-01",
+      "source_number": 1,
+      "prompt": "The Internet.... access to current news, political articles, business statistics, and software for practically any purpose.",
+      "choices": {
+        "A": "can provide ready",
+        "B": "can be provided readily",
+        "C": "ready and can be providing",
+        "D": "is ready and can provide"
+      }
+    },
+    {
+      "id": "P08-ST-02",
+      "source_number": 2,
+      "prompt": "Descriptive analysis of language merely reflects.... used without concern for the social prestige of these structures.",
+      "choices": {
+        "A": "it how grammar structures and vocabulary is",
+        "B": "how are grammar structures and vocabulary",
+        "C": "how grammar structures and vocabulary are",
+        "D": "it is how grammar structures and vocabulary are"
+      }
+    },
+    {
+      "id": "P08-ST-03",
+      "source_number": 3,
+      "prompt": "James Boswell was a Scottish authór whose private journals..... personality and colorful experiences during his European journeys, meetings with renowned French philosophers, and adventures with Corsican rebels.",
+      "choices": {
+        "A": "revelations of his fascinating",
+        "B": "revealing his fascination",
+        "C": "his revealing fascinations",
+        "D": "reveal his fascinating"
+      }
+    },
+    {
+      "id": "P08-ST-04",
+      "source_number": 4,
+      "prompt": "Originally, the first European colleges consisted of groups of individuals..... joined their efforts to study sciences, medicine, and law.",
+      "choices": {
+        "A": "who lived together and",
+        "B": "whose life together and",
+        "C": "and who live together",
+        "D": "whose living together and"
+      }
+    },
+    {
+      "id": "P08-ST-05",
+      "source_number": 5,
+      "prompt": "Sedimentary rock represents. geologically transformed minerals and small particles of -- --- --- deposited by the movement of water, wind, or glacial ice.",
+      "choices": {
+        "A": "chemicals matter",
+        "B": "chemical matter",
+        "C": "matters of chemical",
+        "D": "matters in chemicals"
+      }
+    },
+    {
+      "id": "P08-ST-06",
+      "source_number": 6,
+      "prompt": "The buff pottery with red designs made by the Hohokam desert dwellers in the Southwestern regions..... for its original construction and unique shape.",
+      "choices": {
+        "A": "are highly prized",
+        "B": "is a high price",
+        "C": "is highly prized",
+        "D": "are prized highly"
+      }
+    },
+    {
+      "id": "P08-ST-07",
+      "source_number": 7,
+      "prompt": "Soap operas and day-time comedy serials were...... originated in Chicago in the 1930s, and most consisted of 15- minute episodes broadcast five times a week.",
+      "choices": {
+        "A": "radio shows that",
+        "B": "that radio showing",
+        "C": "shown that radio",
+        "D": "radio that is shown"
+      }
+    },
+    {
+      "id": "P08-ST-08",
+      "source_number": 8,
+      "prompt": "Although food preferences vary a great deal from one individual to another, geographic location, traditional customs, and family socioeconomic position play a major role....",
+      "choices": {
+        "A": "formational in dieta",
+        "B": "informing dietary habits",
+        "C": "in forming dietary habits",
+        "D": "in forming dietary habitual"
+      }
+    },
+    {
+      "id": "P08-ST-09",
+      "source_number": 9,
+      "prompt": "Precipitation of microscopic marine organisms on the ocean floor results in the creation of limestone, parallel or discordant layers of deposited......chemical material.",
+      "choices": {
+        "A": "characteristics in",
+        "B": "of the characteristic",
+        "C": "characterized by",
+        "D": "in the characterization of"
+      }
+    },
+    {
+      "id": "P08-ST-10",
+      "source_number": 10,
+      "prompt": "Approximately 400 million to 250 million years ago, the ability of primitive plants to reproduce by seed......to cope with harsher habitats than could the flora that reproduced by spores.",
+      "choices": {
+        "A": "has allowed for them",
+        "B": "was allowed by them",
+        "C": "have been allowed them",
+        "D": "allowed them"
+      }
+    },
+    {
+      "id": "P08-ST-11",
+      "source_number": 11,
+      "prompt": "Some language experts might say......to a person speaking a language one does not understand and still determine whether the speaker is excited or exhausted, angry, or pleased.",
+      "choices": {
+        "A": "that possibly it is to listen",
+        "B": "what is possible to listen to it",
+        "C": "that it is possible to listen",
+        "D": "whether is it a possibility to listen"
+      }
+    },
+    {
+      "id": "P08-ST-12",
+      "source_number": 12,
+      "prompt": "David Smith, who welded metal sculptures and relied on his experience as a welder in a factory during World War II, opened new paths for...... to experiment with landscape art composed of objects.",
+      "choices": {
+        "A": "other artists",
+        "B": "another, artists",
+        "C": "others artists",
+        "D": "the others, artist"
+      }
+    },
+    {
+      "id": "P08-ST-13",
+      "source_number": 13,
+      "prompt": "Exercise can be classified as active or passive with the former......effort and the latter the use of machines or training assistants.",
+      "choices": {
+        "A": "involves physical",
+        "B": "physics is involved",
+        "C": "involving physical",
+        "D": "physically involved"
+      }
+    },
+    {
+      "id": "P08-ST-14",
+      "source_number": 14,
+      "prompt": "The construction of the Alaska Highway....... in 1939 and led to a economic boom and population growth in Northern Territories.",
+      "choices": {
+        "A": "was beginning",
+        "B": "it began",
+        "C": "has been begun",
+        "D": "was begun"
+      }
+    },
+    {
+      "id": "P08-ST-15",
+      "source_number": 15,
+      "prompt": "...... the perishable quality of organic fibers, it is not possible to trace early techniques associated with weaving and interlacing of twines and threads.",
+      "choices": {
+        "A": "Because",
+        "B": "Due to the fact that",
+        "C": "Because of",
+        "D": "Due to the fact"
+      }
+    }
+  ]
+}

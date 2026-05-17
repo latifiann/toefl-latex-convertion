@@ -1,0 +1,299 @@
+{
+  "practice_id": "P08",
+  "section": "reading",
+  "passage_id": "P08-RC-01",
+  "source_question_range": [
+    1,
+    12
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Architecture has social purposes and meets practical needs by means of combining art"
+    },
+    {
+      "line": 2,
+      "text": "and technological innovations. In building construction, however, an emergence of new"
+    },
+    {
+      "line": 3,
+      "text": "materials does not make its precursors obsolete, and architectural knowledge is cumulative."
+    },
+    {
+      "line": 4,
+      "text": "The fact that today much is constructed from prefabricated concrete does not do away with"
+    },
+    {
+      "line": 5,
+      "text": "brick. Furthermore, despite dramatic changes and increased technological sophistication of"
+    },
+    {
+      "line": 6,
+      "text": "architectural design and construction, the essential apparatus of erecting a building has"
+    },
+    {
+      "line": 7,
+      "text": "remained rooted in preindustrial traditional practices passed down during the millennia. The"
+    },
+    {
+      "line": 8,
+      "text": "social and utilitarian expectations of structures are largely based on elemental demands of"
+    },
+    {
+      "line": 9,
+      "text": "keeping out elements and enemies, ameliorating the extremes of heat, and avoiding the"
+    },
+    {
+      "line": 10,
+      "text": "intrusion of wind, precipitation, and pests."
+    },
+    {
+      "line": 11,
+      "text": "Gravity, air pressure, and earthquakes can induce tensions that have to be accounted for"
+    },
+    {
+      "line": 12,
+      "text": "when constructing functional enclosed space. Vertical stacking of masonry materials causes"
+    },
+    {
+      "line": 13,
+      "text": "compression that can lead to important problems when a structure is spanned to build a"
+    },
+    {
+      "line": 14,
+      "text": "roof and connect walls. Arches, vaults, and domes were specifically developed to alleviate"
+    },
+    {
+      "line": 15,
+      "text": "the compression by directing the spanning element along a curve rather than a straight line."
+    },
+    {
+      "line": 16,
+      "text": "Building suspension structures, dams, and tunnels became possible in the nineteenth"
+    },
+    {
+      "line": 17,
+      "text": "century with the increased availability of steel that could reinforce structural frames and"
+    },
+    {
+      "line": 18,
+      "text": "enable. them to withstand natural forces previously believed to be insurmountable."
+    },
+    {
+      "line": 19,
+      "text": "Functional evolutions of modern buildings create new demands on the analysis of struc-"
+    },
+    {
+      "line": 20,
+      "text": "tural behavior and engineering. Few occupants of skyscrapers view elevators as elaborate"
+    },
+    {
+      "line": 21,
+      "text": "systems of vertical transportation. Humidity and temperature control, forced ventilation, nat-"
+    },
+    {
+      "line": 22,
+      "text": "ural and artificial lighting, sanitation and disposal of waste, electrical wiring, and fire pre-"
+    },
+    {
+      "line": 23,
+      "text": "vention make very tall constructions engineering marvels that also must be aesthetically"
+    },
+    {
+      "line": 24,
+      "text": "pleasing and physically convenient."
+    },
+    {
+      "line": 25,
+      "text": "Erecting a structure involves a great deal more than merely attending to the aesthetics and"
+    },
+    {
+      "line": 26,
+      "text": "psychological experience of architectural space. The shape, size, and incombustibility of locally"
+    },
+    {
+      "line": 27,
+      "text": "available construction materials fostered developments of specific technologies, and brick and"
+    },
+    {
+      "line": 28,
+      "text": "stone masonry have evolved in. response to the need for structural durability. Advances in civil"
+    },
+    {
+      "line": 29,
+      "text": "engineering and knowledge associated with properties of building materials combine to lead to"
+    },
+    {
+      "line": 30,
+      "text": "innovations in architectural design. Tools and skills required to exploit easily obtainable materi-"
+    },
+    {
+      "line": 31,
+      "text": "als have continued to inform the development of modern industrialized technologies."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 31
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "What is the main topic of the passage?",
+      "choices": {
+        "A": "The modern art of architecture and social pressure",
+        "B": "The profound importance of tradition in architecture",
+        "C": "The mutual impact of architecture and technology",
+        "D": "The great technological advances in building materials"
+      }
+    },
+    {
+      "id": "P08-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "The word \"obsolete\" in line 3 is closest in meaning to",
+      "choices": {
+        "A": "obvious",
+        "B": "obstinate",
+        "C": "antiquarian",
+        "D": "antiquated"
+      },
+      "referenced_lines": {
+        "start": 3,
+        "end": 3
+      }
+    },
+    {
+      "id": "P08-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "The author mentions the word \"brick\" in line 5 as an example of which of the following?",
+      "choices": {
+        "A": "How old techniques can continue to remain practical",
+        "B": "How old buildings can coexist with modern architecture",
+        "C": "How new knowledge can supplant traditional technology",
+        "D": "How new design can improve traditional construction"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P08-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "It can be inferred from the passage that pragmatic requirements of buildings",
+      "choices": {
+        "A": "retain essential sophistication",
+        "B": "hold constant over time",
+        "C": "stagnate over millennia",
+        "D": "stay rooted in the elements"
+      }
+    },
+    {
+      "id": "P08-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "What can be inferred from the passage about reducing the effects of material compacting?",
+      "choices": {
+        "A": "Masonry is stacked vertically by increasing compression.",
+        "B": "Downward pressure is dispersed by semicircular roofs.",
+        "C": "Buildings are spanned to account for the force of gravity.",
+        "D": "Vertical roofs are bent to counteract air pressure."
+      }
+    },
+    {
+      "id": "P08-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "The word \"withstand\" in line 1 8 is closest in meaning to",
+      "choices": {
+        "A": "endure",
+        "B": "enlarge",
+        "C": "withdraw",
+        "D": "withhold"
+      },
+      "referenced_lines": {
+        "start": 1,
+        "end": 1
+      }
+    },
+    {
+      "id": "P08-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "The purpose of paragraph 3 is to suggest that",
+      "choices": {
+        "A": "tall buildings require large amounts of wiring to make them functional",
+        "B": "architectural innovations pose new challenges for technological development",
+        "C": "skyscrapers need to be appealing and convenient for their occupants",
+        "D": "architects of modern buildings create a demand for engineering talent"
+      }
+    },
+    {
+      "id": "P08-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "The word \"marvels\" in line 23 is closest in meaning to",
+      "choices": {
+        "A": "miracle",
+        "B": "mirage",
+        "C": "conception",
+        "D": "construction"
+      },
+      "referenced_lines": {
+        "start": 23,
+        "end": 23
+      }
+    },
+    {
+      "id": "P08-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "According to the passage, what is one of the important requirements of building materials?",
+      "choices": {
+        "A": "They need to be large and well shaped.",
+        "B": "They should be locally produced.",
+        "C": "They do not affect human psychology.",
+        "D": "They have to be inflammable."
+      }
+    },
+    {
+      "id": "P08-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "The word \"fostered\" in line 27 is closest in meaning to",
+      "choices": {
+        "A": "founded",
+        "B": "focused",
+        "C": "encouraged",
+        "D": "enveloped"
+      },
+      "referenced_lines": {
+        "start": 27,
+        "end": 27
+      }
+    },
+    {
+      "id": "P08-RC-01-Q11",
+      "source_number": 11,
+      "prompt": "It can be inferred from the passage that architecture and engineering",
+      "choices": {
+        "A": "are at the opposite ends of the technological spectrum",
+        "B": "go hand in hand to promote art and science",
+        "C": "compete for technological advancements",
+        "D": "supercede aesthetic and experiential values"
+      }
+    },
+    {
+      "id": "P08-RC-01-Q12",
+      "source_number": 12,
+      "prompt": "The word \"inform\" in line 31 is closest in meaning to",
+      "choices": {
+        "A": "insist on",
+        "B": "infringe on",
+        "C": "contrast with",
+        "D": "contribute to"
+      },
+      "referenced_lines": {
+        "start": 31,
+        "end": 31
+      }
+    }
+  ]
+}

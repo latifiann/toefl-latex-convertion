@@ -1,0 +1,1282 @@
+{
+  "practice_id": "P08",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-ST-16",
+      "source_number": 16,
+      "prompt": "Because of(A) the federal government did not relocate from(B) Philadelphia to Washington, D.C., until 1800, George Washington and his wife never moved into(C) the White House but resided in Philadelphia(D) instead.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Because of",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "the federal government ",
+          "underlined": false
+        },
+        {
+          "text": "did not relocate from",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "Philadelphia to Washington, D.C., until 1800, George Washington and his wife ",
+          "underlined": false
+        },
+        {
+          "text": "never moved into",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "the White House but ",
+          "underlined": false
+        },
+        {
+          "text": "resided in Philadelphia",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "instead.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-17",
+      "source_number": 17,
+      "prompt": "Parallels, which are imaginary dividing lines(A) drawing parallel(B) to the equator and perpendicular to the Earth's axis, measure distances north(C) and south by sectioning the globe into equally spaced circles(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Parallels, which are imaginary ",
+          "underlined": false
+        },
+        {
+          "text": "dividing lines",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "drawing parallel",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "to the equator and perpendicular to the Earth's axis, ",
+          "underlined": false
+        },
+        {
+          "text": "measure distances north",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "and south by sectioning the globe into ",
+          "underlined": false
+        },
+        {
+          "text": "equally spaced circles",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-18",
+      "source_number": 18,
+      "prompt": "In his novel published(A) in 1894, Mark Twain referred to fingerprinting as a completely reliable(B) technique for established(C) a personal identity of twins differentiated by the shape of ridges(D) on their fingertips.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In his novel ",
+          "underlined": false
+        },
+        {
+          "text": "published",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "in 1894, Mark Twain referred to fingerprinting as a ",
+          "underlined": false
+        },
+        {
+          "text": "completely reliable",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "technique ",
+          "underlined": false
+        },
+        {
+          "text": "for established",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "a personal identity of twins differentiated by the ",
+          "underlined": false
+        },
+        {
+          "text": "shape of ridges",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "on their fingertips.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-19",
+      "source_number": 19,
+      "prompt": "Ancient Greek philosophers believed(A) that listening to musicals arrangements(B) and particular types of sounds(C) led young children to develop beneficial physical and mental(D) characteristics.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Ancient Greek philosophers ",
+          "underlined": false
+        },
+        {
+          "text": "believed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "that listening to ",
+          "underlined": false
+        },
+        {
+          "text": "musicals arrangements",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "and particular ",
+          "underlined": false
+        },
+        {
+          "text": "types of sounds",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "led young children to develop beneficial ",
+          "underlined": false
+        },
+        {
+          "text": "physical and mental",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "characteristics.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-20",
+      "source_number": 20,
+      "prompt": "At the end of the American Civil War, Andrew Jackson succeeded(A) Abraham Lincoln as the U.S. president(B) and after completing(C) his term returning(D) to his home state of Tennessee.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "At the end of the American Civil War, Andrew Jackson ",
+          "underlined": false
+        },
+        {
+          "text": "succeeded",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "Abraham Lincoln ",
+          "underlined": false
+        },
+        {
+          "text": "as the U.S. president",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "and ",
+          "underlined": false
+        },
+        {
+          "text": "after completing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "his term ",
+          "underlined": false
+        },
+        {
+          "text": "returning",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "to his home state of Tennessee.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-21",
+      "source_number": 21,
+      "prompt": "Before the American Revolution, the task of maintaining law and order(A) was carrying out(B) by elected officials(C) and citizens to keep a careful watch for fires and suspicious activities in towns and rural areas alike(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Before the American Revolution, the task of ",
+          "underlined": false
+        },
+        {
+          "text": "maintaining law and order",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "was carrying out",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "by ",
+          "underlined": false
+        },
+        {
+          "text": "elected officials",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "and citizens to keep a careful watch for fires and suspicious activities in towns and ",
+          "underlined": false
+        },
+        {
+          "text": "rural areas alike",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-22",
+      "source_number": 22,
+      "prompt": "Edmund Malone was a great scholar whom depicted(A) the life and work of William Shakespeare and contributed his expertise(B) in language to publishing a formal(C) biography of the playwright and his humble beginnings(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Edmund Malone was a great scholar ",
+          "underlined": false
+        },
+        {
+          "text": "whom depicted",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "the life and work of William Shakespeare and ",
+          "underlined": false
+        },
+        {
+          "text": "contributed his expertise",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "in language ",
+          "underlined": false
+        },
+        {
+          "text": "to publishing a formal",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "biography of the playwright and his ",
+          "underlined": false
+        },
+        {
+          "text": "humble beginnings",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-23",
+      "source_number": 23,
+      "prompt": "Water levels in the Great Lakes fluctuate dramatically(A) over periods of years by as much as one(B) meter, and during the spring runoff, the levels may rise(C) or fall by as much as two meters, particularly in Lake Erie, the shallow of the five(D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Water levels in the Great Lakes ",
+          "underlined": false
+        },
+        {
+          "text": "fluctuate dramatically",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "over periods of years by ",
+          "underlined": false
+        },
+        {
+          "text": "as much as one",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "meter, and during the spring runoff, the levels ",
+          "underlined": false
+        },
+        {
+          "text": "may rise",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "or fall by as much as two meters, particularly in Lake Erie, ",
+          "underlined": false
+        },
+        {
+          "text": "the shallow of the five",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-24",
+      "source_number": 24,
+      "prompt": "Whether sounds are perceived(A) to be musical or not depends on learning more(B) and cultural conditioning than(C) the physical properties of sounds or innate characteristics(D) of the human brain.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Whether ",
+          "underlined": false
+        },
+        {
+          "text": "sounds are perceived",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "to be musical or not depends on ",
+          "underlined": false
+        },
+        {
+          "text": "learning more",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "and ",
+          "underlined": false
+        },
+        {
+          "text": "cultural conditioning than",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "the physical properties of sounds or ",
+          "underlined": false
+        },
+        {
+          "text": "innate characteristics",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "of the human brain.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-25",
+      "source_number": 25,
+      "prompt": "Baobab trees that closely related(A) to the family of bottle and cactus trees have thick trunks with soft centers that store water(B) in sufficient amounts(C) to enable the plants to weather long(D) periods of desert droughts.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Baobab trees ",
+          "underlined": false
+        },
+        {
+          "text": "that closely related",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "to the family of bottle and cactus trees have thick trunks with soft centers ",
+          "underlined": false
+        },
+        {
+          "text": "that store water",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "in ",
+          "underlined": false
+        },
+        {
+          "text": "sufficient amounts",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "to enable the plants ",
+          "underlined": false
+        },
+        {
+          "text": "to weather long",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "periods of desert droughts.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-26",
+      "source_number": 26,
+      "prompt": "Since the early twentieth century(A), the mass-production of automobiles has begun to change(B) the American lifestyle and landscape, as ready access by(C) a motor vehicle determines where do people(D) build houses and other facilities.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Since ",
+          "underlined": false
+        },
+        {
+          "text": "the early twentieth century",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", the mass-production of automobiles ",
+          "underlined": false
+        },
+        {
+          "text": "has begun to change",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "the American lifestyle and landscape, ",
+          "underlined": false
+        },
+        {
+          "text": "as ready access by",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "a motor vehicle determines ",
+          "underlined": false
+        },
+        {
+          "text": "where do people",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "build houses and other facilities.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-27",
+      "source_number": 27,
+      "prompt": "Although radiocarbon dating of archeological finds(A) can prove to be fair reliable(B) for establishing the age of prehistoric objects, additional techniques must be employed(C) to date objects older than(D) 50,000 years.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Although radiocarbon dating of ",
+          "underlined": false
+        },
+        {
+          "text": "archeological finds",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "can prove to be ",
+          "underlined": false
+        },
+        {
+          "text": "fair reliable",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "for establishing the age of prehistoric objects, additional techniques must ",
+          "underlined": false
+        },
+        {
+          "text": "be employed",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "to date objects ",
+          "underlined": false
+        },
+        {
+          "text": "older than",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "50,000 years.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-28",
+      "source_number": 28,
+      "prompt": "Owing(A) to their superior skill(B), highly competitive athletes have been known(C) to win contests and break records even when suffered(D) from injuries, physical disorders, and infections.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Owing",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "to their ",
+          "underlined": false
+        },
+        {
+          "text": "superior skill",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", highly competitive athletes ",
+          "underlined": false
+        },
+        {
+          "text": "have been known",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "to win contests and break records even ",
+          "underlined": false
+        },
+        {
+          "text": "when suffered",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "from injuries, physical disorders, and infections.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-29",
+      "source_number": 29,
+      "prompt": "The keyboard was invented(A) in medieval Europe during the rise of(B) multipart musical compositions and replacement(C) the mechanical dulcimer in domestic uses(D) and public performances.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The keyboard ",
+          "underlined": false
+        },
+        {
+          "text": "was invented",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "in medieval Europe during the ",
+          "underlined": false
+        },
+        {
+          "text": "rise of",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "multipart musical compositions and ",
+          "underlined": false
+        },
+        {
+          "text": "replacement",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "the mechanical dulcimer in ",
+          "underlined": false
+        },
+        {
+          "text": "domestic uses",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "and public performances.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-30",
+      "source_number": 30,
+      "prompt": "The Paleo-Indian tribes were able to switch(A) from food gathering and nomadic way of life to permanent settlements only they(B) acquired means of planting(C) and harvesting more predictable(D) crops of grain and beans.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The Paleo-Indian tribes ",
+          "underlined": false
+        },
+        {
+          "text": "were able to switch",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "from food gathering and nomadic way of life to permanent settlements ",
+          "underlined": false
+        },
+        {
+          "text": "only they",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "acquired ",
+          "underlined": false
+        },
+        {
+          "text": "means of planting",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "and harvesting ",
+          "underlined": false
+        },
+        {
+          "text": "more predictable",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "crops of grain and beans.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-31",
+      "source_number": 31,
+      "prompt": "Hand axes founded(A) in the high banks of the Thames River have been identified(B) as much older artifacts than pottery shards excavated in(C) the lower flood planes located in different(D) geological strata.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Hand axes ",
+          "underlined": false
+        },
+        {
+          "text": "founded",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "in the high banks of the Thames River ",
+          "underlined": false
+        },
+        {
+          "text": "have been identified",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "as much older artifacts than pottery shards ",
+          "underlined": false
+        },
+        {
+          "text": "excavated in",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "the lower flood planes ",
+          "underlined": false
+        },
+        {
+          "text": "located in different",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "geological strata.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-32",
+      "source_number": 32,
+      "prompt": "In stained-glass work(A), cut pieces of colored glass are positioned(B) in incremental frames made of shape metal strips(C) and soldered to a large overall(D) frame.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In ",
+          "underlined": false
+        },
+        {
+          "text": "stained-glass work",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", cut pieces of colored glass ",
+          "underlined": false
+        },
+        {
+          "text": "are positioned",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "in incremental frames made of ",
+          "underlined": false
+        },
+        {
+          "text": "shape metal strips",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "and soldered ",
+          "underlined": false
+        },
+        {
+          "text": "to a large overall",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "frame.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-33",
+      "source_number": 33,
+      "prompt": "The colonies of settlers who were called(A) the \"Pennsylvania Dutch\" actually consisted from(B) German, Swiss, and Moravian members of religious sects who secluded(C) themselves from(D) political and social affairs of their secular neighbors.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The colonies of settlers ",
+          "underlined": false
+        },
+        {
+          "text": "who were called",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "the \"Pennsylvania Dutch\" actually ",
+          "underlined": false
+        },
+        {
+          "text": "consisted from",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "German, Swiss, and Moravian members of religious sects ",
+          "underlined": false
+        },
+        {
+          "text": "who secluded",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "themselves from",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "political and social affairs of their secular neighbors.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-34",
+      "source_number": 34,
+      "prompt": "The price theory that represents(A) the core of microeconomics explained(B) how the variability of supply and demand in competitive(C) markets creates(D) an interplay of prices for goods and services.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The price theory ",
+          "underlined": false
+        },
+        {
+          "text": "that represents",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "the core of microeconomics ",
+          "underlined": false
+        },
+        {
+          "text": "explained",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "how the variability of supply and demand ",
+          "underlined": false
+        },
+        {
+          "text": "in competitive",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "markets ",
+          "underlined": false
+        },
+        {
+          "text": "creates",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "an interplay of prices for goods and services.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-35",
+      "source_number": 35,
+      "prompt": "Historians believe that Navajo tribes migrated to(A) the south from the northwestern coasts of(B) Alaska and Canada and populated the(C) Southwestern states as recent as(D) 500 years ago.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Historians believe that Navajo tribes ",
+          "underlined": false
+        },
+        {
+          "text": "migrated to",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "the south from the northwestern ",
+          "underlined": false
+        },
+        {
+          "text": "coasts of",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "Alaska and Canada ",
+          "underlined": false
+        },
+        {
+          "text": "and populated the",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "Southwestern states ",
+          "underlined": false
+        },
+        {
+          "text": "as recent as",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "500 years ago.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-36",
+      "source_number": 36,
+      "prompt": "During his remarkable career, Paul Samuelson served as(A) a magazine columnist, consultant to(B) research organizations, advised two(C) presidents, and lecturer on mathematical analysis on levels of(D) employment.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "During his remarkable career, Paul Samuelson ",
+          "underlined": false
+        },
+        {
+          "text": "served as",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "a magazine columnist, ",
+          "underlined": false
+        },
+        {
+          "text": "consultant to",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "research organizations, ",
+          "underlined": false
+        },
+        {
+          "text": "advised two",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "presidents, and lecturer on mathematical analysis ",
+          "underlined": false
+        },
+        {
+          "text": "on levels of",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "employment.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-37",
+      "source_number": 37,
+      "prompt": "In 1838, Auguste Compte devised the term \"sociology\" to refer(A) to a new science that will discover(B) regularities of human society similar to(C) laws of nature by employing(D) investigative methods.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In 1838, Auguste Compte devised the term \"sociology\" ",
+          "underlined": false
+        },
+        {
+          "text": "to refer",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "to a new science that ",
+          "underlined": false
+        },
+        {
+          "text": "will discover",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "regularities of human society ",
+          "underlined": false
+        },
+        {
+          "text": "similar to",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "laws of nature ",
+          "underlined": false
+        },
+        {
+          "text": "by employing",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "investigative methods.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-38",
+      "source_number": 38,
+      "prompt": "Although zebras are related to horses(A), they are size(B) is closer to that of donkeys whom they(C) resemble in behavior and body form, with short legs(D), high shoulders, a stiff black mane, large ears, and a tufted tail.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Although zebras are ",
+          "underlined": false
+        },
+        {
+          "text": "related to horses",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "text": "they are size",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "is closer to that of donkeys ",
+          "underlined": false
+        },
+        {
+          "text": "whom they",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "resemble in behavior and body form, ",
+          "underlined": false
+        },
+        {
+          "text": "with short legs",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ", high shoulders, a stiff black mane, large ears, and a tufted tail.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-39",
+      "source_number": 39,
+      "prompt": "Influenced(A) by the advancements in behavioral sciences, George Mead argued(B) that communication and interaction with the environment(C) are the keys to understand(D) an organism's self-consciousness.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Influenced",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "by the advancements in behavioral sciences, George Mead ",
+          "underlined": false
+        },
+        {
+          "text": "argued",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "that communication and interaction ",
+          "underlined": false
+        },
+        {
+          "text": "with the environment",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "are the keys ",
+          "underlined": false
+        },
+        {
+          "text": "to understand",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "an organism's self-consciousness.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P08-ST-40",
+      "source_number": 40,
+      "prompt": "Among the sixteenth-century Dutch painters, Peter Bruegel is the most(A) notable because of his(B) portrayal of peasant scenes and proverbial folktales that have charmed(C) art aficionados since more(D) than 400 years.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Among the sixteenth-century Dutch painters, Peter Bruegel is ",
+          "underlined": false
+        },
+        {
+          "text": "the most",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "notable ",
+          "underlined": false
+        },
+        {
+          "text": "because of his",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "portrayal of peasant scenes and proverbial folktales ",
+          "underlined": false
+        },
+        {
+          "text": "that have charmed",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "art aficionados ",
+          "underlined": false
+        },
+        {
+          "text": "since more",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "than 400 years.",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

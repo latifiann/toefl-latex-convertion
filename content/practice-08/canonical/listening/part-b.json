@@ -1,0 +1,124 @@
+{
+  "practice_id": "P08",
+  "section": "listening",
+  "part": "B",
+  "directions": [
+    "DIRECTIONS: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in. your test book and select. The best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. Remember, you are not allowed to take notes or write in your test book."
+  ],
+  "example_lines": [
+    "Listen to the following example:",
+    "You will hear:",
+    "You will read:",
+    "(A) He has changed jobs.",
+    "(B) He has two children.",
+    "(C) He has two jobs.",
+    "(D) He is looking for a job.",
+    "From the conversation you learn that Tom has taken an additional job. The best answer to the question \"Why is Tom tired?\" is (C), \"He has two jobs.\" Therefore the correct answer is (C)."
+  ],
+  "expected_source_range": [
+    31,
+    40
+  ],
+  "questions": [
+    {
+      "id": "P08-LB-31",
+      "source_number": 31,
+      "choices": {
+        "A": "Select trees that he can plant in his yard.",
+        "B": "Suggest trees that do not require much care.",
+        "C": "Figure out the best variety of trees.",
+        "D": "Point out trees that are on sale."
+      }
+    },
+    {
+      "id": "P08-LB-32",
+      "source_number": 32,
+      "choices": {
+        "A": "Fruit growth, shade, and appearance",
+        "B": "Soil erosion, height, and slope orientation",
+        "C": "Southern exposure, roots, and water",
+        "D": "Soil density, light, and heat tolerance"
+      }
+    },
+    {
+      "id": "P08-LB-33",
+      "source_number": 33,
+      "choices": {
+        "A": "They do not do well in direct sunlight.",
+        "B": "Their root systems need good drainage.",
+        "C": "They improve the environment and shade.",
+        "D": "Their height can become a problem."
+      }
+    },
+    {
+      "id": "P08-LB-34",
+      "source_number": 34,
+      "choices": {
+        "A": "Buy a few short trees.",
+        "B": "Prune more trees.",
+        "C": "Learn more about trees.",
+        "D": "Think a little longer."
+      }
+    },
+    {
+      "id": "P08-LB-35",
+      "source_number": 35,
+      "choices": {
+        "A": "Talk to the violin maker.",
+        "B": "Play the instrument.",
+        "C": "Wait for the wood to dry.",
+        "D": "Adjust the bow strings."
+      }
+    },
+    {
+      "id": "P08-LB-36",
+      "source_number": 36,
+      "choices": {
+        "A": ".It is a lengthy process.",
+        "B": "It is a delightful hobby.",
+        "C": "It is a musical endeavor.",
+        "D": "It requires musical expertise."
+      }
+    },
+    {
+      "id": "P08-LB-37",
+      "source_number": 37,
+      "choices": {
+        "A": "Music",
+        "B": "Violin",
+        "C": "Writing",
+        "D": "Reading"
+      }
+    },
+    {
+      "id": "P08-LB-38",
+      "source_number": 38,
+      "choices": {
+        "A": "Glasses are less inconvenient.",
+        "B": "Contacts can be more easily lost.",
+        "C": "Contacts are more difficult to keepclean.",
+        "D": "Glasses are less preferable."
+      }
+    },
+    {
+      "id": "P08-LB-39",
+      "source_number": 39,
+      "choices": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      }
+    },
+    {
+      "id": "P08-LB-40",
+      "source_number": 40,
+      "choices": {
+        "A": "Researching lens plastics",
+        "B": "Scheduling an eye exam",
+        "C": "Locating an optometrist",
+        "D": "Saving enough money"
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "practice_id": "P08",
+  "section": "reading",
+  "passage_id": "P08-RC-03",
+  "source_question_range": [
+    22,
+    31
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "During the late Middle Ages, oil paint took hold as the artistic medium of choice because"
+    },
+    {
+      "line": 2,
+      "text": "it was effective, flexible, and resilient relative to the wax-based, watercolor, fresco, or tem-"
+    },
+    {
+      "line": 3,
+      "text": "pera paints prevalent at the time. Although contemporary commercially prepared paints"
+    },
+    {
+      "line": 4,
+      "text": "contain a mixture of pigments and linseed oil, poppy oil paints are also available to con-"
+    },
+    {
+      "line": 5,
+      "text": "noisseurs. The original recipes developed in medieval European monasteries relied on fast-"
+    },
+    {
+      "line": 6,
+      "text": "drying bases derived from various organic oils predominantly valued for their medicinal"
+    },
+    {
+      "line": 7,
+      "text": "qualities. The pigments are insoluble, lightproof, and chemically inert powders ground in"
+    },
+    {
+      "line": 8,
+      "text": "the base. Occasionally, varnish can be added to increase the paste's ability to reflect light"
+    },
+    {
+      "line": 9,
+      "text": "and to cover pictures with a protective seal. The resulting stiff, resinous compounds are"
+    },
+    {
+      "line": 10,
+      "text": "often packaged in flexible metal or plastic tubes. Historically, yellow pigments have been"
+    },
+    {
+      "line": 11,
+      "text": "added to the oil, and then the paste was layered over tin foil to imitate the appearance of"
+    },
+    {
+      "line": 12,
+      "text": "gold leaf."
+    },
+    {
+      "line": 13,
+      "text": "Despite the numerous experiments to accelerate the drying process, oil paints dry com-"
+    },
+    {
+      "line": 14,
+      "text": "paratively slowly. with little color alteration. An important advantage of color stability is that"
+    },
+    {
+      "line": 15,
+      "text": "tones and undertones are easy to blend, match, transpose, and grade, and mistakes and"
+    },
+    {
+      "line": 16,
+      "text": "smudges are simple to correct. Due to the creamy consistency of most mixtures, artists can"
+    },
+    {
+      "line": 17,
+      "text": "exploit their viscosity in thick applications, sprays, thin trickles, and three-dimensional"
+    },
+    {
+      "line": 18,
+      "text": "blobs. The purification by boiling and filtering and bleaching of oils can impart varied hues"
+    },
+    {
+      "line": 19,
+      "text": "to powdered pigments, while drying time can be reduced by adding metallic oxides."
+    },
+    {
+      "line": 20,
+      "text": "Professional painters who mix their own medium usually have their own trademark meth-"
+    },
+    {
+      "line": 21,
+      "text": "ods of mixing materials that art experts recognize as a part of an artist's creative work."
+    },
+    {
+      "line": 22,
+      "text": "The thickness of the paste also plays an important role in defining the stages of painting"
+    },
+    {
+      "line": 23,
+      "text": "a picture. After the basic design is sketched in pencil or charcoal, the broad background or"
+    },
+    {
+      "line": 24,
+      "text": "foreground areas of the canvas are covered with thin, diluted paint on top of the primer. A"
+    },
+    {
+      "line": 25,
+      "text": "thicker paint, often with added varnish, is subsequently used to refine and outline the foun-"
+    },
+    {
+      "line": 26,
+      "text": "dation. The width of the brush depends on the type of paint the artist chooses to use,"
+    },
+    {
+      "line": 27,
+      "text": "and stiff bristles are usually found in narrow brushes for making sharp lines, while softer"
+    },
+    {
+      "line": 28,
+      "text": "brushes of animal hair can be employed in broad strokes."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 28
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-RC-03-Q01",
+      "source_number": 22,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "The evolution and history of oil paintings and media",
+        "B": "The technology and development of drying oils",
+        "C": "The recipes and ingredients for producing oil paints",
+        "D": "The composition and techniques for mixing oil paints"
+      }
+    },
+    {
+      "id": "P08-RC-03-Q02",
+      "source_number": 23,
+      "prompt": "It can be inferred from the passage that oil paintings",
+      "choices": {
+        "A": "supplanted the use of tempera and fresco",
+        "B": "took hold of the artistic choices in the Middle Ages",
+        "C": "promoted artistic talent since the early times",
+        "D": "supported the usefulness of applying paints"
+      }
+    },
+    {
+      "id": "P08-RC-03-Q03",
+      "source_number": 24,
+      "prompt": "In lines 4 and 5, the word \"connoisseurs\" is closest in meaning to",
+      "choices": {
+        "A": "explorers",
+        "B": "experts",
+        "C": "exporters",
+        "D": "experimenters"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P08-RC-03-Q04",
+      "source_number": 25,
+      "prompt": "According to the passage, medieval monks extracted oil",
+      "choices": {
+        "A": "from minerals",
+        "B": "in conjunction with pigments",
+        "C": "from plants",
+        "D": "in combination with medicines"
+      }
+    },
+    {
+      "id": "P08-RC-03-Q05",
+      "source_number": 26,
+      "prompt": "In line 8, the phrase \"the base\" is closest in meaning to",
+      "choices": {
+        "A": "paint",
+        "B": "oil",
+        "C": "chemicals.",
+        "D": "pestle"
+      },
+      "referenced_lines": {
+        "start": 8,
+        "end": 8
+      }
+    },
+    {
+      "id": "P08-RC-03-Q06",
+      "source_number": 27,
+      "prompt": "The purpose of paragraph 2 is to illustrate",
+      "choices": {
+        "A": "the laboriousness of making oil paints",
+        "B": "the durability of oil colors",
+        "C": "the complexity of oil purification",
+        "D": "the superiority of oil paints"
+      }
+    },
+    {
+      "id": "P08-RC-03-Q07",
+      "source_number": 28,
+      "prompt": "In line 17, the word \"viscosity\" is closest in meaning to",
+      "choices": {
+        "A": "stiffness",
+        "B": "elasticity",
+        "C": "stickiness",
+        "D": "eloquence"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    },
+    {
+      "id": "P08-RC-03-Q08",
+      "source_number": 29,
+      "prompt": "Which of the following is NOT mentioned as components of oil paints?",
+      "choices": {
+        "A": "accelerants",
+        "B": "retarders",
+        "C": "sealants",
+        "D": "glosses"
+      }
+    },
+    {
+      "id": "P08-RC-03-Q09",
+      "source_number": 30,
+      "prompt": "In line 20, the word \"trademark\" is closest in meaning to",
+      "choices": {
+        "A": "signature",
+        "B": "selection",
+        "C": "significance",
+        "D": "secret"
+      },
+      "referenced_lines": {
+        "start": 20,
+        "end": 20
+      }
+    },
+    {
+      "id": "P08-RC-03-Q10",
+      "source_number": 31,
+      "prompt": "The author of the passage implies that an oil painting",
+      "choices": {
+        "A": "requires professional painters to mix their own paint",
+        "B": "contains a layer of canvas and charcoal",
+        "C": "thickens as the oil continues to dry in stages",
+        "D": "requires multiple layers of brushwork"
+      }
+    }
+  ]
+}

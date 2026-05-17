@@ -1,0 +1,122 @@
+{
+  "practice_id": "P08",
+  "section": "listening",
+  "part": "C",
+  "directions": [
+    "DIRECTIONS: In Part C you will hear short lectures and extended conversations. At the end of each, you will be asked several questions. Each lecture or conversation and each question will be spoken only one time. For this reason, you must listen carefully to understand what each speaker says. After you hear a question, read the four choices and select the one that best answers the question the speaker asked. Then, on your answer sheet, find the number of the question and blacken the space that contains the letter for the answer you have chosen. Answer all questions according to what is stated or implied in the lecture or conversation."
+  ],
+  "example_lines": [
+    "Listen to this sample talk.",
+    "You will hear:",
+    "Now listen, to the following example.",
+    "You will hear:",
+    "You will read:",
+    "(A) By cars and carriages",
+    "(B) By bicycles, trains, and carriages",
+    "(C) On foot and by boat",
+    "(D) On board ships and trains",
+    "The best answer to the question \"According to the speaker, how did people travel before the invention of the automobile?\" is (B), \"By bicycles, trains, and carriages.\" Therefore, the correct answer is (B). You are not allowed to make notes during the test."
+  ],
+  "questions": [
+    {
+      "id": "P08-LC-41",
+      "source_number": 41,
+      "choices": {
+        "A": "To assist international travelers with data and changes",
+        "B": "To elaborate on the system calendars in various locations",
+        "C": "To explain the conventions of marking and changing dates",
+        "D": "To demonstrate the connections between meridians and air travel"
+      }
+    },
+    {
+      "id": "P08-LC-42",
+      "source_number": 42,
+      "choices": {
+        "A": "Travelers have to choose the best days and times for their cross-continental journeys.",
+        "B": "The distance from Los Angeles to Asia is similar to that from New York to London.",
+        "C": "Date changes occur some time when air travelers cross the Pacific.",
+        "D": "A loss of several hours of sleep is possible during long cross-continental flights."
+      }
+    },
+    {
+      "id": "P08-LC-43",
+      "source_number": 43,
+      "choices": {
+        "A": "They should count the number of hours or add hours to the local time.",
+        "B": "They need to add or subtract a day when crossing the date line.",
+        "C": "They should buy a Western or Eastern calendar to match the local day count.",
+        "D": "They need to count the beginnings of days from midnight to midnight."
+      }
+    },
+    {
+      "id": "P08-LC-44",
+      "source_number": 44,
+      "choices": {
+        "A": "North-to-south standard time zones",
+        "B": "Loose elliptical connections among longitudes",
+        "C": "The line near the 24th hour on the local calendar",
+        "D": "The area along the 180th meridian of longitude"
+      }
+    },
+    {
+      "id": "P08-LC-45",
+      "source_number": 45,
+      "choices": {
+        "A": "To describe the people who live on the island",
+        "B": "To point out earth divisions similar to those in Alaska",
+        "C": "To explain the rigidity of meridian lines",
+        "D": "To illustrate the swerves in the date line"
+      }
+    },
+    {
+      "id": "P08-LC-46",
+      "source_number": 46,
+      "choices": {
+        "A": "The prehistoric northern settlements carbohydrates and the Northwestern Passage",
+        "B": "The historical and economic significance of northern explorations",
+        "C": "The Greek, English, and Spanish explorers of the northern seas",
+        "D": "The connections between the English-Spanish war and northern explorers"
+      }
+    },
+    {
+      "id": "P08-LC-47",
+      "source_number": 47,
+      "choices": {
+        "A": "Together with the English, they defeated the Spanish fleet.",
+        "B": "Unlike the Dutch, they looked for the Northern Passage.",
+        "C": "Together with the Spanish, they controlled the southern seas.",
+        "D": "Unlike other merchants, they did not trade in India."
+      }
+    },
+    {
+      "id": "P08-LC-48",
+      "source_number": 48,
+      "choices": {
+        "A": "Those that are low in calories",
+        "B": "Those that are high in protein",
+        "C": "Those that are eaten on a usual basis",
+        "D": "Those that are eaten at regular intervals"
+      }
+    },
+    {
+      "id": "P08-LC-49",
+      "source_number": 49,
+      "choices": {
+        "A": "Vitamins and minerals",
+        "B": "Corn and potatoes",
+        "C": "Bread and butter",
+        "D": "Fish and beans"
+      }
+    },
+    {
+      "id": "P08-LC-50",
+      "source_number": 50,
+      "choices": {
+        "A": "Various kinds of fats",
+        "B": "Different types of sugars",
+        "C": "Half of all calories consumed by Americans",
+        "D": "Half of all nutrients found in carbohydrates"
+      }
+    }
+  ]
+}

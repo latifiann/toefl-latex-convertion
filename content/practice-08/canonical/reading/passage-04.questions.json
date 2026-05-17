@@ -1,0 +1,289 @@
+{
+  "practice_id": "P08",
+  "section": "reading",
+  "passage_id": "P08-RC-04",
+  "source_question_range": [
+    32,
+    41
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Samuel Johnson's achievements in lexicography and writing have few rivals in English"
+    },
+    {
+      "line": 2,
+      "text": "eighteenth-century literature. Johnson was born on September 18, 1709, in the family of a"
+    },
+    {
+      "line": 3,
+      "text": "bookseller and stationer, and his education began informally among his father's books, as"
+    },
+    {
+      "line": 4,
+      "text": "Samuel was above all an insatiable reader. During his years at Pembroke College, Oxford,"
+    },
+    {
+      "line": 5,
+      "text": "he acquired a reputation for prodigious learning and eccentricities that were as diverse as"
+    },
+    {
+      "line": 6,
+      "text": "his reading. After being plagued by many ailments and emotional breakdowns, he was"
+    },
+    {
+      "line": 7,
+      "text": "compelled to leave the college in poverty, and later in life, his despondency led him to a"
+    },
+    {
+      "line": 8,
+      "text": "profound devotion to religion."
+    },
+    {
+      "line": 9,
+      "text": "Following his father's death in 1731, Johnson tried his hand in teaching and attempted to"
+    },
+    {
+      "line": 10,
+      "text": "run a school, but his early ventures met with rapid demise. When Johnson was twenty-six,"
+    },
+    {
+      "line": 11,
+      "text": "he married Elizabeth Porter, a widow with a little fortune, who was twenty years his senior"
+    },
+    {
+      "line": 12,
+      "text": "and who became the source of calm, support, and self-confidence in his life. In 1737 in"
+    },
+    {
+      "line": 13,
+      "text": "London, Johnson began a life-long period of writing and lexicographic work that made him"
+    },
+    {
+      "line": 14,
+      "text": "a figure of renown."
+    },
+    {
+      "line": 15,
+      "text": "To his contemporaries, Johnson was known as a man of large and unwieldy constitution"
+    },
+    {
+      "line": 16,
+      "text": "and unpleasant manner. He recklessly dominated conversations, monopolized discussion"
+    },
+    {
+      "line": 17,
+      "text": "topics, and boorishly overwhelmed opposing points of view. His antagonistic habits cost"
+    },
+    {
+      "line": 18,
+      "text": "him many a friend. In 1747, burdened with extreme poverty, Johnson was commissioned to"
+    },
+    {
+      "line": 19,
+      "text": "compile a dictionary by a consortium of booksellers who sought to raise their volume of"
+    },
+    {
+      "line": 20,
+      "text": "sales. After eight years of obsessive and consuming labor, this monumental work with"
+    },
+    {
+      "line": 21,
+      "text": "40,000 entries with lucid, witty, occasionally spiteful, and idiosyncratic definitions, titled"
+    },
+    {
+      "line": 22,
+      "text": "Dictionary of the English Language, saw the light of day in 1755. The remarkable, still-"
+    },
+    {
+      "line": 23,
+      "text": "quoted lexicographic work with an enormous range of elucidating descriptions and illustrative"
+    },
+    {
+      "line": 24,
+      "text": "exemplars became the imitable forerunner of how English language dictionaries are con-"
+    },
+    {
+      "line": 25,
+      "text": "structed to this day."
+    },
+    {
+      "line": 26,
+      "text": "During the nineteenth century, literary critics largely saw Johnson's literary contributions"
+    },
+    {
+      "line": 27,
+      "text": "as slight with regard to their scholarly influence. It was perhaps Johnson's personal attrib-"
+    },
+    {
+      "line": 28,
+      "text": "utes that influenced the perspective through which he was portrayed. While his prose was"
+    },
+    {
+      "line": 29,
+      "text": "viewed as dignified, vivid, and urbane, his vast body of work in poetry, novels, essays,"
+    },
+    {
+      "line": 30,
+      "text": "tragedies, travelogues, biographies, diaries, and satire remained obscure until Joseph Krutch,"
+    },
+    {
+      "line": 31,
+      "text": "an American critic, published a penetrating study Samuel Johnson in 1944. In 1978, Walter"
+    },
+    {
+      "line": 32,
+      "text": "Bate won a Pulitzer Prize for his comprehensive psychological biography of Johnson that"
+    },
+    {
+      "line": 33,
+      "text": "established him as rational, compassionate, and undaunted advocate of moral order and"
+    },
+    {
+      "line": 34,
+      "text": "unceasing quest for truth."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 34
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-RC-04-Q01",
+      "source_number": 32,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "The life, ailments, and dictionary of Samuel Johnson",
+        "B": "Samuel Johnson's controversial character and work",
+        "C": "Samuel Johnson's contradictory traits and publications",
+        "D": "The family, commissions, and biographies of Samuel Johnson"
+      }
+    },
+    {
+      "id": "P08-RC-04-Q02",
+      "source_number": 33,
+      "prompt": "In line 5, the word prodigious is closest in meaning to",
+      "choices": {
+        "A": "immoral",
+        "B": "imminent",
+        "C": "immense",
+        "D": "immediate"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P08-RC-04-Q03",
+      "source_number": 34,
+      "prompt": "In line 6, the word \"plagued\" is closest in meaning to",
+      "choices": {
+        "A": "diseased",
+        "B": "disfigured",
+        "C": "trampled",
+        "D": "tormented"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P08-RC-04-Q04",
+      "source_number": 35,
+      "prompt": "In line 4, the word \"overlap\" is closest in meaning to",
+      "choices": {
+        "A": "coincide",
+        "B": "consign",
+        "C": "collide",
+        "D": "concur"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P08-RC-04-Q05",
+      "source_number": 36,
+      "prompt": "According to the passage, Johnson's marriage",
+      "choices": {
+        "A": "was a miserable failure due to poverty",
+        "B": "was motivated by convenience and money",
+        "C": "provided him a safe haven",
+        "D": "afforded him new writing venues"
+      }
+    },
+    {
+      "id": "P08-RC-04-Q06",
+      "source_number": 37,
+      "prompt": "The word \"antagonistic\" in line 17 is closest in meaning to.",
+      "choices": {
+        "A": "hallow",
+        "B": "heated",
+        "C": "hospitable",
+        "D": "hostile"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    },
+    {
+      "id": "P08-RC-04-Q07",
+      "source_number": 38,
+      "prompt": "According to the passage, the Dictionary descriptions of word meanings",
+      "choices": {
+        "A": "are emulated by modern lexicographers",
+        "B": "were not without peculiarities",
+        "C": "are considered exemplary by linguists",
+        "D": "were not consistently illustrated"
+      }
+    },
+    {
+      "id": "P08-RC-04-Q08",
+      "source_number": 39,
+      "prompt": "The word \"obscure\" in line 30 is closest in meaning to",
+      "choices": {
+        "A": "offensive",
+        "B": "obtuse",
+        "C": "irrelevant",
+        "D": "irreverent"
+      },
+      "referenced_lines": {
+        "start": 30,
+        "end": 30
+      }
+    },
+    {
+      "id": "P08-RC-04-Q09",
+      "source_number": 40,
+      "prompt": "Which of the following is NOT mentioned among the genres of Johnson's writing?",
+      "choices": {
+        "A": "Plays",
+        "B": "Biographies",
+        "C": "Quotations",
+        "D": "Articles"
+      }
+    },
+    {
+      "id": "P08-RC-04-Q10",
+      "source_number": 41,
+      "prompt": "The word \"slight\" in line 27 is closest in meaning to",
+      "choices": {
+        "A": "trivial",
+        "B": "triumphant",
+        "C": "sinister",
+        "D": "solemn"
+      },
+      "referenced_lines": {
+        "start": 27,
+        "end": 27
+      }
+    }
+  ]
+}

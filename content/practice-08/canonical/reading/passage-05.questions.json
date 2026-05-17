@@ -1,0 +1,238 @@
+{
+  "practice_id": "P08",
+  "section": "reading",
+  "passage_id": "P08-RC-05",
+  "source_question_range": [
+    42,
+    50
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Psychologists who work on motivation research a wide range of human traits and physi-"
+    },
+    {
+      "line": 2,
+      "text": "ological characteristics that include the effects of hunger, reward, and punishment, as well"
+    },
+    {
+      "line": 3,
+      "text": "as desires for power, tangible achievement, social acceptance, belongingness, self-esteem,"
+    },
+    {
+      "line": 4,
+      "text": "and self-actualization. A plethora of hypotheses developed in the nineteenth and twentieth"
+    },
+    {
+      "line": 5,
+      "text": "centuries have the goal of identifying causes of an organism's behavior that can be both"
+    },
+    {
+      "line": 6,
+      "text": "conscious and unconscious. The hierarchical organization of human needs is a theoretical"
+    },
+    {
+      "line": 7,
+      "text": "model, originally established by an American psychologist, Abraham Maslow, in 1954. The"
+    },
+    {
+      "line": 8,
+      "text": "needs located at the bottom of the pyramid are the essentials of physiological survival that"
+    },
+    {
+      "line": 9,
+      "text": "encompass oxygen, water, nutrition, rest, and avoidance of pain. Maslow's theory, grounded"
+    },
+    {
+      "line": 10,
+      "text": "in research, also stipulated that these are variable and, at least to some extent, may explain,"
+    },
+    {
+      "line": 11,
+      "text": "for example, food gratification. The second tier is rooted in the human need for safety, sta-"
+    },
+    {
+      "line": 12,
+      "text": "bility, and protection."
+    },
+    {
+      "line": 13,
+      "text": "In the human life cycle, the needs for belonging are manifested in the desires to marry,"
+    },
+    {
+      "line": 14,
+      "text": "have a family, belong in a community or among similarly minded people. In part, the need"
+    },
+    {
+      "line": 15,
+      "text": "to belong can also show up in a search for particular types of occupations or careers. The"
+    },
+    {
+      "line": 16,
+      "text": "next level of the hierarchy in effect deals with two substrata, where the first presumes the"
+    },
+    {
+      "line": 17,
+      "text": "need for status, prestige, recognition, appreciation, and dominance, and the higher division"
+    },
+    {
+      "line": 18,
+      "text": "includes a conglomeration of emotionally centered traits that pivot on competence, confi-"
+    },
+    {
+      "line": 19,
+      "text": "dence, mastery, achievement, independence, and freedom."
+    },
+    {
+      "line": 20,
+      "text": "The top tier is different from all others, and Maslow referred to it as growth motivation"
+    },
+    {
+      "line": 21,
+      "text": "and self-actualization. At the highest level, individuals seek to realize and put to use their"
+    },
+    {
+      "line": 22,
+      "text": "creativity, talent, leadership, curiosity, and understanding. At this level people can reach"
+    },
+    {
+      "line": 23,
+      "text": "their full potentials and accurately perceive and accept reality, seek privacy and depth in"
+    },
+    {
+      "line": 24,
+      "text": "personal relationships, resist enculturation, and develop social interests, compassion, and"
+    },
+    {
+      "line": 25,
+      "text": "humanity. In many cases, self-actualizers do not lead ordinary lives, choose growth over"
+    },
+    {
+      "line": 26,
+      "text": "safety, and cultivate peak experiences that leave their mark and change one for the better."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 26
+    }
+  ],
+  "questions": [
+    {
+      "id": "P08-RC-05-Q01",
+      "source_number": 42,
+      "prompt": "According to the passage, what does psychology of motivation attempt to uncover?",
+      "choices": {
+        "A": "Reactions to hunger and desires for power",
+        "B": "Developments of human physiology and mind",
+        "C": "Reasons for human conduct and moving forces",
+        "D": "Organization of human society and hierarchies"
+      }
+    },
+    {
+      "id": "P08-RC-05-Q02",
+      "source_number": 43,
+      "prompt": "The word \"plethora\" in line 4 is closest in meaning to",
+      "choices": {
+        "A": "oversimplification",
+        "B": "overlap",
+        "C": "overreach",
+        "D": "overabundance"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P08-RC-05-Q03",
+      "source_number": 44,
+      "prompt": "It can be inferred from the passage that in Maslow's hierarchy",
+      "choices": {
+        "A": "the first layer of needs dominates other tiers",
+        "B": "the highest level of the model supercedes the lower levels",
+        "C": "the second layer of needs is more urgent than the first",
+        "D": "the third level of the model is embedded in the fourth"
+      }
+    },
+    {
+      "id": "P08-RC-05-Q04",
+      "source_number": 45,
+      "prompt": "In line 6, the word \"trendy\" is closest in meaning to",
+      "choices": {
+        "A": "tender",
+        "B": "experimental",
+        "C": "fashionable",
+        "D": "trusted"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P08-RC-05-Q05",
+      "source_number": 46,
+      "prompt": "The word \"gratification\" in line 11 is closest in meaning to",
+      "choices": {
+        "A": "gratitude",
+        "B": "pleasure",
+        "C": "gratuity",
+        "D": "pleasantry"
+      },
+      "referenced_lines": {
+        "start": 11,
+        "end": 11
+      }
+    },
+    {
+      "id": "P08-RC-05-Q06",
+      "source_number": 47,
+      "prompt": "It can be inferred from the passage that in modern-day terms, the second layer of needs can be reflected in people's desire for",
+      "choices": {
+        "A": "a house in an upscale neighborhood",
+        "B": "a protected existence and dependence",
+        "C": "a measure of job and financial security",
+        "D": "a degree of friendship and family life"
+      }
+    },
+    {
+      "id": "P08-RC-05-Q07",
+      "source_number": 48,
+      "prompt": "The word \"conglomeration\" in line 18 is closest in meaning to",
+      "choices": {
+        "A": "complex",
+        "B": "congress",
+        "C": "conjunction",
+        "D": "connotation"
+      },
+      "referenced_lines": {
+        "start": 18,
+        "end": 18
+      }
+    },
+    {
+      "id": "P08-RC-05-Q08",
+      "source_number": 49,
+      "prompt": "Which of the following is NOT mentioned as a factor in human motivation?",
+      "choices": {
+        "A": "Esteem",
+        "B": "Participation",
+        "C": "Accomplishment",
+        "D": "Conformism"
+      }
+    },
+    {
+      "id": "P08-RC-05-Q09",
+      "source_number": 50,
+      "prompt": "Which of the following conclusions is supported by the passage?",
+      "choices": {
+        "A": "Genuine self-actualizers may attain self-satisfaction.",
+        "B": "Sincere self-promotèrs can achieve full contentment.",
+        "C": "Real self-starters can achieve their lives' desires.",
+        "D": "True self-actualizers may lead complicated lives."
+      }
+    }
+  ]
+}
