@@ -53,6 +53,7 @@ def clean_line(text: str) -> str:
     text = text.replace("(D)For", "(D) For")
     text = text.replace("take. off", "take off")
     text = text.replace("andcan", "and can")
+    text = re.sub(r"^(\d+)\s*([A-Da-d])\)\s+", lambda m: f"({m.group(2).upper()}) ", text)
     for broken, fixed in {
         " t o ": " to ",
         " a n ": " an ",
@@ -107,6 +108,7 @@ def normalize_fragment(text: str, strip: bool = False, collapse_spaces: bool = F
     text = text.replace("(D)For", "(D) For")
     text = text.replace("take. off", "take off")
     text = text.replace("andcan", "and can")
+    text = re.sub(r"^(\d+)\s*([A-Da-d])\)\s+", lambda m: f"({m.group(2).upper()}) ", text)
     for broken, fixed in {
         " t o ": " to ",
         " a n ": " an ",
@@ -207,7 +209,7 @@ def parse_underlined_segments(inner_html: str) -> list[dict]:
         if first_plain:
             plain_text = re.sub(r"^\d+\.\s*", "", plain_text)
             first_plain = False
-        marker_prefix = re.match(r"^\(([A-D])\)(.*)$", plain_text, re.DOTALL)
+        marker_prefix = re.match(r"^\s*\(([A-D])\)\s*(.*)$", plain_text, re.DOTALL)
         if marker_prefix and segments and segments[-1].get("underlined") and not segments[-1].get("marker"):
             segments[-1]["marker"] = marker_prefix.group(1)
             plain_text = marker_prefix.group(2)

@@ -1,0 +1,207 @@
+{
+  "practice_id": "P07",
+  "section": "structure",
+  "subtype": "completion",
+  "choice_mode": "external-options",
+  "intro": [
+    "This section is designed to test your ability to recognize language structures that are appropriate in standard written English. The questions in this section belong to two types, each of which has special directions."
+  ],
+  "directions": [
+    "DIRECTIONS: Questions 1-15 are partial sentences. Below each sentence you will see four words or phrases, marked (A), (B), (C), and (D). Select the one word or phrase that best completes the sentence. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "stem": "Drying flowers is the best way......them.",
+      "choices": {
+        "A": "to preserve",
+        "B": "by preserving",
+        "C": "preserve",
+        "D": "preserved"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Drying flowers is the best way to preserve them.\" Therefore, the correct answer is (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "stem": "Many American universities......as small, private colleges.",
+      "choices": {
+        "A": "begun",
+        "B": "beginning",
+        "C": "began",
+        "D": "for the beginning"
+      },
+      "explanation_lines": [
+        "The sentence should state, \"Many American universities began as small, private colleges.\" Therefore, the correct answer is (C). After you read the directions, begin work on the questions."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-ST-01",
+      "source_number": 1,
+      "prompt": "Beginning in the 1960s, national studies have surveyed changes in the values of college students to identify......in college education.",
+      "choices": {
+        "A": "that it is important to them",
+        "B": "what is important to them",
+        "C": "to them what is the importance",
+        "D": "what importance to them"
+      }
+    },
+    {
+      "id": "P07-ST-02",
+      "source_number": 2,
+      "prompt": "Bacteria that......in ocean waters transport other organisms to new habitable environments and sources of nourishment.",
+      "choices": {
+        "A": "free travel",
+        "B": "traveling freely",
+        "C": "travel freely",
+        "D": "freely travels"
+      }
+    },
+    {
+      "id": "P07-ST-03",
+      "source_number": 3,
+      "prompt": "Two objects, both with positive or both with negative charges, are repelled. while objects with opposite charges......",
+      "choices": {
+        "A": "are attracting the other",
+        "B": "attracted to each other",
+        "C": "to each other attract them",
+        "D": "are attracted to each other"
+      }
+    },
+    {
+      "id": "P07-ST-04",
+      "source_number": 4,
+      "prompt": "Roman law, one of......with a continuous history, spread to many countries during the Roman conquest of Europe and Asia.",
+      "choices": {
+        "A": "the oldest existing systems",
+        "B": "systems, the oldest existing",
+        "C": "the existence, the oldest system",
+        "D": "existing the oldest system"
+      }
+    },
+    {
+      "id": "P07-ST-05",
+      "source_number": 5,
+      "prompt": "Although the eucalyptus is native to Australia,......in the U.S. belongs to the eucalyptus family, which comprises over 500 varieties.",
+      "choices": {
+        "A": "a large quantity of timber is harvested",
+        "B": "largely, a quantity of timber is harvested",
+        "C": "a large quantity of timber harvested",
+        "D": "a quantity of timber is large, harvested"
+      }
+    },
+    {
+      "id": "P07-ST-06",
+      "source_number": 6,
+      "prompt": "Florida, mainly a peninsula jutting into the Atlantic Ocean,......during the economic expansion of the 1990s.",
+      "choices": {
+        "A": "has been experienced, its fastest growth",
+        "B": "has experienced, it grows the fastest",
+        "C": "experienced its fastest growth",
+        "D": "its fastest growth has been experiencing"
+      }
+    },
+    {
+      "id": "P07-ST-07",
+      "source_number": 7,
+      "prompt": "When an intersecting plane......of a conical surface, the resulting curve is called the hyperbola.",
+      "choices": {
+        "A": "cuts both sides",
+        "B": "cutting both side",
+        "C": "both sides are cut",
+        "D": "cut in both sides"
+      }
+    },
+    {
+      "id": "P07-ST-08",
+      "source_number": 8,
+      "prompt": "After......California, David Hockney contributed to the Pop art trend and developed his figurative style in painting portraits.",
+      "choices": {
+        "A": "he, moving to",
+        "B": "to moving",
+        "C": "moved to",
+        "D": "moving to"
+      }
+    },
+    {
+      "id": "P07-ST-09",
+      "source_number": 9,
+      "prompt": "When the demand for merchandise exceeds capacity, customers......, if no backup inventory is available.",
+      "choices": {
+        "A": "must turn away",
+        "B": "must turn them away",
+        "C": "must be turned away",
+        "D": "turn away and must be"
+      }
+    },
+    {
+      "id": "P07-ST-10",
+      "source_number": 10,
+      "prompt": "Although......to a public office, Robert Moses served as the New York secretary of state between 1927 and 1928 and led the state redevelopment program.",
+      "choices": {
+        "A": "he never elected",
+        "B": "electing never",
+        "C": "never electing",
+        "D": "never elected"
+      }
+    },
+    {
+      "id": "P07-ST-11",
+      "source_number": 11,
+      "prompt": "Ostriches are flightless birds that can be......2.5 meters with exceptionally strong legs.",
+      "choices": {
+        "A": "as tall",
+        "B": "so tall as",
+        "C": "tall so as",
+        "D": "as tall as"
+      }
+    },
+    {
+      "id": "P07-ST-12",
+      "source_number": 12,
+      "prompt": "Sandy beaches are popular recreational locations where people come......",
+      "choices": {
+        "A": "to swim, play sports, and sunbathe",
+        "B": "to swimming, playing sports, and sunbathing",
+        "C": "for a swim, playing sports and sunbathing",
+        "D": "swim, play sports, and sunbathe"
+      }
+    },
+    {
+      "id": "P07-ST-13",
+      "source_number": 13,
+      "prompt": "Ballet dances appear to perform many movements......",
+      "choices": {
+        "A": "that is unnatural in the body",
+        "B": "that are unnatural for the body",
+        "C": "where the body is unnatural",
+        "D": "when the body is being unnatural"
+      }
+    },
+    {
+      "id": "P07-ST-14",
+      "source_number": 14,
+      "prompt": "Export credit is a financial guarantee usually provided by a bank to enable companies......when the payment is delayed or risky.",
+      "choices": {
+        "A": "for the goods exported",
+        "B": "to export goods",
+        "C": "to exporting goods",
+        "D": "exporting the goods to"
+      }
+    },
+    {
+      "id": "P07-ST-15",
+      "source_number": 15,
+      "prompt": "Nightingales that can be heard at night as well as by day migrate to Africa in winters and Europe in summers......in abundant supply.",
+      "choices": {
+        "A": "when is food",
+        "B": "when food is",
+        "C": "their food is",
+        "D": "there food is"
+      }
+    }
+  ]
+}

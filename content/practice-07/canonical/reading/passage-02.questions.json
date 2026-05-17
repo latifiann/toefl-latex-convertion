@@ -1,0 +1,276 @@
+{
+  "practice_id": "P07",
+  "section": "reading",
+  "passage_id": "P07-RC-02",
+  "source_question_range": [
+    13,
+    23
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "Most forms of property are concrete and tangible, such as houses, cars, furniture, or any-"
+    },
+    {
+      "line": 2,
+      "text": "thing else that is included in one's possessions. Other forms of property can be intangible,"
+    },
+    {
+      "line": 3,
+      "text": "and copyright deals with intangible forms of property. Copyright is a legal protection ex-"
+    },
+    {
+      "line": 4,
+      "text": "tended to authors of creative works, for example, books, magazine articles, maps, films,"
+    },
+    {
+      "line": 5,
+      "text": "plays, television shows, software, paintings, photographs, music, choreography in dance,"
+    },
+    {
+      "line": 6,
+      "text": "and all other forms of intellectual or artistic property."
+    },
+    {
+      "line": 7,
+      "text": "Although the purpose of artistic property is usually public use and enjoyment, copyright"
+    },
+    {
+      "line": 8,
+      "text": "establishes the ownership of the creator. When a person buys a copyrighted magazine, it be-"
+    },
+    {
+      "line": 9,
+      "text": "longs to this individual as a tangible object. However, the authors of the magazine articles"
+    },
+    {
+      "line": 10,
+      "text": "own the research and the writing that went into creating the articles. The right to make and"
+    },
+    {
+      "line": 11,
+      "text": "sell or give away copies of books or articles belongs to the authors, publishers, or other indi-"
+    },
+    {
+      "line": 12,
+      "text": "viduals or organizations that hold the copyright. To copy an entire book or a part of it, per-"
+    },
+    {
+      "line": 13,
+      "text": "mission must be received from the copyright owner, who will most likely expect to be paid."
+    },
+    {
+      "line": 14,
+      "text": "Copyright law distinguishes between different types of intellectual property. Music may"
+    },
+    {
+      "line": 15,
+      "text": "be played by anyone after it is published. However, if it is performed for profit, the perform-"
+    },
+    {
+      "line": 16,
+      "text": "ers need to pay a fee, called a royalty. A similar principle applies to performances of songs"
+    },
+    {
+      "line": 17,
+      "text": "and plays. On the other hand, names, ideas, and book titles are excepted. Ideas do not be-"
+    },
+    {
+      "line": 18,
+      "text": "come copyrighted property until they are published in a book, a painting, or a musical"
+    },
+    {
+      "line": 19,
+      "text": "work. Almost all artistic work created before the 20th century is not copyrighted because it"
+    },
+    {
+      "line": 20,
+      "text": "was created before the copyright law was passed."
+    },
+    {
+      "line": 21,
+      "text": "The two common ways of infringing upon the copyright are plagiarism and piracy. Pla-"
+    },
+    {
+      "line": 22,
+      "text": "giarizing the work of another person means passing it off as one's own. The word plagiarism"
+    },
+    {
+      "line": 23,
+      "text": "is derived from the Latin plagiarus, which means \"abductor\" Piracy may be an act of one per-"
+    },
+    {
+      "line": 24,
+      "text": "son but, in many cases, it is a joint effort of several people who reproduce copyrighted mate-"
+    },
+    {
+      "line": 25,
+      "text": "rial and sell it for profit without paying royalties to the creator. Technological innovations"
+    },
+    {
+      "line": 26,
+      "text": "have made piracy easy, and anyone can duplicate a motion picture on videotape, a computer"
+    },
+    {
+      "line": 27,
+      "text": "program, or a book. Video cassette recorders can be used by practically anyone to copy mov-"
+    },
+    {
+      "line": 28,
+      "text": "ies and television programs, and copying software has become almost as easy as copying a"
+    },
+    {
+      "line": 29,
+      "text": "book. Large companies zealously monitor their copyrights for. slogans, advertisements, and"
+    },
+    {
+      "line": 30,
+      "text": "brand names, protected by a trademark."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 30
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-RC-02-Q01",
+      "source_number": 13,
+      "prompt": "What does the passage mainly discuss?",
+      "choices": {
+        "A": "Legal rights of property owners",
+        "B": "Legal ownership of creative work",
+        "C": "Examples of copyright piracy",
+        "D": "Copying creating work for profit"
+      }
+    },
+    {
+      "id": "P07-RC-02-Q02",
+      "source_number": 14,
+      "prompt": "In lines 3 and 4, the word \"extended\" is closest in meaning to",
+      "choices": {
+        "A": "explicated",
+        "B": "exposed",
+        "C": "guranteed",
+        "D": "granted"
+      },
+      "referenced_lines": {
+        "start": 3,
+        "end": 3
+      }
+    },
+    {
+      "id": "P07-RC-02-Q03",
+      "source_number": 15,
+      "prompt": "It can be inferred from the passage that copyright law is intended to protect",
+      "choices": {
+        "A": "the user's ability to enjoy an artistic work",
+        "B": "the creator's ability to profit from the work",
+        "C": "paintings and photographs from theft",
+        "D": "computer software and videos from being copied"
+      }
+    },
+    {
+      "id": "P07-RC-02-Q04",
+      "source_number": 16,
+      "prompt": "In line 16, the word \"principle\" is closest in meaning to",
+      "choices": {
+        "A": "crucial point",
+        "B": "cardinal role",
+        "C": "fundamental rule",
+        "D": "formidable force"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P07-RC-02-Q05",
+      "source_number": 17,
+      "prompt": "Which of the following properties is NOT mentioned as protected by copyright?",
+      "choices": {
+        "A": "music and plays",
+        "B": "paintings and maps",
+        "C": "printed medium",
+        "D": "scientific discoveries"
+      }
+    },
+    {
+      "id": "P07-RC-02-Q06",
+      "source_number": 18,
+      "prompt": "It can be inferred from the passage that it is legal if",
+      "choices": {
+        "A": "two songs, written by two different composers, have the same melody",
+        "B": "two books, written by two different authors, have the same titles",
+        "C": "two drawings, created by two different artists, have the same images",
+        "D": "two plays, created by two different playwrights, have the same plot and characters"
+      }
+    },
+    {
+      "id": "P07-RC-02-Q07",
+      "source_number": 19,
+      "prompt": "With which of the following statements is the author most likely to agree?",
+      "choices": {
+        "A": "Teachers are not allowed to make copies of published materials for use by their students.",
+        "B": "Plays written in the 16th century cannot be performed in theaters without permission.",
+        "C": "Singers can publicly sing only the songs for which they wrote the music and the lyrics.",
+        "D": "It is illegal to make photographs when sightseeing or traveling."
+      }
+    },
+    {
+      "id": "P07-RC-02-Q08",
+      "source_number": 20,
+      "prompt": "In line 21, the phrase \"infringing upon\" is closest in meaning to",
+      "choices": {
+        "A": "impinging upon",
+        "B": "inducting for",
+        "C": "violating",
+        "D": "abhorring"
+      },
+      "referenced_lines": {
+        "start": 21,
+        "end": 21
+      }
+    },
+    {
+      "id": "P07-RC-02-Q09",
+      "source_number": 21,
+      "prompt": "The purpose of copyright law is most comparable with the purpose of which of the following?",
+      "choices": {
+        "A": "A law against theft",
+        "B": "A law against smoking",
+        "C": "A school policy",
+        "D": "A household rule"
+      }
+    },
+    {
+      "id": "P07-RC-02-Q10",
+      "source_number": 22,
+      "prompt": "According to the passage, copyright law is",
+      "choices": {
+        "A": "meticulously observed",
+        "B": "routinely ignored",
+        "C": "frequently debated",
+        "D": "zealously enforced"
+      }
+    },
+    {
+      "id": "P07-RC-02-Q11",
+      "source_number": 23,
+      "prompt": "In line 27, the word \"practically\" is closest in meaning to",
+      "choices": {
+        "A": "truthfully",
+        "B": "hardly",
+        "C": "clearly",
+        "D": "almost"
+      },
+      "referenced_lines": {
+        "start": 27,
+        "end": 27
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "practice_id": "P07",
+  "section": "reading",
+  "passage_id": "P07-RC-05",
+  "source_question_range": [
+    43,
+    50
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "For many people, mushrooms are strange, colorless, incomprehensible plants that should"
+    },
+    {
+      "line": 2,
+      "text": "be avoided. Quaint tales and scary stories surround mushrooms because some are extremely"
+    },
+    {
+      "line": 3,
+      "text": "poisonous. In reality, however, mushrooms are fungi that are simple plants without devel-"
+    },
+    {
+      "line": 4,
+      "text": "oped roots, leaves, stems, flowers, or seeds. They grow in wetlands, grassy meadows, and"
+    },
+    {
+      "line": 5,
+      "text": "woods. Certain types of mushrooms are delicious and are included as ingredients in many"
+    },
+    {
+      "line": 6,
+      "text": "recipes and trendy snacks. For example, morels are considered one of the choicest foods, and"
+    },
+    {
+      "line": 7,
+      "text": "truffles, related to morels, are highly prized in Europe. Their shape is tubelike, and they re-"
+    },
+    {
+      "line": 8,
+      "text": "main entirely underground, a foot or more below the surface in the old days, dogs and pigs"
+    },
+    {
+      "line": 9,
+      "text": "were specially trained to hunt them by scent."
+    },
+    {
+      "line": 10,
+      "text": "Mushrooms stand out among other plants because they have no chlorophyll and cannot"
+    },
+    {
+      "line": 11,
+      "text": "generate their own nourishment. The part of the fungus that rises above the ground is the"
+    },
+    {
+      "line": 12,
+      "text": "fruiting body, and the vegetative part that produces growth is hidden under the ground. It"
+    },
+    {
+      "line": 13,
+      "text": "can be usually dug up in the form of dense, white tangled filaments, which, depending on"
+    },
+    {
+      "line": 14,
+      "text": "the food supply and moisture, can live for hundreds of years. In fact, mushrooms, as well as"
+    },
+    {
+      "line": 15,
+      "text": "the rest of the fungus genus species, are one of the few remaining simple plants that are be-"
+    },
+    {
+      "line": 16,
+      "text": "lieved to be among the oldest living organisms. When their environment is not conducive"
+    },
+    {
+      "line": 17,
+      "text": "to growth, filaments stop proliferating and can lie dormant for dozens of years."
+    },
+    {
+      "line": 18,
+      "text": "Although mushrooms are rich in flavor and texture, they have little food value. Picking"
+    },
+    {
+      "line": 19,
+      "text": "mushrooms requires a thorough knowledge of environments where they are most likely to"
+    },
+    {
+      "line": 20,
+      "text": "grow and an ability to tell between edible and poisonous plants. Most mushrooms thrive in"
+    },
+    {
+      "line": 21,
+      "text": "temperatures from 68° to 86° (F) with plenty of moisture, and nearly complete darkness"
+    },
+    {
+      "line": 22,
+      "text": "produces the best crop. The entire mushroom should be picked, the stem, the cap, and what-"
+    },
+    {
+      "line": 23,
+      "text": "ever part that is underground. Brightly colored mushroom caps usually indicate that the"
+    },
+    {
+      "line": 24,
+      "text": "plant is not fit for consumption, and the more the mushroom attracts attention, the more"
+    },
+    {
+      "line": 25,
+      "text": "poisonous it is. Mushrooms with beautiful red or orange spotted caps that grow under large"
+    },
+    {
+      "line": 26,
+      "text": "trees after a good rain are particularly poisonous. If milky or white juices seep from a break"
+    },
+    {
+      "line": 27,
+      "text": "in the body of plant, chances are it should not be picked. Old mushrooms with brown caps"
+    },
+    {
+      "line": 28,
+      "text": "are also not very safe."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 28
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-RC-05-Q01",
+      "source_number": 43,
+      "prompt": "In line 2, the word \"quaint\" i s closest in meaning to",
+      "choices": {
+        "A": "convoluted",
+        "B": "fanciful.",
+        "C": "irritating",
+        "D": "perfunctory"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P07-RC-05-Q02",
+      "source_number": 44,
+      "prompt": "With which of the following statements is the author of the passage most likely to agree?",
+      "choices": {
+        "A": "In the old days, when food was scarce, people chose mushrooms as food.",
+        "B": "Mushrooms should be treated as all other plants.",
+        "C": "Because they are poisonous, people should stay away from mushrooms.",
+        "D": "Mushrooms have different forms of roots, stems, and leaves."
+      }
+    },
+    {
+      "id": "P07-RC-05-Q03",
+      "source_number": 45,
+      "prompt": "In line 6, the word \"trendy\" is closest in meaning to",
+      "choices": {
+        "A": "tender",
+        "B": "experimental",
+        "C": "fashionable",
+        "D": "trusted"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P07-RC-05-Q04",
+      "source_number": 46,
+      "prompt": "In line 7, the word \"Their\" refers to",
+      "choices": {
+        "A": "morels",
+        "B": "foods",
+        "C": "truffles",
+        "D": "morels and truffles"
+      },
+      "referenced_lines": {
+        "start": 7,
+        "end": 7
+      }
+    },
+    {
+      "id": "P07-RC-05-Q05",
+      "source_number": 47,
+      "prompt": "It can be inferred from the passage that mushrooms multiply mostly by means of",
+      "choices": {
+        "A": "moisture",
+        "B": "fruiting bodies",
+        "C": "nourishment",
+        "D": "root systems"
+      }
+    },
+    {
+      "id": "P07-RC-05-Q06",
+      "source_number": 48,
+      "prompt": "The author of the passage implies that mushrooms",
+      "choices": {
+        "A": "have been known since ancient times",
+        "B": "are a relatively recent form of plants",
+        "C": "cannot survive without a good environment",
+        "D": "have been carefully analyzed"
+      }
+    },
+    {
+      "id": "P07-RC-05-Q07",
+      "source_number": 49,
+      "prompt": "In line 20, the word \"tell\" is closest in meaning to",
+      "choices": {
+        "A": "narrate",
+        "B": "distinguish",
+        "C": "say",
+        "D": "see"
+      },
+      "referenced_lines": {
+        "start": 20,
+        "end": 20
+      }
+    },
+    {
+      "id": "P07-RC-05-Q08",
+      "source_number": 50,
+      "prompt": "What does the author of the passage imply about brightly colored mushrooms?",
+      "choices": {
+        "A": "They are beautiful.",
+        "B": "They should not be eaten.",
+        "C": "They attract attention.",
+        "D": "They should be destroyed."
+      }
+    }
+  ]
+}

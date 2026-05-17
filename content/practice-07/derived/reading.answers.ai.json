@@ -1,0 +1,1090 @@
+{
+  "practice_id": "P07",
+  "section": "reading",
+  "status": "ai-draft",
+  "language_policy": "bilingual-id-priority-with-english-when-more-precise",
+  "answers": [
+    {
+      "id": "P07-RC-01-Q01",
+      "passage_id": "P07-RC-01",
+      "source_number": 1,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        },
+        {
+          "start": 14,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 40
+        }
+      ],
+      "evidence_quote": "human inventions have dramatically increased the average amount of energy available for use per person ... coal became a major energy source ... In 1910, natural gas and oil firmly replaced coal ... Alternative fuel sources are numerous",
+      "rationale_id": "Jawaban (C) karena passage menelusuri perubahan sumber energi dari kayu dan lemak hewan, ke batu bara, lalu minyak dan gas, sampai sumber alternatif. Fokus utamanya adalah sejarah penggunaan energi, bukan sekadar satu jenis bahan bakar.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q02",
+      "passage_id": "P07-RC-01",
+      "source_number": 2,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 2
+        }
+      ],
+      "evidence_quote": "the average amount of energy available for use per person",
+      "rationale_id": "Jawaban (A) karena frasa `per person` dalam konteks statistik paling dekat dengan `per capita`, yaitu per orang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q03",
+      "passage_id": "P07-RC-01",
+      "source_number": 3,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "The first step toward the developing of more efficient fuels was taken ... Charcoal gave off a more intensive heat than wood ... coal ... did not come into extensive use until the Industrial Revolution.",
+      "rationale_id": "Jawaban (C) karena paragraf pertama menunjukkan perpindahan dari satu bahan bakar ke bahan bakar lain terjadi bertahap: ada `first step`, lalu minyak atau lemak, charcoal, dan akhirnya coal digunakan luas. Jadi perkembangan fuel yang lebih efisien berlangsung gradual.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q04",
+      "passage_id": "P07-RC-01",
+      "source_number": 4,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "they could use vegetable oils and animal fats in lieu of gathered or cut wood",
+      "rationale_id": "Jawaban (B) karena `in lieu of` berarti `in place of`, yaitu sebagai pengganti kayu.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q05",
+      "passage_id": "P07-RC-01",
+      "source_number": 5,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 12
+        },
+        {
+          "start": 13,
+          "end": 14
+        }
+      ],
+      "evidence_quote": "most energy used ... was obtained from perpetual and renewable sources, such as wood, water streams, domesticated animal labor, and wind ... By mid-1800s, 91 percent ... was obtained from wood.",
+      "rationale_id": "Jawaban (C) karena pada 1700-an energi disebut berasal terutama dari sumber renewable seperti wood, water, animal labor, dan wind. Ini mengisyaratkan sumber energi saat itu belum terutama berasal dari mineral deposits seperti coal, oil, atau gas.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q06",
+      "passage_id": "P07-RC-01",
+      "source_number": 6,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "wood was more readily accessible than coal, the latter represents a more concentrated source of energy",
+      "rationale_id": "Jawaban (B) karena `the latter` merujuk pada noun kedua dalam pasangan `wood ... than coal`, yaitu coal.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q07",
+      "passage_id": "P07-RC-01",
+      "source_number": 7,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 19
+        }
+      ],
+      "evidence_quote": "In 1910, natural gas and oil firmly replaced coal as the main source of fuel because they are lighter ... They burned more cleanly than coal",
+      "rationale_id": "Jawaban (C) karena pronoun `They` paling langsung merujuk ke subjek jamak terdekat, yaitu `natural gas and oil`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q08",
+      "passage_id": "P07-RC-01",
+      "source_number": 8,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "Unlike coal, oil could be refined to manufacture liquid fuels for vehicles, a very important consideration in the early 1900s",
+      "rationale_id": "Jawaban (D) karena penulis menandai keunggulan yang `very important` dari oil: bisa di-refine menjadi bahan bakar cair untuk kendaraan. Itulah keuntungan paling besar yang ditekankan passage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q09",
+      "passage_id": "P07-RC-01",
+      "source_number": 9,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 29,
+          "end": 31
+        }
+      ],
+      "evidence_quote": "the age of nonrenewable fuels has created a dependency on a finite resource that will have to be replaced",
+      "rationale_id": "Jawaban (D) karena passage secara eksplisit menyebut nonrenewable fuels sebagai `a finite resource`. Artinya sumber itu terbatas, sehingga nanti harus diganti.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q10",
+      "passage_id": "P07-RC-01",
+      "source_number": 10,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "at the beginning of the 20th century, coal became a major energy source ... In 1910, natural gas and oil firmly replaced coal as the main source of fuel",
+      "rationale_id": "Jawaban (A) karena pada awal abad ke-20 passage menyebut coal menjadi major energy source, lalu pada 1910 digantikan oleh natural gas and oil. Ketiganya termasuk fossil fuels, jadi energi saat itu terutama berasal dari fossil fuels.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q11",
+      "passage_id": "P07-RC-01",
+      "source_number": 11,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 32,
+          "end": 40
+        }
+      ],
+      "evidence_quote": "Alternative fuel sources are numerous ... The extraction of shale oil ... has proven to be labor consuming and costly ... modern technology is not sufficiently versatile ... both sources of fuel may eventually be needed",
+      "rationale_id": "Jawaban (A) karena passage membahas sumber alternatif beserta kesulitan ekstraksinya, yang mengisyaratkan sumber-sumber itu sedang dipertimbangkan atau dieksplorasi, tetapi belum digunakan luas saat ini. Opsi lain terlalu kuat atau tidak didukung langsung.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-01-Q12",
+      "passage_id": "P07-RC-01",
+      "source_number": 12,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 33,
+          "end": 35
+        }
+      ],
+      "evidence_quote": "The extraction of shale oil ... has proven to be labor consuming and costly ... large-scale extractions are presently prohibitive",
+      "rationale_id": "Jawaban (C) karena konteks sebelumnya menekankan bahwa ekstraksi shale oil itu `labor consuming and costly`. Jadi `prohibitive` paling dekat artinya terlalu mahal untuk dilakukan secara besar-besaran.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q01",
+      "passage_id": "P07-RC-02",
+      "source_number": 13,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 6
+        },
+        {
+          "start": 7,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "copyright deals with intangible forms of property. Copyright is a legal protection extended to authors of creative works ... Although the purpose of artistic property is usually public use and enjoyment, copyright establishes the ownership of the creator.",
+      "rationale_id": "Jawaban (B) karena fokus utama passage adalah copyright sebagai perlindungan hukum yang menetapkan kepemilikan atas karya kreatif. Opsi lain hanya membahas bagian sempit seperti piracy atau copying for profit.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q02",
+      "passage_id": "P07-RC-02",
+      "source_number": 14,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "Copyright is a legal protection extended to authors of creative works",
+      "rationale_id": "Jawaban (D) karena dalam konteks ini `extended to authors` berarti perlindungan hukum itu diberikan kepada para author. Makna terdekatnya adalah `granted`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q03",
+      "passage_id": "P07-RC-02",
+      "source_number": 15,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 13
+        },
+        {
+          "start": 15,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "The right to make and sell or give away copies of books or articles belongs to the authors ... permission must be received from the copyright owner, who will most likely expect to be paid. ... if it is performed for profit, the performers need to pay a fee",
+      "rationale_id": "Jawaban (B) karena passage menekankan hak creator untuk mengontrol copying dan menerima pembayaran atau royalty. Ini menunjukkan copyright melindungi kemampuan pencipta untuk memperoleh keuntungan dari karyanya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q04",
+      "passage_id": "P07-RC-02",
+      "source_number": 16,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "if it is performed for profit, the performers need to pay a fee, called a royalty. A similar principle applies to performances of songs and plays.",
+      "rationale_id": "Jawaban (C) karena `principle` di sini merujuk pada aturan dasar yang sama-sama berlaku pada karya lain. Jadi makna terdekatnya adalah `fundamental rule`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q05",
+      "passage_id": "P07-RC-02",
+      "source_number": 17,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        },
+        {
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "books, magazine articles, maps, films, plays, television shows, software, paintings, photographs, music ... On the other hand, names, ideas, and book titles are excepted.",
+      "rationale_id": "Jawaban (D) karena passage menyebut music, plays, paintings, maps, books, dan magazine articles sebagai karya yang dilindungi, tetapi tidak pernah menyebut scientific discoveries. Yang dibahas justru karya kreatif yang sudah diwujudkan atau dipublikasikan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q06",
+      "passage_id": "P07-RC-02",
+      "source_number": 18,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "names, ideas, and book titles are excepted.",
+      "rationale_id": "Jawaban (B) karena passage secara eksplisit menyatakan book titles dikecualikan dari copyright. Jadi dua buku dari penulis berbeda boleh saja memiliki judul yang sama menurut informasi passage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q07",
+      "passage_id": "P07-RC-02",
+      "source_number": 19,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        },
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "The right to make and sell or give away copies of books or articles belongs to the authors ... To copy an entire book or a part of it, permission must be received from the copyright owner ... Almost all artistic work created before the 20th century is not copyrighted",
+      "rationale_id": "Jawaban (A) paling sesuai dengan isi passage karena penulis menyatakan menyalin seluruh atau sebagian buku memerlukan izin. Opsi (B) bertentangan dengan lines 19-20, sedangkan (C) dan (D) juga bertentangan dengan penjelasan passage.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q08",
+      "passage_id": "P07-RC-02",
+      "source_number": 20,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "The two common ways of infringing upon the copyright are plagiarism and piracy ... reproduce copyrighted material and sell it for profit without paying royalties",
+      "rationale_id": "Jawaban (C) karena konteks sesudahnya menjelaskan plagiarism dan piracy sebagai bentuk pelanggaran copyright. Jadi `infringing upon` paling dekat maknanya dengan `violating`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q09",
+      "passage_id": "P07-RC-02",
+      "source_number": 21,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 7,
+          "end": 13
+        },
+        {
+          "start": 21,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "copyright establishes the ownership of the creator ... The right to make and sell or give away copies ... belongs to the authors ... plagiarism and piracy ... reproduce copyrighted material and sell it for profit without paying royalties",
+      "rationale_id": "Jawaban (A) karena fungsi copyright adalah melindungi kepemilikan dan mencegah orang lain mengambil atau menjual milik creator tanpa izin. Itu paling sebanding dengan hukum yang melarang pencurian.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q10",
+      "passage_id": "P07-RC-02",
+      "source_number": 22,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 21,
+          "end": 29
+        }
+      ],
+      "evidence_quote": "The two common ways of infringing upon the copyright are plagiarism and piracy ... Technological innovations have made piracy easy, and anyone can duplicate a motion picture on videotape, a computer program, or a book. Video cassette recorders can be used by practically anyone to copy movies and television programs",
+      "rationale_id": "Jawaban (B) karena passage menekankan bahwa infringement umum terjadi dan piracy sangat mudah dilakukan oleh banyak orang. Ini lebih mendukung gagasan bahwa copyright law sering diabaikan daripada selalu dipatuhi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-02-Q11",
+      "passage_id": "P07-RC-02",
+      "source_number": 23,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 27,
+          "end": 27
+        }
+      ],
+      "evidence_quote": "Video cassette recorders can be used by practically anyone",
+      "rationale_id": "Jawaban (D) karena `practically anyone` berarti hampir siapa saja. Jadi makna terdekat `practically` di konteks ini adalah `almost`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q01",
+      "passage_id": "P07-RC-03",
+      "source_number": 24,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 3,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "decided to hold a contest for the best design for the Presidential House",
+      "rationale_id": "Jawaban (C) karena dalam konteks pemilihan desain terbaik, `contest` berarti kompetisi untuk menentukan pemenang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q02",
+      "passage_id": "P07-RC-03",
+      "source_number": 25,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "His bid for the construction of the mansion asked for $200,000, but the final cost of the building came to twice that amount.",
+      "rationale_id": "Jawaban (B) karena biaya akhir menjadi dua kali estimasi awal, jadi jelas tidak sesuai dengan perkiraan semula.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q03",
+      "passage_id": "P07-RC-03",
+      "source_number": 26,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "the grounds of approximately one and a half miles west of the Capitol Hill were chosen",
+      "rationale_id": "Jawaban (C) karena `grounds` di sini merujuk pada lokasi atau area tanah yang dipilih untuk pembangunan, yaitu site.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q04",
+      "passage_id": "P07-RC-03",
+      "source_number": 27,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 8,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "George Washington had stepped down as president before the building was habitable. When John Adams ... moved in in 1800",
+      "rationale_id": "Jawaban (C) karena passage menyebut George Washington sudah tidak menjabat sebelum gedung layak huni, sehingga ia tidak pernah tinggal di White House.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q05",
+      "passage_id": "P07-RC-03",
+      "source_number": 28,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 9,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "the construction continued for several more years ... When John Adams ... moved in in 1800, only six rooms had been completed",
+      "rationale_id": "Jawaban (B) karena pada tahun 1800 baru enam ruangan yang selesai, jadi pembangunan gedung utama masih berlanjut setelah 1800.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q06",
+      "passage_id": "P07-RC-03",
+      "source_number": 29,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 16,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "inspectors announced that the building was so dilapidated that it was beyond repair",
+      "rationale_id": "Jawaban (B) karena `dilapidated` dijelaskan lebih lanjut sebagai kondisi yang sangat rusak sampai dianggap beyond repair, sehingga maknanya run-down.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q07",
+      "passage_id": "P07-RC-03",
+      "source_number": 30,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 15,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "The north portico was added ... electricity in 1891. In 1948, inspectors announced ... In 1961, Jacqueline Kennedy launched a program",
+      "rationale_id": "Jawaban (A) karena setelah 1891 passage baru menyebut masalah besar pada 1948 dan redekorasi pada 1961, sehingga tersirat perubahan struktural pada paruh pertama abad ke-20 tidak banyak disebut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q08",
+      "passage_id": "P07-RC-03",
+      "source_number": 31,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "Congress appropriated $5.4 million dollars for repairs",
+      "rationale_id": "Jawaban (C) karena dalam konteks anggaran pemerintah, `appropriated` berarti mengesahkan atau mengalokasikan dana secara resmi.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q09",
+      "passage_id": "P07-RC-03",
+      "source_number": 32,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 20,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "Jacqueline Kennedy launched a program to redecorate the rooms",
+      "rationale_id": "Jawaban (C) karena `launched a program` berarti memulai program tersebut.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-03-Q10",
+      "passage_id": "P07-RC-03",
+      "source_number": 33,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "evidence_quote": "The living quarters contain 107 rooms, 40 corridors, and 19 baths. The White House contains a doctor's suite, a dentist's office ... a two-floor basement for storage and service rooms.",
+      "rationale_id": "Jawaban (B) karena passage menyebut hallways melalui `corridors`, medical offices melalui doctor's suite dan dentist's office, serta storage rooms, tetapi tidak menyebut kitchen.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q01",
+      "passage_id": "P07-RC-04",
+      "source_number": 34,
+      "proposed_answer": "D",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 1,
+          "end": 4
+        }
+      ],
+      "evidence_quote": "The organization of the family system in the United States emphasizes monogamy, neolocal residence, an extended family linkage... American families are usually small and isolated.",
+      "rationale_id": "Jawaban (D) karena `neolocal residence` dan keterangan bahwa keluarga Amerika `small and isolated` menunjukkan unit keluarga biasanya tinggal terpisah dari keluarga besarnya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q02",
+      "passage_id": "P07-RC-04",
+      "source_number": 35,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "evidence_quote": "Family and marital roles for men and women overlap considerably, with little differentiation.",
+      "rationale_id": "Jawaban (A) karena `overlap` dalam konteks peran yang `with little differentiation` paling dekat dengan saling berimpit atau `coincide`, bukan bertabrakan atau sekadar setuju.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q03",
+      "passage_id": "P07-RC-04",
+      "source_number": 36,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "Marriage and divorce rates are high... The rise in the divorce and remarriage rates has made definitions of family increasingly complex, although several basic patterns have remained stable.",
+      "rationale_id": "Jawaban (B) karena penulis menyiratkan hubungan keluarga Amerika telah mengalami perubahan; kenaikan perceraian dan pernikahan ulang membuat definisi keluarga makin kompleks.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q04",
+      "passage_id": "P07-RC-04",
+      "source_number": 37,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 10,
+          "end": 11
+        }
+      ],
+      "evidence_quote": "Nuclear families include two or more persons who are related by marriage, blood, or adoption and who share a common household.",
+      "rationale_id": "Jawaban (C) karena definisi nuclear family tidak hanya soal hubungan darah atau pernikahan, tetapi terutama bahwa mereka `share a common household`; rumah tangga bersama menjadi dasar definisinya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q05",
+      "passage_id": "P07-RC-04",
+      "source_number": 38,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "A wide range of appropriate kinship patterns have developed in the past two decades",
+      "rationale_id": "Jawaban (C) karena `kinship` berarti hubungan kekerabatan atau koneksi keluarga, bukan kepemilikan, sponsor, atau layanan keluarga.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q06",
+      "passage_id": "P07-RC-04",
+      "source_number": 39,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 13,
+          "end": 16
+        }
+      ],
+      "evidence_quote": "The only norm that is universally recognized by the society and by law permits a person to have only one spouse... Serial monogamy... assumes that persons can have more than one spouse in the course of their lives, as long as there is only one spouse at a time.",
+      "rationale_id": "Jawaban (B) karena passage menjelaskan hukum mengizinkan hanya satu pasangan pada satu waktu, tetapi seseorang bisa memiliki lebih dari satu pasangan secara berurutan sepanjang hidupnya.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q07",
+      "passage_id": "P07-RC-04",
+      "source_number": 40,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 17,
+          "end": 18
+        }
+      ],
+      "evidence_quote": "Social norms pertaining to the choice of marriage partners prescribe appropriate and unacceptable characteristics.",
+      "rationale_id": "Jawaban (C) karena `prescribe` di sini berarti menetapkan atau menentukan ciri mana yang dianggap pantas dan tidak pantas dalam memilih pasangan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q08",
+      "passage_id": "P07-RC-04",
+      "source_number": 41,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "evidence_quote": "Most societies, including the U.S., grant acceptance to endogamous partners who marry within their own racial, ethnic, socioeconomic, educational, age, and religious groups... those who share similar role expectations, values, attitudes, and customs",
+      "rationale_id": "Jawaban (A) karena pasangan yang diterima adalah pasangan endogamous, yaitu yang berasal dari kelompok sosial yang mirip dan berbagi nilai serta ekspektasi peran yang serupa.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-04-Q09",
+      "passage_id": "P07-RC-04",
+      "source_number": 42,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 22,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "an outcome of endogamous marriages may be that partners' similar socioeconomic levels tend to keep wealth and power within a group of the same class... marrying within the same religious grouping may serve to retain the number of its members and... its political power and influence",
+      "rationale_id": "Jawaban (B) karena passage menyiratkan endogamous marriages membantu mempertahankan tatanan sosial yang sudah ada: kekayaan, kekuasaan, dan pengaruh politik tetap berada dalam kelompok yang sama.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q01",
+      "passage_id": "P07-RC-05",
+      "source_number": 43,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 2,
+          "end": 3
+        }
+      ],
+      "evidence_quote": "Quaint tales and scary stories surround mushrooms because some are extremely poisonous.",
+      "rationale_id": "Jawaban (B) karena dalam konteks `quaint tales`, kata itu mengarah pada cerita yang aneh atau bersifat khayali, paling dekat dengan `fanciful`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q02",
+      "passage_id": "P07-RC-05",
+      "source_number": 44,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "low",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 9
+        }
+      ],
+      "evidence_quote": "Certain types of mushrooms are delicious and are included as ingredients in many recipes and trendy snacks. For example, morels are considered one of the choicest foods, and truffles, related to morels, are highly prized in Europe... in the old days, dogs and pigs were specially trained to hunt them by scent.",
+      "rationale_id": "Jawaban (A) paling mungkin karena passage jelas menunjukkan bahwa beberapa mushroom sudah lama dihargai sebagai makanan. Namun frasa `when food was scarce` tidak disebut eksplisit, jadi item ini paling lemah dibanding yang lain; pilihan B, C, dan D justru bertentangan dengan isi passage.",
+      "rationale_en": "",
+      "needs_manual_review": true
+    },
+    {
+      "id": "P07-RC-05-Q03",
+      "passage_id": "P07-RC-05",
+      "source_number": 45,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "evidence_quote": "included as ingredients in many recipes and trendy snacks",
+      "rationale_id": "Jawaban (C) karena `trendy` dalam konteks makanan berarti sedang populer atau `fashionable`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q04",
+      "passage_id": "P07-RC-05",
+      "source_number": 46,
+      "proposed_answer": "C",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 6,
+          "end": 8
+        }
+      ],
+      "evidence_quote": "morels are considered one of the choicest foods, and truffles, related to morels, are highly prized in Europe. Their shape is tubelike",
+      "rationale_id": "Jawaban (C) karena pronoun `Their` muncul tepat setelah noun `truffles`, sehingga rujukannya adalah `truffles`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q05",
+      "passage_id": "P07-RC-05",
+      "source_number": 47,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "medium",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 11,
+          "end": 13
+        }
+      ],
+      "evidence_quote": "The part of the fungus that rises above the ground is the fruiting body, and the vegetative part that produces growth is hidden under the ground.",
+      "rationale_id": "Jawaban (B) paling masuk akal karena dari pilihan yang ada, `fruiting bodies` adalah satu-satunya struktur biologis yang berhubungan dengan perkembangbiakan. `Moisture` dan `nourishment` hanya kondisi pendukung, sedangkan `root systems` tidak cocok karena passage menegaskan mushrooms tidak memiliki roots yang berkembang.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q06",
+      "passage_id": "P07-RC-05",
+      "source_number": 48,
+      "proposed_answer": "A",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 14,
+          "end": 17
+        }
+      ],
+      "evidence_quote": "mushrooms, as well as the rest of the fungus genus species, are one of the few remaining simple plants that are believed to be among the oldest living organisms. When their environment is not conducive to growth, filaments stop proliferating and can lie dormant for dozens of years.",
+      "rationale_id": "Jawaban (A) karena penulis menyebut mushrooms `among the oldest living organisms`, sehingga implikasinya mereka sudah ada sejak zaman sangat lama.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q07",
+      "passage_id": "P07-RC-05",
+      "source_number": 49,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 19,
+          "end": 20
+        }
+      ],
+      "evidence_quote": "an ability to tell between edible and poisonous plants",
+      "rationale_id": "Jawaban (B) karena `tell between` di sini berarti membedakan satu dari yang lain, yaitu `distinguish`.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    },
+    {
+      "id": "P07-RC-05-Q08",
+      "passage_id": "P07-RC-05",
+      "source_number": 50,
+      "proposed_answer": "B",
+      "validated_answer": null,
+      "validation_status": "unvalidated",
+      "validation_source": "",
+      "confidence_label": "high",
+      "status": "not-reviewed",
+      "evidence_refs": [
+        {
+          "start": 23,
+          "end": 26
+        }
+      ],
+      "evidence_quote": "Brightly colored mushroom caps usually indicate that the plant is not fit for consumption, and the more the mushroom attracts attention, the more poisonous it is.",
+      "rationale_id": "Jawaban (B) karena passage menyatakan secara langsung bahwa mushroom berwarna mencolok `is not fit for consumption`, jadi tidak boleh dimakan.",
+      "rationale_en": "",
+      "needs_manual_review": false
+    }
+  ]
+}

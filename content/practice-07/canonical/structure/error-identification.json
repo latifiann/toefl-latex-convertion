@@ -1,0 +1,1250 @@
+{
+  "practice_id": "P07",
+  "section": "structure",
+  "subtype": "error-identification",
+  "choice_mode": "embedded-markers",
+  "directions": [
+    "DIRECTIONS: In questions 16-40 every sentence has four words or phrases that are underlined. The four underlined portions of each sentence are marked (A), (B), (C), and (D). Identify the one word or phrase that makes the sentence incorrect. Then, on your answer sheet, find the number of the question and fill in the space that contains the letter for the answer you have chosen. Fill in the space completely."
+  ],
+  "examples": [
+    {
+      "title": "EXAMPLE I",
+      "sentence_segments": [
+        {
+          "text": "Christopher Columbus ",
+          "underlined": false
+        },
+        {
+          "text": "has sailed",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " from Europe in 1492 and ",
+          "underlined": false
+        },
+        {
+          "text": "discovered a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "text": "new land",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " he ",
+          "underlined": false
+        },
+        {
+          "text": "thought to",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": " be India.",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"Christopher Columbus sailed from Europe in 1492 and discovered a new land he thought to be India.\" Therefore, you should choose answer (A)."
+      ]
+    },
+    {
+      "title": "EXAMPLE II",
+      "sentence_segments": [
+        {
+          "text": "As the roles",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": " of people in society change, ",
+          "underlined": false
+        },
+        {
+          "text": "so does",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": " the ",
+          "underlined": false
+        },
+        {
+          "text": "rules of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": " conduct in certain ",
+          "underlined": false
+        },
+        {
+          "text": "situations",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "explanation_lines": [
+        "The sentence should state, \"As the roles of people in society change, so do the rules of",
+        "conduct in certain situations.\" Therefore, you should choose answer (B)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-ST-16",
+      "source_number": 16,
+      "prompt": "Having completing(A) his education in Harvard, Wendell Phillips became an outspoken(B) abolitionist and a widely-traveled(C) lecturer, who also supported labor(D) unionization.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Having completing",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "his education in Harvard, Wendell Phillips became ",
+          "underlined": false
+        },
+        {
+          "text": "an outspoken",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "abolitionist and a ",
+          "underlined": false
+        },
+        {
+          "text": "widely-traveled",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "lecturer, who also ",
+          "underlined": false
+        },
+        {
+          "text": "supported labor",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "unionization.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-17",
+      "source_number": 17,
+      "prompt": "Plant hormones have shown(A) to produce a remarkable effect on(B) plant growth(C), flowering, and the generation of(D) fruit.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Plant hormones ",
+          "underlined": false
+        },
+        {
+          "text": "have shown",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "to produce a remarkable ",
+          "underlined": false
+        },
+        {
+          "text": "effect on",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "plant growth",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", flowering, and ",
+          "underlined": false
+        },
+        {
+          "text": "the generation of",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "fruit.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-18",
+      "source_number": 18,
+      "prompt": "Lately, motorcycle race courses(A) incorporated(B) oval-shaped dirt tracks, hill climbs(C), and natural terrains with added artificial(D) hazards.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Lately, motorcycle ",
+          "underlined": false
+        },
+        {
+          "text": "race courses",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "incorporated",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "oval-shaped dirt tracks, ",
+          "underlined": false
+        },
+        {
+          "text": "hill climbs",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and natural terrains with ",
+          "underlined": false
+        },
+        {
+          "text": "added artificial",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "hazards.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-19",
+      "source_number": 19,
+      "prompt": "Passports are legal(A) documents issued by(B) governments to give their bearers an authorization to cross nation(C) borders and seek protection(D) in an emergency.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Passports ",
+          "underlined": false
+        },
+        {
+          "text": "are legal",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "documents ",
+          "underlined": false
+        },
+        {
+          "text": "issued by",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "governments to give their bearers an authorization to ",
+          "underlined": false
+        },
+        {
+          "text": "cross nation",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "borders and ",
+          "underlined": false
+        },
+        {
+          "text": "seek protection",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "in an emergency.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-20",
+      "source_number": 20,
+      "prompt": "Body of still (A) water in ground depressions are common in formerly (B) glaciated areas, near slow-flowing (C) rivers, and in low lands (D) near sea shores.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Body of still",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "water in ground depressions are common ",
+          "underlined": false
+        },
+        {
+          "text": "in formerly",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "glaciated areas, near ",
+          "underlined": false
+        },
+        {
+          "text": "slow-flowing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "rivers, and ",
+          "underlined": false
+        },
+        {
+          "text": "in low lands",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "near sea shores.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-21",
+      "source_number": 21,
+      "prompt": "It is not known (A) why many seeds undergo (B) a period of dormancy even during the times when (C) conditions for their growth is (D) favorable.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "It is ",
+          "underlined": false
+        },
+        {
+          "text": "not known",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "why ",
+          "underlined": false
+        },
+        {
+          "text": "many seeds undergo",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "a period of dormancy ",
+          "underlined": false
+        },
+        {
+          "text": "even during the times when",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "conditions for ",
+          "underlined": false
+        },
+        {
+          "text": "their growth is",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "favorable.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-22",
+      "source_number": 22,
+      "prompt": "The lowest layer (A) of the atmosphere, heated by (B) the Earth, consisting of (C) bound atoms of nitrogen and oxygen, with a small (D) quantity of argon.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The lowest layer",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "of the atmosphere, ",
+          "underlined": false
+        },
+        {
+          "text": "heated by",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "the Earth, ",
+          "underlined": false
+        },
+        {
+          "text": "consisting of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "bound atoms of nitrogen and oxygen, ",
+          "underlined": false
+        },
+        {
+          "text": "with a small",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "quantity of argon.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-23",
+      "source_number": 23,
+      "prompt": "Alvin Ailey's choreography reflected (A) his southern roots and center (B) on fragments of(C) folk songs and jazz that was innovative (D) in his time.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Alvin Ailey's choreography ",
+          "underlined": false
+        },
+        {
+          "text": "reflected",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "his southern roots and ",
+          "underlined": false
+        },
+        {
+          "text": "center",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "on ",
+          "underlined": false
+        },
+        {
+          "text": "fragments of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "folk songs and jazz that was ",
+          "underlined": false
+        },
+        {
+          "text": "innovative",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "in his time.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-24",
+      "source_number": 24,
+      "prompt": "The wire-wound (A) coil in a simple (B) generator rotates between (C) the pole of (D) a permanent magnet.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The ",
+          "underlined": false
+        },
+        {
+          "text": "wire-wound",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "coil ",
+          "underlined": false
+        },
+        {
+          "text": "in a simple",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "generator ",
+          "underlined": false
+        },
+        {
+          "text": "rotates between",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "the ",
+          "underlined": false
+        },
+        {
+          "text": "pole of",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "a permanent magnet.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-25",
+      "source_number": 25,
+      "prompt": "Milwaukee, settled in (A) 1818, drawn a (B) large number of (C) immigrants who arrived in (D) search of jobs and inexpensive housing.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Milwaukee, ",
+          "underlined": false
+        },
+        {
+          "text": "settled in",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "1818, ",
+          "underlined": false
+        },
+        {
+          "text": "drawn a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "large ",
+          "underlined": false
+        },
+        {
+          "text": "number of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "immigrants who ",
+          "underlined": false
+        },
+        {
+          "text": "arrived in",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "search of jobs and inexpensive housing.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-26",
+      "source_number": 26,
+      "prompt": "J.R.R. Tolkien's book for children, titled The Hobbit, describes the adventures (A) of Bilbo in a fantastic world (B), populated by dragons, dwarfs, and another mythical (C) creatures, including (D) a wizard.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "J.R.R. Tolkien's book for children, titled The Hobbit, ",
+          "underlined": false
+        },
+        {
+          "text": "describes the adventures",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "of Bilbo ",
+          "underlined": false
+        },
+        {
+          "text": "in a fantastic world",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", populated by dragons, dwarfs, and ",
+          "underlined": false
+        },
+        {
+          "text": "another mythical",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "creatures, ",
+          "underlined": false
+        },
+        {
+          "text": "including",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "a wizard.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-27",
+      "source_number": 27,
+      "prompt": "Studies of Mars indicate that (A) enough water might (B) be collected on the planet's (C) surface sustain prolonged (D) missions by human space crews.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Studies of Mars ",
+          "underlined": false
+        },
+        {
+          "text": "indicate that",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "enough ",
+          "underlined": false
+        },
+        {
+          "text": "water might",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "be collected on ",
+          "underlined": false
+        },
+        {
+          "text": "the planet's",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "surface ",
+          "underlined": false
+        },
+        {
+          "text": "sustain prolonged",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "missions by human space crews.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-28",
+      "source_number": 28,
+      "prompt": "North Dakota, rich in (A) natural gas and lignite deposits, remains (B) the most rural (C) of all states, with 90% of land (D) under agricultural cultivation.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "North Dakota, ",
+          "underlined": false
+        },
+        {
+          "text": "rich in",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "natural gas and lignite deposits, ",
+          "underlined": false
+        },
+        {
+          "text": "remains",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "the most rural",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "of all states, with 90% ",
+          "underlined": false
+        },
+        {
+          "text": "of land",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "under agricultural cultivation.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-29",
+      "source_number": 29,
+      "prompt": "Geological dating can be carried out by measuring (A) how much radioactive elements of a (B) rock have change (C) since the rock was formed (D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Geological dating can be carried out ",
+          "underlined": false
+        },
+        {
+          "text": "by measuring",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "how much radioactive ",
+          "underlined": false
+        },
+        {
+          "text": "elements of a",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "rock ",
+          "underlined": false
+        },
+        {
+          "text": "have change",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "since the rock ",
+          "underlined": false
+        },
+        {
+          "text": "was formed",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-30",
+      "source_number": 30,
+      "prompt": "Parallel beams (A) of light converge and can be (B) eventually brought into focus when pass (C) through a convex lens to produce (D) a real image on a screen.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Parallel beams",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "of light converge and ",
+          "underlined": false
+        },
+        {
+          "text": "can be",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "eventually brought into focus ",
+          "underlined": false
+        },
+        {
+          "text": "when pass",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "through a convex lens ",
+          "underlined": false
+        },
+        {
+          "text": "to produce",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "a real image on a screen.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-31",
+      "source_number": 31,
+      "prompt": "If the air temperature falls (A) below the freezing point (B), the dew will freeze (C), and the water vapor can condenses (D) directly into ice.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "If the air ",
+          "underlined": false
+        },
+        {
+          "text": "temperature falls",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "below the ",
+          "underlined": false
+        },
+        {
+          "text": "freezing point",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", the dew ",
+          "underlined": false
+        },
+        {
+          "text": "will freeze",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": ", and the water vapor ",
+          "underlined": false
+        },
+        {
+          "text": "can condenses",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "directly into ice.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-32",
+      "source_number": 32,
+      "prompt": "Although different (A) in size and shape, most ferns are perennial and spreading (B) by low-growing (C) root systems and spores transported (D) by wind.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Although different",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "in size and shape, most ferns are perennial and ",
+          "underlined": false
+        },
+        {
+          "text": "spreading",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "by ",
+          "underlined": false
+        },
+        {
+          "text": "low-growing",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "root systems and spores ",
+          "underlined": false
+        },
+        {
+          "text": "transported",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "by wind.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-33",
+      "source_number": 33,
+      "prompt": "Walt Disney and his brother established their animation (A) studio in Hollywood in 1923, and the first animation (B) cartoon with Mickey Mouse appeared in (C) black and white (D) in 1928.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Walt Disney and his brother established ",
+          "underlined": false
+        },
+        {
+          "text": "their animation",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "studio in Hollywood in 1923, and the ",
+          "underlined": false
+        },
+        {
+          "text": "first animation",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "cartoon with Mickey Mouse ",
+          "underlined": false
+        },
+        {
+          "text": "appeared in",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "black and white",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "in 1928.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-34",
+      "source_number": 34,
+      "prompt": "For centuries, philosophers and artists alike (A) have debated (B) the meaning of beauty and questioned whether it real (C) or only perceived (D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "For centuries, philosophers and ",
+          "underlined": false
+        },
+        {
+          "text": "artists alike",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "have debated",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "the meaning of beauty and questioned ",
+          "underlined": false
+        },
+        {
+          "text": "whether it real",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "or ",
+          "underlined": false
+        },
+        {
+          "text": "only perceived",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-35",
+      "source_number": 35,
+      "prompt": "In some musical compositions, regular alternations (A) of the beat are avoided (B) without repetition so that (C) the listener will not become accustomed by (D) them.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In some musical compositions, regular ",
+          "underlined": false
+        },
+        {
+          "text": "alternations",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "of the beat ",
+          "underlined": false
+        },
+        {
+          "text": "are avoided",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "without repetition ",
+          "underlined": false
+        },
+        {
+          "text": "so that",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "the listener will not become ",
+          "underlined": false
+        },
+        {
+          "text": "accustomed by",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "them.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-36",
+      "source_number": 36,
+      "prompt": "Margaret Mitchell, the author of Gone with the Wind, had researched (A) the Civil War and then had written (B) the story about (C) Georgia and the period that followed (D) the war.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Margaret Mitchell, the author of Gone with the Wind, ",
+          "underlined": false
+        },
+        {
+          "text": "had researched",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "the Civil War and then ",
+          "underlined": false
+        },
+        {
+          "text": "had written",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "the story about",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "Georgia and the period ",
+          "underlined": false
+        },
+        {
+          "text": "that followed",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "the war.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-37",
+      "source_number": 37,
+      "prompt": "As the sign (A) languages of the deaf (B) show, the sounds (C) of speech are not required to expressing (D) meaningful structures.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "As the sign",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "languages of ",
+          "underlined": false
+        },
+        {
+          "text": "the deaf",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "show, ",
+          "underlined": false
+        },
+        {
+          "text": "the sounds",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "of speech are not required ",
+          "underlined": false
+        },
+        {
+          "text": "to expressing",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "meaningful structures.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-38",
+      "source_number": 38,
+      "prompt": "In 1831, English physicist (A), Michael Faraday, discovered the principle of (B) electromagnetic induction, which the (C) electric motor and the electric generator are based (D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "In 1831, ",
+          "underlined": false
+        },
+        {
+          "text": "English physicist",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": ", Michael Faraday, discovered ",
+          "underlined": false
+        },
+        {
+          "text": "the principle of",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "electromagnetic induction, ",
+          "underlined": false
+        },
+        {
+          "text": "which the",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "electric motor and the electric generator ",
+          "underlined": false
+        },
+        {
+          "text": "are based",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-39",
+      "source_number": 39,
+      "prompt": "Aspiring to (A) eliminate slavery entirely (B), Francois Toussaint organized an army consisting mostly of (C) illiterate slaves into a power (D) military force.",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "Aspiring to",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "eliminate slavery ",
+          "underlined": false
+        },
+        {
+          "text": "entirely",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": ", Francois Toussaint organized an army ",
+          "underlined": false
+        },
+        {
+          "text": "consisting mostly of",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "illiterate slaves into ",
+          "underlined": false
+        },
+        {
+          "text": "a power",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": "military force.",
+          "underlined": false
+        }
+      ]
+    },
+    {
+      "id": "P07-ST-40",
+      "source_number": 40,
+      "prompt": "The human (A) rib cage protects the lungs and the heart allows (B) the chest to expand (C) and contract easily (D).",
+      "choices": {},
+      "render_segments": [
+        {
+          "text": "The human",
+          "underlined": true,
+          "marker": "A"
+        },
+        {
+          "text": "rib cage protects the lungs and ",
+          "underlined": false
+        },
+        {
+          "text": "the heart allows",
+          "underlined": true,
+          "marker": "B"
+        },
+        {
+          "text": "the chest ",
+          "underlined": false
+        },
+        {
+          "text": "to expand",
+          "underlined": true,
+          "marker": "C"
+        },
+        {
+          "text": "and ",
+          "underlined": false
+        },
+        {
+          "text": "contract easily",
+          "underlined": true,
+          "marker": "D"
+        },
+        {
+          "text": ".",
+          "underlined": false
+        }
+      ]
+    }
+  ]
+}

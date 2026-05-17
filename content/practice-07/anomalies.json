@@ -1,0 +1,11 @@
+{
+  "anomalies": [
+    {
+      "id": "normalization-whitespace-and-formfeed",
+      "severity": "low",
+      "section": "global",
+      "detail": "Whitespace, form-feed characters, zero-width characters, and obvious mixed-script confusables were normalized during ingestion."
+    }
+  ],
+  "note": "Anomalies record source problems or deliberate normalization decisions. Canonical files should stay close to the DOCX while avoiding silent guessing."
+}

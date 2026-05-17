@@ -1,0 +1,234 @@
+{
+  "practice_id": "P07",
+  "section": "reading",
+  "passage_id": "P07-RC-04",
+  "source_question_range": [
+    34,
+    42
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The organization of the family system in the United States emphasizes monogamy,"
+    },
+    {
+      "line": 2,
+      "text": "neolocal residence, an extended family linkage, and a relatively free choice in the selection of"
+    },
+    {
+      "line": 3,
+      "text": "mates. Compared to those in many other countries, American families are usually small and"
+    },
+    {
+      "line": 4,
+      "text": "isolated. Family and marital roles for men and women overlap considerably, with little dif-"
+    },
+    {
+      "line": 5,
+      "text": "ferentiation. Marriage and divorce rates are high, and, according to demographic estimates,"
+    },
+    {
+      "line": 6,
+      "text": "95 percent or more of the adult population marry in the course of their lives. The rise in the"
+    },
+    {
+      "line": 7,
+      "text": "divorce and remarriage rates has made definitions of family increasingly complex, although"
+    },
+    {
+      "line": 8,
+      "text": "several basic patterns have remained stable."
+    },
+    {
+      "line": 9,
+      "text": "The smallest family consists of two persons: a husband and a wife, a parent and a child, or"
+    },
+    {
+      "line": 10,
+      "text": "a sister and a brother. Nuclear families include two or more persons who are related by mar-"
+    },
+    {
+      "line": 11,
+      "text": "riage, blood, or adoption and who share a common household. A wide range of appropriate"
+    },
+    {
+      "line": 12,
+      "text": "kinship patterns have developed in the past two decades, but marriage, an exclusive rela-"
+    },
+    {
+      "line": 13,
+      "text": "tionship between two people, is predominant. The only norm that is universally recognized"
+    },
+    {
+      "line": 14,
+      "text": "by the society and by law permits a person to have only one spouse in a monogamous family."
+    },
+    {
+      "line": 15,
+      "text": "Serial monogamy has become ubiquitous, and it assumes that persons can have more than"
+    },
+    {
+      "line": 16,
+      "text": "one spouse in the course of their lives, as long as there is only one spouse at a time."
+    },
+    {
+      "line": 17,
+      "text": "Social norms pertaining to the choice of marriage partners prescribe appropriate and un-"
+    },
+    {
+      "line": 18,
+      "text": "acceptable characteristics. Most societies, including the U.S., grant acceptance to en-"
+    },
+    {
+      "line": 19,
+      "text": "dogamous partners who marry within their own racial, ethnic, socioeconomic, educational,"
+    },
+    {
+      "line": 20,
+      "text": "age, and religious groups. Traditionally, such norms are justified by common beliefs that"
+    },
+    {
+      "line": 21,
+      "text": "those who share similar role expectations, values, attitudes, and customs are less likely to"
+    },
+    {
+      "line": 22,
+      "text": "find themselves in conflict. On the other hand, an outcome of endogamous marriages may"
+    },
+    {
+      "line": 23,
+      "text": "be that partners' similar socioeconomic levels tend to keep wealth and power within a group"
+    },
+    {
+      "line": 24,
+      "text": "of the same class. Similarly, other unique benefits of such unions is that marrying within the"
+    },
+    {
+      "line": 25,
+      "text": "same religious grouping may serve to retain the number of its members and, therefore, its"
+    },
+    {
+      "line": 26,
+      "text": "political power and influence in the society as a whole."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 26
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-RC-04-Q01",
+      "source_number": 34,
+      "prompt": "According to the passage, a typical family unit in the U.S.",
+      "choices": {
+        "A": "has a free selection of mates",
+        "B": "shares a residence with other families",
+        "C": "lives close to other family members",
+        "D": "resides apart from its extended family"
+      }
+    },
+    {
+      "id": "P07-RC-04-Q02",
+      "source_number": 35,
+      "prompt": "In line 4, the word \"overlap\" is closest in meaning to",
+      "choices": {
+        "A": "coincide",
+        "B": "consign",
+        "C": "collide",
+        "D": "concur"
+      },
+      "referenced_lines": {
+        "start": 4,
+        "end": 4
+      }
+    },
+    {
+      "id": "P07-RC-04-Q03",
+      "source_number": 36,
+      "prompt": "The author of the passage implies that American family relationships",
+      "choices": {
+        "A": "have remained stable",
+        "B": "have undergone changes",
+        "C": "have few disparities",
+        "D": "have little definition"
+      }
+    },
+    {
+      "id": "P07-RC-04-Q04",
+      "source_number": 37,
+      "prompt": "What is the basis for the definition of a nuclear family in the U.S.?",
+      "choices": {
+        "A": "Blood relationships o r adoption",
+        "B": "Two persons",
+        "C": "Households",
+        "D": "Marriage"
+      }
+    },
+    {
+      "id": "P07-RC-04-Q05",
+      "source_number": 38,
+      "prompt": "In line 12, the word \"kinship\" is closest in meaning to",
+      "choices": {
+        "A": "ownership",
+        "B": "sponsorship",
+        "C": "family connection",
+        "D": "family services"
+      },
+      "referenced_lines": {
+        "start": 12,
+        "end": 12
+      }
+    },
+    {
+      "id": "P07-RC-04-Q06",
+      "source_number": 39,
+      "prompt": "The author of the passage implies that the law in the U.S. permits a person to have",
+      "choices": {
+        "A": "one spouse in the course of a lifetime",
+        "B": "several spouses in sequential order",
+        "C": "a series of spouses at one time",
+        "D": "two spouses during their lifetime"
+      }
+    },
+    {
+      "id": "P07-RC-04-Q07",
+      "source_number": 40,
+      "prompt": "In line 17, the word \"prescribe\" is closest in meaning to",
+      "choices": {
+        "A": "medicate",
+        "B": "limit",
+        "C": "determine",
+        "D": "legalize"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    },
+    {
+      "id": "P07-RC-04-Q08",
+      "source_number": 41,
+      "prompt": "According to the passage, what marriage partners are considered acceptable in most societies?",
+      "choices": {
+        "A": "Those that have similar social characteristics.",
+        "B": "Those that have a broad range of life experiences.",
+        "C": "Those that have a good socioeconomic foundation.",
+        "D": "Those that have similar attitudes to having children."
+      }
+    },
+    {
+      "id": "P07-RC-04-Q09",
+      "source_number": 42,
+      "prompt": "It can be inferred from the passage that endogamous marriages",
+      "choices": {
+        "A": "help to diversify the society",
+        "B": "help to preserve the existing social order",
+        "C": "increase social mobility of individuals",
+        "D": "decrease the number of conflicting signals."
+      }
+    }
+  ]
+}

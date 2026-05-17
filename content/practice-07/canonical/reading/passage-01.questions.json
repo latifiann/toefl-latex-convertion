@@ -1,0 +1,331 @@
+{
+  "practice_id": "P07",
+  "section": "reading",
+  "passage_id": "P07-RC-01",
+  "source_question_range": [
+    1,
+    12
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "In the course of history, human inventions have dramatically increased the average"
+    },
+    {
+      "line": 2,
+      "text": "amount of energy available for use per person. Primitive peoples in cold regions burned"
+    },
+    {
+      "line": 3,
+      "text": "wood and animal dung to heat their caves, cook food, and drive off animals by fire. The first"
+    },
+    {
+      "line": 4,
+      "text": "step toward the developing of more efficient fuels was taken when people discovered that"
+    },
+    {
+      "line": 5,
+      "text": "they could use vegetable oils and animal fats in lieu of gathered or cut wood. Charcoal gave"
+    },
+    {
+      "line": 6,
+      "text": "off a more intensive heat than wood and was more easily obtainable than organic fats. The"
+    },
+    {
+      "line": 7,
+      "text": "Greeks first began to use coal for metal smelting in the 4th century, but it did not come into"
+    },
+    {
+      "line": 8,
+      "text": "extensive use until the Industrial Revolution."
+    },
+    {
+      "line": 9,
+      "text": "In the 1700s, at the beginning of the Industrial Revolution, most energy used in the"
+    },
+    {
+      "line": 10,
+      "text": "United States and other nations undergoing industrialization was obtained from perpetual"
+    },
+    {
+      "line": 11,
+      "text": "and renewable sources, such as wood, water streams, domesticated animal labor, and wind."
+    },
+    {
+      "line": 12,
+      "text": "These were. predominantly locally available supplies. By mid-1800s, 91 percent of all com-"
+    },
+    {
+      "line": 13,
+      "text": "mercial energy consumed in the United States and European countries was obtained from"
+    },
+    {
+      "line": 14,
+      "text": "wood. However, at the beginning of the 20th century, coal became a major energy source"
+    },
+    {
+      "line": 15,
+      "text": "and replaced wood in industrializing countries. Although in most regions and climate."
+    },
+    {
+      "line": 16,
+      "text": "zones wood was more readily accessible than coal, the latter represents a more concentrated"
+    },
+    {
+      "line": 17,
+      "text": "source of energy. In 1910, natural gas and oil firmly replaced coal as the main source of fuel"
+    },
+    {
+      "line": 18,
+      "text": "because they are lighter and, therefore, cheaper to transport. They burned more cleanly than"
+    },
+    {
+      "line": 19,
+      "text": "coal and polluted less. Unlike coal, oil could be refined to manufacture liquid fuels for"
+    },
+    {
+      "line": 20,
+      "text": "vehicles, a very important consideration in the early 1900s, when the automobile arrived on"
+    },
+    {
+      "line": 21,
+      "text": "the scene."
+    },
+    {
+      "line": 22,
+      "text": "By 1984, nonrenewable fossil fuels, such as oil, coal; and natural gas, provided over 82"
+    },
+    {
+      "line": 23,
+      "text": "percent of the commercial and industrial energy used in the world. Small amounts of energy"
+    },
+    {
+      "line": 24,
+      "text": "were derived from nuclear fission, and the remaining 16 percent came from burning direct"
+    },
+    {
+      "line": 25,
+      "text": "perpetual and renewable fuels, such as biomass. Between 1700 and 1986, a large number of"
+    },
+    {
+      "line": 26,
+      "text": "countries shifted from the use of energy from local sources to a centralized generation of hy-"
+    },
+    {
+      "line": 27,
+      "text": "dropower and solar energy converted to electricity. The energy derived from nonrenewable"
+    },
+    {
+      "line": 28,
+      "text": "fossil fuels has been increasingly produced in one location and transported to another, as is"
+    },
+    {
+      "line": 29,
+      "text": "the case with most automobile fuels. In countries with private, rather than public transpor-"
+    },
+    {
+      "line": 30,
+      "text": "tation, the age of nonrenewable fuels has created a dependency on a finite resource that will"
+    },
+    {
+      "line": 31,
+      "text": "have to be replaced."
+    },
+    {
+      "line": 32,
+      "text": "Alternative fuel sources are numerous, and shale oil and hydrocarbons are just two exam-"
+    },
+    {
+      "line": 33,
+      "text": "ples. The extraction of shale oil from large deposits in Asian and European regions has"
+    },
+    {
+      "line": 34,
+      "text": "proven to be labor consuming and costly. The resulting product is sulfur- and nitrogen-"
+    },
+    {
+      "line": 35,
+      "text": "rich, and large-scale extractions are presently prohibitive. Similarly, the extraction of hydro-"
+    },
+    {
+      "line": 36,
+      "text": "carbons from tar sands in Alberta and. Utah is complex. Semi-solid hydrocarbons cannot be"
+    },
+    {
+      "line": 37,
+      "text": "easily separated from the sandstone and limestone that carry them, and modern technology"
+    },
+    {
+      "line": 38,
+      "text": "is not sufficiently versatile for a large-scale removal of the material. However, both sources"
+    },
+    {
+      "line": 39,
+      "text": "of fuel may eventually be needed as petroleum prices continue to rise and limitations in"
+    },
+    {
+      "line": 40,
+      "text": "fossil fuel availability make alternative deposits more attractive,"
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 40
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-RC-01-Q01",
+      "source_number": 1,
+      "prompt": "What is the main topic of the passage?",
+      "choices": {
+        "A": "Applications of various fuels",
+        "B": "Natural resources and fossil fuels",
+        "C": "A history of energy use",
+        "D": "A historical overview of energy rates"
+      }
+    },
+    {
+      "id": "P07-RC-01-Q02",
+      "source_number": 2,
+      "prompt": "In line 2, the phrase \"per person\" is closest in meaning to",
+      "choices": {
+        "A": "per capita",
+        "B": "per year",
+        "C": "per family",
+        "D": "per day"
+      },
+      "referenced_lines": {
+        "start": 2,
+        "end": 2
+      }
+    },
+    {
+      "id": "P07-RC-01-Q03",
+      "source_number": 3,
+      "prompt": "It can be inferred from the first paragraph that",
+      "choices": {
+        "A": "coal mining was essential for primitive peoples",
+        "B": "the Greeks used coal in industrial production",
+        "C": "the development of efficient fuels was a gradual process",
+        "D": "the discovery of efficient fuels was mostly accidental"
+      }
+    },
+    {
+      "id": "P07-RC-01-Q04",
+      "source_number": 4,
+      "prompt": "In line 5, the phrase \"in lieu\" is closest in meaning to",
+      "choices": {
+        "A": "in spite",
+        "B": "in place",
+        "C": "in every way",
+        "D": "in charge"
+      },
+      "referenced_lines": {
+        "start": 5,
+        "end": 5
+      }
+    },
+    {
+      "id": "P07-RC-01-Q05",
+      "source_number": 5,
+      "prompt": "The author of the passage implies that in the 1700s, sources of energy were",
+      "choices": {
+        "A": "used for commercial purposes",
+        "B": "used in various combinations",
+        "C": "not derived from mineral deposits",
+        "D": "not always easy to locate"
+      }
+    },
+    {
+      "id": "P07-RC-01-Q06",
+      "source_number": 6,
+      "prompt": "In line 16, the phrase \"the latter\" refers to",
+      "choices": {
+        "A": "wood",
+        "B": "coal",
+        "C": "most regions",
+        "D": "climate zones"
+      },
+      "referenced_lines": {
+        "start": 16,
+        "end": 16
+      }
+    },
+    {
+      "id": "P07-RC-01-Q07",
+      "source_number": 7,
+      "prompt": "In line 18, the word \"They\" refers to",
+      "choices": {
+        "A": "coal and wood",
+        "B": "main sources of fuel",
+        "C": "natural gas and oil",
+        "D": "industrializing countries"
+      },
+      "referenced_lines": {
+        "start": 18,
+        "end": 18
+      }
+    },
+    {
+      "id": "P07-RC-01-Q08",
+      "source_number": 8,
+      "prompt": "According to the passage, what was the greatest advantage of oil as fuel?",
+      "choices": {
+        "A": "It was a concentrated source of energy.",
+        "B": "It was lighter and cheaper than coal.",
+        "C": "It replaced wood and coal and reduced pollution.",
+        "D": "It could be converted to automobile fuel."
+      }
+    },
+    {
+      "id": "P07-RC-01-Q09",
+      "source_number": 9,
+      "prompt": "According to the passage, the sources of fossil fuels will have to be replaced because",
+      "choices": {
+        "A": "they need to be transported",
+        "B": "they are not efficient",
+        "C": "their use is centralized.",
+        "D": "their supply is limited"
+      }
+    },
+    {
+      "id": "P07-RC-01-Q10",
+      "source_number": 10,
+      "prompt": "It can be inferred from the passage that in the early 20th century, energy was obtained primarily from",
+      "choices": {
+        "A": "fossil fuels",
+        "B": "nuclear fission",
+        "C": "hydraulic and solar sources",
+        "D": "burning biomass"
+      }
+    },
+    {
+      "id": "P07-RC-01-Q11",
+      "source_number": 11,
+      "prompt": "The author of the passage implies that alternative sources of fuel are currently",
+      "choices": {
+        "A": "being explored",
+        "B": "being used for consumption",
+        "C": "available in few locations",
+        "D": "examined on a large scale"
+      }
+    },
+    {
+      "id": "P07-RC-01-Q12",
+      "source_number": 12,
+      "prompt": "In line 35, the word \"prohibitive\" is closest in meaning to",
+      "choices": {
+        "A": "prohibited",
+        "B": "provided",
+        "C": "too expensive",
+        "D": "too expedient"
+      },
+      "referenced_lines": {
+        "start": 35,
+        "end": 35
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "practice_id": "P07",
+  "section": "listening",
+  "part": "A",
+  "directions": [
+    "DIRECTIONS: In Part A you will hear short conversations between two speakers. At the end of each conversation, a third speaker will ask a question about what the first two speakers said. Each conversation and each question will be spoken only one time. Therefore, you must listen carefully to understand what each speaker says. After you hear a conversation and the question, read the four choices and select the one that is the best answer to the question the speaker asked. Then, on your answer. sheet, find the number of the question and blacken the space that corresponds to the letter for the answer you have chosen. Blacken the space completely so that the letter inside the space does not show."
+  ],
+  "example_lines": [
+    "Listen to the following example.",
+    "On the recording, you hear:",
+    "(Man) Does the car need to be filled?",
+    "(Woman) Mary stopped at the gas station on her way home.",
+    "(Narrator) What does the woman mean?",
+    "In your test book, you will read:",
+    "(A) Mary bought some food.",
+    "(B) Mary had car trouble.",
+    "(C) Mary went shopping.",
+    "(D) Mary bought some gas.",
+    "From the conversation you learn that Mary stopped at the gas station on her way home. The best answer to the question \"Does the car need to be filled?\" is (D), \"Mary bought some gas.\" Therefore, the correct answer is (D).",
+    "Now let us begin Part A with question number 1."
+  ],
+  "questions": [
+    {
+      "id": "P07-LA-01",
+      "source_number": 1,
+      "choices": {
+        "A": "He is happy to see the woman again.",
+        "B": "He is glad the woman went running.",
+        "C": "He is glad that he can return a favor.",
+        "D": "He wants a piece of the cake she is baking."
+      }
+    },
+    {
+      "id": "P07-LA-02",
+      "source_number": 2,
+      "choices": {
+        "A": "A hair stylist",
+        "B": "An electrician",
+        "C": "A die maker",
+        "D": "A sales clerk"
+      }
+    },
+    {
+      "id": "P07-LA-03",
+      "source_number": 3,
+      "choices": {
+        "A": "A TV show",
+        "B": "A newspaper",
+        "C": "A newscast",
+        "D": "A schedule"
+      }
+    },
+    {
+      "id": "P07-LA-04",
+      "source_number": 4,
+      "choices": {
+        "A": "The man is 20 minutes late.",
+        "B": "The man came to the wrong place again.",
+        "C": "The man has lost his pen several times.",
+        "D": "It's too dark to look for the pen."
+      }
+    },
+    {
+      "id": "P07-LA-05",
+      "source_number": 5,
+      "choices": {
+        "A": "In Seattle",
+        "B": "In his office",
+        "C": "On a plane",
+        "D": "In San Francisco"
+      }
+    },
+    {
+      "id": "P07-LA-06",
+      "source_number": 6,
+      "choices": {
+        "A": "Pay for new clothes",
+        "B": "Exercise regularly",
+        "C": "Have his clothes altered",
+        "D": "Weigh himself every day"
+      }
+    },
+    {
+      "id": "P07-LA-07",
+      "source_number": 7,
+      "choices": {
+        "A": "She is a guest here.",
+        "B": "She is still thinking.",
+        "C": "She is finished ordering.",
+        "D": "She is guessing."
+      }
+    },
+    {
+      "id": "P07-LA-08",
+      "source_number": 8,
+      "choices": {
+        "A": "Tracey is very reliable.",
+        "B": "Tracey doesn't mention Marsha.",
+        "C": "Tracey is less dependable than Marsha.",
+        "D": "Tracey is more striking than Marsha."
+      }
+    },
+    {
+      "id": "P07-LA-09",
+      "source_number": 9,
+      "choices": {
+        "A": "He is joking.",
+        "B": "He is not kidding.",
+        "C": "He agrees with the woman.",
+        "D": "He likes motorcycle races."
+      }
+    },
+    {
+      "id": "P07-LA-10",
+      "source_number": 10,
+      "choices": {
+        "A": "Plan a vacation",
+        "B": "Buy a camera",
+        "C": "Take a trip",
+        "D": "Leave the camera"
+      }
+    },
+    {
+      "id": "P07-LA-11",
+      "source_number": 11,
+      "choices": {
+        "A": "He is unloading the truck.",
+        "B": "He has a good mind.",
+        "C": "He is happy to help the woman.",
+        "D": "He is also bothered by the noise."
+      }
+    },
+    {
+      "id": "P07-LA-12",
+      "source_number": 12,
+      "choices": {
+        "A": "Cancel her appointment",
+        "B": "Wait until June",
+        "C": "See the doctor now",
+        "D": "Make another appointment"
+      }
+    },
+    {
+      "id": "P07-LA-13",
+      "source_number": 13,
+      "choices": {
+        "A": "She doesn't like it when people look at her.",
+        "B": "She doesn't intend to lend the man the money.",
+        "C": "She works in the loan department at the bank.",
+        "D": "Unlike the man, she has paid her tuition already."
+      }
+    },
+    {
+      "id": "P07-LA-14",
+      "source_number": 14,
+      "choices": {
+        "A": "The cut should be made differently than was proposed.",
+        "B": "There is ample time to analyze the data.",
+        "C": "The time for data analysis may not be sufficient.",
+        "D": "The market survey won't be completed in time."
+      }
+    },
+    {
+      "id": "P07-LA-15",
+      "source_number": 15,
+      "choices": {
+        "A": "She knows about the road construction.",
+        "B": "She can't find an alternate route home.",
+        "C": "She wants more information about the traffic.",
+        "D": "She wants the man to tell her about his problems."
+      }
+    },
+    {
+      "id": "P07-LA-16",
+      "source_number": 16,
+      "choices": {
+        "A": "They should. have stayed in their hotel.",
+        "B": "They should have checked their route.",
+        "C": "The stadium is difficult to find.",
+        "D": "The map was lost while they were driving."
+      }
+    },
+    {
+      "id": "P07-LA-17",
+      "source_number": 17,
+      "choices": {
+        "A": "Discuss buying the house",
+        "B": "Talk to the buyer",
+        "C": "Appraise the property",
+        "D": "Play volleyball"
+      }
+    },
+    {
+      "id": "P07-LA-18",
+      "source_number": 18,
+      "choices": {
+        "A": "Looking for something else for the children to do",
+        "B": "Finding other means of transportation",
+        "C": "Canceling the trip to the newspaper",
+        "D": "Taking the trip on another day of the week"
+      }
+    },
+    {
+      "id": "P07-LA-19",
+      "source_number": 19,
+      "choices": {
+        "A": "Playing cards",
+        "B": "Writing letters",
+        "C": "Playing a board game",
+        "D": "Memorizing vocabulary"
+      }
+    },
+    {
+      "id": "P07-LA-20",
+      "source_number": 20,
+      "choices": {
+        "A": "She is surprised.",
+        "B": "She is excited.",
+        "C": "She is angry.",
+        "D": "She is disgusted."
+      }
+    },
+    {
+      "id": "P07-LA-21",
+      "source_number": 21,
+      "choices": {
+        "A": "He cannot eat dinner alone.",
+        "B": "He came in with two other people:",
+        "C": "Three people will have dinner.",
+        "D": "A table for two people is needed."
+      }
+    },
+    {
+      "id": "P07-LA-22",
+      "source_number": 22,
+      "choices": {
+        "A": "The salesman was not helpful.",
+        "B": "The salesman was excellent.",
+        "C": "The man didn't need help.",
+        "D": "The service was a whole lot better."
+      }
+    },
+    {
+      "id": "P07-LA-23",
+      "source_number": 23,
+      "choices": {
+        "A": "The ball is in the front hall.",
+        "B": "The light doesn't work.",
+        "C": "She can smell something burning.",
+        "D": "She cannot find the light."
+      }
+    },
+    {
+      "id": "P07-LA-24",
+      "source_number": 24,
+      "choices": {
+        "A": "He is tired of sandwiches.",
+        "B": "He's already had lunch.",
+        "C": "He's gained weight.",
+        "D": "It's too late for sandwiches."
+      }
+    },
+    {
+      "id": "P07-LA-25",
+      "source_number": 25,
+      "choices": {
+        "A": "She couldn't hear the band.",
+        "B": "The band was not very good",
+        "C": "She plays better than the band",
+        "D": "She liked it very much."
+      }
+    },
+    {
+      "id": "P07-LA-26",
+      "source_number": 26,
+      "choices": {
+        "A": "He doesn't want to swim.",
+        "B": "The pool is not in the city.",
+        "C": "He is a city resident.",
+        "D": "Nine years is a long time."
+      }
+    },
+    {
+      "id": "P07-LA-27",
+      "source_number": 27,
+      "choices": {
+        "A": "They have an hour to spare.",
+        "B": "The airport is not that far.",
+        "C": "The clock should be repaired.",
+        "D": "The clock is not accurate."
+      }
+    },
+    {
+      "id": "P07-LA-28",
+      "source_number": 28,
+      "choices": {
+        "A": "The woman is a good guitar player.",
+        "B": "The woman keeps changing her mind about hobbies.",
+        "C": "He can teach the woman to take pictures and play guitar.",
+        "D": "Photography is similar to playing guitar."
+      }
+    },
+    {
+      "id": "P07-LA-29",
+      "source_number": 29,
+      "choices": {
+        "A": "She will drive the man.",
+        "B": "Her car doesn't work.",
+        "C": "The man can borrow her car.",
+        "D": "She plans to go shopping"
+      }
+    },
+    {
+      "id": "P07-LA-30",
+      "source_number": 30,
+      "choices": {
+        "A": "The instructor has a responsibility to help the man.",
+        "B": "The assignments are unreasonably difficult.",
+        "C": "The course is too advanced for the man.",
+        "D": "Students are expected to do the assignments."
+      }
+    }
+  ]
+}

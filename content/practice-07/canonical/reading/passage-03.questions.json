@@ -1,0 +1,257 @@
+{
+  "practice_id": "P07",
+  "section": "reading",
+  "passage_id": "P07-RC-03",
+  "source_question_range": [
+    24,
+    33
+  ],
+  "line_map": [
+    {
+      "line": 1,
+      "text": "The official residence of the president of the United States is the White House, located at"
+    },
+    {
+      "line": 2,
+      "text": "1600 Pennsylvania Avenue, in Washington, D.C. The Commissioners of the District of Co-"
+    },
+    {
+      "line": 3,
+      "text": "lumbia held a meeting in 1792 and decided to hold a contest for the best design for the"
+    },
+    {
+      "line": 4,
+      "text": "Presidential House. James Hoban, an architect born in Ireland, was the winner. His bid for"
+    },
+    {
+      "line": 5,
+      "text": "the construction of the mansion asked for $200,000, but the final cost of the building came"
+    },
+    {
+      "line": 6,
+      "text": "to twice that amount. The work on the project began during the same year, and the grounds"
+    },
+    {
+      "line": 7,
+      "text": "of approximately one and a half miles west of the Capitol Hill were chosen by Major Pierre-"
+    },
+    {
+      "line": 8,
+      "text": "Charles L'Enfant, who was in charge of city planning. However, the construction continued"
+    },
+    {
+      "line": 9,
+      "text": "for several more years, and George Washington had stepped down as president before the"
+    },
+    {
+      "line": 10,
+      "text": "building was habitable. When John Adams, the second president of the United States and"
+    },
+    {
+      "line": 11,
+      "text": "his wife Abigail moved in in 1800, only six rooms had been completed."
+    },
+    {
+      "line": 12,
+      "text": "The grey sandstone walls of the house were painted white during construction, and the"
+    },
+    {
+      "line": 13,
+      "text": "color of the paint gave the building its name. The building was burned on August 24, 1814,"
+    },
+    {
+      "line": 14,
+      "text": "and James Hoban reconstructed the house for President James Monroe and his family, who"
+    },
+    {
+      "line": 15,
+      "text": "moved there in 1817. The north portico was added to the building in 1829, water pipes"
+    },
+    {
+      "line": 16,
+      "text": "were installed in 1833, gas lighting in 1848, and electricity in 1891. In 1948, inspectors an-"
+    },
+    {
+      "line": 17,
+      "text": "nounced that the building was so dilapidated that it was beyond repair and suggested that it"
+    },
+    {
+      "line": 18,
+      "text": "was cheaper to construct a new one than repair the existing dwelling. However, the national"
+    },
+    {
+      "line": 19,
+      "text": "sentiment was to keep the original form intact, and Congress appropriated $5.4 million dol-"
+    },
+    {
+      "line": 20,
+      "text": "lars for repairs. In 1961, Jacqueline Kennedy launched a program to redecorate the rooms"
+    },
+    {
+      "line": 21,
+      "text": "and appointed a Fine Arts Committee to make choices of furnishing and colors."
+    },
+    {
+      "line": 22,
+      "text": "The house of the president accords its residents a great deal of space. The living quarters"
+    },
+    {
+      "line": 23,
+      "text": "contain 107 rooms, 40 corridors, and 19 baths. The White House contains a doctor's suite, a"
+    },
+    {
+      "line": 24,
+      "text": "dentist's office, a large solarium, a broadcasting room, and a two-floor basement for storage"
+    },
+    {
+      "line": 25,
+      "text": "and service rooms. The office in which the president works is not located in the White"
+    },
+    {
+      "line": 26,
+      "text": "House, but in a separate building called the West Wing. The White House stands on 16"
+    },
+    {
+      "line": 27,
+      "text": "acres of parklike land and overlooks a broad lawn, flower gardens, and wood groves."
+    }
+  ],
+  "paragraph_ranges": [
+    {
+      "start": 1,
+      "end": 27
+    }
+  ],
+  "questions": [
+    {
+      "id": "P07-RC-03-Q01",
+      "source_number": 24,
+      "prompt": "In line 3, the word \"contest\" is closest in meaning to",
+      "choices": {
+        "A": "hearir",
+        "B": "concourse",
+        "C": "competition",
+        "D": "computation"
+      },
+      "referenced_lines": {
+        "start": 3,
+        "end": 3
+      }
+    },
+    {
+      "id": "P07-RC-03-Q02",
+      "source_number": 25,
+      "prompt": "What does the passage imply about the cost of the White House construction?",
+      "choices": {
+        "A": "It was proposed at the meeting of the commissioners.",
+        "B": "It did not adhere to the original estimate.",
+        "C": "It was not included in the architectural design.",
+        "D": "It was considered excessive for the presidential home."
+      }
+    },
+    {
+      "id": "P07-RC-03-Q03",
+      "source_number": 26,
+      "prompt": "In line 6, the word \"grounds\" is closest in meaning to",
+      "choices": {
+        "A": "high ground",
+        "B": "several lots",
+        "C": "site",
+        "D": "hills"
+      },
+      "referenced_lines": {
+        "start": 6,
+        "end": 6
+      }
+    },
+    {
+      "id": "P07-RC-03-Q04",
+      "source_number": 27,
+      "prompt": "It can be inferred from the passage that",
+      "choices": {
+        "A": "George Washington often used the White House steps",
+        "B": "George Washington contributed to the White House design",
+        "C": "George Washington never lived in the White House",
+        "D": "The White House was excluded from the city planning"
+      }
+    },
+    {
+      "id": "P07-RC-03-Q05",
+      "source_number": 28,
+      "prompt": "The author of the passage implies that the construction of the main White House building continued",
+      "choices": {
+        "A": "up to 1800",
+        "B": "after 1800",
+        "C": "until 1814",
+        "D": "until 1792"
+      }
+    },
+    {
+      "id": "P07-RC-03-Q06",
+      "source_number": 29,
+      "prompt": "In line 17, the word \"dilapidated\" is closest in meaning to",
+      "choices": {
+        "A": "ornate",
+        "B": "run-down",
+        "C": "old-fashioned",
+        "D": "obscure"
+      },
+      "referenced_lines": {
+        "start": 17,
+        "end": 17
+      }
+    },
+    {
+      "id": "P07-RC-03-Q07",
+      "source_number": 30,
+      "prompt": "What can be inferred about the White House from the information in the second paragraph?",
+      "choices": {
+        "A": "Few changes occurred in the structure in the first half of the 20th century.",
+        "B": "The building was modernized extensively during one decade.",
+        "C": "Running water was installed in the second half of the 19th century.",
+        "D": "Each president added new features to the building's conveniences."
+      }
+    },
+    {
+      "id": "P07-RC-03-Q08",
+      "source_number": 31,
+      "prompt": "In line 19, the word \"appropriated\" is closest in meaning to",
+      "choices": {
+        "A": "accumulated",
+        "B": "accosted",
+        "C": "authorized",
+        "D": "aggrandized"
+      },
+      "referenced_lines": {
+        "start": 19,
+        "end": 19
+      }
+    },
+    {
+      "id": "P07-RC-03-Q09",
+      "source_number": 32,
+      "prompt": "In line 20, the word \"launched\" is closest in meaning to",
+      "choices": {
+        "A": "lauded",
+        "B": "lavished",
+        "C": "began",
+        "D": "requested"
+      },
+      "referenced_lines": {
+        "start": 20,
+        "end": 20
+      }
+    },
+    {
+      "id": "P07-RC-03-Q10",
+      "source_number": 33,
+      "prompt": "The passage mentions all of the following White House premises EXCEPT",
+      "choices": {
+        "A": "hallways",
+        "B": "kitchen",
+        "C": "medical offices",
+        "D": "storage rooms"
+      }
+    }
+  ]
+}
